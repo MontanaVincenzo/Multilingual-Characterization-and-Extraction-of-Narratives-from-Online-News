@@ -1,0 +1,30 @@
+EN_UA_DEV_100012.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests
+EN_CC_200040.txt	CC: Criticism of climate movement	none
+EN_CC_200070.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of political organizations and figures
+EN_UA_DEV_100034.txt	URW: Overpraising the West	URW: Overpraising the West: The West belongs in the right side of history
+EN_CC_200049.txt	CC: Questioning the measurements and science	none
+EN_UA_DEV_100033.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Russian army is collapsing
+EN_CC_200036.txt	CC: Criticism of climate movement	CC: Criticism of climate movement: Ad hominem attacks on key activists
+EN_CC_200079.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of international entities
+EN_UA_DEV_100029.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Russian army is collapsing
+EN_UA_DEV_20.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+EN_UA_DEV_100005.txt	URW: Discrediting the West, Diplomacy	none
+EN_CC_200033.txt	CC: Criticism of climate movement	none
+EN_CC_200071.txt	CC: Criticism of climate policies	CC: Criticism of climate policies: Climate policies have negative impact on the economy
+EN_CC_200046.txt	CC: Climate change is beneficial	CC: Climate change is beneficial: CO2 is beneficial
+EN_UA_DEV_100026.txt	URW: Negative Consequences for the West	URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+EN_UA_DEV_215.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+EN_CC_200054.txt	CC: Hidden plots by secret schemes of powerful groups	CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives
+EN_UA_DEV_100013.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+EN_CC_200077.txt	CC: Criticism of climate policies	CC: Criticism of climate policies: Climate policies are only for profit
+EN_CC_200034.txt	CC: Criticism of climate movement	CC: Criticism of climate movement: Climate movement is alarmist
+EN_UA_DEV_213.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: The West are the aggressors
+EN_CC_200047.txt	CC: Hidden plots by secret schemes of powerful groups	CC: Hidden plots by secret schemes of powerful groups: Blaming global elites
+EN_CC_200081.txt	CC: Controversy about green technologies	CC: Controversy about green technologies: Renewable energy is dangerous
+EN_UA_DEV_214.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West is weak
+EN_CC_200064.txt	CC: Criticism of climate movement	none
+EN_UA_DEV_22.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The EU is divided
+EN_CC_200035.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of political organizations and figures
+EN_CC_200069.txt	CC: Criticism of climate policies	none
+EN_CC_200065.txt	CC: Criticism of climate movement	CC: Criticism of climate movement: Climate movement is alarmist
+EN_UA_DEV_100002.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Ukrainian army is collapsing

@@ -1,0 +1,31 @@
+A9_BG_3970.txt	Европа	556	561	Antagonist	Victim
+A9_BG_3970.txt	НАТО	1353	1356	Antagonist	Victim
+A9_BG_4076.txt	Европа	440	445	Antagonist	Victim
+A9_BG_8427.txt	Путин	1270	1274	Antagonist	Victim
+A9_BG_3819.txt	Украйна	492	498	Antagonist	Victim
+A9_BG_3819.txt	Владимир Путин	971	984	Antagonist	Victim
+A9_BG_2961.txt	Володимир Зеленски	74	91	Antagonist	Victim
+A9_BG_2961.txt	Путин	1363	1367	Antagonist	Victim
+A9_BG_2828.txt	Вашингтон	146	154	Antagonist	Victim
+A9_BG_2828.txt	Брюксел	158	164	Antagonist	Victim
+BG_73.txt	Антониу Гутериш	335	349	Antagonist	Victim
+A9_BG_4093.txt	Демократическата партия	505	527	Antagonist	Victim
+A9_BG_4093.txt	Украйна	561	567	Antagonist	Victim
+A9_BG_3964.txt	Въоръжените сили на Украйна (ВСУ)	258	290	Antagonist	Victim
+A9_BG_3964.txt	Луганск	295	301	Antagonist	Victim
+A9_BG_3921.txt	Западът	312	318	Antagonist	Victim
+A9_BG_3921.txt	Владимир Путин	1575	1588	Antagonist	Victim
+A9_BG_2663.txt	НАТО	1194	1197	Antagonist	Victim
+A9_BG_2663.txt	Запада	1417	1422	Antagonist	Victim
+BG_979.txt	Ал Гор	1981	1986	Antagonist	Victim
+BG_979.txt	Грета Тунберг	2030	2042	Antagonist	Victim
+BG_979.txt	Марк Баумър	3138	3148	Antagonist	Victim
+BG_950.txt	Швеция	103	108	Antagonist	Victim
+A9_BG_2569.txt	Украйна	124	130	Antagonist	Victim
+A9_BG_2569.txt	Русия	402	406	Antagonist	Victim
+A9_BG_2569.txt	Запада	1671	1676	Antagonist	Victim
+A9_BG_2569.txt	САЩ	1680	1682	Antagonist	Victim
+A9_BG_4039.txt	Белгия	531	536	Antagonist	Victim
+A9_BG_4039.txt	Дания	539	543	Antagonist	Victim
+A9_BG_4039.txt	Нидерландия	546	556	Antagonist	Victim
+A9_BG_4039.txt	Норвегия	560	567	Antagonist	Victim

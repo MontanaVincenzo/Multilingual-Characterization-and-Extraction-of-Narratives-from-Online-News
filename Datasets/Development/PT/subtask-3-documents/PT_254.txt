@@ -1,0 +1,23 @@
+Rússia afirma que sanções internacionais "pouparam" país do apagão cibernético global
+
+Numa altura em que boa parte do mundo enfrenta um apagão técnico de grande escala, relacionado com problemas nos sistemas da Microsoft, que afetou voos, caminhos-de-ferro e estações de TV, a Rússia disse ter passado incólume graças às sanções internacionais impostas ao país por causa da guerra na Ucrânia.
+
+“A falha informática que afetou o mundo inteiro provou mais uma vez a correção da substituição total das importações de software na Rússia. 100% das companhias aéreas russas mudaram para software russo desde o ano passado, não dependem de software estrangeiro e hoje continuam a voar sem problemas”, afirmou, em comunicado, a corporação estatal do setor de alta tecnologia Rostec.
+
+O Ministério das Comunicações Digitais declarou ainda, em comunicado, que “a situação com a Microsoft mostra, mais uma vez, a importância da substituição de importações de software estrangeiro, principalmente em instalações críticas de infraestruturas de informação”, acrescentando que não houve relatos de problemas nos aeroportos.
+
+Numa curta mensagem no Telegram, o Kremlin disse que a falha global nos sistemas da Microsoft, creditada a uma “atualização defeituosa” de um software da empresa de cibersegurança Crowdstrike, não afetou os trabalhos do governo federal russo.
+
+Desde 2014, quando se iniciou a guerra no Leste da Ucrânia e quando se deu a anexação unilateral da Crimeia, a Rússia tem sido alvo de um número considerável de sanções internacionais, muitas destinadas ao fornecimento de tecnologias de chamada “dupla utilização”, que podem ser utilizadas de forma civil e em aplicações militares. A lista de itens vetados inclui, além de equipamentos, programas, aplicações e sistemas.
+
+Para evitar um apagão próprio — não apenas no setor de alta tecnologia, mas em praticamente todos os campos da economia —, o governo russo iniciou, em 2015, um ambicioso plano de substituição de importações, estimado em 23,7 milhões de euros, que incluía o incentivo à utilização de programas e equipamentos desenvolvidos na Rússia.
+
+No caso específico da Microsoft, a empresa norte-americana não fornece produtos ao mercado russo desde 2022, quando se iniciou a guerra na Ucrânia, juntando-se a uma longa lista de empresas internacionais que saíram da Rússia ou deixaram de servir o país.
+
+Em janeiro, a Microsoft acusou Moscovo de realizar um ciberataque contra os computadores da empresa, algo que os russos negam.
+
+Para além dos aspetos técnicos, alguns propagandistas aproveitaram a falha global para fazer ataques ao Ocidente, uma prática habitual nos media russos após crises do género.
+
+“Se algum dos cidadãos de Estados que tiveram a sorte de não fazer parte da ‘grande civilização ocidental’ precisasse de um argumento decisivo a favor do desenvolvimento dos sistemas informáticos nacionais, receberam-no”, escreveu, num artigo na agência RIA Novosti, o colunista Anton Trofimov.
+
+“O grande fracasso que se abateu sobre as redes informáticas ocidentais provou claramente que hoje é muito mais rentável ser independente em tudo”.

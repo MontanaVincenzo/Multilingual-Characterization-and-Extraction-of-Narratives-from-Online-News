@@ -1,0 +1,22 @@
+CC: Amplifying Climate Fears
+CC: Climate change is beneficial
+CC: Controversy about green technologies
+CC: Criticism of climate movement
+CC: Criticism of climate policies
+CC: Criticism of institutions and authorities
+CC: Downplaying climate change
+CC: Green policies are geopolitical instruments
+CC: Hidden plots by secret schemes of powerful groups
+CC: Questioning the measurements and science
+Other
+URW: Amplifying war-related fears
+URW: Blaming the war on others rather than the invader
+URW: Discrediting Ukraine
+URW: Discrediting the West, Diplomacy
+URW: Distrust towards Media
+URW: Hidden plots by secret schemes of powerful groups
+URW: Negative Consequences for the West
+URW: Overpraising the West
+URW: Praise of Russia
+URW: Russia is the Victim
+URW: Speculating war outcomes

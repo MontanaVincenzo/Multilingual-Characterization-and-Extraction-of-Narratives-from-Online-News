@@ -1,0 +1,30 @@
+EU Central Banker Pushes Bitcoin Ban Under Guise of Climate Change 
+
+ Cryptocurrencies like Bitcoin and Ethereum should be banned due to their “excessive ecological footprint”, a top European Central banker said this week.
+
+Fabio Panetta, who serves on the Executive Board of the European Central Bank (ECB), called for the European Union to ban cryptocurrencies, such as Bitcoin, that use proof-of-work validation for transactions, an energy-intensive but decentralised process that involves computers solving complex equations to compete for the ability to complete the transaction.
+
+The Italian economist said that due to the European Union’s commitment to combatting climate change, those “crypto-assets deemed to have an excessive ecological footprint should be banned.”
+
+However, the environmental excuse appears to be a smokescreen for the real desired outcome by the ECB, namely the formation of a Central Bank Digital Currency (CBDC) and the elimination of non-government-controlled alternatives such as Bitcoin and Ethereum.
+
+“Only central bank money can provide an anchor of stability. The solution is to extend today’s two-tier monetary system into the digital age. This system is built on the complementary roles of central bank money and commercial bank money,” Panetta said.
+
+“Central bank money is currently available for retail use in only physical form – cash. But the digitalisation of payments is eroding the role of cash and its ability to provide an effective monetary anchor.
+
+“Central bank digital currencies would instead preserve the use of public money for digital retail payments. By offering a digital, risk-free common denominator, a central bank digital currency would facilitate convertibility among different forms of private digital money. It would thus preserve the singleness of money and protect monetary sovereignty. The ECB is working on a digital euro precisely for these reasons.”
+
+Earlier this year, the European Commission said that it is planning on introducing legislation in early 2023 to create the framework for its own CBDC.
+
+“It would ensure that money continues to be denominated in euros. And It would be based on a European infrastructure, facilitating intermediaries to scale payments innovation throughout the euro area and thus strengthen Europe’s strategic autonomy,” ECB chief Christine Lagarde said last month.
+
+Meanwhile, in the UK, Prime Minister Rishi Sunak has been a leading voice in supporting the implementation of a CBDC issued by the Bank of England, however, no timeline for its introduction has been announced as of yet.
+
+Sunak, when he was serving under Boris Johnson as finance chief last year, claimed that a CBDC would function alongside psychical bank notes and coins, however, given the declining usage of cash overall, some fear that the CBDC would eventually replace cash outright.
+
+The dangers of a Central Bank Digital Currency were laid out by the Bank of England itself, which admitted last year that they could be made “programable” so that the government could decide how citizens are able to spend their own money.
+
+Tom Mutton of the Bank of England said: “You could introduce programmability – what happens if one of the participants in a transaction puts a restriction on [future use of the money]?
+
+“There could be some socially beneficial outcomes from that, preventing activity which is seen to be socially harmful in some way. But at the same time it could be a restriction on people’s freedoms.”
+

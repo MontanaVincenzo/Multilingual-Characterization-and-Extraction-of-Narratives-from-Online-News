@@ -1,0 +1,13 @@
+Astronaut Catches "Transient Luminous Event" High Above The Earth 
+
+ European Space Agency (ESA) astronaut Andreas Mogensen has captured a new image of a red sprite, a rare type of electrical discharge rarely seen from Earth.
+
+As part of the Thor-Davis experiment, Danish astronaut Mogensen heads to the International Space Station's (ISS) Cupola observatory module every Saturday to attempt to photograph storms from above. In the first image released by the experiment, which aims to study intense thunderstorms from a better vantage point as well as weather phenomena in high altitude, a Transient Luminous Event (TLE) is seen between 40 and 80 kilometers (25-50 miles) above the Earth.
+
+TLEs, sometimes called "sprites", "red sprites", or "red jellyfish sprites", have been reported by pilots for decades, but were only recorded for the first time in July 1989. They are rarely seen from the surface, which is probably for the best, given the illusion they create of an invading alien space force.
+
+Like regular lightning strikes, the sprites occur following a build-up of electrical charge within clouds. With red sprites, however, the discharge occurs into the Earth's mesosphere up to 80 kilometers (50 miles) above the Earth. The eerie red color occurs as the charge meets nitrogen in the Earth's atmosphere.
+
+Mogensen captured the sprite with an "event camera", which according to ESA works more like a human eye than a regular camera, sensing changes in contrast rather than capturing an image. An advantage of these cameras is they can produce around 100,000 images a second, while drawing very little power to do so. Among other aims, the study strives to better understand how lightning in the upper atmosphere affects the concentration of greenhouse gases.
+
+“These images taken by Andreas are fantastic," Olivier Chanrion, lead scientist for this experiment, told ESA of this first image from it. "The Davis camera works well and gives us the high temporal resolution necessary to capture the quick processes in the lightning."

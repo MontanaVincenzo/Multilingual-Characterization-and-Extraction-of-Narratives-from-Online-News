@@ -1,0 +1,25 @@
+Microsoft: Russians Have Begun Targeting 2024 Election 
+
+ Microsoft said Wednesday Russian online campaigns to influence the upcoming U.S. presidential election kicked into gear over the past 45 days, but at a slower pace than in past elections.
+
+Russia-linked accounts are disseminating divisive content aimed at U.S. audiences, including criticizing American support of Ukraine in its war with Russia, researchers at the tech giant said in a report.
+
+The Russian embassy in Washington did not respond to a request for comment, but the Kremlin said last month it would not meddle in the November U.S. election. It also dismissed U.S. allegations that it orchestrated campaigns to sway the 2016 and 2020 U.S. presidential elections.
+
+While the Russian activity Microsoft observed is not as intense as around the previous elections, it could increase in the coming months, the researchers said.
+
+"Messaging regarding Ukraine - via traditional media and social media - picked up steam over the last two months with a mix of covert and overt campaigns from at least 70 Russia-affiliated activity sets we track," Microsoft said.
+
+The most prolific of such Russian campaigns is linked to Russia's Presidential Administration, they added. Another one is aimed at posting disinformation online in various languages, with posts typically starting with an apparent whistleblower or citizen journalist posting content on a video channel. That content is then covered by a network of websites that include DC Weekly, Miami Chronical and The Intel Drop.
+
+"Ultimately, after the narrative has circulated online for a series of days or weeks, U.S. audiences repeat and repost this disinformation, likely unaware of its original source," Microsoft said.
+
+A "notable uptick" has been seen in hacking by a Russian group Microsoft calls Star Blizzard, or Cold River, which is focused on targeting western think tanks, the company said.
+
+"Star Blizzard's current focus on U.S. political figures and policy circles may be the first in a series of hacking campaigns meant to drive Kremlin outcomes headed into November."
+
+Malicious use of artificial intelligence by foreign rivals targeting the U.S. election is a key concern cited by American political observers, but Microsoft said it found that simpler digital forgeries were more common than deepfakes. Audio manipulations have a bigger impact than video, it added.
+
+"Rarely have nation-states' employments of generative AI-enabled content achieved much reach across social media, and in only a few cases have we seen any genuine audience deception from such content," the researchers said.
+
+"The simplest manipulations, not the most complex employment of AI, will likely be the pieces of content that have the most impact."

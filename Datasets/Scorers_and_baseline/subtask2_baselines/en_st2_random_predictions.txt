@@ -1,0 +1,41 @@
+EN_UA_DEV_100012.txt	CC: Questioning the measurements and science	CC: Downplaying climate change: Human activities do not impact climate change
+EN_CC_200053.txt	URW: Negative Consequences for the West	URW: Russia is the Victim: The West is russophobic
+EN_CC_200040.txt	CC: Criticism of climate policies	URW: Discrediting the West, Diplomacy: Other
+EN_CC_200070.txt	URW: Praise of Russia	CC: Downplaying climate change: Climate cycles are natural
+EN_UA_DEV_100034.txt	URW: Overpraising the West	URW: Negative Consequences for the West: The conflict will increase the Ukrainian refugee flows to Europe;URW: Russia is the Victim: The West is russophobic
+EN_CC_200049.txt	CC: Controversy about green technologies	URW: Speculating war outcomes: Russian army is collapsing;URW: Hidden plots by secret schemes of powerful groups: Other
+EN_UA_DEV_100003.txt	URW: Praise of Russia	CC: Criticism of institutions and authorities: Criticism of national governments;URW: Praise of Russia: Russia has international support from a number of countries and people
+EN_UA_DEV_100033.txt	URW: Blaming the war on others rather than the invader	URW: Distrust towards Media: Western media is an instrument of propaganda
+EN_CC_200036.txt	CC: Criticism of climate movement	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+EN_CC_200079.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Earth will be uninhabitable soon;URW: Discrediting the West, Diplomacy: The West is overreacting
+EN_UA_DEV_100029.txt	URW: Hidden plots by secret schemes of powerful groups	CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives;URW: Overpraising the West: The West has the strongest international support
+EN_UA_DEV_20.txt	CC: Criticism of climate movement	URW: Discrediting the West, Diplomacy: West is tired of Ukraine;URW: Discrediting Ukraine: Rewriting Ukraine’s history
+EN_UA_DEV_100005.txt	CC: Amplifying Climate Fears	CC: Questioning the measurements and science: Other
+EN_CC_200033.txt	URW: Hidden plots by secret schemes of powerful groups	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;CC: Criticism of institutions and authorities: Criticism of political organizations and figures
+EN_CC_200071.txt	CC: Criticism of climate policies	Other;CC: Downplaying climate change: Humans and nature will adapt to the changes
+EN_CC_200046.txt	URW: Negative Consequences for the West	URW: Praise of Russia: Other;URW: Discrediting Ukraine: Ukraine is associated with nazism
+EN_CC_200050.txt	CC: Climate change is beneficial	URW: Amplifying war-related fears: Other;URW: Speculating war outcomes: Russian army will lose all the occupied territories
+EN_UA_DEV_100026.txt	URW: Negative Consequences for the West	CC: Questioning the measurements and science: Data shows no temperature increase;CC: Criticism of climate movement: Climate movement is alarmist
+EN_UA_DEV_215.txt	URW: Speculating war outcomes	URW: Overpraising the West: NATO will destroy Russia
+EN_CC_200063.txt	CC: Criticism of climate movement	URW: Overpraising the West: The West belongs in the right side of history;URW: Amplifying war-related fears: By continuing the war we risk WWIII
+EN_CC_200054.txt	CC: Criticism of climate movement	URW: Amplifying war-related fears: NATO should/will directly intervene
+EN_UA_DEV_100004.txt	URW: Blaming the war on others rather than the invader	CC: Criticism of climate movement: Ad hominem attacks on key activists
+EN_UA_DEV_100013.txt	URW: Negative Consequences for the West	CC: Controversy about green technologies: Other;URW: Speculating war outcomes: Other
+EN_CC_200077.txt	URW: Distrust towards Media	URW: Discrediting Ukraine: Discrediting Ukrainian military
+EN_UA_DEV_100036.txt	CC: Controversy about green technologies	URW: Negative Consequences for the West: The conflict will increase the Ukrainian refugee flows to Europe;CC: Criticism of institutions and authorities: Criticism of international entities
+EN_CC_200034.txt	CC: Questioning the measurements and science	CC: Controversy about green technologies: Renewable energy is unreliable;CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives
+EN_UA_DEV_213.txt	CC: Criticism of climate policies	URW: Amplifying war-related fears: Russia will also attack other countries
+EN_CC_200047.txt	CC: Climate change is beneficial	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;CC: Criticism of institutions and authorities: Criticism of political organizations and figures
+EN_CC_200085.txt	CC: Controversy about green technologies	CC: Downplaying climate change: Human activities do not impact climate change;CC: Criticism of climate movement: Climate movement is corrupt
+EN_CC_200081.txt	URW: Blaming the war on others rather than the invader	CC: Climate change is beneficial: CO2 is beneficial
+EN_UA_DEV_214.txt	CC: Criticism of institutions and authorities	CC: Questioning the measurements and science: Data shows no temperature increase;URW: Overpraising the West: Other
+EN_CC_200064.txt	URW: Distrust towards Media	CC: Criticism of institutions and authorities: Other
+EN_UA_DEV_22.txt	URW: Discrediting the West, Diplomacy	CC: Criticism of climate movement: Other
+EN_CC_200060.txt	URW: Hidden plots by secret schemes of powerful groups	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+EN_CC_200035.txt	CC: Controversy about green technologies	URW: Amplifying war-related fears: Russia will also attack other countries;Other
+EN_CC_200030.txt	CC: Criticism of institutions and authorities	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Distrust towards Media: Other
+EN_CC_200069.txt	URW: Discrediting Ukraine	CC: Amplifying Climate Fears: Earth will be uninhabitable soon
+EN_UA_DEV_100019.txt	URW: Distrust towards Media	CC: Criticism of institutions and authorities: Criticism of political organizations and figures;CC: Questioning the measurements and science: Data shows no temperature increase
+EN_CC_200078.txt	CC: Criticism of climate policies	URW: Praise of Russia: Russia has international support from a number of countries and people
+EN_CC_200065.txt	URW: Russia is the Victim	CC: Criticism of climate movement: Other
+EN_UA_DEV_100002.txt	URW: Amplifying war-related fears	URW: Discrediting Ukraine: Situation in Ukraine is hopeless

@@ -1,0 +1,116 @@
+PT_203.txt	Pantanal	114	121	Innocent	Victim
+PT_203.txt	Valdelice Verón	2107	2121	Innocent	Victim
+PT_203.txt	Guarani Kaiowá	2132	2145	Innocent	Victim
+PT_208.txt	Caatinga	241	248	Innocent	Victim	Forgotten
+PT_208.txt	Rodrigo Agostinho	1052	1068	Protagonist	Guardian
+PT_208.txt	Claudecy Oliveira Lemes	2761	2783	Antagonist	Corrupt
+PT_233.txt	Amazónia	613	620	Innocent	Victim
+PT_241.txt	Rússia	1218	1223	Protagonist	Guardian
+PT_241.txt	União Europeia	1369	1382	Antagonist	Corrupt
+PT_259.txt	Maria Zakharova	128	142	Protagonist	Guardian
+PT_259.txt	Volodymyr Zelensky	195	212	Antagonist	Deceiver
+PT_259.txt	Ucrânia	518	524	Innocent	Exploited
+PT_259.txt	Zelensky	960	967	Antagonist	Terrorist	Tyrant
+PT_259.txt	Zelensky	1057	1064	Antagonist	Conspirator	Deceiver
+PT_259.txt	Kiev	1387	1390	Antagonist	Deceiver
+PT_259.txt	Rússia	1846	1851	Antagonist	Foreign Adversary
+PT_220.txt	Pantanal	2056	2063	Innocent	Victim
+PT_220.txt	Amazónia	2328	2335	Innocent	Victim
+PT_220.txt	Cerrado	2420	2426	Innocent	Victim
+PT_254.txt	Moscovo	2399	2405	Antagonist	Foreign Adversary
+PT_254.txt	Anton Trofimov	2951	2964	Protagonist	Guardian
+PT_211.txt	África Ocidental	273	288	Innocent	Victim
+PT_211.txt	Golfo Pérsico	295	307	Innocent	Victim
+PT_211.txt	Burkina Faso	1173	1184	Innocent	Victim
+PT_211.txt	Mali	1187	1190	Innocent	Victim
+PT_211.txt	Qatar	1193	1197	Innocent	Victim
+PT_211.txt	Aruba	1200	1204	Innocent	Victim
+PT_211.txt	Emirados Árabes Unidos	1208	1229	Innocent	Victim
+PT_211.txt	Índia	1424	1428	Innocent	Victim
+PT_211.txt	Nigéria	1433	1439	Innocent	Victim
+PT_211.txt	Indonésia	1445	1453	Innocent	Victim
+PT_237.txt	Rússia	116	121	Protagonist	Peacemaker
+PT_237.txt	Ucrânia	914	920	Antagonist	Foreign Adversary
+PT_237.txt	Washington	2460	2469	Antagonist	Foreign Adversary
+PT_250.txt	Igor Sechin	127	137	Protagonist	Guardian
+PT_224.txt	governo	64	70	Antagonist	Incompetent
+PT_224.txt	Pantanal	251	258	Innocent	Victim
+PT_224.txt	Autoridade do Clima	989	1007	Antagonist	Incompetent
+PT_224.txt	Foz do Amazonas	1881	1895	Innocent	Exploited
+PT_224.txt	Governo Federal	2320	2334	Antagonist	Incompetent
+PT_228.txt	Marina Silva	134	145	Protagonist	Guardian
+PT_228.txt	Pantanal	220	227	Innocent	Victim
+PT_228.txt	Amazónia	502	509	Innocent	Victim
+PT_253.txt	Ucrânia	647	653	Innocent	Victim
+PT_253.txt	Kremlin	710	716	Antagonist	Foreign Adversary
+PT_253.txt	von der Leyen	804	816	Protagonist	Guardian
+PT_253.txt	Denys Shmyhal	1000	1012	Protagonist	Virtuous
+PT_253.txt	Dmitry Peskov	1312	1324	Protagonist	Virtuous
+PT_253.txt	Ucrânia	1381	1387	Antagonist	Foreign Adversary
+PT_253.txt	Rússia	1419	1424	Innocent	Exploited
+PT_253.txt	Comissão Europeia	1489	1505	Antagonist	Instigator
+PT_253.txt	Vladimir Putin	1709	1722	Protagonist	Guardian
+PT_209.txt	Leonardo Boff	362	374	Protagonist	Guardian
+PT_209.txt	Terra	1238	1242	Innocent	Victim
+PT_202.txt	Túlio Gadêlha	121	133	Protagonist	Guardian
+PT_202.txt	Caatinga	332	339	Innocent	Victim
+PT_202.txt	Marina Silva	1026	1037	Protagonist	Guardian
+PT_232.txt	Goiás	221	225	Innocent	Victim
+PT_232.txt	Mato Grosso	228	238	Innocent	Victim
+PT_232.txt	Mato Grosso do Sul	241	258	Innocent	Victim
+PT_232.txt	Tocantins	261	269	Innocent	Victim
+PT_232.txt	Minas Gerais	272	283	Innocent	Victim
+PT_232.txt	Pará	286	289	Innocent	Victim
+PT_232.txt	Paraná	292	297	Innocent	Victim
+PT_232.txt	São Paulo	300	308	Innocent	Victim
+PT_232.txt	Rio de Janeiro	312	325	Innocent	Victim
+PT_232.txt	Cerrado	1322	1328	Innocent	Victim
+PT_232.txt	Floresta Amazónica	1334	1351	Innocent	Victim
+PT_245.txt	Federação Russa	640	654	Antagonist	Foreign Adversary	Tyrant
+PT_245.txt	Ucrânia	697	703	Innocent	Victim
+PT_245.txt	Kursk	995	999	Innocent	Victim
+PT_206.txt	Marina Silva	124	135	Protagonist	Guardian
+PT_249.txt	Moscovo	348	354	Protagonist	Peacemaker
+PT_249.txt	Kiev	509	512	Antagonist	Foreign Adversary
+PT_249.txt	Subianto	819	826	Protagonist	Peacemaker
+PT_249.txt	Rússia	916	921	Protagonist	Peacemaker
+PT_249.txt	Ucrânia	1085	1091	Antagonist	Foreign Adversary
+PT_249.txt	Mikhail Galuzin	2401	2415	Protagonist	Guardian
+PT_249.txt	Zelensky	2503	2510	Antagonist	Foreign Adversary
+PT_210.txt	Porto Alegre	87	98	Innocent	Victim
+PT_210.txt	Rio Grande do Sul	123	139	Innocent	Victim
+PT_230.txt	Brasil	413	418	Innocent	Victim
+PT_230.txt	São Paulo	538	546	Innocent	Victim
+PT_230.txt	Amazónia	962	969	Innocent	Victim
+PT_244.txt	Comité Organizador de Paris-2024	603	634	Antagonist	Conspirator
+PT_244.txt	Maria Zakharova	1151	1165	Protagonist	Virtuous
+PT_213.txt	Maceió	757	762	Innocent	Exploited	Victim
+PT_213.txt	Braskem	1462	1468	Antagonist	Corrupt
+PT_226.txt	Vale do Taquari	450	464	Innocent	Victim
+PT_226.txt	Rio de Janeiro	1196	1209	Innocent	Victim
+PT_239.txt	Dmitro Kuleba	140	152	Protagonist	Peacemaker
+PT_239.txt	Rússia	254	259	Antagonist	Foreign Adversary
+PT_239.txt	Moscovo	271	277	Antagonist	Foreign Adversary
+PT_239.txt	China	1567	1571	Protagonist	Peacemaker
+PT_239.txt	China	1682	1686	Protagonist	Rebel
+PT_239.txt	Rússia	1714	1719	Protagonist	Rebel
+PT_239.txt	Estados Unidos	1751	1764	Antagonist	Foreign Adversary
+PT_239.txt	NATO	1775	1778	Antagonist	Tyrant
+PT_239.txt	Moscovo	1832	1838	Innocent	Victim	Forgotten
+PT_239.txt	Volodimir Zelensky	2227	2244	Protagonist	Peacemaker
+PT_234.txt	Ásia	617	620	Innocent	Victim
+PT_234.txt	Antártida	626	634	Innocent	Victim
+PT_234.txt	Amazónia	1247	1254	Innocent	Victim
+PT_207.txt	Zequinha Marinho	82	97	Protagonist	Guardian
+PT_207.txt	Parlamento Europeu	785	802	Antagonist	Saboteur
+PT_217.txt	São Paulo	202	210	Innocent	Victim
+PT_217.txt	Rio de Janeiro	214	227	Innocent	Victim
+PT_204.txt	Papa Francisco	80	93	Protagonist	Virtuous
+PT_229.txt	Panamá	149	154	Innocent	Victim
+PT_229.txt	Vásquez	1387	1393	Protagonist	Virtuous	Guardian
+PT_229.txt	El Niño	1959	1965	Antagonist	Saboteur
+PT_225.txt	Rio Grande do Sul	69	85	Innocent	Victim
+PT_225.txt	Maranhão	226	233	Innocent	Victim
+PT_225.txt	Matopiba	429	436	Innocent	Victim
+PT_225.txt	Carlos Nobre	561	572	Protagonist	Guardian
+PT_225.txt	Rio Grande do Sul	2228	2244	Innocent	Exploited	Victim

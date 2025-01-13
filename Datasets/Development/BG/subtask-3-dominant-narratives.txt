@@ -1,0 +1,28 @@
+A9_BG_3970.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+A9_BG_4076.txt	URW: Discrediting the West, Diplomacy	none
+A9_BG_8427.txt	URW: Russia is the Victim	URW: Russia is the Victim: The West is russophobic
+A9_BG_3819.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: Russia will also attack other countries
+A9_BG_2592.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+BG_245.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Doomsday scenarios for humans
+BG_909.txt	CC: Green policies are geopolitical instruments	CC: Green policies are geopolitical instruments: Green activities are a form of neo-colonialism
+BG_1178.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A9_BG_2828.txt	URW: Discrediting the West, Diplomacy	none
+BG_1169.txt	CC: Downplaying climate change	CC: Downplaying climate change: Weather suggests the trend is global cooling
+BG_73.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A9_BG_4093.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is a puppet of the West
+BG_125.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A9_BG_3964.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is a puppet of the West
+BG_63.txt	CC: Amplifying Climate Fears	none
+A9_BG_2663.txt	URW: Amplifying war-related fears	none
+BG_1146.txt	CC: Amplifying Climate Fears	none
+A9_BG_2756.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+BG_979.txt	CC: Criticism of climate movement	none
+BG_277.txt	CC: Hidden plots by secret schemes of powerful groups	CC: Hidden plots by secret schemes of powerful groups: Blaming global elites
+BG_950.txt	CC: Downplaying climate change	CC: Downplaying climate change: Weather suggests the trend is global cooling
+BG_1455.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+A9_BG_4110.txt	URW: Russia is the Victim	URW: Russia is the Victim: The West is russophobic
+A9_BG_4026.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+A9_BG_2707.txt	URW: Amplifying war-related fears	none
+A9_BG_2569.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is associated with nazism
+A9_BG_4039.txt	URW: Negative Consequences for the West	none
+BG_212.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming

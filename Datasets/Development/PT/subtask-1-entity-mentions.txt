@@ -1,0 +1,116 @@
+PT_203.txt	Pantanal	114	121
+PT_203.txt	Valdelice Verón	2107	2121
+PT_203.txt	Guarani Kaiowá	2132	2145
+PT_208.txt	Caatinga	241	248
+PT_208.txt	Rodrigo Agostinho	1052	1068
+PT_208.txt	Claudecy Oliveira Lemes	2761	2783
+PT_233.txt	Amazónia	613	620
+PT_241.txt	Rússia	1218	1223
+PT_241.txt	União Europeia	1369	1382
+PT_259.txt	Maria Zakharova	128	142
+PT_259.txt	Volodymyr Zelensky	195	212
+PT_259.txt	Ucrânia	518	524
+PT_259.txt	Zelensky	960	967
+PT_259.txt	Zelensky	1057	1064
+PT_259.txt	Kiev	1387	1390
+PT_259.txt	Rússia	1846	1851
+PT_220.txt	Pantanal	2056	2063
+PT_220.txt	Amazónia	2328	2335
+PT_220.txt	Cerrado	2420	2426
+PT_254.txt	Moscovo	2399	2405
+PT_254.txt	Anton Trofimov	2951	2964
+PT_211.txt	África Ocidental	273	288
+PT_211.txt	Golfo Pérsico	295	307
+PT_211.txt	Burkina Faso	1173	1184
+PT_211.txt	Mali	1187	1190
+PT_211.txt	Qatar	1193	1197
+PT_211.txt	Aruba	1200	1204
+PT_211.txt	Emirados Árabes Unidos	1208	1229
+PT_211.txt	Índia	1424	1428
+PT_211.txt	Nigéria	1433	1439
+PT_211.txt	Indonésia	1445	1453
+PT_237.txt	Rússia	116	121
+PT_237.txt	Ucrânia	914	920
+PT_237.txt	Washington	2460	2469
+PT_250.txt	Igor Sechin	127	137
+PT_224.txt	governo	64	70
+PT_224.txt	Pantanal	251	258
+PT_224.txt	Autoridade do Clima	989	1007
+PT_224.txt	Foz do Amazonas	1881	1895
+PT_224.txt	Governo Federal	2320	2334
+PT_228.txt	Marina Silva	134	145
+PT_228.txt	Pantanal	220	227
+PT_228.txt	Amazónia	502	509
+PT_253.txt	Ucrânia	647	653
+PT_253.txt	Kremlin	710	716
+PT_253.txt	von der Leyen	804	816
+PT_253.txt	Denys Shmyhal	1000	1012
+PT_253.txt	Dmitry Peskov	1312	1324
+PT_253.txt	Ucrânia	1381	1387
+PT_253.txt	Rússia	1419	1424
+PT_253.txt	Comissão Europeia	1489	1505
+PT_253.txt	Vladimir Putin	1709	1722
+PT_209.txt	Leonardo Boff	362	374
+PT_209.txt	Terra	1238	1242
+PT_202.txt	Túlio Gadêlha	121	133
+PT_202.txt	Caatinga	332	339
+PT_202.txt	Marina Silva	1026	1037
+PT_232.txt	Goiás	221	225
+PT_232.txt	Mato Grosso	228	238
+PT_232.txt	Mato Grosso do Sul	241	258
+PT_232.txt	Tocantins	261	269
+PT_232.txt	Minas Gerais	272	283
+PT_232.txt	Pará	286	289
+PT_232.txt	Paraná	292	297
+PT_232.txt	São Paulo	300	308
+PT_232.txt	Rio de Janeiro	312	325
+PT_232.txt	Cerrado	1322	1328
+PT_232.txt	Floresta Amazónica	1334	1351
+PT_245.txt	Federação Russa	640	654
+PT_245.txt	Ucrânia	697	703
+PT_245.txt	Kursk	995	999
+PT_206.txt	Marina Silva	124	135
+PT_249.txt	Moscovo	348	354
+PT_249.txt	Kiev	509	512
+PT_249.txt	Subianto	819	826
+PT_249.txt	Rússia	916	921
+PT_249.txt	Ucrânia	1085	1091
+PT_249.txt	Mikhail Galuzin	2401	2415
+PT_249.txt	Zelensky	2503	2510
+PT_210.txt	Porto Alegre	87	98
+PT_210.txt	Rio Grande do Sul	123	139
+PT_230.txt	Brasil	413	418
+PT_230.txt	São Paulo	538	546
+PT_230.txt	Amazónia	962	969
+PT_244.txt	Comité Organizador de Paris-2024	603	634
+PT_244.txt	Maria Zakharova	1151	1165
+PT_213.txt	Maceió	757	762
+PT_213.txt	Braskem	1462	1468
+PT_226.txt	Vale do Taquari	450	464
+PT_226.txt	Rio de Janeiro	1196	1209
+PT_239.txt	Dmitro Kuleba	140	152
+PT_239.txt	Rússia	254	259
+PT_239.txt	Moscovo	271	277
+PT_239.txt	China	1567	1571
+PT_239.txt	China	1682	1686
+PT_239.txt	Rússia	1714	1719
+PT_239.txt	Estados Unidos	1751	1764
+PT_239.txt	NATO	1775	1778
+PT_239.txt	Moscovo	1832	1838
+PT_239.txt	Volodimir Zelensky	2227	2244
+PT_234.txt	Ásia	617	620
+PT_234.txt	Antártida	626	634
+PT_234.txt	Amazónia	1247	1254
+PT_207.txt	Zequinha Marinho	82	97
+PT_207.txt	Parlamento Europeu	785	802
+PT_217.txt	São Paulo	202	210
+PT_217.txt	Rio de Janeiro	214	227
+PT_204.txt	Papa Francisco	80	93
+PT_229.txt	Panamá	149	154
+PT_229.txt	Vásquez	1387	1393
+PT_229.txt	El Niño	1959	1965
+PT_225.txt	Rio Grande do Sul	69	85
+PT_225.txt	Maranhão	226	233
+PT_225.txt	Matopiba	429	436
+PT_225.txt	Carlos Nobre	561	572
+PT_225.txt	Rio Grande do Sul	2228	2244

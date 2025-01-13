@@ -1,0 +1,91 @@
+EN_UA_DEV_100012.txt	Washington	1441	1450
+EN_UA_DEV_100012.txt	Americans	2397	2405
+EN_CC_200053.txt	Rishi Sunak	85	95
+EN_CC_200040.txt	Extinction Rebellion	189	208
+EN_CC_200070.txt	Eric Garcetti	89	101
+EN_CC_200070.txt	Los Angeles	2313	2323
+EN_UA_DEV_100033.txt	Russia	114	119
+EN_UA_DEV_100033.txt	Kremlin propagandists	259	279
+EN_UA_DEV_100033.txt	Vladimir Soloviev	4705	4721
+EN_UA_DEV_100033.txt	Matveychev	6021	6030
+EN_CC_200036.txt	Al Gore	97	103
+EN_CC_200079.txt	Klaus Schwab	81	92
+EN_CC_200079.txt	World Economic Forum	96	115
+EN_CC_200079.txt	World Economic Forum	1897	1916
+EN_UA_DEV_100029.txt	Russia	83	88
+EN_UA_DEV_100029.txt	Ukraine	995	1001
+EN_UA_DEV_20.txt	Biden	573	577
+EN_UA_DEV_20.txt	Putin	1209	1213
+EN_UA_DEV_20.txt	Ukrainian government	2187	2206
+EN_UA_DEV_20.txt	the US	5098	5103
+EN_UA_DEV_20.txt	Biden	5976	5980
+EN_CC_200033.txt	Greta Thunberg	84	97
+EN_CC_200033.txt	Thunberg	384	391
+EN_CC_200033.txt	COP	1488	1490
+EN_CC_200033.txt	Stuart Basden	2545	2557
+EN_CC_200071.txt	Biden's	266	272
+EN_CC_200046.txt	Democrats	644	652
+EN_UA_DEV_100026.txt	Germany	262	268
+EN_UA_DEV_100026.txt	Germany	4366	4372
+EN_UA_DEV_100026.txt	Alternative for Germany	5153	5175
+EN_UA_DEV_215.txt	Ukraine	334	340
+EN_CC_200054.txt	ECB	875	877
+EN_CC_200054.txt	Bank of England	2929	2943
+EN_UA_DEV_100013.txt	SBU	319	321
+EN_UA_DEV_100013.txt	Zelensky	417	424
+EN_UA_DEV_100013.txt	Bogdan	1054	1059
+EN_UA_DEV_100013.txt	Zaluzhny	1063	1070
+EN_UA_DEV_100013.txt	Zaluzhny	1287	1294
+EN_UA_DEV_100013.txt	Zaluzhny	1922	1929
+EN_UA_DEV_100013.txt	Stepan Bandera	2483	2496
+EN_UA_DEV_100013.txt	Roman Shukhevych	2502	2517
+EN_UA_DEV_100013.txt	British	2778	2784
+EN_UA_DEV_100013.txt	Britain	6542	6548
+EN_UA_DEV_100013.txt	Labour Party	7181	7192
+EN_CC_200077.txt	Biden	1600	1604
+EN_CC_200077.txt	China	3717	3721
+EN_CC_200034.txt	Just Stop Oil	206	218
+EN_CC_200034.txt	Just Stop Oil	825	837
+EN_UA_DEV_213.txt	US	72	73
+EN_UA_DEV_213.txt	European allies	83	97
+EN_UA_DEV_213.txt	Ukraine	106	112
+EN_UA_DEV_213.txt	Washington	370	379
+EN_UA_DEV_213.txt	Ukrainian	823	831
+EN_UA_DEV_213.txt	New York Times	1088	1101
+EN_UA_DEV_213.txt	Washington Post	1107	1121
+EN_UA_DEV_213.txt	Saddam Hussein	1276	1289
+EN_UA_DEV_213.txt	Russia	2636	2641
+EN_UA_DEV_213.txt	United States	2835	2847
+EN_UA_DEV_213.txt	NATO	2853	2856
+EN_UA_DEV_213.txt	NATO	3088	3091
+EN_UA_DEV_213.txt	United States	3472	3484
+EN_UA_DEV_213.txt	NATO	3491	3494
+EN_UA_DEV_213.txt	United States	4199	4211
+EN_UA_DEV_213.txt	Germany	4217	4223
+EN_UA_DEV_213.txt	Russia	6451	6456
+EN_UA_DEV_213.txt	United States	6674	6686
+EN_UA_DEV_213.txt	the United States	7394	7410
+EN_UA_DEV_213.txt	US media	8274	8281
+EN_CC_200047.txt	World Economic Forum	280	299
+EN_CC_200047.txt	Committee to Unleash Prosperity	340	370
+EN_CC_200047.txt	The College Fix	1436	1450
+EN_CC_200081.txt	Mairi Gougeon	376	388
+EN_CC_200081.txt	China	2349	2353
+EN_UA_DEV_214.txt	Ukraine	247	253
+EN_UA_DEV_214.txt	China	273	277
+EN_UA_DEV_214.txt	the West	289	296
+EN_UA_DEV_214.txt	the West	543	550
+EN_UA_DEV_214.txt	Joe Biden	1534	1542
+EN_UA_DEV_214.txt	Nato	1707	1710
+EN_CC_200064.txt	Restore Wetlands	774	789
+EN_CC_200035.txt	Gretchen Whitmer	80	95
+EN_CC_200069.txt	Oxford	285	290
+EN_CC_200069.txt	the UK	488	493
+EN_CC_200069.txt	Piers Corbyn	809	820
+EN_UA_DEV_100019.txt	Russia-	247	253
+EN_UA_DEV_100019.txt	Star Blizzard	1819	1831
+EN_UA_DEV_100002.txt	Zelensky	657	664
+EN_UA_DEV_100002.txt	Ukraine	672	678
+EN_UA_DEV_100002.txt	West	725	728
+EN_UA_DEV_100002.txt	NATO	1027	1030
+EN_UA_DEV_100002.txt	Russia	1200	1205

@@ -1,0 +1,366 @@
+HI_27.txt	Other	Other
+HI_104.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_201.txt	URW: Praise of Russia;URW: Praise of Russia;URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin;URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_280.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_368.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_191.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_376.txt	Other	Other
+HI_112.txt	URW: Russia is the Victim;URW: Blaming the war on others rather than the invader;URW: Discrediting Ukraine;URW: Speculating war outcomes;URW: Discrediting the West, Diplomacy	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Speculating war outcomes: Other;URW: Discrediting the West, Diplomacy: The West is weak
+HI_2.txt	URW: Russia is the Victim;URW: Praise of Russia;URW: Russia is the Victim;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy	URW: Russia is the Victim: The West is russophobic;URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Russia is the Victim: UA is anti-RU extremists;URW: Discrediting the West, Diplomacy: The West is overreacting;URW: Discrediting the West, Diplomacy: Diplomacy does/will not work
+HI_279.txt	URW: Speculating war outcomes;URW: Negative Consequences for the West	URW: Speculating war outcomes: Other;URW: Negative Consequences for the West: Other
+HI_58.txt	Other	Other
+HI_256.txt	URW: Speculating war outcomes;URW: Amplifying war-related fears;URW: Overpraising the West	URW: Speculating war outcomes: Other;URW: Amplifying war-related fears: NATO should/will directly intervene;URW: Overpraising the West: NATO will destroy Russia
+HI_337.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian military
+HI_384.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_120.txt	URW: Speculating war outcomes;URW: Overpraising the West;URW: Discrediting Ukraine;URW: Overpraising the West	URW: Speculating war outcomes: Ukrainian army is collapsing;URW: Overpraising the West: NATO will destroy Russia;URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Overpraising the West: The West belongs in the right side of history
+HI_287.txt	Other	Other
+HI_9.txt	Other	Other
+HI_82.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+HI_272.txt	Other	Other
+HI_208.txt	CC: Downplaying climate change;CC: Criticism of climate movement;CC: Criticism of institutions and authorities;CC: Hidden plots by secret schemes of powerful groups;CC: Criticism of climate policies	CC: Downplaying climate change: Temperature increase does not have significant impact;CC: Criticism of climate movement: Climate movement is corrupt;CC: Criticism of institutions and authorities: Criticism of political organizations and figures;CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives;CC: Criticism of climate policies: Climate policies are only for profit
+HI_353.txt	Other	Other
+HI_175.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_305.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_399.txt	Other	Other
+HI_313.txt	Other	Other
+HI_321.txt	URW: Speculating war outcomes;URW: Amplifying war-related fears;URW: Negative Consequences for the West	URW: Speculating war outcomes: Ukrainian army is collapsing;URW: Amplifying war-related fears: NATO should/will directly intervene;URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+HI_232.txt	CC: Amplifying Climate Fears;CC: Controversy about green technologies	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Controversy about green technologies: Other
+HI_127.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting Ukraine	URW: Discrediting the West, Diplomacy: Diplomacy does/will not work;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+HI_98.txt	URW: Amplifying war-related fears;URW: Praise of Russia	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Praise of Russia: Praise of Russian military might
+HI_20.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_144.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_330.txt	Other	Other
+HI_66.txt	URW: Negative Consequences for the West;URW: Negative Consequences for the West;URW: Distrust towards Media;URW: Praise of Russia;URW: Russia is the Victim;URW: Praise of Russia;URW: Blaming the war on others rather than the invader;URW: Overpraising the West	URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire;URW: Negative Consequences for the West: The conflict will increase the Ukrainian refugee flows to Europe;URW: Distrust towards Media: Western media is an instrument of propaganda;URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Russia is the Victim: The West is russophobic;URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Overpraising the West: The West belongs in the right side of history
+HI_240.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_392.txt	Other	Other
+HI_198.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_328.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+HI_91.txt	URW: Blaming the war on others rather than the invader;URW: Russia is the Victim	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_345.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_74.txt	URW: Discrediting the West, Diplomacy;URW: Praise of Russia	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+HI_183.txt	URW: Russia is the Victim;URW: Blaming the war on others rather than the invader	URW: Russia is the Victim: The West is russophobic;URW: Blaming the war on others rather than the invader: Other
+HI_217.txt	URW: Blaming the war on others rather than the invader;URW: Discrediting Ukraine	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+HI_166.txt	Other	Other
+HI_247.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_136.txt	CC: Controversy about green technologies;CC: Criticism of climate policies;CC: Amplifying Climate Fears;CC: Criticism of climate policies;CC: Criticism of climate policies	CC: Controversy about green technologies: Other;CC: Criticism of climate policies: Other;CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Criticism of climate policies: Climate policies are ineffective;CC: Criticism of climate policies: Climate policies have negative impact on the economy
+HI_119.txt	Other	Other
+HI_264.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+HI_369.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: Russia will also attack other countries
+HI_271.txt	Other	Other
+HI_377.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_42.txt	Other	Other
+HI_360.txt	URW: Discrediting Ukraine;URW: Speculating war outcomes	URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Speculating war outcomes: Other
+HI_3.txt	Other	Other
+HI_50.txt	Other	Other
+HI_105.txt	Other	Other
+HI_121.txt	URW: Negative Consequences for the West	URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+HI_393.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_44.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_359.txt	URW: Speculating war outcomes;URW: Blaming the war on others rather than the invader;URW: Blaming the war on others rather than the invader;URW: Russia is the Victim	URW: Speculating war outcomes: Other;URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_36.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West is weak
+HI_182.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+HI_200.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_176.txt	URW: Praise of Russia;URW: Russia is the Victim;URW: Discrediting Ukraine;URW: Blaming the war on others rather than the invader;URW: Blaming the war on others rather than the invader;URW: Distrust towards Media;URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Distrust towards Media: Western media is an instrument of propaganda;URW: Praise of Russia: Praise of Russian military might
+HI_286.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_192.txt	Other	Other
+HI_209.txt	Other	Other
+HI_354.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_59.txt	Other	Other
+HI_306.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_255.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_65.txt	URW: Speculating war outcomes;URW: Discrediting Ukraine	URW: Speculating war outcomes: Ukrainian army is collapsing;URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+HI_322.txt	URW: Overpraising the West;URW: Overpraising the West	URW: Overpraising the West: The West belongs in the right side of history;URW: Overpraising the West: Other
+HI_383.txt	URW: Overpraising the West	URW: Overpraising the West: Other
+HI_8.txt	Other	Other
+HI_216.txt	URW: Discrediting the West, Diplomacy;URW: Praise of Russia;URW: Blaming the war on others rather than the invader	URW: Discrediting the West, Diplomacy: The West is weak;URW: Praise of Russia: Praise of Russian military might;URW: Blaming the war on others rather than the invader: The West are the aggressors
+HI_81.txt	URW: Russia is the Victim	URW: Russia is the Victim: The West is russophobic
+HI_233.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_401.txt	URW: Amplifying war-related fears;URW: Discrediting the West, Diplomacy;URW: Speculating war outcomes	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Speculating war outcomes: Other
+HI_250.txt	URW: Distrust towards Media	URW: Distrust towards Media: Western media is an instrument of propaganda
+HI_312.txt	Other	Other
+HI_338.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: Other
+HI_398.txt	Other	Other
+HI_248.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Praise of Russia: Praise of Russian military might
+HI_111.txt	URW: Praise of Russia;URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+HI_137.txt	CC: Downplaying climate change;CC: Amplifying Climate Fears;CC: Questioning the measurements and science;CC: Questioning the measurements and science	CC: Downplaying climate change: Humans and nature will adapt to the changes;CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Questioning the measurements and science: Methodologies/metrics used are unreliable/faulty;CC: Questioning the measurements and science: Other
+HI_265.txt	Other	Other
+HI_327.txt	Other	Other
+HI_361.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_43.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears;URW: Russia is the Victim;URW: Discrediting the West, Diplomacy	URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Amplifying war-related fears: NATO should/will directly intervene;URW: Russia is the Victim: The West is russophobic;URW: Discrediting the West, Diplomacy: The West is weak
+HI_197.txt	URW: Discrediting Ukraine;URW: Blaming the war on others rather than the invader;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Praise of Russia: Praise of Russian military might
+HI_344.txt	URW: Negative Consequences for the West	URW: Negative Consequences for the West: Other
+HI_60.txt	URW: Discrediting the West, Diplomacy;URW: Negative Consequences for the West;URW: Distrust towards Media	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire;URW: Distrust towards Media: Western media is an instrument of propaganda
+HI_386.txt	URW: Amplifying war-related fears;URW: Speculating war outcomes	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Speculating war outcomes: Other
+HI_270.txt	Other	Other
+HI_378.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_300.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Doomsday scenarios for humans
+HI_157.txt	URW: Discrediting the West, Diplomacy;URW: Praise of Russia	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+HI_343.txt	URW: Russia is the Victim	URW: Russia is the Victim: Other
+HI_262.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_88.txt	Other	Other
+HI_307.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_45.txt	URW: Hidden plots by secret schemes of powerful groups	URW: Hidden plots by secret schemes of powerful groups: Other
+HI_129.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+HI_53.txt	URW: Russia is the Victim;URW: Praise of Russia;URW: Overpraising the West	URW: Russia is the Victim: The West is russophobic;URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Overpraising the West: The West belongs in the right side of history
+HI_96.txt	URW: Negative Consequences for the West	URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+HI_371.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_285.txt	URW: Praise of Russia;URW: Amplifying war-related fears	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Amplifying war-related fears: By continuing the war we risk WWIII
+HI_242.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_335.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears	URW: Amplifying war-related fears: NATO should/will directly intervene;URW: Amplifying war-related fears: Other
+HI_290.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other;CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_161.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_215.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_72.txt	URW: Amplifying war-related fears;URW: Praise of Russia	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Praise of Russia: Praise of Russian military might
+HI_7.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Amplifying war-related fears;URW: Praise of Russia;URW: Amplifying war-related fears;URW: Speculating war outcomes;URW: Discrediting Ukraine;URW: Praise of Russia;URW: Discrediting Ukraine;URW: Discrediting the West, Diplomacy;URW: Russia is the Victim;URW: Praise of Russia	URW: Discrediting Ukraine: Situation in Ukraine is hopeless;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Amplifying war-related fears: Russia will also attack other countries;URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Speculating war outcomes: Russian army will lose all the occupied territories;URW: Discrediting Ukraine: Rewriting Ukraine’s history;URW: Praise of Russia: Praise of Russian military might;URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Discrediting the West, Diplomacy: The West is weak;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_177.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears;URW: Praise of Russia	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Amplifying war-related fears: Russia will also attack other countries;URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_249.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Situation in Ukraine is hopeless;URW: Discrediting Ukraine: Discrediting Ukrainian military
+HI_206.txt	URW: Discrediting the West, Diplomacy;URW: Negative Consequences for the West;URW: Discrediting the West, Diplomacy;URW: Praise of Russia	URW: Discrediting the West, Diplomacy: Other;URW: Negative Consequences for the West: Other;URW: Discrediting the West, Diplomacy: The West is weak;URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_258.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_390.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_80.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: NATO should/will directly intervene
+HI_400.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Amplifying war-related fears: By continuing the war we risk WWIII
+HI_362.txt	URW: Speculating war outcomes;URW: Amplifying war-related fears;URW: Negative Consequences for the West;URW: Amplifying war-related fears	URW: Speculating war outcomes: Other;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Negative Consequences for the West: Other;URW: Amplifying war-related fears: Russia will also attack other countries
+HI_142.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_170.txt	Other	Other
+HI_315.txt	Other	Other
+HI_87.txt	Other	Other
+HI_185.txt	URW: Overpraising the West;URW: Amplifying war-related fears;URW: Discrediting Ukraine	URW: Overpraising the West: NATO will destroy Russia;URW: Amplifying war-related fears: NATO should/will directly intervene;URW: Discrediting Ukraine: Discrediting Ukrainian military
+HI_358.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+HI_68.txt	Other	Other
+HI_149.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_234.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_25.txt	URW: Russia is the Victim;URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Blaming the war on others rather than the invader	URW: Russia is the Victim: The West is russophobic;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Discrediting Ukraine: Rewriting Ukraine’s history;URW: Blaming the war on others rather than the invader: The West are the aggressors
+HI_277.txt	Other	Other
+HI_106.txt	URW: Praise of Russia;URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_229.txt	URW: Russia is the Victim	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_190.txt	URW: Russia is the Victim	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_18.txt	URW: Hidden plots by secret schemes of powerful groups	URW: Hidden plots by secret schemes of powerful groups: Other
+HI_263.txt	URW: Distrust towards Media	URW: Distrust towards Media: Western media is an instrument of propaganda
+HI_308.txt	URW: Praise of Russia;URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin;URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_113.txt	URW: Russia is the Victim;URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Russia is the Victim	URW: Russia is the Victim: UA is anti-RU extremists;URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Discrediting Ukraine: Discrediting Ukrainian nation and society;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_342.txt	Other	Other
+HI_385.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_199.txt	CC: Amplifying Climate Fears;CC: Criticism of climate policies	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Criticism of climate policies: Climate policies are ineffective
+HI_89.txt	URW: Praise of Russia;URW: Russia is the Victim;URW: Discrediting the West, Diplomacy;URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Russia is the Victim: The West is russophobic;URW: Discrediting the West, Diplomacy: The West is overreacting;URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_52.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+HI_128.txt	URW: Russia is the Victim;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy	URW: Russia is the Victim: The West is russophobic;URW: Discrediting the West, Diplomacy: The West is overreacting;URW: Discrediting the West, Diplomacy: The West is weak
+HI_46.txt	URW: Speculating war outcomes;URW: Russia is the Victim;URW: Praise of Russia;URW: Praise of Russia;URW: Negative Consequences for the West;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy	URW: Speculating war outcomes: Other;URW: Russia is the Victim: The West is russophobic;URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire;URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Discrediting the West, Diplomacy: Diplomacy does/will not work;URW: Discrediting the West, Diplomacy: The EU is divided;URW: Discrediting the West, Diplomacy: The West is weak
+HI_379.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_336.txt	Other	Other
+HI_162.txt	URW: Amplifying war-related fears;URW: Blaming the war on others rather than the invader	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Blaming the war on others rather than the invader: The West are the aggressors
+HI_370.txt	URW: Praise of Russia;URW: Speculating war outcomes	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Speculating war outcomes: Other
+HI_39.txt	URW: Praise of Russia;URW: Speculating war outcomes	URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Speculating war outcomes: Other
+HI_135.txt	Other	Other
+HI_178.txt	Other	Other
+HI_207.txt	Other	Other
+HI_241.txt	Other	Other
+HI_284.txt	URW: Russia is the Victim	URW: Russia is the Victim: The West is russophobic
+HI_291.txt	Other	Other
+HI_320.txt	Other	Other
+HI_363.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_257.txt	URW: Blaming the war on others rather than the invader;URW: Russia is the Victim;URW: Russia is the Victim	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Russia is the Victim: Other;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_214.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+HI_329.txt	Other	Other
+HI_6.txt	URW: Praise of Russia;URW: Speculating war outcomes;URW: Overpraising the West;URW: Russia is the Victim;URW: Negative Consequences for the West	URW: Praise of Russia: Praise of Russian military might;URW: Speculating war outcomes: Other;URW: Overpraising the West: The West belongs in the right side of history;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Negative Consequences for the West: The conflict will increase the Ukrainian refugee flows to Europe
+HI_141.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_235.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Earth will be uninhabitable soon;CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_24.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+HI_391.txt	Other	Other
+HI_67.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Ukrainian army is collapsing
+HI_278.txt	URW: Negative Consequences for the West	URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+HI_314.txt	Other	Other
+HI_220.txt	Other	Other
+HI_73.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+HI_30.txt	URW: Hidden plots by secret schemes of powerful groups;URW: Discrediting the West, Diplomacy	URW: Hidden plots by secret schemes of powerful groups: Other;URW: Discrediting the West, Diplomacy: The EU is divided
+HI_184.txt	Other	Other
+HI_357.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+HI_94.txt	URW: Distrust towards Media	URW: Distrust towards Media: Western media is an instrument of propaganda
+HI_317.txt	Other	Other
+HI_78.txt	Other	Other
+HI_228.txt	URW: Russia is the Victim;URW: Overpraising the West	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Overpraising the West: Other
+HI_236.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_333.txt	URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Blaming the war on others rather than the invader	URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Discrediting Ukraine: Other;URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_244.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_325.txt	Other	Other
+HI_147.txt	Other	Other
+HI_15.txt	URW: Overpraising the West	URW: Overpraising the West: The West has the strongest international support
+HI_116.txt	URW: Amplifying war-related fears;URW: Russia is the Victim;URW: Praise of Russia	URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Russia is the Victim: The West is russophobic;URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_260.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_163.txt	Other	Other
+HI_299.txt	CC: Amplifying Climate Fears;CC: Criticism of institutions and authorities;CC: Criticism of climate policies	CC: Amplifying Climate Fears: Other;CC: Criticism of institutions and authorities: Criticism of national governments;CC: Criticism of climate policies: Climate policies are ineffective
+HI_310.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_341.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Discrediting the West, Diplomacy: Diplomacy does/will not work
+HI_213.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is a puppet of the West
+HI_396.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: The West are the aggressors
+HI_348.txt	URW: Praise of Russia;URW: Russia is the Victim	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Russia is the Victim: The West is russophobic
+HI_47.txt	URW: Overpraising the West	URW: Overpraising the West: The West has the strongest international support
+HI_132.txt	Other	Other
+HI_292.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_356.txt	Other	Other
+HI_381.txt	URW: Negative Consequences for the West	URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+HI_364.txt	URW: Amplifying war-related fears;URW: Russia is the Victim	URW: Amplifying war-related fears: Russia will also attack other countries;URW: Russia is the Victim: The West is russophobic
+HI_101.txt	Other	Other
+HI_373.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_187.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_63.txt	URW: Overpraising the West;URW: Speculating war outcomes	URW: Overpraising the West: NATO will destroy Russia;URW: Speculating war outcomes: Russian army is collapsing
+HI_194.txt	Other	Other
+HI_283.txt	Other	Other
+HI_275.txt	URW: Distrust towards Media	URW: Distrust towards Media: Western media is an instrument of propaganda
+HI_108.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests
+HI_23.txt	URW: Discrediting the West, Diplomacy;URW: Speculating war outcomes;URW: Overpraising the West;URW: Praise of Russia;URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Negative Consequences for the West;URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: West is tired of Ukraine;URW: Speculating war outcomes: Russian army is collapsing;URW: Overpraising the West: The West has the strongest international support;URW: Praise of Russia: Praise of Russian military might;URW: Discrediting Ukraine: Situation in Ukraine is hopeless;URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire;URW: Discrediting the West, Diplomacy: The West is weak
+HI_302.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+HI_388.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_155.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Russian army is collapsing
+HI_172.txt	URW: Amplifying war-related fears;URW: Negative Consequences for the West	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Negative Consequences for the West: Other
+HI_123.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_204.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian military
+HI_179.txt	URW: Distrust towards Media	URW: Distrust towards Media: Western media is an instrument of propaganda
+HI_55.txt	URW: Russia is the Victim;URW: Blaming the war on others rather than the invader;URW: Blaming the war on others rather than the invader;URW: Russia is the Victim;URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Discrediting the West, Diplomacy;URW: Praise of Russia;URW: Discrediting Ukraine	URW: Russia is the Victim: The West is russophobic;URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Discrediting Ukraine: Rewriting Ukraine’s history;URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+HI_221.txt	URW: Speculating war outcomes;URW: Overpraising the West	URW: Speculating war outcomes: Other;URW: Overpraising the West: The West belongs in the right side of history
+HI_309.txt	Other	Other
+HI_326.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Praise of Russia	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Discrediting the West, Diplomacy: West is tired of Ukraine;URW: Discrediting the West, Diplomacy: Diplomacy does/will not work;URW: Praise of Russia: Praise of Russian military might
+HI_69.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_85.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+HI_334.txt	Other	Other
+HI_148.txt	Other	Other
+HI_237.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_261.txt	Other	Other
+HI_93.txt	Other	Other
+HI_164.txt	URW: Discrediting Ukraine;URW: Discrediting the West, Diplomacy;URW: Amplifying war-related fears	URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Discrediting the West, Diplomacy: Other;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_350.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian military
+HI_227.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Russian army is collapsing
+HI_316.txt	Other	Other
+HI_79.txt	URW: Blaming the war on others rather than the invader;URW: Amplifying war-related fears;URW: Blaming the war on others rather than the invader;URW: Negative Consequences for the West	URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Blaming the war on others rather than the invader: Other;URW: Negative Consequences for the West: Other
+HI_32.txt	URW: Distrust towards Media;URW: Russia is the Victim	URW: Distrust towards Media: Western media is an instrument of propaganda;URW: Russia is the Victim: The West is russophobic
+HI_243.txt	URW: Praise of Russia;URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might;URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_340.txt	Other	Other
+HI_70.txt	URW: Praise of Russia;URW: Russia is the Victim;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Negative Consequences for the West;URW: Blaming the war on others rather than the invader	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Russia is the Victim: The West is russophobic;URW: Discrediting the West, Diplomacy: Diplomacy does/will not work;URW: Discrediting the West, Diplomacy: The EU is divided;URW: Discrediting the West, Diplomacy: The West is weak;URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire;URW: Blaming the war on others rather than the invader: The West are the aggressors
+HI_311.txt	URW: Praise of Russia;URW: Speculating war outcomes	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Speculating war outcomes: Other
+HI_133.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Other
+HI_397.txt	URW: Discrediting the West, Diplomacy;URW: Blaming the war on others rather than the invader	URW: Discrediting the West, Diplomacy: Other;URW: Blaming the war on others rather than the invader: The West are the aggressors
+HI_212.txt	URW: Praise of Russia;URW: Amplifying war-related fears	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Amplifying war-related fears: Other
+HI_115.txt	URW: Praise of Russia;URW: Russia is the Victim	URW: Praise of Russia: Praise of Russian military might;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_349.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_365.txt	Other	Other
+HI_16.txt	Other	Other
+HI_298.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other
+HI_64.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: Diplomacy does/will not work
+HI_100.txt	Other	Other
+HI_259.txt	Other	Other
+HI_48.txt	URW: Hidden plots by secret schemes of powerful groups;URW: Praise of Russia	URW: Hidden plots by secret schemes of powerful groups: Other;URW: Praise of Russia: Praise of Russian military might
+HI_276.txt	Other	Other
+HI_293.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Doomsday scenarios for humans;CC: Amplifying Climate Fears: Earth will be uninhabitable soon
+HI_22.txt	URW: Praise of Russia;URW: Discrediting Ukraine;URW: Discrediting Ukraine;URW: Blaming the war on others rather than the invader;URW: Discrediting Ukraine;URW: Distrust towards Media;URW: Discrediting Ukraine;URW: Speculating war outcomes;URW: Speculating war outcomes;URW: Discrediting Ukraine;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy;URW: Overpraising the West;URW: Distrust towards Media	URW: Praise of Russia: Praise of Russian military might;URW: Discrediting Ukraine: Discrediting Ukrainian military;URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Discrediting Ukraine: Ukraine is a hub for criminal activities;URW: Distrust towards Media: Ukrainian media cannot be trusted;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Speculating war outcomes: Russian army will lose all the occupied territories;URW: Speculating war outcomes: Ukrainian army is collapsing;URW: Discrediting Ukraine: Situation in Ukraine is hopeless;URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Discrediting the West, Diplomacy: West is tired of Ukraine;URW: Overpraising the West: The West has the strongest international support;URW: Distrust towards Media: Other
+HI_382.txt	URW: Praise of Russia	URW: Praise of Russia: Other
+HI_109.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_169.txt	URW: Amplifying war-related fears;URW: Blaming the war on others rather than the invader	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_54.txt	URW: Praise of Russia;URW: Discrediting Ukraine;URW: Discrediting the West, Diplomacy;URW: Speculating war outcomes	URW: Praise of Russia: Praise of Russian military might;URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Discrediting the West, Diplomacy: The West is weak;URW: Speculating war outcomes: Ukrainian army is collapsing
+HI_186.txt	Other	Other
+HI_372.txt	URW: Discrediting the West, Diplomacy;URW: Russia is the Victim	URW: Discrediting the West, Diplomacy: Diplomacy does/will not work;URW: Russia is the Victim: UA is anti-RU extremists
+HI_355.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_205.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+HI_282.txt	Other	Other
+HI_222.txt	URW: Praise of Russia;URW: Blaming the war on others rather than the invader;URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Blaming the war on others rather than the invader: Other;URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_37.txt	URW: Russia is the Victim	URW: Russia is the Victim: The West is russophobic
+HI_387.txt	URW: Overpraising the West	URW: Overpraising the West: Other
+HI_301.txt	URW: Discrediting Ukraine;URW: Discrediting the West, Diplomacy;URW: Discrediting the West, Diplomacy	URW: Discrediting Ukraine: Ukraine is a puppet of the West;URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Discrediting the West, Diplomacy: West is tired of Ukraine
+HI_86.txt	Other	Other
+HI_171.txt	URW: Overpraising the West;URW: Overpraising the West;URW: Overpraising the West	URW: Overpraising the West: NATO will destroy Russia;URW: Overpraising the West: The West belongs in the right side of history;URW: Overpraising the West: The West has the strongest international support
+HI_297.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Other;CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_351.txt	Other	Other
+HI_394.txt	Other	Other
+HI_122.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_254.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_246.txt	URW: Blaming the war on others rather than the invader;URW: Russia is the Victim	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_165.txt	Other	Other
+HI_181.txt	Other	Other
+HI_289.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Doomsday scenarios for humans
+HI_211.txt	CC: Amplifying Climate Fears;CC: Criticism of climate policies;CC: Criticism of climate policies;CC: Climate change is beneficial;CC: Climate change is beneficial	CC: Amplifying Climate Fears: Whatever we do it is already too late;CC: Criticism of climate policies: Climate policies are only for profit;CC: Criticism of climate policies: Climate policies are ineffective;CC: Climate change is beneficial: Temperature increase is beneficial;CC: Climate change is beneficial: CO2 is beneficial
+HI_41.txt	URW: Discrediting the West, Diplomacy;URW: Praise of Russia	URW: Discrediting the West, Diplomacy: Diplomacy does/will not work;URW: Praise of Russia: Other
+HI_92.txt	URW: Distrust towards Media	URW: Distrust towards Media: Western media is an instrument of propaganda
+HI_84.txt	Other	Other
+HI_130.txt	CC: Amplifying Climate Fears;CC: Criticism of climate policies;CC: Controversy about green technologies	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Criticism of climate policies: Climate policies have negative impact on the economy;CC: Controversy about green technologies: Renewable energy is unreliable
+HI_173.txt	URW: Praise of Russia;URW: Russia is the Victim;URW: Blaming the war on others rather than the invader;URW: Praise of Russia;URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Praise of Russia: Praise of Russian military might;URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_150.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Earth will be uninhabitable soon;CC: Amplifying Climate Fears: Doomsday scenarios for humans
+HI_323.txt	Other	Other
+HI_269.txt	URW: Praise of Russia;URW: Negative Consequences for the West	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+HI_226.txt	Other	Other
+HI_319.txt	Other	Other
+HI_33.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_188.txt	URW: Praise of Russia;URW: Discrediting the West, Diplomacy;URW: Russia is the Victim	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Discrediting the West, Diplomacy: The West is overreacting;URW: Russia is the Victim: The West is russophobic
+HI_29.txt	URW: Blaming the war on others rather than the invader;URW: Discrediting Ukraine	URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Discrediting Ukraine: Ukraine is a hub for criminal activities
+HI_193.txt	Other	Other
+HI_366.txt	URW: Amplifying war-related fears;URW: Speculating war outcomes	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Speculating war outcomes: Other
+HI_102.txt	URW: Russia is the Victim	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_238.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Earth will be uninhabitable soon
+HI_145.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Doomsday scenarios for humans
+HI_21.txt	URW: Praise of Russia;URW: Praise of Russia;URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_339.txt	Other	Other
+HI_347.txt	URW: Praise of Russia;URW: Negative Consequences for the West	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+HI_304.txt	URW: Speculating war outcomes;URW: Speculating war outcomes	URW: Speculating war outcomes: Russian army is collapsing;URW: Speculating war outcomes: Russian army will lose all the occupied territories
+HI_57.txt	URW: Distrust towards Media;URW: Distrust towards Media	URW: Distrust towards Media: Other;URW: Distrust towards Media: Western media is an instrument of propaganda
+HI_14.txt	Other	Other
+HI_117.txt	URW: Overpraising the West;URW: Negative Consequences for the West;URW: Negative Consequences for the West;URW: Distrust towards Media;URW: Praise of Russia;URW: Discrediting the West, Diplomacy;URW: Praise of Russia;URW: Praise of Russia	URW: Overpraising the West: The West has the strongest international support;URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire;URW: Negative Consequences for the West: The conflict will increase the Ukrainian refugee flows to Europe;URW: Distrust towards Media: Western media is an instrument of propaganda;URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests;URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Praise of Russia: Praise of Russian military might
+HI_223.txt	URW: Distrust towards Media;URW: Amplifying war-related fears;URW: Speculating war outcomes	URW: Distrust towards Media: Other;URW: Amplifying war-related fears: Russia will also attack other countries;URW: Speculating war outcomes: Other
+HI_266.txt	URW: Praise of Russia;URW: Amplifying war-related fears;URW: Amplifying war-related fears	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Amplifying war-related fears: Other;URW: Amplifying war-related fears: By continuing the war we risk WWIII
+HI_49.txt	URW: Praise of Russia;URW: Speculating war outcomes	URW: Praise of Russia: Praise of Russian President Vladimir Putin;URW: Speculating war outcomes: Other
+HI_375.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Russian army is collapsing
+HI_332.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_281.txt	URW: Blaming the war on others rather than the invader;URW: Speculating war outcomes	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Speculating war outcomes: Russian army will lose all the occupied territories
+HI_138.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_61.txt	URW: Distrust towards Media;URW: Russia is the Victim	URW: Distrust towards Media: Western media is an instrument of propaganda;URW: Russia is the Victim: The West is russophobic
+HI_168.txt	URW: Discrediting the West, Diplomacy;URW: Discrediting Ukraine	URW: Discrediting the West, Diplomacy: Diplomacy does/will not work;URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+HI_153.txt	Other	Other
+HI_196.txt	URW: Discrediting Ukraine;URW: Praise of Russia	URW: Discrediting Ukraine: Situation in Ukraine is hopeless;URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_294.txt	CC: Criticism of institutions and authorities;CC: Green policies are geopolitical instruments	CC: Criticism of institutions and authorities: Other;CC: Green policies are geopolitical instruments: Climate-related international relations are abusive/exploitative
+HI_251.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_245.txt	Other	Other
+HI_174.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+HI_202.txt	URW: Blaming the war on others rather than the invader;URW: Russia is the Victim;URW: Discrediting Ukraine	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Discrediting Ukraine: Ukraine is a puppet of the West
+HI_395.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_131.txt	Other	Other
+HI_1.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+HI_219.txt	Other	Other
+HI_296.txt	Other	Other
+HI_288.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Doomsday scenarios for humans;CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_253.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Amplifying war-related fears: Russia will also attack other countries
+HI_210.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_273.txt	URW: Distrust towards Media;URW: Hidden plots by secret schemes of powerful groups	URW: Distrust towards Media: Western media is an instrument of propaganda;URW: Hidden plots by secret schemes of powerful groups: Other
+HI_40.txt	Other	Other
+HI_103.txt	URW: Blaming the war on others rather than the invader;URW: Negative Consequences for the West;URW: Russia is the Victim	URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Negative Consequences for the West: Other;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_83.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is a puppet of the West
+HI_189.txt	URW: Russia is the Victim;URW: Speculating war outcomes;URW: Amplifying war-related fears	URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Speculating war outcomes: Other;URW: Amplifying war-related fears: Other
+HI_367.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_230.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian President Vladimir Putin
+HI_324.txt	Other	Other
+HI_146.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_239.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_352.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_180.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_268.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+HI_318.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_77.txt	Other	Other
+HI_225.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_224.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_267.txt	Other	Other
+HI_195.txt	Other	Other
+HI_99.txt	URW: Amplifying war-related fears;URW: Russia is the Victim;URW: Praise of Russia;URW: Praise of Russia	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence;URW: Praise of Russia: Russia is a guarantor of peace and prosperity;URW: Praise of Russia: Praise of Russian military might
+HI_56.txt	URW: Amplifying war-related fears;URW: Russia is the Victim	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+HI_13.txt	URW: Russia is the Victim;URW: Discrediting the West, Diplomacy	URW: Russia is the Victim: The West is russophobic;URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests
+HI_118.txt	URW: Speculating war outcomes;URW: Negative Consequences for the West	URW: Speculating war outcomes: Other;URW: Negative Consequences for the West: The conflict will increase the Ukrainian refugee flows to Europe
+HI_380.txt	Other	Other
+HI_274.txt	Other	Other
+HI_231.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_389.txt	URW: Amplifying war-related fears;URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed;URW: Amplifying war-related fears: Russia will also attack other countries
+HI_303.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_346.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Other
+HI_62.txt	URW: Discrediting Ukraine;URW: Speculating war outcomes	URW: Discrediting Ukraine: Situation in Ukraine is hopeless;URW: Speculating war outcomes: Ukrainian army is collapsing
+HI_124.txt	URW: Speculating war outcomes;URW: Discrediting Ukraine;URW: Speculating war outcomes;URW: Speculating war outcomes;URW: Overpraising the West;URW: Overpraising the West;URW: Praise of Russia	URW: Speculating war outcomes: Ukrainian army is collapsing;URW: Discrediting Ukraine: Situation in Ukraine is hopeless;URW: Speculating war outcomes: Russian army will lose all the occupied territories;URW: Speculating war outcomes: Russian army is collapsing;URW: Overpraising the West: The West has the strongest international support;URW: Overpraising the West: The West belongs in the right side of history;URW: Praise of Russia: Praise of Russian military might
+HI_218.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_252.txt	Other	Other
+HI_295.txt	CC: Amplifying Climate Fears;CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming;CC: Amplifying Climate Fears: Other
+HI_374.txt	URW: Praise of Russia;URW: Amplifying war-related fears;URW: Speculating war outcomes;URW: Blaming the war on others rather than the invader;URW: Amplifying war-related fears	URW: Praise of Russia: Russia has international support from a number of countries and people;URW: Amplifying war-related fears: By continuing the war we risk WWIII;URW: Speculating war outcomes: Other;URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Amplifying war-related fears: Russia will also attack other countries
+HI_90.txt	URW: Negative Consequences for the West;URW: Blaming the war on others rather than the invader;URW: Blaming the war on others rather than the invader;URW: Discrediting Ukraine;URW: Amplifying war-related fears	URW: Negative Consequences for the West: Other;URW: Blaming the war on others rather than the invader: Ukraine is the aggressor;URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Amplifying war-related fears: Russia will also attack other countries
+HI_167.txt	Other	Other
+HI_203.txt	Other	Other
+HI_331.txt	Other	Other

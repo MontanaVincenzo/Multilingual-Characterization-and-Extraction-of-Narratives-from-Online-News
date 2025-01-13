@@ -1,0 +1,29 @@
+HI_26.txt	URW: Praise of Russia	none
+HI_160.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: The West are the aggressors
+HI_51.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests
+HI_114.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+HI_152.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_35.txt	URW: Distrust towards Media	URW: Distrust towards Media: Western media is an instrument of propaganda
+HI_134.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_71.txt	URW: Blaming the war on others rather than the invader	none
+HI_19.txt	URW: Hidden plots by secret schemes of powerful groups	none
+HI_139.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_126.txt	URW: Discrediting the West, Diplomacy	none
+HI_151.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_125.txt	URW: Discrediting the West, Diplomacy	none
+HI_97.txt	URW: Speculating war outcomes	none
+HI_143.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_156.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+HI_75.txt	URW: Amplifying war-related fears	none
+HI_5.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: NATO should/will directly intervene
+HI_154.txt	URW: Amplifying war-related fears	none
+HI_28.txt	URW: Hidden plots by secret schemes of powerful groups	none
+HI_107.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+HI_159.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+HI_110.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: Russia will also attack other countries
+HI_158.txt	URW: Blaming the war on others rather than the invader	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+HI_140.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+HI_38.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+HI_4.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+HI_95.txt	URW: Amplifying war-related fears	none
+HI_34.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Russian army will lose all the occupied territories

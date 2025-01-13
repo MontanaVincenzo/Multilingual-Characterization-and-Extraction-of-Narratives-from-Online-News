@@ -1,0 +1,57 @@
+The Fed’s Climate Studies Are Full Of Hot Air 
+
+ The Federal Reserve’s credibility is in tatters.
+
+It predicted low inflation through 2021 even as the money supply exploded and higher inflation followed. To catch up, it quickly raised interest rates, stressing many banks, and Fed examiners failed to act before depositors noticed that Silicon Valley Bank was insolvent.
+
+The result was bank runs and panic. But instead of lowering inflation and preventing recession, many of the Fed’s 400 economists are busy fighting climate change. [emphasis, links added]
+
+Examples of climate activism abound.
+
+This year the Fed is forcing big banks to produce complex reports on their climate vulnerability in a “pilot project” that is sure to expand and might lead to lending restrictions.
+
+A query of the Fed’s listing of recent publications returns hundreds of research papers, press releases, and policy statements related to climate change. The San Francisco Fed hosted a conference on climate change in May, in which 27 Fed economists participated.
+
+With all this effort, one might hope the Fed would produce high-quality research on climate change. But I took a close look at two Fed studies on the subject and found shockingly poor analysis.
+
+These studies on the effect of temperature on U.S. and world economic growth are cited without a hint of skepticism and widely lavished with media attention. I’ve managed to debunk both.
+
+In the September issue of Econ Journal Watch, I discredited a paper from the Richmond Fed claiming that warming reduces economic growth in the U.S.
+
+I showed that the paper had serious problems with its statistical reasoning and robustness. My analysis concluded that the data used in the paper showed no meaningful relationship between temperatures and growth.
+
+More recently I published a critique of a study from the Federal Reserve Board claiming that a year of above-normal temperatures in countries around the world makes economic contraction more likely.
+
+The original study used sophisticated statistical techniques but failed to report that its primary finding was statistically insignificant. My request to the study’s author for computer code to reproduce the paper’s results went unanswered.
+
+I managed to write the code from scratch and exactly replicate the results, allowing me to run additional tests that the author didn’t report.
+
+The author’s primary result—that temperature has a bigger effect in bad than in good economic times—turned out to be statistically insignificant. Additional analysis showed that there is no reliable effect of temperature on growth at all.
+
+There are two main reasons why the Fed study appeared at first to show a statistically significant effect of temperatures on economic growth. First, each country in the sample had equal weight in the analysis.
+
+China had the same weight as St. Vincent though China’s population is 13,000 times as large. Equal weighting means that some small countries with unusual histories of economic growth greatly influenced the results.
+
+The paper’s results disappeared when countries like Rwanda and Equatorial Guinea—which had economic catastrophes and bonanzas unrelated to climate change—were omitted.
+
+Omitting similar countries representing less than 1% of the world’s gross domestic product was enough to eliminate the paper’s result. The complicated statistical techniques used in the Fed study magnified the influence of these unusual countries.
+
+There’s a second reason why the Fed study appears to find that temperature affects growth: Many poor countries have warm climates.
+
+A warm climate doesn’t preclude economic growth, as is demonstrated by Florida, Arizona, Taiwan, Singapore, and several Persian Gulf states. But the average poor country is warmer than the average rich country.
+
+Debate continues as to whether this correlation is random or causal, but the hypothesis of the Fed paper is that year-to-year increases in temperature reduce annual economic growth.
+
+The paper claims that its method controls for long-term differences in climate, but using simulated data I found that the Fed paper’s method can be fooled into finding an effect that doesn’t exist.
+
+The only thing to learn from the Fed’s research is that climate propaganda is spreading fast, and when it comes to climate, academic economists are no more deserving of trust than are other supposed scientists and experts.
+
+The Fed’s time would be better spent on more urgent matters, like improving its botched regulation of the banking system.
+
+h/t Steve B.
+
+Read more at WSJ
+
+Join our list
+
+Subscribe to our mailing list and get interesting stuff and updates to your email inbox.

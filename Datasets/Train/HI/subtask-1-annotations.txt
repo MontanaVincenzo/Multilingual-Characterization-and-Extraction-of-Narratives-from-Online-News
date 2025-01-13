@@ -1,0 +1,2331 @@
+HI_27.txt	दिल्ली मेईतेई समन्वय समिति (डीएमसीसी	11	46	Protagonist	Virtuous
+HI_27.txt	नरेंद्र मोदी	65	76	Antagonist	Bigot
+HI_27.txt	यूक्रेन	112	118	Innocent	Victim
+HI_27.txt	मणिपुर	167	172	Innocent	Victim
+HI_27.txt	मोदी	373	376	Protagonist	Peacemaker
+HI_27.txt	मणिपुर	416	421	Innocent	Victim	Forgotten
+HI_27.txt	प्रधानमंत्री	589	600	Antagonist	Bigot
+HI_27.txt	मोदी	823	826	Protagonist	Guardian
+HI_27.txt	भारत सरकार	1030	1039	Antagonist	Incompetent
+HI_27.txt	मणिपुर	1132	1137	Innocent	Forgotten
+HI_27.txt	केंद्र सरकार	1200	1211	Antagonist	Traitor
+HI_27.txt	राज्य	1301	1305	Innocent	Exploited
+HI_104.txt	नरेन्द्र मोदी	72	84	Protagonist	Virtuous
+HI_104.txt	नई दिल्ली	255	263	Protagonist	Peacemaker
+HI_104.txt	यूक्रेन	792	798	Innocent	Victim
+HI_104.txt	रूसी	803	806	Antagonist	Instigator	Tyrant
+HI_104.txt	भारत	1123	1126	Protagonist	Peacemaker	Virtuous
+HI_104.txt	रूस	1484	1486	Antagonist	Instigator
+HI_104.txt	यूक्रेन	1567	1573	Protagonist	Rebel
+HI_104.txt	जेलेंस्की	1728	1736	Antagonist	Foreign Adversary
+HI_104.txt	पुतिन	1741	1745	Antagonist	Foreign Adversary
+HI_104.txt	मोदी सरकार	2328	2337	Protagonist	Virtuous
+HI_104.txt	जवाहरलाल नेहरू	2433	2446	Protagonist	Virtuous
+HI_201.txt	मोदी	202	205	Protagonist	Guardian
+HI_201.txt	पश्चिमी देश	337	347	Antagonist	Foreign Adversary
+HI_201.txt	नरेन्द्र मोदी	388	400	Protagonist	Guardian
+HI_201.txt	पुतिन	617	621	Protagonist	Virtuous
+HI_201.txt	भारत	1000	1003	Protagonist	Virtuous
+HI_201.txt	रूस	1008	1010	Protagonist	Virtuous
+HI_201.txt	व्लादिमीर पुतिन	1259	1273	Protagonist	Virtuous
+HI_201.txt	अमेरिका	1741	1747	Antagonist	Foreign Adversary
+HI_201.txt	चीन	2006	2008	Antagonist	Foreign Adversary
+HI_201.txt	श्चिमी देश	2412	2421	Antagonist	Foreign Adversary
+HI_201.txt	मोदी	3623	3626	Protagonist	Peacemaker
+HI_280.txt	पुतिन	195	199	Protagonist	Virtuous	Guardian
+HI_280.txt	मोदी	419	422	Protagonist	Virtuous
+HI_280.txt	यूक्रेन	641	647	Antagonist	Foreign Adversary
+HI_280.txt	ज़ेलेंस्की	663	672	Protagonist	Underdog
+HI_280.txt	डोभाल	767	771	Protagonist	Guardian
+HI_368.txt	जो बाइडन	185	192	Antagonist	Foreign Adversary
+HI_368.txt	रूस	377	379	Antagonist	Foreign Adversary
+HI_191.txt	मोदी	102	105	Protagonist	Virtuous	Guardian
+HI_191.txt	पुतिन	299	303	Protagonist	Virtuous
+HI_191.txt	भारत	381	384	Protagonist	Virtuous
+HI_191.txt	नरेंद्र मोदी	402	413	Protagonist	Virtuous	Guardian
+HI_191.txt	रूस	1554	1556	Protagonist	Virtuous
+HI_112.txt	रूस	79	81	Innocent	Victim
+HI_112.txt	यूक्रेन	158	164	Antagonist	Instigator	Terrorist
+HI_112.txt	यूक्रेनी सैनिकों	340	355	Antagonist	Terrorist
+HI_112.txt	यूरोप	607	611	Innocent	Victim
+HI_112.txt	पुतिन	811	815	Innocent	Victim
+HI_112.txt	सर्गेई मिरोनोव	920	933	Protagonist	Guardian
+HI_112.txt	कुर्स्क	1064	1070	Innocent	Victim
+HI_112.txt	एलेक्सी स्मिरनोव	1102	1117	Protagonist	Guardian
+HI_112.txt	निवासियों	1153	1161	Innocent	Victim
+HI_112.txt	सेना	1342	1345	Protagonist	Guardian
+HI_112.txt	संघीय सुरक्षा सेवा (FSB	1350	1372	Protagonist	Guardian
+HI_112.txt	यूक्रेनी इकाइयों	1423	1438	Antagonist	Foreign Adversary
+HI_112.txt	यूक्रेनी सेना	1845	1857	Antagonist	Terrorist
+HI_112.txt	राष्ट्रपति जेलेंस्की	1895	1914	Antagonist	Foreign Adversary
+HI_112.txt	यूक्रेन	3189	3195	Antagonist	Instigator
+HI_2.txt	नरेंद्र मोदी	13	24	Protagonist	Guardian
+HI_2.txt	व्लादिमीर पुतिन	103	117	Protagonist	Guardian
+HI_2.txt	पश्चिमी देश	200	210	Antagonist	Saboteur
+HI_2.txt	मोदी	230	233	Protagonist	Rebel
+HI_2.txt	पश्चिमी नेताओं	313	326	Antagonist	Bigot
+HI_2.txt	यूरोप	361	365	Innocent	Exploited
+HI_2.txt	पश्चिम	417	422	Protagonist	Virtuous
+HI_2.txt	पुतिन	437	441	Innocent	Forgotten
+HI_2.txt	अमेरिका	446	452	Protagonist	Virtuous
+HI_2.txt	पश्चिमी	470	476	Protagonist	Virtuous
+HI_2.txt	यूक्रेन	501	507	Innocent	Victim
+HI_2.txt	यूक्रेन	620	626	Innocent	Victim
+HI_2.txt	रूसी	631	634	Antagonist	Foreign Adversary
+HI_2.txt	भारत	727	730	Protagonist	Virtuous
+HI_2.txt	मास्को	1482	1487	Antagonist	Foreign Adversary
+HI_2.txt	वॉशिंगटन	1492	1499	Antagonist	Foreign Adversary
+HI_2.txt	अमेरिका	1521	1527	Innocent	Scapegoat
+HI_2.txt	रूस-	1548	1551	Antagonist	Foreign Adversary
+HI_2.txt	भारत-	1552	1556	Antagonist	Foreign Adversary
+HI_2.txt	चीन	1557	1559	Antagonist	Foreign Adversary
+HI_2.txt	मास्को	1605	1610	Protagonist	Guardian
+HI_2.txt	भारत	1659	1662	Antagonist	Foreign Adversary
+HI_2.txt	चीन	1667	1669	Antagonist	Foreign Adversary
+HI_279.txt	ब्रिटेन	88	94	Protagonist	Guardian
+HI_279.txt	अमेरिका	99	105	Protagonist	Guardian
+HI_279.txt	यूक्रेन	110	116	Protagonist	Underdog
+HI_279.txt	रूस	121	123	Antagonist	Foreign Adversary	Tyrant
+HI_279.txt	सर कीएर स्टार्मर	237	252	Protagonist	Guardian
+HI_279.txt	जो बाइडन	276	283	Protagonist	Guardian
+HI_279.txt	बाइडन	569	573	Protagonist	Guardian
+HI_279.txt	व्हाइट हाउस	752	762	Protagonist	Guardian
+HI_279.txt	ईरान	784	787	Antagonist	Foreign Adversary
+HI_279.txt	उत्तर कोरिया	792	803	Antagonist	Foreign Adversary
+HI_279.txt	व्लादिमीर पुतिन	900	914	Protagonist	Rebel	Guardian
+HI_279.txt	पुतिन	1036	1040	Protagonist	Rebel	Guardian
+HI_279.txt	नेटो	1090	1093	Protagonist	Virtuous
+HI_279.txt	सर कीएर	1129	1135	Protagonist	Guardian
+HI_58.txt	भारत-	97	101	Protagonist	Guardian
+HI_58.txt	जापान	102	106	Protagonist	Guardian
+HI_58.txt	चीन	616	618	Antagonist	Foreign Adversary
+HI_58.txt	रूस	1023	1025	Antagonist	Tyrant
+HI_256.txt	जेलेंस्की	166	174	Protagonist	Guardian	Underdog
+HI_256.txt	अमेरिका	225	231	Antagonist	Foreign Adversary
+HI_256.txt	अमेरिका	630	636	Protagonist	Virtuous
+HI_256.txt	ब्रिटेन	641	647	Protagonist	Virtuous
+HI_256.txt	जो बाइडेन	1741	1749	Protagonist	Virtuous
+HI_337.txt	रूस	165	167	Antagonist	Tyrant
+HI_384.txt	यूक्रेन	110	116	Protagonist	Rebel	Underdog
+HI_384.txt	रूस	121	123	Antagonist	Foreign Adversary
+HI_384.txt	व्लादिमीर पुतिन	421	435	Protagonist	Rebel	Guardian
+HI_120.txt	यूक्रेन	190	196	Protagonist	Underdog
+HI_120.txt	रूस	347	349	Antagonist	Tyrant
+HI_120.txt	चीन	408	410	Antagonist	Foreign Adversary
+HI_120.txt	NATO सहयोगी	505	515	Protagonist	Guardian
+HI_120.txt	अमेरिका	702	708	Protagonist	Guardian
+HI_120.txt	यूरोपीय देशों	713	725	Protagonist	Guardian
+HI_120.txt	अमेरिका	1676	1682	Antagonist	Deceiver
+HI_120.txt	चार्ल्स ब्राउन जूनियर	1779	1799	Protagonist	Virtuous
+HI_287.txt	भारत	99	102	Protagonist	Virtuous
+HI_287.txt	ग्लासगो	204	210	Protagonist	Guardian
+HI_287.txt	प्रधानमंत्री	358	369	Protagonist	Virtuous
+HI_9.txt	रूस	0	2	Protagonist	Peacemaker
+HI_9.txt	पश्चिम	7	12	Protagonist	Peacemaker
+HI_82.txt	पीएम मोदी	409	417	Protagonist	Peacemaker
+HI_82.txt	नरेंद्र मोदी	551	562	Protagonist	Guardian
+HI_82.txt	रूस	1266	1268	Protagonist	Virtuous
+HI_82.txt	यूक्रेन	1624	1630	Protagonist	Virtuous
+HI_82.txt	भारत	1894	1897	Protagonist	Peacemaker
+HI_82.txt	पीएम मोदी	3375	3383	Protagonist	Peacemaker	Virtuous
+HI_82.txt	मोदी	4130	4133	Protagonist	Virtuous
+HI_272.txt	यूलिया नवेलनी	103	115	Protagonist	Rebel
+HI_272.txt	एलेक्सी नवेलनी	263	276	Protagonist	Rebel
+HI_272.txt	नवेलनी	358	363	Protagonist	Rebel
+HI_272.txt	पुतिन	382	386	Antagonist	Tyrant
+HI_272.txt	चरमपंथ	490	495	Antagonist	Saboteur
+HI_272.txt	जो बाइडन	877	884	Protagonist	Virtuous
+HI_272.txt	पुतिन	939	943	Antagonist	Terrorist	Tyrant
+HI_272.txt	रूस	961	963	Antagonist	Deceiver
+HI_208.txt	भीम	679	681	Protagonist	Rebel
+HI_208.txt	ठाकुरों	751	757	Antagonist	Corrupt
+HI_208.txt	कृषि विकास अधिकारी	783	800	Antagonist	Deceiver
+HI_208.txt	भीम	1146	1148	Innocent	Forgotten
+HI_208.txt	ग्रामीण परिवार	1463	1476	Innocent	Exploited	Victim
+HI_208.txt	वन गुर्जरों	6655	6665	Innocent	Exploited
+HI_208.txt	अनुसूचित जाति	6812	6824	Innocent	Exploited
+HI_353.txt	ट्रंप	1337	1341	Protagonist	Peacemaker	Virtuous	Guardian
+HI_175.txt	यूक्रेन	82	88	Protagonist	Underdog
+HI_175.txt	रूसी सैनिक	125	134	Antagonist	Foreign Adversary	Tyrant
+HI_175.txt	रूसी	319	322	Antagonist	Instigator
+HI_175.txt	यूक्रेनी रक्षकों	518	533	Protagonist	Underdog
+HI_175.txt	मारियुपोल	640	648	Innocent	Victim
+HI_175.txt	अलेक्जेंड्रोव्का बस्ती	695	716	Innocent	Victim
+HI_175.txt	रूसी सेना	731	739	Antagonist	Tyrant
+HI_175.txt	यूक्रेनी रक्षा मंत्रालय	784	806	Protagonist	Guardian
+HI_175.txt	अन्ना माल्यर	1012	1023	Protagonist	Guardian
+HI_175.txt	कॉन्स्टेंटिन रेज़ेंको	1627	1647	Innocent	Victim
+HI_305.txt	रूस	92	94	Antagonist	Foreign Adversary
+HI_305.txt	यूक्रेन	112	118	Protagonist	Underdog
+HI_305.txt	यूक्रेनी सैनिकों	121	136	Protagonist	Guardian	Underdog
+HI_305.txt	रूसी सेना	203	211	Antagonist	Incompetent	Tyrant
+HI_305.txt	यूक्रेनी सेना	236	248	Protagonist	Guardian	Underdog
+HI_305.txt	रूसियों	298	304	Innocent	Victim
+HI_305.txt	रूस	507	509	Antagonist	Foreign Adversary	Tyrant
+HI_305.txt	पुतिन	514	518	Antagonist	Foreign Adversary	Tyrant
+HI_305.txt	व्लादिमीर पुतिन	583	597	Protagonist	Rebel	Guardian
+HI_305.txt	रूसी सैनिक	659	668	Antagonist	Incompetent
+HI_305.txt	कुर्स्क	853	859	Innocent	Victim
+HI_305.txt	कीव	953	955	Protagonist	Guardian	Underdog
+HI_399.txt	रूस	167	169	Antagonist	Instigator	Tyrant
+HI_399.txt	यूक्रेन	174	180	Innocent	Victim
+HI_399.txt	नागरिकों	250	257	Innocent	Victim
+HI_399.txt	वोलोदिमीर जेलेंस्की	323	341	Protagonist	Guardian	Underdog
+HI_399.txt	खेरसॉन	414	419	Innocent	Victim
+HI_399.txt	मायकोलाइव	433	441	Innocent	Victim
+HI_399.txt	क्रिवी रिह	501	510	Innocent	Victim
+HI_399.txt	पश्चिमी देशों	750	762	Antagonist	Foreign Adversary
+HI_399.txt	अमेरिका	771	777	Antagonist	Foreign Adversary
+HI_399.txt	डोनाल्ड ट्रंप	852	864	Protagonist	Guardian
+HI_313.txt	रूस	55	57	Antagonist	Tyrant
+HI_313.txt	डॉक्टर	148	153	Innocent	Exploited	Victim
+HI_313.txt	यूक्रेन	158	164	Innocent	Victim
+HI_313.txt	रूसी सैनिक	460	469	Protagonist	Rebel	Guardian
+HI_321.txt	मारिया ज़ोलकीना	34	48	Protagonist	Guardian
+HI_321.txt	रूसी सेनाएं	76	86	Antagonist	Tyrant
+HI_321.txt	दोनेत्स्क	88	96	Innocent	Victim
+HI_321.txt	यूक्रेन	141	147	Protagonist	Underdog
+HI_321.txt	पक्रौस्क	198	205	Innocent	Victim
+HI_321.txt	बुग्लेडार	210	218	Innocent	Victim
+HI_321.txt	रूसी सेना	242	250	Antagonist	Tyrant
+HI_321.txt	निप्रोव	357	363	Protagonist	Guardian	Underdog
+HI_321.txt	यूक्रेनी सेना	490	502	Protagonist	Guardian	Underdog
+HI_321.txt	ज़ेलेंस्की	555	564	Protagonist	Guardian
+HI_321.txt	नेटो	658	661	Protagonist	Guardian
+HI_321.txt	पश्चिमी देशों	779	791	Protagonist	Virtuous	Guardian
+HI_321.txt	रूस	796	798	Antagonist	Foreign Adversary
+HI_232.txt	वैज्ञानिकों	126	136	Protagonist	Virtuous
+HI_232.txt	यूएन	433	436	Protagonist	Guardian
+HI_127.txt	रूसी राष्ट्रपति	219	233	Antagonist	Foreign Adversary	Tyrant
+HI_127.txt	यूक्रेन	287	293	Innocent	Victim
+HI_127.txt	वोलोदिमीर जेलेंस्की	309	327	Antagonist	Saboteur
+HI_127.txt	रूस	404	406	Antagonist	Foreign Adversary	Tyrant
+HI_127.txt	संयुक्त राष्ट्र	514	528	Protagonist	Virtuous	Guardian
+HI_127.txt	पुतिन	704	708	Antagonist	Instigator	Terrorist
+HI_127.txt	वासिली नेबेंजिया	1193	1208	Antagonist	Foreign Adversary
+HI_98.txt	रूस	362	364	Protagonist	Rebel
+HI_98.txt	पुतिन	516	520	Protagonist	Guardian
+HI_20.txt	नरेन्द्र मोदी	13	25	Protagonist	Guardian
+HI_20.txt	भारतीय	2189	2194	Innocent	Exploited
+HI_144.txt	पेड़ों	272	277	Protagonist	Guardian
+HI_330.txt	रूस	74	76	Protagonist	Rebel
+HI_330.txt	अनातोली खरापचिन्सिकी	334	353	Protagonist	Guardian
+HI_66.txt	नागरिक उड्डयन क्षेत्र	3649	3669	Innocent	Victim
+HI_66.txt	रूसी एयरलाइंस	3691	3703	Innocent	Victim
+HI_66.txt	अमेरिका	3763	3769	Innocent	Victim
+HI_66.txt	यूरोपीय देश	4388	4398	Innocent	Scapegoat
+HI_66.txt	अमेरिका	4400	4406	Antagonist	Foreign Adversary
+HI_66.txt	रूस	4411	4413	Antagonist	Foreign Adversary
+HI_66.txt	यूक्रेन	6304	6310	Innocent	Victim
+HI_66.txt	मास्को	6315	6320	Antagonist	Tyrant
+HI_66.txt	मॉस्को	7168	7173	Protagonist	Guardian
+HI_66.txt	रूस	8996	8998	Antagonist	Conspirator
+HI_66.txt	राष्ट्रपति वलोडिमिर जेलेंस्की	9276	9304	Innocent	Victim
+HI_66.txt	पश्चिम	9632	9637	Antagonist	Foreign Adversary
+HI_66.txt	चीन	9642	9644	Antagonist	Foreign Adversary
+HI_66.txt	रूस	9662	9664	Antagonist	Foreign Adversary
+HI_66.txt	रूस	10827	10829	Protagonist	Guardian
+HI_240.txt	लैंसडाउन	154	161	Innocent	Victim
+HI_392.txt	ट्रंप	157	161	Protagonist	Guardian
+HI_392.txt	बाइडेन	212	217	Protagonist	Rebel
+HI_392.txt	अमेरिकी प्रशासन	366	380	Protagonist	Guardian
+HI_392.txt	यूक्रेन	385	391	Protagonist	Underdog
+HI_392.txt	जेलेंस्की	481	489	Protagonist	Guardian	Underdog
+HI_392.txt	रूस	657	659	Antagonist	Foreign Adversary
+HI_392.txt	ट्रंप	788	792	Protagonist	Peacemaker
+HI_198.txt	अमेरिका	1577	1583	Protagonist	Virtuous	Guardian
+HI_328.txt	रूस	48	50	Protagonist	Rebel
+HI_328.txt	यूक्रेन	962	968	Innocent	Victim
+HI_91.txt	यूक्रेन	77	83	Antagonist	Instigator
+HI_91.txt	सारातोव	88	94	Innocent	Victim
+HI_91.txt	कुर्स्क	149	155	Innocent	Victim
+HI_91.txt	व्लादिमीर पुतिन	209	223	Protagonist	Guardian
+HI_91.txt	रूस	318	320	Protagonist	Rebel
+HI_91.txt	नाटो सेना	1512	1520	Antagonist	Foreign Adversary
+HI_74.txt	भारत	799	802	Protagonist	Peacemaker
+HI_74.txt	स्विट्जरलैंड	1028	1039	Protagonist	Peacemaker
+HI_74.txt	भारत	2270	2273	Protagonist	Peacemaker
+HI_74.txt	भारत	2680	2683	Protagonist	Peacemaker
+HI_183.txt	नाटो	185	188	Antagonist	Foreign Adversary
+HI_183.txt	फिनलैंड	267	273	Antagonist	Foreign Adversary
+HI_183.txt	अमेरिका	2450	2456	Antagonist	Foreign Adversary
+HI_217.txt	डोनाल्ड ट्रंप	356	368	Protagonist	Virtuous
+HI_217.txt	जेलेंस्की	484	492	Antagonist	Incompetent
+HI_166.txt	यूक्रेन	21	27	Antagonist	Instigator
+HI_166.txt	रूस	41	43	Innocent	Victim
+HI_166.txt	रूस	440	442	Antagonist	Instigator	Foreign Adversary
+HI_166.txt	वालेरी स्टावित्स्की	470	488	Antagonist	Instigator	Foreign Adversary
+HI_166.txt	ऑलेक्जेंडर मारिकोव्स्की	508	530	Innocent	Victim
+HI_166.txt	यूक्रेनी सांसद	588	601	Protagonist	Rebel	Guardian
+HI_166.txt	युवा यूक्रेनी सांसद	673	691	Protagonist	Rebel	Guardian
+HI_166.txt	रूसी सदस्य	705	714	Antagonist	Foreign Adversary
+HI_247.txt	यूक्रेन	116	122	Innocent	Victim
+HI_247.txt	ऊर्जा ठिकाने	205	216	Innocent	Victim
+HI_247.txt	व्यक्ति	250	256	Innocent	Victim
+HI_247.txt	रूसी सेना	340	348	Antagonist	Tyrant
+HI_247.txt	कीव	469	471	Innocent	Victim
+HI_247.txt	व्लादिमिर जेलेंस्की	883	901	Protagonist	Underdog
+HI_247.txt	नाटो	1336	1339	Protagonist	Guardian
+HI_136.txt	शेल	4903	4905	Antagonist	Deceiver
+HI_136.txt	एयरलाइन केएलएम	5284	5297	Antagonist	Deceiver
+HI_136.txt	टोटल एनर्जीज़	5360	5372	Antagonist	Deceiver
+HI_136.txt	फ्रांसीसी विज्ञापन निगरानी संस्था	5974	6006	Protagonist	Virtuous	Guardian
+HI_119.txt	गौरव गोगोई	159	168	Protagonist	Rebel	Guardian
+HI_119.txt	नरेंद्र मोदी	316	327	Antagonist	Incompetent
+HI_119.txt	मणिपुर	374	379	Innocent	Victim	Forgotten
+HI_119.txt	मेइतेई	1097	1102	Innocent	Forgotten
+HI_119.txt	कुकी	1107	1110	Innocent	Forgotten
+HI_119.txt	पूर्वोत्तर	1522	1531	Innocent	Forgotten
+HI_264.txt	रूस	147	149	Antagonist	Tyrant
+HI_264.txt	यूक्रेन	154	160	Protagonist	Underdog
+HI_264.txt	डोनेट्स्क	172	180	Innocent	Victim
+HI_264.txt	सेरेब्रियांका	194	206	Innocent	Victim
+HI_264.txt	मायकोलाइवका	211	221	Innocent	Victim
+HI_264.txt	रूसी सेना	287	295	Antagonist	Tyrant
+HI_264.txt	लॉयड ऑस्टिन	1071	1081	Protagonist	Virtuous
+HI_264.txt	ऑस्टिन	1176	1181	Protagonist	Virtuous
+HI_264.txt	दक्षिण कोरिया	1280	1292	Protagonist	Virtuous
+HI_271.txt	भारत	152	155	Antagonist	Foreign Adversary
+HI_271.txt	नरेंद्र मोदी	425	436	Protagonist	Peacemaker
+HI_271.txt	रूस	575	577	Antagonist	Tyrant
+HI_271.txt	यूक्रेन	582	588	Innocent	Victim
+HI_271.txt	मोदी	691	694	Antagonist	Incompetent
+HI_271.txt	भारत	1200	1203	Antagonist	Foreign Adversary
+HI_377.txt	व्लादिमीर पुतिन	130	144	Protagonist	Rebel	Guardian
+HI_377.txt	रूसी सेना	254	262	Protagonist	Rebel	Guardian
+HI_377.txt	क्रेमलिन	922	929	Protagonist	Rebel	Guardian
+HI_377.txt	दिमित्री पेसकोव	943	957	Protagonist	Guardian
+HI_377.txt	पेसकोव	1139	1144	Protagonist	Guardian
+HI_42.txt	भारत सरकार	139	148	Antagonist	Incompetent
+HI_42.txt	सरकार	171	175	Antagonist	Corrupt
+HI_42.txt	अंबिका तमांग	315	326	Innocent	Victim
+HI_42.txt	उरगेन तमांग	376	386	Innocent	Exploited	Victim
+HI_42.txt	रूसी सेना	388	396	Antagonist	Tyrant
+HI_42.txt	एजेंटों	2760	2766	Antagonist	Deceiver
+HI_42.txt	राजू बिस्टा	2904	2914	Protagonist	Guardian
+HI_42.txt	नेपाली/गोरखा एजेंट	3149	3166	Antagonist	Deceiver
+HI_42.txt	तमिलनाडु का एक और एजेंट	3215	3237	Antagonist	Deceiver
+HI_42.txt	चरणजीत सिंह	4330	4340	Antagonist	Corrupt
+HI_42.txt	चरणजीत सिंह	4409	4419	Antagonist	Incompetent
+HI_42.txt	भारतीय अधिकारी	4661	4674	Antagonist	Incompetent
+HI_42.txt	विदेश मंत्रालय	4907	4920	Antagonist	Deceiver
+HI_42.txt	विदेश मंत्रालय	5078	5091	Antagonist	Corrupt
+HI_360.txt	वोलोडिमिर जेलेंस्की	71	89	Antagonist	Instigator
+HI_360.txt	यूक्रेन	477	483	Antagonist	Incompetent
+HI_360.txt	ट्रंप	613	617	Protagonist	Peacemaker
+HI_3.txt	अमेरिका-	76	83	Protagonist	Peacemaker
+HI_3.txt	रूस	84	86	Protagonist	Peacemaker
+HI_3.txt	पश्चिमी	91	97	Protagonist	Peacemaker
+HI_3.txt	तुर्किये	214	221	Protagonist	Peacemaker
+HI_3.txt	इवान गेर्शकोविच	432	446	Innocent	Scapegoat
+HI_3.txt	अमेरिका	492	498	Protagonist	Peacemaker
+HI_3.txt	रूस	503	505	Protagonist	Peacemaker
+HI_3.txt	इवान गेर्शकोविच	1114	1128	Innocent	Scapegoat
+HI_3.txt	इवान	1241	1244	Antagonist	Spy
+HI_3.txt	पॉल व्हेलन	1452	1461	Innocent	Scapegoat
+HI_3.txt	अलसु कुर्माशेवा	1483	1497	Innocent	Scapegoat
+HI_3.txt	पॉल व्हेलन	1516	1525	Antagonist	Spy
+HI_3.txt	अलसु	1568	1571	Antagonist	Deceiver
+HI_3.txt	वादिम	1939	1943	Antagonist	Terrorist
+HI_3.txt	भारत	2381	2384	Protagonist	Guardian
+HI_50.txt	गगनदीप सिंह	166	176	Innocent	Exploited	Victim
+HI_50.txt	पंजाब	575	579	Protagonist	Guardian
+HI_50.txt	केंद्र सरकार	584	595	Protagonist	Guardian
+HI_50.txt	केंद्र सरकार	1365	1376	Protagonist	Guardian
+HI_50.txt	कुलदीप सिंह धालीवाल	1397	1415	Protagonist	Guardian
+HI_105.txt	रूसी सेना	153	161	Antagonist	Instigator
+HI_105.txt	रुबिज़ने	163	170	Innocent	Victim
+HI_105.txt	सेवरोडोनेट्स	175	186	Innocent	Victim
+HI_105.txt	यूक्रेन	550	556	Innocent	Victim
+HI_105.txt	रूसी सैनिक	641	650	Antagonist	Instigator
+HI_105.txt	जनरल स्टाफ	966	975	Protagonist	Guardian
+HI_105.txt	रूस	1002	1004	Antagonist	Tyrant
+HI_105.txt	रूसी “मिसाइलों	1596	1609	Antagonist	Instigator
+HI_121.txt	नरेंद्र मोदी	86	97	Protagonist	Virtuous	Guardian
+HI_121.txt	रूस	510	512	Protagonist	Virtuous
+HI_121.txt	यूक्रेन	700	706	Antagonist	Instigator
+HI_121.txt	भारत	2515	2518	Protagonist	Peacemaker
+HI_121.txt	पश्चिमी देशों	2649	2661	Antagonist	Foreign Adversary
+HI_121.txt	नरेन्द्र मोदी	3008	3020	Protagonist	Virtuous
+HI_121.txt	भारत	3525	3528	Antagonist	Bigot
+HI_393.txt	यूक्रेन	87	93	Protagonist	Rebel	Underdog
+HI_393.txt	रूस	141	143	Antagonist	Foreign Adversary
+HI_393.txt	नॉर्थ कोरिया	400	411	Antagonist	Foreign Adversary
+HI_393.txt	वाशिंगटन	577	584	Protagonist	Guardian
+HI_393.txt	कीव	589	591	Protagonist	Underdog
+HI_393.txt	बाइ़डेन	848	854	Protagonist	Rebel	Guardian
+HI_393.txt	ट्रंप	1262	1266	Protagonist	Guardian
+HI_393.txt	नाटो	1554	1557	Protagonist	Guardian
+HI_393.txt	जेलेंस्की	1623	1631	Protagonist	Guardian	Underdog
+HI_44.txt	भारतीय	69	74	Protagonist	Virtuous
+HI_44.txt	भारत	125	128	Protagonist	Peacemaker
+HI_44.txt	भारत	356	359	Protagonist	Virtuous
+HI_44.txt	रूस	871	873	Antagonist	Instigator
+HI_44.txt	पीएम मोदी	1067	1075	Protagonist	Peacemaker
+HI_44.txt	पुतिन	1527	1531	Protagonist	Peacemaker
+HI_44.txt	मोदी	1766	1769	Protagonist	Guardian
+HI_359.txt	जो बाइडन	274	281	Antagonist	Foreign Adversary
+HI_36.txt	जो बायडेन	22	30	Antagonist	Incompetent
+HI_36.txt	यूक्रेन	662	668	Innocent	Victim
+HI_36.txt	वोलोडिमिर ज़ेलेंस्की	1637	1656	Protagonist	Virtuous
+HI_182.txt	यूक्रेन	233	239	Innocent	Victim
+HI_182.txt	अमेरिका	3517	3523	Antagonist	Foreign Adversary
+HI_200.txt	गंभीर सिंह चौहान	419	434	Protagonist	Virtuous
+HI_176.txt	व्लादिमीर पुतिन	93	107	Protagonist	Rebel	Guardian
+HI_176.txt	कीव शासन	196	203	Antagonist	Instigator	Foreign Adversary	Tyrant
+HI_176.txt	नाटो मास्टर्स	213	225	Antagonist	Instigator	Foreign Adversary	Tyrant
+HI_176.txt	वोलोदिमीर जेलेंस्की	873	891	Antagonist	Foreign Adversary
+HI_176.txt	कुर्स्क	906	912	Innocent	Victim
+HI_176.txt	रूस	1291	1293	Protagonist	Rebel
+HI_176.txt	अमेरिका	1534	1540	Antagonist	Foreign Adversary	Deceiver
+HI_176.txt	केरीन जीन पियरे	1599	1613	Antagonist	Deceiver
+HI_286.txt	उत्तर कोरियाई सैनिक	141	159	Protagonist	Guardian
+HI_286.txt	व्लादिमीर पुतिन	245	259	Protagonist	Rebel	Guardian
+HI_286.txt	उत्तर कोरिया	459	470	Protagonist	Rebel
+HI_286.txt	दक्षिण कोरियाई खुफिया एजेंसियों	534	564	Protagonist	Virtuous
+HI_286.txt	यूक्रेन	585	591	Innocent	Victim
+HI_286.txt	योनहाप समाचार एजेंसी	685	704	Protagonist	Virtuous
+HI_286.txt	योनहाप	749	754	Protagonist	Virtuous
+HI_286.txt	यून सूक येओल	994	1005	Protagonist	Virtuous
+HI_192.txt	नॉर्वे	66	71	Antagonist	Foreign Adversary
+HI_192.txt	रूस	819	821	Protagonist	Rebel
+HI_59.txt	नरेंद्र मोदी	702	713	Antagonist	Incompetent	Deceiver
+HI_306.txt	यूक्रेन	155	161	Protagonist	Rebel	Underdog
+HI_306.txt	सेना	184	187	Protagonist	Guardian	Underdog
+HI_306.txt	रूस	192	194	Antagonist	Foreign Adversary	Tyrant
+HI_306.txt	पुतिन	822	826	Antagonist	Foreign Adversary
+HI_306.txt	जेलेंस्की	831	839	Protagonist	Guardian	Underdog
+HI_255.txt	नरेंद्र मोदी	112	123	Protagonist	Guardian
+HI_255.txt	रूस की सेना	145	155	Antagonist	Foreign Adversary
+HI_255.txt	भारतीयों	169	176	Innocent	Exploited	Victim
+HI_255.txt	भारतीय विदेश मंत्रालय	360	380	Protagonist	Guardian
+HI_255.txt	रूसी सेना	407	415	Antagonist	Foreign Adversary
+HI_255.txt	रणधीर जायसवाल	548	560	Protagonist	Guardian
+HI_255.txt	व्लादिमीर पुतिन	682	696	Protagonist	Virtuous
+HI_255.txt	पुतिन	922	926	Protagonist	Virtuous
+HI_255.txt	रूस	1068	1070	Protagonist	Virtuous
+HI_255.txt	भारतीय नौजवानों	1194	1208	Innocent	Exploited	Victim
+HI_255.txt	कबूतरबाजों	1213	1222	Antagonist	Deceiver
+HI_255.txt	भारतीय नागरिक	1633	1645	Innocent	Exploited	Victim
+HI_65.txt	रूस	188	190	Antagonist	Tyrant
+HI_65.txt	यूक्रेन	260	266	Innocent	Exploited	Victim
+HI_65.txt	खारकीव	291	296	Innocent	Exploited	Victim
+HI_65.txt	व्लादिमीर पुतिन	871	885	Antagonist	Tyrant
+HI_65.txt	अमेरिका	916	922	Antagonist	Foreign Adversary
+HI_65.txt	पश्चिमी देशों	927	939	Antagonist	Foreign Adversary
+HI_322.txt	डेमोक्रेटिक पार्टी	28	45	Protagonist	Virtuous	Guardian
+HI_322.txt	मैरी एन मार्श	81	93	Protagonist	Guardian
+HI_322.txt	अमेरिका	107	113	Protagonist	Virtuous	Guardian
+HI_322.txt	यूक्रेन	115	121	Protagonist	Underdog
+HI_322.txt	जो बाइडन	173	180	Protagonist	Virtuous	Guardian
+HI_322.txt	कमला हैरिस	198	207	Protagonist	Virtuous	Guardian
+HI_322.txt	ज़ेलेंस्की	432	441	Protagonist	Guardian	Underdog
+HI_383.txt	यूक्रेन	118	124	Protagonist	Underdog
+HI_383.txt	वलोडिमिर जेलेंस्की	140	157	Protagonist	Guardian
+HI_383.txt	रूस	173	175	Antagonist	Foreign Adversary
+HI_383.txt	डोनाल्ड ट्रंप	209	221	Protagonist	Virtuous	Guardian
+HI_383.txt	अमेरिका	226	232	Protagonist	Virtuous	Guardian
+HI_383.txt	जेलेंस्की	400	408	Protagonist	Guardian
+HI_383.txt	ट्रंप	424	428	Protagonist	Virtuous	Guardian
+HI_8.txt	इवान गेर्शकोविच	340	354	Innocent	Victim
+HI_8.txt	रूस	1004	1006	Antagonist	Deceiver
+HI_8.txt	वादिम क्रासिकोव	1114	1128	Antagonist	Terrorist
+HI_8.txt	दिमित्री पेसकोव	1439	1453	Antagonist	Deceiver
+HI_216.txt	अमेरिका	236	242	Antagonist	Foreign Adversary
+HI_216.txt	नाटो	247	250	Antagonist	Foreign Adversary
+HI_216.txt	मोदी	679	682	Protagonist	Virtuous
+HI_216.txt	यूक्रेन	840	846	Antagonist	Instigator
+HI_216.txt	अमेरिका	1410	1416	Antagonist	Instigator
+HI_216.txt	नाटो	1449	1452	Antagonist	Instigator
+HI_81.txt	उत्तरी अटलांटिक संधि संगठन (नाटो	73	104	Protagonist	Guardian
+HI_81.txt	नाटो चार्टर	644	654	Protagonist	Guardian
+HI_233.txt	साइंटिस्ट	104	112	Protagonist	Virtuous	Guardian
+HI_233.txt	वैज्ञानिक	514	522	Protagonist	Virtuous	Guardian
+HI_401.txt	बाइडेन	586	591	Antagonist	Foreign Adversary
+HI_250.txt	भारत	119	122	Protagonist	Virtuous
+HI_250.txt	रूस	127	129	Protagonist	Virtuous
+HI_250.txt	विदेशी मीडिया	173	185	Antagonist	Saboteur
+HI_250.txt	विदेशी मीडिया	491	503	Antagonist	Deceiver
+HI_312.txt	ट्रंप	77	81	Antagonist	Foreign Adversary
+HI_312.txt	भारत	133	136	Protagonist	Virtuous	Guardian
+HI_312.txt	मोदी	300	303	Protagonist	Guardian
+HI_312.txt	ट्रंप	517	521	Protagonist	Virtuous	Guardian
+HI_312.txt	अमेरिका	612	618	Protagonist	Virtuous
+HI_312.txt	बिडेन	719	723	Antagonist	Foreign Adversary
+HI_312.txt	कमला हैरिस	728	737	Antagonist	Foreign Adversary
+HI_312.txt	ट्रंप	943	947	Antagonist	Foreign Adversary	Tyrant
+HI_312.txt	भारत के छात्रों	992	1006	Innocent	Exploited	Victim
+HI_312.txt	भारत	1075	1078	Innocent	Exploited	Victim
+HI_312.txt	भारतीय	1083	1088	Innocent	Exploited	Victim
+HI_312.txt	कनाडा	1477	1481	Antagonist	Foreign Adversary
+HI_312.txt	अमित शाह	1498	1505	Innocent	Victim
+HI_312.txt	भारत	1540	1543	Protagonist	Rebel	Virtuous
+HI_312.txt	अमेरिका	1548	1554	Antagonist	Foreign Adversary	Tyrant
+HI_312.txt	बिडेन	1634	1638	Antagonist	Incompetent
+HI_312.txt	कमला हैरिस	1643	1652	Antagonist	Incompetent
+HI_312.txt	अमेरिकी सरकार	1781	1793	Antagonist	Incompetent	Foreign Adversary
+HI_338.txt	मैक्स बर्गमन	140	151	Antagonist	Foreign Adversary
+HI_398.txt	रूस	91	93	Antagonist	Instigator	Tyrant
+HI_398.txt	यूक्रेन	128	134	Innocent	Victim
+HI_398.txt	नागरिकों	243	250	Innocent	Victim
+HI_398.txt	वोलोदिमीर जेलेंस्की	317	335	Protagonist	Guardian	Underdog
+HI_398.txt	मायकोलाइव	432	440	Innocent	Victim
+HI_398.txt	खेरसॉन	511	516	Innocent	Victim
+HI_398.txt	ज़ापोरिज्जिया	521	533	Innocent	Victim
+HI_398.txt	यूक्रेन	669	675	Protagonist	Underdog
+HI_248.txt	रूस	162	164	Antagonist	Foreign Adversary	Tyrant
+HI_248.txt	खारकीव	278	283	Innocent	Victim
+HI_248.txt	बच्ची	359	363	Innocent	Victim
+HI_248.txt	12 लोग	379	384	Innocent	Victim
+HI_248.txt	ओलेह सिनीहुबोव	477	490	Protagonist	Guardian
+HI_111.txt	राष्ट्रपति व्लादिमीर पुतिन	86	111	Protagonist	Virtuous
+HI_111.txt	प्रधानमंत्री नरेंद्र मोदी	116	140	Protagonist	Virtuous	Guardian
+HI_111.txt	रूस	145	147	Protagonist	Virtuous
+HI_265.txt	रूस	228	230	Protagonist	Rebel
+HI_265.txt	ड्रैगन ड्रोन	827	838	Antagonist	Saboteur
+HI_327.txt	रूस	842	844	Protagonist	Rebel
+HI_327.txt	यूक्रेन	854	860	Protagonist	Underdog
+HI_361.txt	रूस	450	452	Innocent	Victim
+HI_43.txt	भारत	630	633	Protagonist	Peacemaker
+HI_43.txt	मोदी	949	952	Protagonist	Peacemaker
+HI_43.txt	भारत	1260	1263	Protagonist	Guardian
+HI_43.txt	पश्चिमी देशों	1959	1971	Antagonist	Foreign Adversary
+HI_43.txt	यूक्रेन	2015	2021	Innocent	Forgotten
+HI_43.txt	यूएस कॉन्ग्रेस	2026	2039	Antagonist	Saboteur
+HI_197.txt	रूसी सेना	87	95	Antagonist	Tyrant
+HI_197.txt	यूक्रेनियों	98	108	Protagonist	Martyr
+HI_197.txt	पुतिन	156	160	Antagonist	Tyrant
+HI_197.txt	यूक्रेन	163	169	Protagonist	Underdog
+HI_197.txt	पुतिन	184	188	Antagonist	Instigator
+HI_197.txt	पूर्वी यूक्रेन	298	311	Innocent	Victim
+HI_197.txt	रूस	413	415	Antagonist	Foreign Adversary	Tyrant
+HI_197.txt	वलोडोमिर जेलेंस्की	493	510	Protagonist	Guardian	Underdog
+HI_197.txt	लड़ाकों	515	521	Protagonist	Rebel	Underdog
+HI_197.txt	यूक्रेनी सेना	585	597	Protagonist	Rebel	Underdog
+HI_197.txt	पोक्रोव्स्क	1093	1103	Innocent	Victim
+HI_197.txt	कुर्स्क	1686	1692	Innocent	Victim
+HI_197.txt	रूसी	1950	1953	Innocent	Victim
+HI_344.txt	जी-7 देशों	77	86	Protagonist	Virtuous
+HI_60.txt	भारत सरकार	43	52	Innocent	Scapegoat
+HI_60.txt	यूरोप	458	462	Antagonist	Bigot
+HI_60.txt	फाइनेंशियल टाइम्स	490	506	Antagonist	Deceiver
+HI_60.txt	भारत	601	604	Antagonist	Conspirator
+HI_60.txt	रूस	609	611	Antagonist	Corrupt
+HI_386.txt	पुतिन	92	96	Protagonist	Rebel	Guardian
+HI_386.txt	यूक्रेन	150	156	Protagonist	Underdog
+HI_386.txt	अमेरिका	178	184	Antagonist	Foreign Adversary
+HI_386.txt	पश्चिमी देशों	194	206	Antagonist	Foreign Adversary
+HI_386.txt	व्लादिमीर पुतिन	248	262	Protagonist	Rebel	Guardian
+HI_386.txt	रूस	365	367	Protagonist	Rebel
+HI_386.txt	रूस	737	739	Antagonist	Foreign Adversary	Tyrant
+HI_386.txt	बच्चे	826	830	Innocent	Victim
+HI_386.txt	लोगों	840	844	Innocent	Victim
+HI_386.txt	सुमी	918	921	Innocent	Victim
+HI_270.txt	यूरोप	622	626	Innocent	Victim
+HI_270.txt	भारत	683	686	Innocent	Victim
+HI_270.txt	नरेंद्र मोदी	765	776	Protagonist	Peacemaker	Virtuous
+HI_270.txt	अजीत डोभाल	981	990	Protagonist	Virtuous
+HI_270.txt	एस जयशंकर	1037	1045	Protagonist	Virtuous
+HI_378.txt	रूस	91	93	Innocent	Victim
+HI_378.txt	यूक्रेन	103	109	Protagonist	Rebel	Underdog
+HI_378.txt	एलन मेंडोजा	169	179	Protagonist	Guardian
+HI_378.txt	कुर्स्क	384	390	Innocent	Victim
+HI_378.txt	ज़ेलेंस्की	924	933	Protagonist	Rebel	Guardian	Underdog
+HI_378.txt	पुतिन	1144	1148	Antagonist	Foreign Adversary
+HI_300.txt	हिंद-प्रशांत क्षेत्र	102	121	Innocent	Victim
+HI_300.txt	मानव जीवन	508	516	Innocent	Victim
+HI_157.txt	रूस	170	172	Antagonist	Tyrant
+HI_157.txt	खार्किव	201	207	Innocent	Victim
+HI_157.txt	अमेरिकी कांग्रेस	419	434	Antagonist	Foreign Adversary
+HI_157.txt	यूक्रेन	495	501	Protagonist	Underdog
+HI_157.txt	भारत	799	802	Protagonist	Peacemaker	Guardian
+HI_157.txt	स्विट्जरलैंड	1028	1039	Protagonist	Peacemaker
+HI_157.txt	भारत	1363	1366	Protagonist	Virtuous
+HI_157.txt	रूस	1371	1373	Protagonist	Virtuous
+HI_157.txt	भारत	2270	2273	Protagonist	Peacemaker	Virtuous
+HI_157.txt	भारत	2916	2919	Protagonist	Virtuous	Guardian
+HI_262.txt	उत्तर कोरिया	103	114	Antagonist	Foreign Adversary
+HI_262.txt	यूक्रेन	130	136	Protagonist	Underdog
+HI_262.txt	डोनबास	370	375	Innocent	Victim
+HI_262.txt	उत्तर कोरिया की सेना	456	475	Antagonist	Foreign Adversary
+HI_262.txt	अधिकारी	482	488	Innocent	Victim
+HI_262.txt	रूस	843	845	Antagonist	Tyrant
+HI_88.txt	नरेंद्र मोदी	700	711	Antagonist	Incompetent	Deceiver
+HI_307.txt	उत्तर कोरिया	121	132	Protagonist	Rebel	Guardian
+HI_307.txt	रूस	147	149	Protagonist	Rebel
+HI_307.txt	यूक्रेन	194	200	Antagonist	Foreign Adversary
+HI_307.txt	मॉस्को	235	240	Protagonist	Virtuous
+HI_307.txt	विदेश मंत्री	263	274	Protagonist	Guardian
+HI_307.txt	अमेरिका	312	318	Antagonist	Foreign Adversary
+HI_307.txt	उत्तर कोरियाई सैनिक	366	384	Protagonist	Rebel	Guardian
+HI_307.txt	यूक्रेन	386	392	Protagonist	Underdog
+HI_307.txt	चोए सोन हुई	457	467	Protagonist	Guardian
+HI_307.txt	दक्षिण कोरिया	798	810	Antagonist	Foreign Adversary
+HI_307.txt	प्योंगयांग	815	824	Protagonist	Rebel
+HI_45.txt	व्लादिमीर पुतिन	16	30	Protagonist	Peacemaker
+HI_45.txt	अमेरिका	99	105	Protagonist	Peacemaker
+HI_45.txt	रूस	110	112	Protagonist	Peacemaker
+HI_45.txt	वादिम क्रासिकोव	205	219	Antagonist	Spy
+HI_45.txt	व्लादिमीर पुतिन	247	261	Antagonist	Deceiver
+HI_45.txt	क्रासिकोव	348	356	Protagonist	Guardian
+HI_45.txt	क्रासिकोव	448	456	Antagonist	Terrorist
+HI_45.txt	ज़ेलिमखान खांगोशविली	579	598	Innocent	Victim
+HI_45.txt	वादिम क्रासिकोव	774	788	Antagonist	Terrorist
+HI_45.txt	वादिम क्रासिकोव	956	970	Antagonist	Spy
+HI_45.txt	रूस	1054	1056	Antagonist	Foreign Adversary
+HI_45.txt	जर्मनी	1061	1066	Antagonist	Foreign Adversary
+HI_45.txt	रूसी राजनयिकों	1126	1139	Innocent	Scapegoat
+HI_45.txt	क्रासिकोव	1188	1196	Antagonist	Terrorist
+HI_45.txt	व्लादीमिर पुतिन	1271	1285	Antagonist	Deceiver
+HI_45.txt	खानगोशविलि	2425	2434	Protagonist	Rebel
+HI_129.txt	केन्द्र सरकार	624	636	Protagonist	Virtuous	Guardian
+HI_129.txt	अतिरिक्त मुख्य सचिव	773	791	Protagonist	Virtuous	Guardian
+HI_129.txt	वन विभाग	803	810	Protagonist	Guardian
+HI_53.txt	यूक्रेन	0	6	Protagonist	Peacemaker
+HI_53.txt	भारत	43	46	Protagonist	Virtuous
+HI_53.txt	यूक्रेन	166	172	Innocent	Victim
+HI_53.txt	रूस	177	179	Antagonist	Instigator
+HI_53.txt	भारत	427	430	Antagonist	Foreign Adversary
+HI_53.txt	यूक्रेन	665	671	Protagonist	Virtuous
+HI_53.txt	भारत	941	944	Innocent	Victim
+HI_53.txt	रूस	1003	1005	Antagonist	Tyrant
+HI_53.txt	भारत	1116	1119	Innocent	Victim
+HI_53.txt	अमेरिका	1207	1213	Antagonist	Foreign Adversary
+HI_53.txt	अटलांटिक-पार	1229	1240	Antagonist	Foreign Adversary
+HI_53.txt	भारत	1356	1359	Protagonist	Virtuous
+HI_53.txt	चीन	2124	2126	Protagonist	Peacemaker	Virtuous
+HI_53.txt	ब्राजील	2131	2137	Protagonist	Peacemaker	Virtuous
+HI_96.txt	रूस	180	182	Antagonist	Tyrant
+HI_96.txt	यूक्रेन	187	193	Innocent	Victim
+HI_96.txt	यूक्रेन	1536	1542	Protagonist	Underdog
+HI_96.txt	अमेरिका	1703	1709	Antagonist	Foreign Adversary
+HI_96.txt	यूरोप	1714	1718	Antagonist	Foreign Adversary
+HI_96.txt	रूस	2152	2154	Antagonist	Instigator
+HI_96.txt	यूक्रेन	2257	2263	Protagonist	Underdog
+HI_96.txt	अमेरिका	3985	3991	Antagonist	Foreign Adversary
+HI_96.txt	नाटो	3996	3999	Antagonist	Foreign Adversary
+HI_371.txt	जो बाडेन	369	376	Antagonist	Foreign Adversary
+HI_285.txt	उत्तर कोरिया	193	204	Antagonist	Foreign Adversary
+HI_285.txt	किम जोंग	222	229	Antagonist	Foreign Adversary	Tyrant
+HI_285.txt	रूस	231	233	Protagonist	Rebel
+HI_285.txt	यूक्रेन	398	404	Innocent	Victim
+HI_285.txt	पश्चिमी देशों	455	467	Protagonist	Guardian
+HI_285.txt	जेलेंस्की	617	625	Protagonist	Underdog
+HI_285.txt	उत्तर कोरियाई सेना	717	734	Antagonist	Foreign Adversary
+HI_285.txt	रूस	836	838	Antagonist	Instigator	Tyrant
+HI_285.txt	कीव	1098	1100	Innocent	Victim
+HI_285.txt	रूस	1192	1194	Antagonist	Incompetent
+HI_285.txt	कुर्स्क	1204	1210	Innocent	Victim
+HI_285.txt	यूक्रेनी सेना	1228	1240	Protagonist	Underdog
+HI_285.txt	मॉस्को	1332	1337	Antagonist	Instigator
+HI_285.txt	प्योंगयांग	1342	1351	Antagonist	Foreign Adversary
+HI_285.txt	अमेरिका	1548	1554	Protagonist	Guardian
+HI_242.txt	व्लादिमीर पुतिन	77	91	Antagonist	Instigator
+HI_242.txt	अमेरिका	734	740	Antagonist	Foreign Adversary
+HI_335.txt	मुल्कों	100	106	Protagonist	Virtuous
+HI_335.txt	नेटो	178	181	Protagonist	Guardian
+HI_335.txt	यूक्रेन	234	240	Innocent	Victim
+HI_290.txt	फ्राइडेरिक ओटो	360	373	Protagonist	Guardian
+HI_161.txt	व्लादिमीर पुतिन	74	88	Protagonist	Rebel	Guardian
+HI_161.txt	NATO	211	214	Antagonist	Foreign Adversary
+HI_161.txt	पश्चिम	404	409	Antagonist	Foreign Adversary
+HI_161.txt	रूस	414	416	Antagonist	Foreign Adversary
+HI_161.txt	इमैनुएल मैक्रों	855	869	Antagonist	Foreign Adversary
+HI_161.txt	फ्रांस	956	961	Antagonist	Foreign Adversary
+HI_161.txt	नाटो गठबंधन	963	973	Antagonist	Foreign Adversary
+HI_161.txt	उत्तरी यूरोपीय देशों	1066	1085	Antagonist	Foreign Adversary
+HI_161.txt	यूक्रेन	1142	1148	Antagonist	Foreign Adversary
+HI_161.txt	पोलैंड	1153	1158	Antagonist	Foreign Adversary
+HI_161.txt	पुतिन	1227	1231	Protagonist	Rebel
+HI_161.txt	बाइडेन	1390	1395	Antagonist	Foreign Adversary
+HI_72.txt	व्लादिमीर पुतिन	365	379	Antagonist	Tyrant
+HI_72.txt	पश्चिमी देशों	616	628	Antagonist	Foreign Adversary
+HI_72.txt	पश्चिमी देश	718	728	Antagonist	Foreign Adversary
+HI_72.txt	यूक्रेन	1079	1085	Innocent	Victim
+HI_72.txt	मॉस्को	1120	1125	Antagonist	Instigator
+HI_7.txt	मॉस्को	469	474	Innocent	Victim
+HI_7.txt	रूस	504	506	Antagonist	Foreign Adversary
+HI_7.txt	पश्चिम	511	516	Antagonist	Foreign Adversary
+HI_7.txt	कुलेबा	616	621	Innocent	Victim
+HI_7.txt	भारत	711	714	Protagonist	Guardian
+HI_7.txt	शुरू	1327	1330	Antagonist	Instigator
+HI_7.txt	भारत	1588	1591	Protagonist	Virtuous
+HI_7.txt	रूस	2778	2780	Protagonist	Guardian
+HI_7.txt	चीन	3132	3134	Antagonist	Foreign Adversary
+HI_7.txt	रूस	3139	3141	Antagonist	Deceiver
+HI_7.txt	रूस	4458	4460	Protagonist	Virtuous
+HI_7.txt	यूक्रेन	4530	4536	Innocent	Exploited
+HI_7.txt	रूस	4768	4770	Innocent	Forgotten
+HI_7.txt	कुलेबा	4965	4970	Antagonist	Saboteur
+HI_7.txt	यूक्रेनी	5125	5132	Antagonist	Saboteur
+HI_7.txt	व्लादिमीर पुतिन	5191	5205	Innocent	Victim
+HI_7.txt	व्लादिमीर पुतिन	5495	5509	Protagonist	Peacemaker
+HI_7.txt	भारत	6209	6212	Protagonist	Peacemaker	Virtuous
+HI_177.txt	रूस	75	77	Protagonist	Rebel
+HI_177.txt	नाटो	108	111	Antagonist	Foreign Adversary
+HI_177.txt	यूक्रेन	113	119	Protagonist	Underdog
+HI_249.txt	अमेरिका	98	104	Antagonist	Foreign Adversary
+HI_249.txt	डोनाल्ड ट्रंप	126	138	Antagonist	Foreign Adversary
+HI_249.txt	यूक्रेन	143	149	Protagonist	Underdog
+HI_249.txt	ट्रंप	178	182	Antagonist	Foreign Adversary
+HI_249.txt	व्लादिमीर पुतिन	245	259	Protagonist	Rebel	Guardian
+HI_249.txt	यूक्रेन	490	496	Innocent	Victim
+HI_249.txt	यूक्रेन	555	561	Antagonist	Incompetent
+HI_249.txt	रूस	581	583	Antagonist	Instigator	Tyrant
+HI_249.txt	ट्रंप	1026	1030	Protagonist	Peacemaker
+HI_249.txt	यूक्रेन	1389	1395	Innocent	Exploited	Victim
+HI_249.txt	यूक्रेन	1463	1469	Innocent	Victim
+HI_206.txt	कॉन्ट्रैक्टर	84	95	Protagonist	Rebel
+HI_206.txt	अमेरिका	108	114	Antagonist	Incompetent	Deceiver
+HI_206.txt	FBI	149	151	Antagonist	Incompetent
+HI_206.txt	अमेरिकी सिस्टम	307	320	Antagonist	Incompetent
+HI_206.txt	अमेरिका	389	395	Antagonist	Conspirator	Incompetent
+HI_206.txt	भारत सरकार	400	409	Protagonist	Guardian
+HI_206.txt	विकास यादव	426	435	Innocent	Scapegoat
+HI_206.txt	एडवर्ड स्नोडेन	1149	1162	Protagonist	Rebel	Virtuous
+HI_206.txt	अमेरिकी राष्ट्रीय सुरक्षा एजेंसी	1355	1386	Antagonist	Deceiver	Corrupt	Spy
+HI_206.txt	एडवर्ड	1615	1620	Protagonist	Virtuous
+HI_206.txt	नागरिकों	1925	1932	Innocent	Victim
+HI_206.txt	विदेशी नेताओं	2689	2701	Innocent	Victim
+HI_206.txt	एंजेला मर्केल	2849	2861	Innocent	Victim
+HI_206.txt	FBI	3029	3031	Antagonist	Incompetent	Deceiver	Corrupt
+HI_206.txt	रूस	3350	3352	Protagonist	Guardian
+HI_206.txt	व्लादिमीर पुतिन	3368	3382	Protagonist	Guardian
+HI_258.txt	जॉर्जिया मेलोनी	178	192	Protagonist	Guardian
+HI_258.txt	भारत	277	280	Protagonist	Virtuous
+HI_258.txt	चीन	285	287	Protagonist	Virtuous
+HI_258.txt	वोलोदिमीर जेलेंस्की	614	632	Protagonist	Guardian
+HI_258.txt	यूक्रेन	1060	1066	Protagonist	Underdog
+HI_258.txt	रूस	1158	1160	Protagonist	Rebel
+HI_258.txt	व्लादिमीर पुतिन	1176	1190	Protagonist	Guardian
+HI_258.txt	रूसी सेना	1786	1794	Protagonist	Rebel
+HI_258.txt	यूक्रेनी सेना	1825	1837	Protagonist	Underdog
+HI_390.txt	जो बाइडेन	120	128	Protagonist	Guardian
+HI_390.txt	यूक्रेन	145	151	Protagonist	Underdog
+HI_390.txt	रूस	156	158	Antagonist	Foreign Adversary
+HI_390.txt	उत्तर कोरिया	283	294	Antagonist	Foreign Adversary
+HI_390.txt	यूक्रेनी सेना	552	564	Protagonist	Guardian	Underdog
+HI_390.txt	अमेरिका	599	605	Protagonist	Rebel	Virtuous
+HI_390.txt	वोलोदिमीर जेलेंस्की	739	757	Protagonist	Guardian	Underdog
+HI_390.txt	रूसी सेनाएं	1095	1105	Antagonist	Foreign Adversary	Tyrant
+HI_80.txt	यूक्रेन	190	196	Innocent	Exploited	Victim
+HI_80.txt	रूस	347	349	Antagonist	Tyrant
+HI_80.txt	NATO	505	508	Protagonist	Guardian
+HI_80.txt	अमेरिकी	1517	1523	Protagonist	Guardian
+HI_80.txt	नाटो	2544	2547	Protagonist	Guardian
+HI_400.txt	यूक्रेन	148	154	Protagonist	Rebel	Underdog
+HI_400.txt	रूस	159	161	Antagonist	Foreign Adversary
+HI_400.txt	बाइडेन प्रशासन	232	245	Protagonist	Guardian
+HI_400.txt	ब्रियांस्क	326	335	Innocent	Victim
+HI_400.txt	काराचेव	349	355	Innocent	Victim
+HI_400.txt	व्लादिमीर पुतिन	479	493	Protagonist	Rebel	Guardian
+HI_400.txt	रूस	546	548	Protagonist	Rebel
+HI_400.txt	बाइडेन	638	643	Antagonist	Incompetent
+HI_400.txt	अमेरिका	676	682	Antagonist	Incompetent
+HI_400.txt	रॉबर्ट फिको	774	784	Protagonist	Guardian
+HI_400.txt	डोनाल्ड ट्रंप	867	879	Protagonist	Guardian
+HI_362.txt	जो बाइडन	134	141	Antagonist	Foreign Adversary
+HI_362.txt	पुतिन	326	330	Protagonist	Rebel
+HI_362.txt	रूसी	949	952	Antagonist	Instigator
+HI_142.txt	बिहार	81	85	Innocent	Victim
+HI_142.txt	13 जिले	235	241	Innocent	Victim
+HI_142.txt	सीमांचल	335	341	Innocent	Victim
+HI_142.txt	बिहार सरकार	1009	1019	Protagonist	Guardian
+HI_142.txt	बीरपुर बैराज	1049	1060	Innocent	Victim
+HI_142.txt	राज्य जल संसाधन विभाग	1218	1238	Protagonist	Guardian
+HI_142.txt	संतोष कुमार मल्ल	1255	1270	Protagonist	Guardian
+HI_142.txt	वाल्मिकीनगर	1473	1483	Innocent	Victim
+HI_142.txt	बिहार के कई जिलों	2020	2036	Innocent	Victim
+HI_170.txt	यूक्रेन	238	244	Innocent	Exploited	Victim
+HI_170.txt	रूस	249	251	Innocent	Exploited	Victim
+HI_170.txt	वोलोदिमीर जेलेंस्की	615	633	Protagonist	Peacemaker	Virtuous	Guardian
+HI_170.txt	व्लादिमीर पुतिन	1081	1095	Antagonist	Foreign Adversary
+HI_170.txt	यूक्रेन	1228	1234	Protagonist	Peacemaker	Virtuous
+HI_170.txt	रूस	1302	1304	Antagonist	Foreign Adversary
+HI_315.txt	रूस	85	87	Protagonist	Virtuous
+HI_315.txt	पुतिन	103	107	Protagonist	Virtuous	Guardian
+HI_315.txt	अमेरिका	117	123	Protagonist	Virtuous
+HI_315.txt	भारत	156	159	Protagonist	Virtuous
+HI_315.txt	व्लादिमीर पुतिन	428	442	Protagonist	Virtuous	Guardian
+HI_315.txt	चीन	3021	3023	Antagonist	Foreign Adversary
+HI_87.txt	रूस	212	214	Antagonist	Tyrant
+HI_87.txt	एस जयशंकर	400	408	Protagonist	Guardian
+HI_87.txt	भारत	2080	2083	Protagonist	Peacemaker	Virtuous
+HI_87.txt	यूक्रेन	2178	2184	Innocent	Victim
+HI_185.txt	नाटो	444	447	Antagonist	Foreign Adversary
+HI_185.txt	स्टोल्टेनबर्ग	1186	1198	Protagonist	Guardian
+HI_185.txt	व्लादिमीर पुतिन	2128	2142	Protagonist	Peacemaker
+HI_358.txt	भारत	429	432	Protagonist	Peacemaker
+HI_358.txt	मोदी	488	491	Protagonist	Peacemaker
+HI_358.txt	भारत	574	577	Protagonist	Peacemaker	Virtuous
+HI_68.txt	यूक्रेन	240	246	Innocent	Victim
+HI_68.txt	मारियुपोल मैटरनिटी हॉस्पिटल	476	502	Innocent	Victim
+HI_68.txt	रूस की सेना	1006	1016	Antagonist	Saboteur
+HI_68.txt	रूसी	1623	1626	Antagonist	Terrorist
+HI_149.txt	विशेषज्ञों	1540	1549	Protagonist	Virtuous
+HI_234.txt	भारत	233	236	Innocent	Victim
+HI_234.txt	जिले	258	261	Innocent	Victim
+HI_234.txt	आईपीई ग्लोबल	370	381	Protagonist	Guardian
+HI_234.txt	ईएसआरआई इंडिया	386	399	Protagonist	Guardian
+HI_234.txt	बिहार	1041	1045	Innocent	Victim
+HI_234.txt	आंध्र प्रदेश	1048	1059	Innocent	Victim
+HI_234.txt	ओडिशा	1062	1066	Innocent	Victim
+HI_234.txt	गुजरात	1069	1074	Innocent	Victim
+HI_234.txt	राजस्थान	1077	1084	Innocent	Victim
+HI_234.txt	उत्तराखंड	1087	1095	Innocent	Victim
+HI_234.txt	हिमाचल प्रदेश	1098	1110	Innocent	Victim
+HI_234.txt	महाराष्ट्र	1113	1122	Innocent	Victim
+HI_234.txt	उत्तर प्रदेश	1125	1136	Innocent	Victim
+HI_25.txt	अमेरिका	222	228	Antagonist	Foreign Adversary
+HI_25.txt	NATO	233	236	Antagonist	Foreign Adversary
+HI_25.txt	रूसियों	1255	1261	Innocent	Exploited
+HI_25.txt	अमेरिका	3489	3495	Antagonist	Instigator
+HI_25.txt	पुतिन	3544	3548	Protagonist	Underdog
+HI_25.txt	रूस	6065	6067	Protagonist	Guardian
+HI_277.txt	रूस	128	130	Antagonist	Foreign Adversary
+HI_277.txt	जासूस	139	143	Protagonist	Virtuous
+HI_277.txt	पुतिन	145	149	Antagonist	Conspirator	Tyrant
+HI_277.txt	जेलेंस्की	206	214	Protagonist	Virtuous	Guardian
+HI_277.txt	यूक्रेन	284	290	Innocent	Victim
+HI_277.txt	रूसी सेना	296	304	Antagonist	Tyrant
+HI_277.txt	वोलोदिमीर जेलेंस्की	485	503	Protagonist	Virtuous	Guardian
+HI_277.txt	व्लादिमीर पुतिन	848	862	Antagonist	Conspirator	Tyrant
+HI_106.txt	अमेरिका	965	971	Antagonist	Foreign Adversary
+HI_106.txt	रूस	1626	1628	Protagonist	Virtuous	Guardian
+HI_106.txt	अमेरिका	1792	1798	Antagonist	Foreign Adversary
+HI_106.txt	उत्तर कोरिया	1803	1814	Innocent	Victim
+HI_106.txt	रूस	1936	1938	Protagonist	Virtuous	Guardian
+HI_229.txt	रूस	139	141	Antagonist	Instigator
+HI_229.txt	यूक्रेन	184	190	Protagonist	Rebel	Underdog
+HI_229.txt	रूसी सेना	294	302	Antagonist	Tyrant
+HI_229.txt	कीव	403	405	Innocent	Victim
+HI_229.txt	रूस	487	489	Antagonist	Instigator
+HI_229.txt	नागरिक	533	538	Innocent	Victim
+HI_229.txt	सेरही पोपको	616	626	Protagonist	Guardian	Underdog
+HI_229.txt	रूसी रक्षा मंत्रालय	1091	1109	Protagonist	Rebel
+HI_229.txt	कुर्क्स	1249	1255	Innocent	Victim
+HI_190.txt	मोदी	291	294	Protagonist	Peacemaker
+HI_190.txt	रूस	1788	1790	Innocent	Victim
+HI_18.txt	वादिम क्रासिकोव	812	826	Antagonist	Terrorist	Spy
+HI_18.txt	रूस	1339	1341	Antagonist	Deceiver
+HI_18.txt	इवान गर्शकोविच	1518	1531	Innocent	Exploited
+HI_263.txt	भारत	103	106	Protagonist	Virtuous
+HI_263.txt	विदेश मंत्रालय	111	124	Protagonist	Guardian
+HI_263.txt	रॉयटर्स	143	149	Antagonist	Deceiver
+HI_263.txt	रणधीर जायसवाल	569	581	Protagonist	Virtuous	Guardian
+HI_308.txt	चोए सोन हुई	88	98	Protagonist	Virtuous	Guardian
+HI_308.txt	सर्गेई लावरोव	131	143	Protagonist	Rebel	Guardian
+HI_308.txt	उत्तर कोरिया	272	283	Protagonist	Virtuous
+HI_308.txt	व्लादिमीर पुतिन	302	316	Protagonist	Rebel	Guardian
+HI_308.txt	चोए	491	493	Protagonist	Virtuous	Guardian
+HI_308.txt	यूक्रेन	498	504	Antagonist	Foreign Adversary
+HI_308.txt	मॉस्को	510	515	Protagonist	Rebel
+HI_308.txt	लावरोव	827	832	Protagonist	Rebel	Guardian
+HI_113.txt	रूस	102	104	Antagonist	Tyrant
+HI_113.txt	यूक्रेन	109	115	Protagonist	Underdog
+HI_113.txt	जो बाइडेन	168	176	Protagonist	Peacemaker	Guardian
+HI_113.txt	रूस	210	212	Antagonist	Instigator
+HI_113.txt	यूक्रेन	221	227	Innocent	Victim
+HI_113.txt	रूस	501	503	Antagonist	Instigator
+HI_113.txt	यूक्रेन	508	514	Innocent	Victim
+HI_113.txt	राष्ट्रपति बोरिस येल्तसिन	993	1017	Protagonist	Virtuous
+HI_113.txt	निकिता ख्रुश्चेव	1188	1203	Protagonist	Virtuous
+HI_113.txt	यूक्रेन	1598	1604	Protagonist	Rebel
+HI_113.txt	पश्चिमी देशों	1735	1747	Antagonist	Conspirator
+HI_113.txt	NATO	1974	1977	Protagonist	Guardian
+HI_113.txt	रूस	2036	2038	Antagonist	Instigator
+HI_113.txt	जॉर्जिया	2043	2050	Innocent	Victim
+HI_113.txt	विक्टर यानुकोविच	2343	2358	Antagonist	Traitor
+HI_113.txt	प्रदर्शनकारी	2693	2704	Innocent	Victim
+HI_113.txt	क्रीमिया	2850	2857	Innocent	Victim
+HI_113.txt	विद्रोहियों	2896	2906	Antagonist	Terrorist
+HI_113.txt	पुतिन	2962	2966	Antagonist	Deceiver
+HI_342.txt	एंद्रेई येरमाक	1473	1486	Protagonist	Virtuous
+HI_385.txt	रूस	81	83	Protagonist	Rebel
+HI_385.txt	पुतिन	184	188	Protagonist	Rebel	Guardian
+HI_385.txt	यूक्रन	279	284	Protagonist	Underdog
+HI_385.txt	अमेरिका	286	292	Protagonist	Virtuous	Guardian
+HI_385.txt	वलोडिमिर ज़ेलेंस्की	446	464	Protagonist	Guardian	Underdog
+HI_385.txt	यूक्रेन	607	613	Protagonist	Rebel
+HI_385.txt	रूस	618	620	Antagonist	Foreign Adversary
+HI_385.txt	ब्रांस्क	625	632	Innocent	Victim
+HI_385.txt	बाइडेन प्रशासन	857	870	Protagonist	Virtuous	Guardian
+HI_385.txt	जो बाइडेन	1048	1056	Protagonist	Virtuous	Guardian
+HI_385.txt	जेलेंस्की	1145	1153	Protagonist	Guardian
+HI_199.txt	वैज्ञानिकों	484	494	Protagonist	Virtuous
+HI_89.txt	मोदी	0	3	Protagonist	Virtuous
+HI_89.txt	व्लादिमीर पुतिन	130	144	Protagonist	Virtuous
+HI_89.txt	मोदी	222	225	Protagonist	Guardian
+HI_89.txt	भारत	670	673	Protagonist	Rebel
+HI_89.txt	मोदी	854	857	Protagonist	Virtuous
+HI_89.txt	अमेरिका	1463	1469	Antagonist	Foreign Adversary
+HI_89.txt	पश्चिमी देशों	1476	1488	Antagonist	Foreign Adversary
+HI_89.txt	भारत	1538	1541	Protagonist	Virtuous
+HI_89.txt	मोदी	2044	2047	Protagonist	Virtuous
+HI_89.txt	भारत	2314	2317	Protagonist	Peacemaker	Virtuous
+HI_52.txt	कीर्ति वर्धन सिंह	225	241	Protagonist	Guardian
+HI_52.txt	भारतीय नागरिक	284	296	Protagonist	Rebel
+HI_52.txt	आठ भारतीयों	407	417	Innocent	Exploited	Victim
+HI_52.txt	भारतीय नागरिकों	858	872	Innocent	Exploited
+HI_52.txt	रूसी	949	952	Antagonist	Deceiver
+HI_52.txt	सरकार	1072	1076	Protagonist	Guardian
+HI_52.txt	रूस की सरकार	1169	1180	Protagonist	Virtuous
+HI_52.txt	भारतीय दूतावास	1382	1395	Protagonist	Guardian
+HI_52.txt	भारत के सात छात्रों	2313	2331	Innocent	Victim
+HI_128.txt	व्लादिमीर पुतिन	89	103	Antagonist	Foreign Adversary
+HI_128.txt	कमला हैरिस	144	153	Protagonist	Virtuous
+HI_128.txt	डेमोक्रेटिक पार्टी	279	296	Protagonist	Virtuous
+HI_128.txt	अमेरिका	462	468	Protagonist	Guardian
+HI_128.txt	जो बाइडेन	719	727	Protagonist	Virtuous
+HI_128.txt	डोनाल्ड ट्रंप	1334	1346	Antagonist	Incompetent
+HI_128.txt	ट्रंप	1393	1397	Antagonist	Bigot
+HI_128.txt	रूस	1402	1404	Innocent	Victim
+HI_128.txt	कमला हैरिस	1527	1536	Protagonist	Virtuous
+HI_46.txt	यूक्रेन	57	63	Innocent	Victim
+HI_46.txt	रूस	68	70	Antagonist	Instigator
+HI_46.txt	यूक्रेन	194	200	Innocent	Victim
+HI_46.txt	रूस	205	207	Antagonist	Foreign Adversary	Tyrant
+HI_46.txt	यूक्रेन	488	494	Innocent	Victim
+HI_46.txt	रूस	514	516	Antagonist	Foreign Adversary
+HI_46.txt	भारत	661	664	Protagonist	Virtuous
+HI_46.txt	रूस	704	706	Protagonist	Virtuous
+HI_46.txt	रूस	1112	1114	Innocent	Victim
+HI_46.txt	पश्चिम	1150	1155	Antagonist	Saboteur
+HI_46.txt	चीन	1234	1236	Protagonist	Guardian
+HI_46.txt	भारत	1239	1242	Protagonist	Guardian
+HI_46.txt	ब्राज़ील	1247	1254	Protagonist	Guardian
+HI_46.txt	यूक्रेन	1333	1339	Innocent	Victim
+HI_46.txt	नाटो	1720	1723	Antagonist	Corrupt
+HI_46.txt	अमेरिका	1895	1901	Antagonist	Incompetent
+HI_46.txt	यूरोप	2000	2004	Antagonist	Incompetent
+HI_46.txt	गाजा	2182	2185	Innocent	Victim
+HI_46.txt	इजरायल	2190	2195	Antagonist	Instigator
+HI_46.txt	ग्लोबल साउथ	2301	2311	Protagonist	Virtuous
+HI_46.txt	पश्चिमी	2622	2628	Antagonist	Saboteur
+HI_379.txt	यूक्रेन	128	134	Antagonist	Foreign Adversary
+HI_379.txt	पश्चिमी देश	241	251	Antagonist	Foreign Adversary
+HI_379.txt	क्रेमलिन	307	314	Protagonist	Guardian
+HI_379.txt	पश्चिम	524	529	Antagonist	Foreign Adversary
+HI_379.txt	अमेरिका	602	608	Antagonist	Foreign Adversary
+HI_379.txt	रूस	632	634	Protagonist	Rebel
+HI_379.txt	पेसकोव	911	916	Protagonist	Guardian
+HI_336.txt	रूस	186	188	Protagonist	Virtuous
+HI_336.txt	अश्विन भाई मांगुकिया	410	429	Innocent	Exploited
+HI_336.txt	हेमिल	670	674	Innocent	Exploited
+HI_162.txt	रूस	99	101	Protagonist	Rebel	Guardian
+HI_162.txt	नाटो	504	507	Antagonist	Foreign Adversary
+HI_162.txt	व्लादिमीर पुतिन	712	726	Protagonist	Rebel
+HI_370.txt	अमेरिका	98	104	Protagonist	Virtuous
+HI_370.txt	जो बाइडन	179	186	Antagonist	Foreign Adversary
+HI_39.txt	भारत	151	154	Protagonist	Peacemaker
+HI_39.txt	नरेंद्र मोदी	409	420	Protagonist	Peacemaker
+HI_39.txt	यूक्रेन	496	502	Innocent	Victim
+HI_39.txt	भारत	808	811	Protagonist	Peacemaker
+HI_39.txt	नरेंद्र मोदी	2176	2187	Protagonist	Guardian
+HI_39.txt	भारत	2448	2451	Protagonist	Virtuous
+HI_39.txt	भारत	2953	2956	Protagonist	Peacemaker	Virtuous
+HI_135.txt	भारत	439	442	Protagonist	Virtuous
+HI_178.txt	रूस	369	371	Antagonist	Tyrant
+HI_178.txt	यूक्रेन	382	388	Innocent	Victim
+HI_178.txt	व्लादिमीर पुतिन	535	549	Protagonist	Rebel
+HI_178.txt	पुतिन	564	568	Protagonist	Guardian
+HI_207.txt	सीटू	191	194	Protagonist	Peacemaker
+HI_207.txt	एआईटीयूसी	197	205	Protagonist	Peacemaker
+HI_207.txt	वक्ताओं	664	670	Protagonist	Virtuous	Guardian
+HI_241.txt	मोदी	118	121	Protagonist	Peacemaker
+HI_241.txt	जो बाइडेन	145	153	Protagonist	Peacemaker
+HI_284.txt	राजनयिकों	155	163	Antagonist	Foreign Adversary
+HI_284.txt	रूस	372	374	Antagonist	Foreign Adversary
+HI_284.txt	रूसी राजनयिकों	451	464	Antagonist	Foreign Adversary
+HI_284.txt	पोलैंड	662	667	Innocent	Victim
+HI_284.txt	रूस	730	732	Antagonist	Conspirator	Foreign Adversary
+HI_284.txt	रूसी राजनयिकों	780	793	Antagonist	Foreign Adversary	Spy
+HI_284.txt	पोलिश अधिकारियों	1010	1025	Protagonist	Guardian
+HI_320.txt	मारिया ज़ोलकीना	149	163	Protagonist	Guardian
+HI_320.txt	यूक्रेन	176	182	Protagonist	Underdog
+HI_320.txt	रूस	225	227	Antagonist	Foreign Adversary	Tyrant
+HI_320.txt	अमेरिका	338	344	Protagonist	Virtuous	Guardian
+HI_320.txt	क्राइमिया	437	445	Innocent	Victim
+HI_320.txt	यूक्रेन	580	586	Innocent	Victim
+HI_320.txt	व्लादिमीर पुतिन	634	648	Antagonist	Foreign Adversary	Tyrant
+HI_320.txt	यूक्रेनी शहरों	924	937	Innocent	Victim
+HI_320.txt	यूक्रेनी सेना	1087	1099	Protagonist	Guardian	Underdog
+HI_320.txt	कुर्स्क	1104	1110	Innocent	Victim
+HI_363.txt	जो बाइडन	185	192	Antagonist	Foreign Adversary
+HI_363.txt	बाइडन	485	489	Antagonist	Foreign Adversary
+HI_363.txt	पुतिन	532	536	Antagonist	Foreign Adversary
+HI_257.txt	यूक्रेन	102	108	Antagonist	Foreign Adversary	Tyrant
+HI_257.txt	रूस	113	115	Innocent	Victim
+HI_257.txt	महिला	227	231	Innocent	Victim
+HI_257.txt	तीन लोग	249	255	Innocent	Victim
+HI_257.txt	मॉस्को	414	419	Innocent	Victim
+HI_257.txt	रूसी अधिकारियों	537	551	Protagonist	Guardian
+HI_257.txt	आंद्रेई वोरोब्योव	608	624	Protagonist	Guardian
+HI_257.txt	रामेंस्कोए	652	661	Innocent	Victim
+HI_257.txt	वोरोब्योव	883	891	Protagonist	Guardian
+HI_257.txt	सर्गेई सोब्यानिन	1258	1273	Protagonist	Guardian
+HI_257.txt	रूस के रक्षा मंत्रालय	1489	1509	Protagonist	Guardian
+HI_214.txt	व्लादिमीर जेलेंस्की	128	146	Antagonist	Incompetent
+HI_214.txt	नाटो	554	557	Antagonist	Foreign Adversary
+HI_214.txt	अमेरिका	943	949	Antagonist	Foreign Adversary
+HI_214.txt	अमेरिका	1312	1318	Protagonist	Virtuous	Guardian
+HI_329.txt	अमेरिका	83	89	Protagonist	Peacemaker	Guardian
+HI_329.txt	डोनाल्ड ट्रंप	118	130	Protagonist	Peacemaker	Guardian
+HI_329.txt	रिपब्लिकन पार्टी	284	299	Protagonist	Guardian
+HI_329.txt	ब्रायन लांज़ा	314	326	Protagonist	Guardian
+HI_329.txt	ट्रंप प्रशासन	350	362	Protagonist	Peacemaker
+HI_329.txt	वोलोदिमीर ज़ेलेंस्की	386	405	Protagonist	Guardian	Underdog
+HI_329.txt	ट्रंप	715	719	Protagonist	Guardian
+HI_329.txt	लांज़ा	820	825	Antagonist	Incompetent	Deceiver
+HI_329.txt	क्राइमिया	1107	1115	Innocent	Victim
+HI_329.txt	यूरोप	1133	1137	Antagonist	Incompetent
+HI_329.txt	रूस	1159	1161	Antagonist	Foreign Adversary	Tyrant
+HI_329.txt	यूक्रेन	1327	1333	Innocent	Victim
+HI_6.txt	रूस	90	92	Antagonist	Tyrant
+HI_6.txt	यूक्रेन	97	103	Innocent	Victim
+HI_6.txt	यूक्रेन	555	561	Innocent	Victim
+HI_6.txt	रूस	678	680	Antagonist	Foreign Adversary
+HI_6.txt	ब्रिटेन	1432	1438	Protagonist	Guardian
+HI_6.txt	यूक्रेन	1443	1449	Innocent	Forgotten
+HI_6.txt	यूक्रेन	2010	2016	Antagonist	Traitor
+HI_6.txt	नाटो	2021	2024	Antagonist	Saboteur
+HI_6.txt	व्लादिमिर पुतिन	2056	2070	Innocent	Exploited
+HI_6.txt	पुतिन	2095	2099	Protagonist	Virtuous
+HI_6.txt	यूक्रेनी नागरिकों	2169	2185	Innocent	Victim
+HI_6.txt	यूक्रेन	2316	2322	Innocent	Victim
+HI_6.txt	यूक्रेन	2609	2615	Innocent	Victim
+HI_6.txt	रूस	2647	2649	Antagonist	Foreign Adversary
+HI_6.txt	जेलेंस्की	2684	2692	Innocent	Victim
+HI_6.txt	रूसी	2703	2706	Antagonist	Terrorist
+HI_6.txt	खार्किव	2780	2786	Innocent	Exploited
+HI_6.txt	रूसी	2836	2839	Antagonist	Foreign Adversary
+HI_6.txt	खार्किव	2874	2880	Innocent	Victim
+HI_141.txt	मानवता	494	499	Innocent	Victim
+HI_235.txt	दुनिया	77	82	Innocent	Victim
+HI_235.txt	सूडान	525	529	Innocent	Victim
+HI_235.txt	गाजा	607	610	Innocent	Forgotten
+HI_235.txt	संयुक्त राष्ट्र	773	787	Protagonist	Guardian
+HI_24.txt	नरेंद्र मोदी	37	48	Protagonist	Peacemaker
+HI_24.txt	व्लादिमीर पुतिन	105	119	Protagonist	Virtuous
+HI_24.txt	मोदी	248	251	Protagonist	Peacemaker
+HI_24.txt	जेलेन्स्की	372	381	Antagonist	Saboteur
+HI_24.txt	मोदी	452	455	Protagonist	Virtuous
+HI_24.txt	मोदी	529	532	Protagonist	Virtuous
+HI_24.txt	रूस	2357	2359	Antagonist	Terrorist
+HI_24.txt	उक्रेन	2364	2369	Innocent	Victim
+HI_24.txt	मोदी	3287	3290	Protagonist	Virtuous
+HI_24.txt	रूस	4023	4025	Protagonist	Guardian
+HI_24.txt	भारत	4115	4118	Protagonist	Virtuous
+HI_391.txt	जो बाइडेन	70	78	Protagonist	Guardian
+HI_391.txt	ट्रंप	304	308	Protagonist	Rebel	Guardian
+HI_391.txt	डोनाल्ड ट्रंप	363	375	Protagonist	Peacemaker	Guardian
+HI_391.txt	व्लादिमीर पुतिन	548	562	Protagonist	Rebel	Guardian
+HI_391.txt	पश्चिमी देशों	592	604	Antagonist	Foreign Adversary
+HI_391.txt	नाटो	680	683	Antagonist	Foreign Adversary
+HI_67.txt	यूक्रेन	97	103	Innocent	Exploited	Victim
+HI_67.txt	अमेरिका	951	957	Protagonist	Virtuous
+HI_67.txt	पश्चिम देश	962	971	Protagonist	Virtuous
+HI_67.txt	रूस	1015	1017	Antagonist	Tyrant
+HI_278.txt	रूस	88	90	Antagonist	Instigator	Tyrant
+HI_278.txt	यूक्रेन	107	113	Innocent	Victim
+HI_278.txt	रूस	223	225	Antagonist	Tyrant
+HI_278.txt	यूक्रेन	230	236	Protagonist	Underdog
+HI_278.txt	कीव	483	485	Innocent	Victim
+HI_278.txt	मारियुपोल	509	517	Innocent	Victim
+HI_278.txt	यूक्रेन	569	575	Protagonist	Guardian	Underdog
+HI_278.txt	रूस	649	651	Antagonist	Foreign Adversary	Tyrant
+HI_278.txt	व्लोदिमीर जेलेंस्की	889	907	Protagonist	Guardian
+HI_278.txt	यूक्रेनी	917	924	Innocent	Victim
+HI_278.txt	अमेरिकी राष्ट्रपति	1367	1384	Protagonist	Virtuous	Guardian
+HI_314.txt	ट्रंप	62	66	Protagonist	Virtuous
+HI_314.txt	भारत	71	74	Protagonist	Guardian
+HI_314.txt	एशियाई देश	126	135	Protagonist	Guardian
+HI_314.txt	ट्रंप	166	170	Antagonist	Foreign Adversary
+HI_314.txt	डोनल्ड ट्रंप	348	359	Protagonist	Virtuous	Guardian
+HI_314.txt	अमरेका	431	436	Protagonist	Virtuous
+HI_314.txt	रिपब्लिकन पार्टी	569	584	Protagonist	Virtuous	Guardian
+HI_314.txt	चीन	622	624	Antagonist	Foreign Adversary
+HI_314.txt	पाकिस्तान	627	635	Antagonist	Foreign Adversary
+HI_314.txt	नरेंद्र मोदी	741	752	Protagonist	Virtuous	Guardian
+HI_314.txt	मोदी	827	830	Protagonist	Virtuous	Guardian
+HI_314.txt	कमला हैरिस	932	941	Antagonist	Incompetent
+HI_314.txt	ट्रंप	987	991	Protagonist	Virtuous
+HI_314.txt	जो बाइडन	1065	1072	Antagonist	Foreign Adversary
+HI_314.txt	बांग्लादेश	1201	1210	Antagonist	Foreign Adversary	Tyrant
+HI_314.txt	हिंदुओं	1216	1222	Innocent	Exploited	Victim
+HI_314.txt	ईसाइयों	1225	1231	Innocent	Exploited	Victim
+HI_314.txt	अल्पसंख्यकों	1242	1253	Innocent	Exploited	Victim
+HI_314.txt	जो बाइडन	1555	1562	Antagonist	Incompetent
+HI_220.txt	अमेरिका	108	114	Protagonist	Guardian
+HI_220.txt	बाइडेन	416	421	Protagonist	Guardian
+HI_73.txt	यूक्रेन	75	81	Innocent	Victim
+HI_73.txt	रूस	122	124	Antagonist	Instigator
+HI_73.txt	पुतिन	145	149	Antagonist	Instigator
+HI_73.txt	व्लादिमीर पुतिन	423	437	Antagonist	Tyrant
+HI_73.txt	यूक्रेन	1442	1448	Innocent	Victim
+HI_73.txt	रूस	1453	1455	Antagonist	Tyrant
+HI_73.txt	यूक्रेन	2064	2070	Innocent	Victim
+HI_30.txt	विक्टर ओरबान	45	56	Protagonist	Peacemaker
+HI_30.txt	विक्टर ओरबान	202	213	Protagonist	Peacemaker
+HI_30.txt	यूक्रेन	558	564	Antagonist	Foreign Adversary
+HI_30.txt	यूरोपीय संघ	569	579	Antagonist	Foreign Adversary
+HI_30.txt	रूस	584	586	Antagonist	Foreign Adversary
+HI_30.txt	ओरबान	606	610	Antagonist	Conspirator
+HI_30.txt	ओरबान	661	665	Protagonist	Virtuous
+HI_30.txt	हंगरी	748	752	Protagonist	Virtuous
+HI_30.txt	ओरबान	1014	1018	Protagonist	Peacemaker
+HI_30.txt	पुतिन	1117	1121	Antagonist	Deceiver
+HI_30.txt	ओरबान	1160	1164	Antagonist	Incompetent
+HI_30.txt	चीन	1739	1741	Antagonist	Foreign Adversary
+HI_357.txt	बाइडन	57	61	Antagonist	Foreign Adversary
+HI_357.txt	यूक्रेन	352	358	Innocent	Victim
+HI_357.txt	यूक्रेनी	732	739	Innocent	Victim
+HI_94.txt	रणधीर जायसवाल	646	658	Protagonist	Guardian
+HI_94.txt	Reuters	691	697	Antagonist	Deceiver
+HI_94.txt	भारत	942	945	Protagonist	Virtuous	Guardian
+HI_94.txt	रूस	1230	1232	Antagonist	Tyrant
+HI_94.txt	यूक्रेन	1243	1249	Innocent	Victim
+HI_94.txt	इटली	2444	2447	Antagonist	Foreign Adversary
+HI_94.txt	चेक गणराज्य	2452	2462	Antagonist	Foreign Adversary
+HI_94.txt	भारत	3011	3014	Protagonist	Virtuous
+HI_317.txt	डोनाल्ड ट्रंप	79	91	Protagonist	Virtuous	Guardian	Underdog
+HI_317.txt	ट्रंप	933	937	Protagonist	Virtuous	Guardian
+HI_317.txt	अमेरिका	1162	1168	Protagonist	Virtuous	Guardian
+HI_317.txt	रूस	2631	2633	Protagonist	Rebel
+HI_317.txt	भारत	2723	2726	Protagonist	Peacemaker	Virtuous	Guardian
+HI_317.txt	यूक्रेन	2731	2737	Innocent	Victim
+HI_317.txt	चीन	3387	3389	Antagonist	Foreign Adversary
+HI_317.txt	नरेंद्र मोदी	3706	3717	Protagonist	Virtuous	Guardian
+HI_317.txt	मोदी	3776	3779	Protagonist	Virtuous	Guardian
+HI_317.txt	तुलसी गेबार्ड	4074	4086	Protagonist	Virtuous
+HI_317.txt	विवेक रामास्वामी	4091	4106	Protagonist	Virtuous
+HI_317.txt	उषा वेंस	4152	4159	Protagonist	Virtuous
+HI_78.txt	यूक्रेन	72	78	Innocent	Victim
+HI_78.txt	वलोदिमीर जेलेंस्की	94	111	Protagonist	Guardian
+HI_78.txt	पोलटावा	137	143	Innocent	Victim
+HI_78.txt	रूस	751	753	Antagonist	Tyrant
+HI_78.txt	पोल्टावा	800	807	Innocent	Victim
+HI_78.txt	मॉस्को	860	865	Antagonist	Tyrant
+HI_78.txt	जेलेंस्की	1697	1705	Protagonist	Rebel
+HI_228.txt	रूसी सेना	294	302	Antagonist	Tyrant
+HI_228.txt	कीव	403	405	Innocent	Victim
+HI_228.txt	रूस	487	489	Antagonist	Tyrant
+HI_228.txt	नागरिक	533	538	Innocent	Victim
+HI_228.txt	सेरही पोपको	616	626	Protagonist	Guardian
+HI_228.txt	यूक्रेन	693	699	Innocent	Victim
+HI_228.txt	रूसी रक्षा मंत्रालय	1091	1109	Protagonist	Rebel
+HI_228.txt	कुर्क्स	1249	1255	Innocent	Victim
+HI_228.txt	यूक्रेन	1410	1416	Protagonist	Underdog
+HI_228.txt	जो बाइडेन	1455	1463	Protagonist	Guardian
+HI_236.txt	मानव समुदाय	393	403	Innocent	Victim
+HI_333.txt	यूक्रेन	74	80	Antagonist	Terrorist
+HI_333.txt	रूस	99	101	Innocent	Victim
+HI_333.txt	यूक्रेन	358	364	Antagonist	Instigator	Deceiver
+HI_333.txt	रूस	1315	1317	Innocent	Victim
+HI_244.txt	अमेरिका	1312	1318	Antagonist	Foreign Adversary
+HI_244.txt	जो बाइडेन	1376	1384	Antagonist	Foreign Adversary
+HI_325.txt	ट्रंप	57	61	Protagonist	Peacemaker
+HI_325.txt	रूस	78	80	Protagonist	Rebel
+HI_325.txt	यूक्रेन	85	91	Protagonist	Underdog
+HI_325.txt	पुतिन	312	316	Protagonist	Rebel	Guardian
+HI_325.txt	ज़ेलेंस्की	321	330	Protagonist	Guardian	Underdog
+HI_325.txt	यूक्रेनी लोग	770	781	Innocent	Victim
+HI_325.txt	डेमोक्रेटिक पार्टी	783	800	Antagonist	Foreign Adversary
+HI_325.txt	टिमोथी कुज़मा	889	901	Protagonist	Virtuous
+HI_325.txt	ट्रंप	938	942	Protagonist	Virtuous	Guardian
+HI_147.txt	PM मोदी	83	89	Protagonist	Virtuous
+HI_147.txt	भारत	140	143	Protagonist	Virtuous
+HI_15.txt	नाटो	25	28	Antagonist	Foreign Adversary
+HI_116.txt	पुतिन	167	171	Antagonist	Instigator
+HI_116.txt	यूक्रेन	176	182	Innocent	Victim
+HI_116.txt	जर्मनी	1985	1990	Antagonist	Foreign Adversary
+HI_116.txt	फ्रांस	1993	1998	Antagonist	Foreign Adversary
+HI_116.txt	ब्रिटेन	2001	2007	Antagonist	Foreign Adversary
+HI_116.txt	अमेरिका	2012	2018	Antagonist	Foreign Adversary
+HI_116.txt	जर्मनी	2082	2087	Antagonist	Foreign Adversary
+HI_116.txt	रूस	2406	2408	Antagonist	Foreign Adversary
+HI_116.txt	अमेरिका	2428	2434	Antagonist	Foreign Adversary
+HI_116.txt	जर्मनी	2542	2547	Antagonist	Instigator
+HI_116.txt	अमेरिका	3195	3201	Antagonist	Foreign Adversary
+HI_116.txt	फ्रांस	3204	3209	Antagonist	Foreign Adversary
+HI_116.txt	ब्रिटेन	3212	3218	Antagonist	Foreign Adversary
+HI_116.txt	सोवियत संघ	3221	3230	Antagonist	Foreign Adversary
+HI_116.txt	जर्मनी	3276	3281	Antagonist	Foreign Adversary
+HI_116.txt	इटली	3284	3287	Antagonist	Foreign Adversary
+HI_116.txt	जापान	3292	3296	Antagonist	Foreign Adversary
+HI_116.txt	नॉर्वे	3327	3332	Innocent	Victim
+HI_116.txt	डेनमार्क	3335	3342	Innocent	Victim
+HI_116.txt	लक्जमबर्ग	3345	3353	Innocent	Victim
+HI_116.txt	बेल्जियम	3356	3363	Innocent	Victim
+HI_116.txt	नीदरलैंड	3366	3373	Innocent	Victim
+HI_260.txt	यूक्रेन	172	178	Protagonist	Underdog
+HI_260.txt	वोलोदिमीर ज़ेलेंस्की	194	213	Protagonist	Guardian
+HI_260.txt	रूस	288	290	Antagonist	Tyrant
+HI_260.txt	उत्तर कोरियाई सैनिकों	292	312	Antagonist	Foreign Adversary
+HI_260.txt	रूस	382	384	Antagonist	Foreign Adversary	Deceiver
+HI_163.txt	पीएम मोदी	182	190	Protagonist	Peacemaker	Guardian
+HI_163.txt	पीएम मोदी	1091	1099	Protagonist	Peacemaker
+HI_163.txt	क्वाड	2428	2432	Protagonist	Virtuous
+HI_163.txt	भारत	3201	3204	Protagonist	Peacemaker
+HI_299.txt	पैसिफिक वॉकर सर्कुलेशन	160	181	Antagonist	Instigator
+HI_299.txt	दक्षिण-पूर्व एशिया	682	699	Innocent	Victim	Forgotten
+HI_310.txt	उत्तर कोरिया	46	57	Protagonist	Virtuous	Guardian
+HI_310.txt	सोंग किम	85	92	Protagonist	Virtuous	Guardian
+HI_310.txt	अमेरिका	116	122	Antagonist	Foreign Adversary
+HI_310.txt	पश्चिमी देशों	127	139	Antagonist	Foreign Adversary
+HI_310.txt	रूस	162	164	Protagonist	Rebel	Virtuous
+HI_310.txt	रूसी सेना	587	595	Protagonist	Rebel	Guardian
+HI_310.txt	यूक्रेन	610	616	Protagonist	Underdog
+HI_310.txt	किम जोंग	651	658	Protagonist	Virtuous	Guardian
+HI_310.txt	पुतिन	701	705	Protagonist	Rebel	Guardian
+HI_341.txt	क्रेन	36	40	Innocent	Exploited
+HI_341.txt	ओल्गा ओनुच	476	485	Protagonist	Virtuous
+HI_213.txt	अमेरिकी	595	601	Protagonist	Virtuous	Guardian
+HI_213.txt	अमेरिका	1328	1334	Antagonist	Foreign Adversary
+HI_213.txt	जो बाइडेन	1511	1519	Antagonist	Foreign Adversary
+HI_396.txt	एलन मस्क	116	123	Protagonist	Rebel
+HI_396.txt	जेफरी डी सैक्स	172	185	Protagonist	Guardian
+HI_396.txt	अमेरिका	264	270	Antagonist	Instigator
+HI_396.txt	नाटो	288	291	Antagonist	Instigator
+HI_396.txt	यूक्रेन	311	317	Innocent	Victim
+HI_396.txt	अमेरिका	443	449	Antagonist	Foreign Adversary
+HI_396.txt	व्लादिमीर पुतिन	484	498	Protagonist	Rebel	Guardian
+HI_396.txt	जो बाइडेन प्रशासन	710	726	Antagonist	Incompetent	Deceiver
+HI_396.txt	सैक्स	811	815	Protagonist	Guardian
+HI_396.txt	बाइडेन	975	980	Antagonist	Incompetent	Deceiver
+HI_348.txt	चीन	437	439	Protagonist	Rebel
+HI_348.txt	अमेरिका	536	542	Antagonist	Foreign Adversary
+HI_348.txt	यूरोपीय संघ	547	557	Antagonist	Foreign Adversary
+HI_47.txt	पोलैंड	238	243	Protagonist	Virtuous
+HI_47.txt	मोदी	613	616	Protagonist	Virtuous
+HI_47.txt	मोदी	1035	1038	Protagonist	Peacemaker
+HI_132.txt	वायुमंडल	826	833	Innocent	Victim
+HI_356.txt	यूक्रेन	203	209	Innocent	Victim
+HI_356.txt	यूक्रेन	323	329	Protagonist	Underdog
+HI_356.txt	ट्रंप	951	955	Protagonist	Peacemaker
+HI_381.txt	अमेरिका	153	159	Antagonist	Foreign Adversary
+HI_381.txt	रूस	501	503	Protagonist	Virtuous
+HI_364.txt	ब्रिटेन	447	453	Protagonist	Virtuous	Guardian
+HI_101.txt	नरेंद्र मोदी	143	154	Protagonist	Peacemaker
+HI_101.txt	भारत	251	254	Protagonist	Virtuous
+HI_101.txt	भारत	762	765	Protagonist	Guardian
+HI_101.txt	कीव	767	769	Innocent	Victim
+HI_101.txt	भारत	793	796	Protagonist	Peacemaker
+HI_101.txt	रूस	921	923	Antagonist	Instigator
+HI_101.txt	मोदी	1027	1030	Antagonist	Traitor
+HI_101.txt	यूक्रेनियन	1334	1343	Innocent	Victim
+HI_101.txt	मोदी	1416	1419	Protagonist	Virtuous
+HI_373.txt	रूस	204	206	Innocent	Victim
+HI_187.txt	मोदी	375	378	Protagonist	Peacemaker	Virtuous
+HI_187.txt	रूस	769	771	Antagonist	Foreign Adversary
+HI_187.txt	नाटो	780	783	Antagonist	Foreign Adversary
+HI_187.txt	ऐसे	1153	1155	Protagonist	Rebel
+HI_187.txt	भारत	1733	1736	Protagonist	Peacemaker	Virtuous
+HI_187.txt	यूक्रेन	2065	2071	Innocent	Victim
+HI_187.txt	रूस	2094	2096	Antagonist	Instigator
+HI_187.txt	प्रधानमंत्री नरेंद्र	2325	2344	Protagonist	Virtuous
+HI_187.txt	मोदी	2573	2576	Protagonist	Virtuous
+HI_187.txt	भारत	2728	2731	Protagonist	Peacemaker
+HI_187.txt	मोदी	3193	3196	Protagonist	Guardian
+HI_63.txt	रूस	72	74	Antagonist	Tyrant
+HI_63.txt	यूक्रेन	138	144	Protagonist	Underdog
+HI_63.txt	अमेरिका	214	220	Protagonist	Virtuous	Guardian
+HI_63.txt	यूरोपीय देशों	225	237	Protagonist	Virtuous	Guardian
+HI_283.txt	नरेंद्र मोदी	269	280	Protagonist	Guardian
+HI_283.txt	भारत	358	361	Protagonist	Virtuous
+HI_283.txt	ज़ेलेंस्की	1118	1127	Protagonist	Virtuous
+HI_283.txt	बच्चों	1225	1230	Innocent	Victim
+HI_283.txt	प्रधानमंत्री	1288	1299	Protagonist	Virtuous
+HI_283.txt	रूस	1499	1501	Antagonist	Foreign Adversary
+HI_283.txt	व्लादिमीर पुतिन	1522	1536	Antagonist	Foreign Adversary
+HI_283.txt	यूक्रेन	1794	1800	Innocent	Victim
+HI_283.txt	रूस	1806	1808	Antagonist	Tyrant
+HI_283.txt	लोग	1825	1827	Innocent	Victim
+HI_283.txt	बच्चे	1848	1852	Innocent	Victim
+HI_283.txt	अस्पताल	1906	1912	Innocent	Victim
+HI_275.txt	भारत	101	104	Protagonist	Virtuous	Guardian
+HI_275.txt	विदेश मंत्रालय	109	122	Protagonist	Guardian
+HI_275.txt	रॉयटर्स	141	147	Antagonist	Deceiver
+HI_275.txt	रणधीर जायसवाल	567	579	Protagonist	Guardian
+HI_275.txt	रूस	1293	1295	Protagonist	Rebel
+HI_275.txt	यूक्रेन	1308	1314	Protagonist	Underdog
+HI_108.txt	डोनाल्ड ट्रंप	546	558	Protagonist	Virtuous
+HI_108.txt	ट्रंप	1186	1190	Protagonist	Peacemaker
+HI_108.txt	डोनाल्ड ट्रंप	1926	1938	Antagonist	Incompetent
+HI_108.txt	अप्रवासियों	2698	2708	Antagonist	Terrorist
+HI_23.txt	यूक्रेन	145	151	Innocent	Victim
+HI_23.txt	अमेरिका	310	316	Antagonist	Traitor
+HI_23.txt	यूक्रेन	354	360	Innocent	Forgotten
+HI_23.txt	यूक्रेनी	551	558	Protagonist	Underdog
+HI_23.txt	अमेरिकी	817	823	Protagonist	Guardian
+HI_23.txt	यूक्रेन	989	995	Innocent	Victim
+HI_23.txt	यूक्रेन	1229	1235	Protagonist	Underdog
+HI_23.txt	यूक्रेन	1514	1520	Protagonist	Underdog
+HI_23.txt	यूक्रेनी सेना	1670	1682	Protagonist	Virtuous
+HI_23.txt	यूक्रेनी सेना	1741	1753	Protagonist	Virtuous
+HI_23.txt	रूसी	1758	1761	Innocent	Victim
+HI_23.txt	यूक्रेन	2637	2643	Protagonist	Virtuous	Underdog
+HI_23.txt	यूक्रेनी सेना	2696	2708	Protagonist	Virtuous
+HI_23.txt	रूसी सैनिकों	2756	2767	Innocent	Victim
+HI_23.txt	यूक्रेन	3103	3109	Antagonist	Corrupt
+HI_23.txt	रूसी रक्षा विभाग	3335	3350	Antagonist	Corrupt
+HI_23.txt	यूक्रेन	3391	3397	Antagonist	Corrupt
+HI_23.txt	अमेरिका	3601	3607	Antagonist	Foreign Adversary
+HI_23.txt	यूरोपीय यूनियन	3617	3630	Antagonist	Foreign Adversary
+HI_23.txt	रूस	3638	3640	Antagonist	Foreign Adversary
+HI_23.txt	व्लादिमीर पुतिन	3728	3742	Protagonist	Underdog
+HI_23.txt	रूस	3829	3831	Protagonist	Rebel
+HI_23.txt	पश्चिमी	3917	3923	Antagonist	Incompetent
+HI_23.txt	यूरोपीय	3928	3934	Antagonist	Incompetent
+HI_23.txt	यूरोप	4268	4272	Innocent	Victim
+HI_302.txt	उत्तर कोरिया	114	125	Protagonist	Rebel	Guardian
+HI_302.txt	जापान	742	746	Protagonist	Rebel	Guardian
+HI_302.txt	किम जोंग	1156	1163	Antagonist	Instigator	Tyrant
+HI_302.txt	साउथ कोरिया	1168	1178	Innocent	Victim
+HI_388.txt	यूक्रेन	191	197	Innocent	Victim
+HI_388.txt	सैनिक	202	206	Innocent	Victim
+HI_388.txt	नागरिक	211	216	Innocent	Victim
+HI_388.txt	अमेरिका	303	309	Protagonist	Guardian
+HI_388.txt	यूक्रेन	314	320	Protagonist	Underdog
+HI_388.txt	रूस	334	336	Antagonist	Foreign Adversary	Tyrant
+HI_388.txt	रूस	569	571	Protagonist	Rebel
+HI_388.txt	व्लादिमीर पुतिन	616	630	Protagonist	Rebel	Guardian
+HI_388.txt	मास्को	778	783	Protagonist	Rebel
+HI_388.txt	अमेरिका	841	847	Antagonist	Foreign Adversary
+HI_388.txt	पश्चिमी देशों	857	869	Antagonist	Foreign Adversary
+HI_388.txt	क्रेमलिन	1082	1089	Protagonist	Guardian
+HI_388.txt	दिमित्री पेस्कोव	1103	1118	Protagonist	Guardian
+HI_388.txt	पुतिन	1500	1504	Protagonist	Rebel	Guardian
+HI_388.txt	पश्चिम	1509	1514	Antagonist	Foreign Adversary
+HI_388.txt	कीव	1536	1538	Antagonist	Foreign Adversary
+HI_155.txt	रूस	134	136	Antagonist	Instigator
+HI_155.txt	चीन	141	143	Antagonist	Foreign Adversary
+HI_155.txt	यूक्रेन	148	154	Innocent	Victim
+HI_155.txt	भारत	487	490	Innocent	Victim
+HI_155.txt	यूक्रेन	1346	1352	Protagonist	Underdog
+HI_155.txt	पश्चिमी देश	1357	1367	Antagonist	Foreign Adversary
+HI_155.txt	भारत	1593	1596	Innocent	Victim
+HI_155.txt	नरेंद्र मोदी सरकार	1648	1665	Protagonist	Guardian
+HI_172.txt	रूस	181	183	Protagonist	Rebel
+HI_172.txt	यूक्रेन	216	222	Protagonist	Underdog
+HI_172.txt	व्लादिमीर पुतिन	365	379	Antagonist	Instigator
+HI_172.txt	पश्चिमी देशों	616	628	Antagonist	Foreign Adversary
+HI_123.txt	रूस	239	241	Innocent	Victim
+HI_123.txt	यूक्रेन	246	252	Innocent	Victim
+HI_123.txt	प्रधानमंत्री मोदी	308	324	Protagonist	Peacemaker
+HI_123.txt	मोदी	536	539	Protagonist	Virtuous
+HI_123.txt	भारत	611	614	Protagonist	Peacemaker
+HI_123.txt	चीन	765	767	Antagonist	Foreign Adversary
+HI_123.txt	भारत	1534	1537	Protagonist	Peacemaker	Virtuous
+HI_123.txt	चीन	1576	1578	Antagonist	Foreign Adversary
+HI_123.txt	चीन	1680	1682	Antagonist	Foreign Adversary
+HI_123.txt	चीन	3256	3258	Protagonist	Peacemaker
+HI_123.txt	राष्ट्रपति जेलेंस्की	3703	3722	Protagonist	Virtuous
+HI_123.txt	चीन	3750	3752	Antagonist	Deceiver
+HI_123.txt	चीन	4316	4318	Antagonist	Foreign Adversary
+HI_123.txt	चीन	5246	5248	Antagonist	Deceiver
+HI_123.txt	चीन	5412	5414	Antagonist	Deceiver
+HI_123.txt	चीन	5827	5829	Antagonist	Corrupt
+HI_123.txt	रूस	5834	5836	Antagonist	Corrupt
+HI_123.txt	भारत	7194	7197	Protagonist	Virtuous
+HI_204.txt	यूक्रेन	27	33	Antagonist	Incompetent
+HI_204.txt	यूक्रेन	74	80	Protagonist	Underdog
+HI_204.txt	नौजवानों	102	109	Innocent	Victim
+HI_204.txt	युवाओं	230	235	Innocent	Victim
+HI_179.txt	रॉयटर्स	164	170	Antagonist	Instigator	Deceiver
+HI_179.txt	भारतीय विदेश मंत्रालय	298	318	Protagonist	Virtuous	Guardian
+HI_179.txt	विदेश मंत्रालय	498	511	Protagonist	Guardian
+HI_179.txt	भारत	567	570	Protagonist	Virtuous
+HI_55.txt	अमेरिका	906	912	Antagonist	Foreign Adversary
+HI_55.txt	USSR	1181	1184	Innocent	Victim
+HI_55.txt	USSR 1991	1290	1298	Innocent	Victim
+HI_55.txt	रूस	1485	1487	Protagonist	Underdog
+HI_55.txt	अमेरिका	1623	1629	Antagonist	Instigator	Foreign Adversary
+HI_55.txt	रूस	1631	1633	Innocent	Victim
+HI_55.txt	अमेरिका	1649	1655	Antagonist	Saboteur	Foreign Adversary
+HI_55.txt	अमेरिका	2261	2267	Antagonist	Instigator	Foreign Adversary
+HI_55.txt	रूस	2272	2274	Innocent	Victim
+HI_55.txt	यूक्रेन	2725	2731	Antagonist	Instigator	Foreign Adversary
+HI_55.txt	जेलसिंकी	2955	2962	Antagonist	Traitor
+HI_55.txt	पुतिन	2977	2981	Innocent	Exploited
+HI_55.txt	यूक्रेन	3163	3169	Antagonist	Incompetent
+HI_55.txt	अमेरिका	3565	3571	Antagonist	Foreign Adversary
+HI_55.txt	पुतिन	3620	3624	Protagonist	Underdog
+HI_55.txt	पुतिन	3647	3651	Protagonist	Guardian
+HI_55.txt	पुतिन	4035	4039	Protagonist	Virtuous
+HI_55.txt	अमेरिका	4652	4658	Protagonist	Guardian
+HI_55.txt	रूस	4684	4686	Antagonist	Instigator
+HI_55.txt	रूसी एलिट्स	5267	5277	Protagonist	Guardian
+HI_55.txt	रूस	5616	5618	Antagonist	Saboteur	Instigator
+HI_55.txt	पुतिन	5794	5798	Protagonist	Guardian
+HI_55.txt	रूस	6141	6143	Protagonist	Peacemaker	Virtuous	Guardian
+HI_221.txt	रूस	126	128	Antagonist	Instigator	Tyrant
+HI_221.txt	यूक्रेन	148	154	Protagonist	Rebel	Underdog
+HI_221.txt	जेलेंस्की	350	358	Protagonist	Guardian	Underdog
+HI_221.txt	पुतिन	363	367	Antagonist	Foreign Adversary
+HI_221.txt	वोलोदिमीर जेलेंस्की	792	810	Protagonist	Rebel	Guardian	Underdog
+HI_221.txt	अमेरिका	887	893	Antagonist	Foreign Adversary
+HI_221.txt	अमेरिका	1233	1239	Protagonist	Virtuous
+HI_309.txt	किम जोंग उन	341	351	Antagonist	Foreign Adversary
+HI_309.txt	पुतिन	377	381	Protagonist	Rebel	Guardian
+HI_309.txt	अमेरिका	402	408	Protagonist	Virtuous	Guardian
+HI_309.txt	यूक्रेन	481	487	Protagonist	Underdog
+HI_309.txt	उत्तर कोरिया	495	506	Antagonist	Foreign Adversary
+HI_309.txt	रूस	553	555	Protagonist	Rebel
+HI_309.txt	पश्चिम के देश	671	683	Antagonist	Foreign Adversary
+HI_309.txt	वसीली नेबेंजिया	818	832	Protagonist	Rebel	Guardian
+HI_309.txt	पश्चिमी देश	861	871	Antagonist	Foreign Adversary
+HI_309.txt	मॉस्को	974	979	Protagonist	Rebel
+HI_326.txt	अमेरिका	26	32	Protagonist	Guardian
+HI_326.txt	जॉन बार्यन्स	267	278	Protagonist	Guardian
+HI_326.txt	यूक्रेन	691	697	Protagonist	Underdog
+HI_326.txt	रूस	896	898	Antagonist	Foreign Adversary
+HI_326.txt	मेलिंगा हेरिंग	1113	1126	Protagonist	Guardian
+HI_326.txt	रूस	1207	1209	Protagonist	Rebel
+HI_326.txt	नेटो	1522	1525	Protagonist	Guardian
+HI_69.txt	व्लादिमीर पुतिन	97	111	Protagonist	Virtuous
+HI_69.txt	नरेंद्र मोदी	129	140	Protagonist	Guardian
+HI_69.txt	रूस	145	147	Protagonist	Virtuous
+HI_85.txt	रूसी सेना	153	161	Antagonist	Tyrant
+HI_85.txt	यूक्रेन	550	556	Innocent	Victim
+HI_334.txt	नरेंद्र मोदी	92	103	Protagonist	Peacemaker
+HI_334.txt	मोदी	627	630	Protagonist	Peacemaker
+HI_148.txt	गौतम अडानी	123	132	Protagonist	Virtuous	Guardian
+HI_148.txt	अडानी ग्रुप (A	152	165	Protagonist	Virtuous
+HI_237.txt	ग्रह	234	237	Innocent	Victim
+HI_237.txt	News18	579	584	Protagonist	Virtuous	Guardian
+HI_237.txt	वैज्ञानिक	917	925	Protagonist	Guardian
+HI_261.txt	यूक्रेनी महिलाओं	0	15	Protagonist	Underdog
+HI_261.txt	रूस	106	108	Antagonist	Foreign Adversary
+HI_261.txt	महिलाएं	196	202	Protagonist	Underdog
+HI_261.txt	यूक्रेन	220	226	Protagonist	Underdog
+HI_261.txt	एयर डिफ़ेंस यूनिट	231	247	Protagonist	Guardian
+HI_261.txt	विचेज़ ऑफ़ बुचा	309	323	Protagonist	Guardian
+HI_93.txt	नरेन्द्र मोदी	72	84	Protagonist	Guardian
+HI_93.txt	नई दिल्ली	255	263	Protagonist	Peacemaker
+HI_93.txt	यूक्रेन	792	798	Innocent	Victim
+HI_93.txt	रूस	2825	2827	Antagonist	Tyrant
+HI_164.txt	पश्चिमी देशों	184	196	Protagonist	Guardian
+HI_164.txt	यूक्रेन	220	226	Protagonist	Underdog
+HI_164.txt	नाटो	526	529	Protagonist	Guardian
+HI_164.txt	यूक्रेन	719	725	Protagonist	Rebel	Underdog
+HI_164.txt	पश्चिमी देशों	777	789	Protagonist	Virtuous
+HI_164.txt	राष्ट्रपति पुतिन	1255	1270	Antagonist	Foreign Adversary	Tyrant
+HI_164.txt	राष्ट्रपति जेलेंस्की	1347	1366	Protagonist	Rebel	Underdog
+HI_164.txt	अमेरिका	1446	1452	Protagonist	Virtuous
+HI_164.txt	ब्रिटेन	1455	1461	Protagonist	Virtuous
+HI_164.txt	फ्रांस	1466	1471	Protagonist	Virtuous
+HI_164.txt	पीएम मेलोनी	1911	1921	Protagonist	Virtuous	Guardian
+HI_164.txt	पश्चिमी देशों	2621	2633	Antagonist	Incompetent
+HI_227.txt	यूक्रेन की सेना	368	382	Protagonist	Rebel
+HI_227.txt	रूस	384	386	Antagonist	Foreign Adversary
+HI_227.txt	यूक्रेनी सैनिक	501	514	Protagonist	Rebel	Guardian
+HI_227.txt	वोलोदिमीर जेलेंस्की	619	637	Protagonist	Rebel
+HI_227.txt	पुतिन	1116	1120	Antagonist	Incompetent
+HI_227.txt	रूस की सेना	1180	1190	Antagonist	Incompetent
+HI_316.txt	रूस	75	77	Protagonist	Virtuous
+HI_316.txt	व्लादिमीर पुतिन	93	107	Protagonist	Virtuous	Guardian
+HI_316.txt	भारत	112	115	Protagonist	Virtuous
+HI_316.txt	पुतिन	254	258	Protagonist	Virtuous	Guardian
+HI_316.txt	मोदी	739	742	Protagonist	Virtuous	Guardian
+HI_316.txt	चीन	766	768	Antagonist	Foreign Adversary
+HI_316.txt	रूस-	830	833	Protagonist	Rebel
+HI_316.txt	यूक्रेन	834	840	Protagonist	Underdog
+HI_316.txt	चीन	850	852	Protagonist	Peacemaker
+HI_316.txt	पाकिस्तान	1359	1367	Antagonist	Foreign Adversary
+HI_79.txt	पश्चिमी देशों	280	292	Antagonist	Instigator	Foreign Adversary
+HI_79.txt	सर्गेई रयाबकोव	726	739	Protagonist	Guardian
+HI_79.txt	कीव	1915	1917	Protagonist	Underdog
+HI_79.txt	रूस	2086	2088	Protagonist	Rebel	Underdog
+HI_79.txt	यूक्रेन	2253	2259	Antagonist	Deceiver
+HI_32.txt	ब्रिटेन का मीडिया	29	45	Antagonist	Conspirator	Bigot
+HI_32.txt	भारत	189	192	Protagonist	Peacemaker
+HI_32.txt	भारत	389	392	Antagonist	Deceiver
+HI_32.txt	रूस	653	655	Antagonist	Deceiver
+HI_32.txt	फाइनेंशियल टाइम्स	762	778	Antagonist	Saboteur
+HI_32.txt	भारत	807	810	Innocent	Victim
+HI_32.txt	भारत	865	868	Antagonist	Deceiver
+HI_32.txt	रूस	873	875	Antagonist	Deceiver
+HI_32.txt	रूस	1151	1153	Antagonist	Conspirator	Corrupt
+HI_243.txt	पश्चिमी देशों	386	398	Antagonist	Foreign Adversary
+HI_243.txt	उत्तर कोरिया	1159	1170	Antagonist	Foreign Adversary
+HI_340.txt	यूक्रेन	18	24	Innocent	Exploited
+HI_340.txt	मरीना मिरोन	206	216	Protagonist	Virtuous
+HI_340.txt	रूस	514	516	Antagonist	Tyrant
+HI_70.txt	व्लादिमीर पुतिन	155	169	Antagonist	Instigator
+HI_70.txt	यूक्रेन	174	180	Innocent	Victim
+HI_70.txt	यूक्रेन	216	222	Innocent	Victim
+HI_70.txt	मुसलमानों	332	340	Innocent	Victim
+HI_70.txt	क्रीमियाई तातर मुसलमान	406	427	Innocent	Victim
+HI_70.txt	रूस	448	450	Antagonist	Tyrant
+HI_70.txt	पाकिस्तान	652	660	Antagonist	Deceiver
+HI_70.txt	अमेरिका	1041	1047	Antagonist	Foreign Adversary
+HI_70.txt	पाकिस्तान	1052	1060	Antagonist	Foreign Adversary
+HI_70.txt	पाकिस्तान	1862	1870	Protagonist	Virtuous
+HI_70.txt	रूसी	2099	2102	Antagonist	Terrorist
+HI_70.txt	पुतिन	2348	2352	Antagonist	Corrupt
+HI_70.txt	तुर्की	2647	2652	Antagonist	Foreign Adversary
+HI_70.txt	अमेरिका	2663	2669	Antagonist	Foreign Adversary
+HI_70.txt	तुर्की	2688	2693	Protagonist	Peacemaker
+HI_70.txt	रूस	3020	3022	Protagonist	Virtuous
+HI_70.txt	सऊदी अरब	3027	3034	Protagonist	Virtuous
+HI_70.txt	यूरोप	3182	3186	Innocent	Victim
+HI_70.txt	यूएई	3763	3766	Protagonist	Peacemaker
+HI_70.txt	रूस	4192	4194	Antagonist	Corrupt
+HI_70.txt	ईरान	4357	4360	Antagonist	Foreign Adversary
+HI_70.txt	अमेरिका	4365	4371	Antagonist	Foreign Adversary
+HI_70.txt	पश्चिमी देश	4452	4462	Antagonist	Saboteur	Instigator
+HI_70.txt	ईरान	4702	4705	Protagonist	Peacemaker
+HI_70.txt	कतर	4788	4790	Protagonist	Peacemaker
+HI_70.txt	इंडोनेशिया	5440	5449	Protagonist	Peacemaker
+HI_70.txt	जोको विडोडो	5587	5597	Protagonist	Peacemaker
+HI_70.txt	रूसी	5734	5737	Antagonist	Instigator
+HI_70.txt	रूस	5814	5816	Antagonist	Corrupt
+HI_311.txt	यूक्रेन	82	88	Innocent	Victim
+HI_311.txt	रूस	107	109	Protagonist	Rebel
+HI_311.txt	उत्तर कोरिया	120	131	Protagonist	Virtuous
+HI_311.txt	मॉस्को	227	232	Protagonist	Rebel
+HI_311.txt	नाटो	248	251	Protagonist	Guardian
+HI_311.txt	उत्तर अटलांटिक संधि संगठन	279	303	Protagonist	Guardian
+HI_311.txt	जो बाइडेन	399	407	Protagonist	Guardian
+HI_311.txt	बाइडेन	477	482	Protagonist	Guardian
+HI_311.txt	मार्क रूट	874	882	Protagonist	Guardian
+HI_311.txt	पेंटागन	1177	1183	Protagonist	Guardian
+HI_311.txt	सबरीना सिंह	1262	1272	Protagonist	Guardian
+HI_311.txt	लॉयड ऑस्टिन	1513	1523	Protagonist	Guardian
+HI_133.txt	पक्षी प्रजातियां	517	532	Innocent	Victim
+HI_133.txt	पक्षी	775	779	Innocent	Victim
+HI_133.txt	पक्षियों	1049	1056	Innocent	Victim
+HI_133.txt	हिमालयन मोनाल	1344	1356	Innocent	Victim
+HI_397.txt	सैक्स	121	125	Protagonist	Guardian
+HI_397.txt	मिखाइल गोर्बाचेव	148	163	Protagonist	Guardian
+HI_397.txt	नाटो	168	171	Antagonist	Foreign Adversary
+HI_397.txt	अमेरिका	381	387	Antagonist	Instigator	Deceiver
+HI_397.txt	सर्बिया	568	574	Innocent	Victim
+HI_397.txt	नाटो	613	616	Antagonist	Tyrant
+HI_397.txt	बेलग्रेड	640	647	Innocent	Victim
+HI_397.txt	रूस	693	695	Protagonist	Rebel	Virtuous
+HI_397.txt	व्लादिमीर पुतिन	823	837	Protagonist	Virtuous	Guardian
+HI_397.txt	रूस	1265	1267	Protagonist	Guardian
+HI_397.txt	यूक्रेन	1377	1383	Innocent	Victim
+HI_212.txt	वोल्डिमीर जेलेंस्की	209	227	Antagonist	Foreign Adversary
+HI_212.txt	वोल्डिमीर जेलेंस्की	803	821	Protagonist	Virtuous
+HI_115.txt	यूक्रेन	169	175	Antagonist	Instigator	Foreign Adversary
+HI_115.txt	रूस	217	219	Protagonist	Underdog
+HI_115.txt	रूस	846	848	Antagonist	Foreign Adversary
+HI_115.txt	यूक्रेन	918	924	Antagonist	Foreign Adversary
+HI_115.txt	यूक्रेन	1738	1744	Antagonist	Instigator
+HI_349.txt	ट्रंप	412	416	Protagonist	Rebel	Virtuous
+HI_365.txt	सुमी	193	196	Innocent	Victim
+HI_365.txt	यूक्रेन	870	876	Protagonist	Rebel
+HI_16.txt	नरेंद्र मोदी	13	24	Protagonist	Peacemaker
+HI_16.txt	यूक्रेन	254	260	Innocent	Victim
+HI_16.txt	रूस	265	267	Antagonist	Instigator
+HI_16.txt	भारत	456	459	Protagonist	Virtuous
+HI_16.txt	मोदी	503	506	Protagonist	Guardian
+HI_16.txt	पीएम मोदी	938	946	Protagonist	Guardian
+HI_16.txt	भारतीयों	988	995	Innocent	Exploited	Scapegoat
+HI_16.txt	रूस	1036	1038	Protagonist	Peacemaker
+HI_64.txt	आईसीसी	1368	1373	Protagonist	Virtuous	Guardian
+HI_64.txt	यूक्रेन	1378	1384	Innocent	Victim
+HI_64.txt	पुतिन	1418	1422	Antagonist	Tyrant
+HI_64.txt	क्रेमलिन	1641	1648	Antagonist	Tyrant
+HI_64.txt	मंगोलिया	1694	1701	Antagonist	Incompetent
+HI_100.txt	भारत	89	92	Protagonist	Peacemaker	Virtuous	Guardian
+HI_100.txt	यूक्रेन	124	130	Innocent	Victim
+HI_100.txt	रूस	212	214	Antagonist	Tyrant
+HI_100.txt	नरेंद्र मोदी	258	269	Protagonist	Guardian
+HI_100.txt	व्लादिमीर जेलेंस्की	294	312	Protagonist	Guardian
+HI_100.txt	एस जयशंकर	400	408	Protagonist	Virtuous
+HI_100.txt	भारत	1539	1542	Protagonist	Peacemaker
+HI_100.txt	यूक्रेनी	1795	1802	Protagonist	Peacemaker
+HI_100.txt	जेलेंस्की	2357	2365	Protagonist	Peacemaker	Virtuous
+HI_100.txt	मोदी	4350	4353	Protagonist	Peacemaker
+HI_259.txt	रूस	86	88	Antagonist	Instigator
+HI_259.txt	कीव	107	109	Innocent	Victim
+HI_259.txt	कीव	149	151	Innocent	Victim
+HI_259.txt	यूक्रेन	168	174	Protagonist	Underdog
+HI_259.txt	यूक्रेनी सेना	426	438	Protagonist	Underdog
+HI_259.txt	जेलेंस्की	1083	1091	Protagonist	Guardian
+HI_48.txt	माली के विद्रोहियों	76	94	Antagonist	Terrorist
+HI_48.txt	वैगनर लड़ाकों	173	185	Protagonist	Martyr
+HI_48.txt	माली की आर्मी	194	206	Protagonist	Martyr
+HI_48.txt	वैगनर लड़ाकों	579	591	Innocent	Victim
+HI_48.txt	अल-कायदा	1056	1063	Antagonist	Terrorist
+HI_48.txt	जमात नुसरत अल-इस्लाम वाल मुस्लिमीन (JNIM	1080	1119	Antagonist	Terrorist
+HI_48.txt	वैगनर आर्मी	1280	1290	Protagonist	Virtuous
+HI_48.txt	वैगनर चीफ	1423	1431	Protagonist	Rebel
+HI_276.txt	रूस	38	40	Antagonist	Incompetent
+HI_276.txt	रूस	368	370	Antagonist	Tyrant
+HI_276.txt	वागनर समूह	604	613	Protagonist	Virtuous
+HI_22.txt	यूक्रेन	0	6	Antagonist	Instigator
+HI_22.txt	रूसी विमान	42	51	Innocent	Victim
+HI_22.txt	रूस	182	184	Innocent	Victim
+HI_22.txt	कीव	200	202	Antagonist	Instigator
+HI_22.txt	यूक्रेनी सैनिक	279	292	Innocent	Victim
+HI_22.txt	कीव	386	388	Antagonist	Deceiver
+HI_22.txt	रूस	696	698	Protagonist	Underdog
+HI_22.txt	मरिंका	990	995	Innocent	Victim
+HI_22.txt	अवदीवका	1021	1027	Innocent	Victim
+HI_22.txt	कुपियांस्क	1033	1042	Innocent	Victim
+HI_22.txt	यूक्रेन	1105	1111	Antagonist	Incompetent
+HI_22.txt	वाशिंगटन	1212	1219	Antagonist	Deceiver
+HI_22.txt	वोलोदिमिर जेलेंस्की	1272	1290	Protagonist	Virtuous
+HI_22.txt	जेलेंस्की	1437	1445	Antagonist	Incompetent
+HI_22.txt	यूक्रेन	1601	1607	Protagonist	Underdog
+HI_22.txt	रूस	1620	1622	Antagonist	Instigator
+HI_22.txt	रूस	1694	1696	Antagonist	Bigot
+HI_22.txt	यूक्रेन	1701	1707	Innocent	Victim
+HI_22.txt	गाजा	1875	1878	Innocent	Victim
+HI_22.txt	इजराइल	1883	1888	Antagonist	Instigator
+HI_22.txt	बाइडेन	1904	1909	Antagonist	Deceiver
+HI_22.txt	यूक्रेन	1951	1957	Innocent	Forgotten
+HI_22.txt	डोनाल्ड ट्रम्प	2071	2084	Protagonist	Peacemaker
+HI_22.txt	अमेरिका	2158	2164	Protagonist	Guardian
+HI_22.txt	नाटो	2174	2177	Protagonist	Guardian
+HI_22.txt	यूक्रेन	2286	2292	Antagonist	Corrupt
+HI_22.txt	पश्चिमी देशों	2341	2353	Protagonist	Guardian
+HI_22.txt	यूक्रेन	2407	2413	Protagonist	Underdog
+HI_382.txt	अमेरिका	61	67	Antagonist	Foreign Adversary
+HI_382.txt	रूस	125	127	Protagonist	Virtuous
+HI_382.txt	चीन	433	435	Antagonist	Foreign Adversary
+HI_109.txt	चीन	78	80	Protagonist	Virtuous	Guardian
+HI_109.txt	नाटो	117	120	Antagonist	Foreign Adversary
+HI_109.txt	नाटो	1176	1179	Antagonist	Foreign Adversary
+HI_169.txt	रूस	260	262	Antagonist	Foreign Adversary	Tyrant
+HI_169.txt	यूक्रेन	283	289	Antagonist	Instigator
+HI_169.txt	यूक्रेनी	833	840	Antagonist	Instigator
+HI_169.txt	रूस	1081	1083	Antagonist	Deceiver
+HI_54.txt	नाटो	92	95	Antagonist	Foreign Adversary
+HI_54.txt	रूस	118	120	Protagonist	Underdog
+HI_54.txt	अमेरिका	667	673	Antagonist	Foreign Adversary
+HI_54.txt	पश्चिमी देशों	678	690	Antagonist	Foreign Adversary
+HI_54.txt	रूस	777	779	Protagonist	Underdog
+HI_54.txt	नाटो	798	801	Antagonist	Foreign Adversary
+HI_54.txt	रूसी	1110	1113	Protagonist	Underdog
+HI_54.txt	पश्चिमी सैन्य	1731	1743	Antagonist	Foreign Adversary
+HI_372.txt	जो बाइडन	176	183	Antagonist	Foreign Adversary
+HI_372.txt	अमेरिका	393	399	Antagonist	Foreign Adversary
+HI_372.txt	यूक्रेन	404	410	Antagonist	Foreign Adversary
+HI_372.txt	रूस	453	455	Antagonist	Foreign Adversary
+HI_372.txt	रूस	553	555	Antagonist	Foreign Adversary
+HI_372.txt	अमेरिका	582	588	Antagonist	Foreign Adversary
+HI_355.txt	हैरिस	501	505	Protagonist	Virtuous
+HI_355.txt	ट्रंप	747	751	Protagonist	Virtuous
+HI_355.txt	अमेरिका	929	935	Protagonist	Virtuous
+HI_205.txt	कीव	142	144	Innocent	Victim
+HI_205.txt	यूक्रेन	151	157	Innocent	Victim
+HI_205.txt	रूस	174	176	Antagonist	Instigator	Tyrant
+HI_205.txt	पुतिन	634	638	Antagonist	Instigator
+HI_282.txt	नरेंद्र मोदी	90	101	Protagonist	Guardian
+HI_282.txt	जो बाइडन	163	170	Protagonist	Guardian
+HI_282.txt	मोदी	317	320	Protagonist	Virtuous
+HI_282.txt	बाइडन	325	329	Protagonist	Guardian
+HI_282.txt	मोदी	377	380	Protagonist	Peacemaker
+HI_282.txt	यूक्रेन	593	599	Innocent	Victim
+HI_282.txt	भारत	649	652	Protagonist	Peacemaker
+HI_282.txt	वोलोदीमीर ज़ेलेंस्की	939	958	Protagonist	Guardian
+HI_282.txt	ज़ेलेंस्की	1105	1114	Protagonist	Guardian
+HI_282.txt	एस जयशंकर	1433	1441	Protagonist	Guardian
+HI_222.txt	ब्रिक्स शिखर	110	121	Protagonist	Virtuous
+HI_222.txt	रूस	163	165	Protagonist	Virtuous
+HI_222.txt	पुतिन	181	185	Protagonist	Virtuous	Guardian
+HI_222.txt	ब्रिक्स	266	272	Protagonist	Virtuous
+HI_222.txt	भारत	358	361	Protagonist	Virtuous
+HI_222.txt	मोदी	1023	1026	Protagonist	Virtuous	Guardian
+HI_222.txt	व्लादिमीर पुतिन	1083	1097	Protagonist	Virtuous	Guardian
+HI_222.txt	मोदी	1121	1124	Protagonist	Peacemaker
+HI_222.txt	यूक्रेनी पक्ष	1381	1393	Antagonist	Foreign Adversary
+HI_37.txt	मोदी	980	983	Protagonist	Guardian
+HI_37.txt	भारत	1648	1651	Protagonist	Peacemaker
+HI_37.txt	पश्चिमी देश	2781	2791	Antagonist	Foreign Adversary
+HI_387.txt	यूक्रेन	63	69	Protagonist	Underdog
+HI_387.txt	वलोडिमिर ज़ेलेंस्की	85	103	Protagonist	Guardian
+HI_387.txt	डोनाल्ड ट्रम्प	121	134	Protagonist	Virtuous	Guardian
+HI_387.txt	रूस	177	179	Antagonist	Foreign Adversary
+HI_387.txt	बेथ सैनर	244	251	Protagonist	Guardian
+HI_387.txt	ज़ेलेंस्की	267	276	Protagonist	Guardian	Underdog
+HI_387.txt	डोनाल्ड ट्रम्प	385	398	Protagonist	Peacemaker
+HI_301.txt	यूक्रेन	107	113	Protagonist	Underdog
+HI_301.txt	वोलोदिमीर जेलेंस्की	129	147	Protagonist	Guardian
+HI_301.txt	डोनाल्ड ट्रंप	223	235	Protagonist	Virtuous	Guardian
+HI_301.txt	सहयोगियों	319	327	Protagonist	Guardian
+HI_301.txt	रूस	389	391	Antagonist	Tyrant
+HI_301.txt	अमेरिका	616	622	Protagonist	Virtuous	Guardian
+HI_301.txt	ट्रंप	628	632	Protagonist	Rebel	Guardian
+HI_301.txt	वोलोदिमीर जेलेंस्की	845	863	Antagonist	Deceiver
+HI_301.txt	बाइडेन प्रशासन	1002	1015	Antagonist	Incompetent
+HI_301.txt	अमेरिकी नागरिकों	1017	1032	Innocent	Exploited	Forgotten
+HI_301.txt	डोनाल्ड ट्रंप	1195	1207	Protagonist	Rebel	Guardian
+HI_301.txt	जेलेंस्की	1255	1263	Antagonist	Deceiver
+HI_301.txt	ट्रंप	1525	1529	Protagonist	Peacemaker	Rebel
+HI_86.txt	यूक्रेन	70	76	Innocent	Victim
+HI_86.txt	झापरोवा	102	108	Protagonist	Guardian
+HI_86.txt	भारत	113	116	Protagonist	Virtuous	Guardian
+HI_86.txt	नई दिल्ली	125	133	Protagonist	Virtuous	Guardian
+HI_86.txt	रूस	1073	1075	Antagonist	Tyrant
+HI_86.txt	चीन	2194	2196	Protagonist	Peacemaker
+HI_86.txt	ब्राजील	2201	2207	Protagonist	Peacemaker
+HI_171.txt	यूक्रेन	190	196	Protagonist	Underdog
+HI_171.txt	रूस	347	349	Antagonist	Tyrant
+HI_171.txt	चीन	408	410	Antagonist	Foreign Adversary
+HI_171.txt	NATO सहयोगी	505	515	Protagonist	Virtuous	Guardian
+HI_171.txt	चार्ल्स ब्राउन	1779	1792	Protagonist	Virtuous	Guardian
+HI_394.txt	डोनाल्‍ड ट्रंप	114	127	Protagonist	Guardian
+HI_394.txt	जो बाइडेन	165	173	Protagonist	Guardian
+HI_394.txt	जो बाइडेन	339	347	Protagonist	Rebel
+HI_394.txt	यूक्रेन	367	373	Protagonist	Underdog
+HI_394.txt	रूसी सेना	496	504	Antagonist	Foreign Adversary
+HI_394.txt	ट्रंप	553	557	Protagonist	Peacemaker
+HI_394.txt	एंटनी ब्लिंकन	622	634	Protagonist	Guardian
+HI_394.txt	बाइेडन प्रशासन	649	662	Protagonist	Rebel
+HI_394.txt	रूस	752	754	Antagonist	Foreign Adversary	Tyrant
+HI_394.txt	ब्लिंकन	981	987	Protagonist	Guardian
+HI_394.txt	बाइडेन	1010	1015	Antagonist	Incompetent
+HI_122.txt	व्लादिमीर पुतिन	365	379	Antagonist	Tyrant
+HI_122.txt	पश्चिमी देशों	616	628	Antagonist	Foreign Adversary
+HI_122.txt	रूस	730	732	Antagonist	Tyrant
+HI_122.txt	यूक्रेन	741	747	Innocent	Victim
+HI_254.txt	युवक	131	134	Innocent	Exploited	Victim
+HI_254.txt	रूसी सेना	136	144	Antagonist	Foreign Adversary
+HI_254.txt	रूस	192	194	Antagonist	Foreign Adversary
+HI_254.txt	मोहम्मद सूफियान	587	601	Innocent	Exploited	Victim
+HI_254.txt	सूफियान	766	772	Innocent	Exploited	Victim
+HI_254.txt	यूक्रेन	774	780	Protagonist	Underdog
+HI_254.txt	नरेंद्र मोदी	981	992	Protagonist	Virtuous	Guardian
+HI_254.txt	तेलंगाना सरकार	995	1008	Protagonist	Virtuous	Guardian
+HI_254.txt	मोदी	1154	1157	Protagonist	Guardian
+HI_254.txt	व्लादिमीर पुतिन	1258	1272	Protagonist	Virtuous	Guardian
+HI_254.txt	भारतीय नागरिकों	1335	1349	Innocent	Exploited	Victim
+HI_254.txt	पुतिन	1432	1436	Protagonist	Virtuous	Guardian
+HI_246.txt	यूक्रेन	94	100	Antagonist	Instigator	Foreign Adversary
+HI_246.txt	रूसी सेना	122	130	Protagonist	Rebel	Guardian
+HI_246.txt	यूक्रेन की वायु सेना	161	180	Antagonist	Foreign Adversary
+HI_246.txt	यूक्रेन की सेना	304	318	Antagonist	Tyrant
+HI_246.txt	पश्चिमी देशों	320	332	Antagonist	Foreign Adversary
+HI_246.txt	रूस	353	355	Innocent	Victim
+HI_246.txt	हथियार डिपो	411	421	Innocent	Victim
+HI_246.txt	क्रीमिया	661	668	Innocent	Victim
+HI_246.txt	रूस	838	840	Protagonist	Underdog
+HI_246.txt	रूसी सेना	935	943	Protagonist	Underdog
+HI_246.txt	जेलेंस्की	1125	1133	Antagonist	Foreign Adversary
+HI_246.txt	रूसी सेना	1248	1256	Protagonist	Rebel
+HI_246.txt	ओलेह किपर	1364	1372	Protagonist	Guardian
+HI_246.txt	दक्षिणी ओडेसा	1437	1449	Innocent	Victim
+HI_246.txt	पांच लोग	1483	1490	Innocent	Victim
+HI_165.txt	यूक्रेन	0	6	Protagonist	Underdog
+HI_165.txt	कुर्स्क	11	17	Antagonist	Tyrant
+HI_165.txt	सैनिकों	23	29	Innocent	Victim
+HI_181.txt	रूस	315	317	Antagonist	Instigator
+HI_181.txt	यूक्रेन	322	328	Innocent	Victim
+HI_181.txt	भारत	526	529	Protagonist	Rebel
+HI_181.txt	भारत	845	848	Protagonist	Peacemaker
+HI_181.txt	मोदी	1042	1045	Protagonist	Virtuous
+HI_289.txt	वैलेरी मैसन-डेलोमोट	613	631	Protagonist	Guardian
+HI_211.txt	पृथ्वी	516	521	Innocent	Victim
+HI_211.txt	ExxonMobilजो	2081	2092	Antagonist	Deceiver
+HI_211.txt	डॉ. एमिली ग्रीनफ़ील्ड	7512	7532	Protagonist	Virtuous
+HI_41.txt	बाइडन	105	109	Protagonist	Guardian
+HI_41.txt	अमेरिका	146	152	Innocent	Exploited
+HI_41.txt	रूस	216	218	Antagonist	Conspirator
+HI_92.txt	पश्चिमी मीडिया	258	271	Antagonist	Foreign Adversary	Deceiver
+HI_92.txt	रूस	585	587	Protagonist	Rebel
+HI_92.txt	यूक्रेन	616	622	Antagonist	Deceiver
+HI_92.txt	अमेरिका	1133	1139	Antagonist	Foreign Adversary
+HI_92.txt	यूरोप	1142	1146	Antagonist	Foreign Adversary
+HI_84.txt	भारत	512	515	Protagonist	Virtuous	Guardian
+HI_84.txt	नरेन्द्र मोदी	1026	1038	Protagonist	Virtuous	Guardian
+HI_130.txt	स्नोहोमिश काउंटी पीयूडी आधिकारिक	66	97	Protagonist	Virtuous
+HI_130.txt	नॉर्थवेस्ट	1531	1540	Protagonist	Virtuous
+HI_173.txt	रूस	268	270	Protagonist	Virtuous
+HI_173.txt	यूक्रेन	462	468	Antagonist	Foreign Adversary	Tyrant
+HI_173.txt	जेलेंस्की	712	720	Antagonist	Foreign Adversary
+HI_173.txt	रूस	836	838	Protagonist	Peacemaker
+HI_173.txt	रूस	880	882	Protagonist	Virtuous
+HI_173.txt	पुतिन	1221	1225	Protagonist	Rebel	Guardian
+HI_173.txt	पश्चिम	1227	1232	Antagonist	Foreign Adversary
+HI_173.txt	अमेरिका	1237	1243	Antagonist	Foreign Adversary
+HI_173.txt	रूसी सरकार	1313	1322	Protagonist	Virtuous
+HI_173.txt	एलेक्सी मालिनिन	1622	1636	Protagonist	Virtuous	Guardian
+HI_173.txt	पश्चिम देश	2044	2053	Antagonist	Foreign Adversary
+HI_173.txt	नाटो	2195	2198	Antagonist	Foreign Adversary
+HI_173.txt	मॉस्को	2403	2408	Protagonist	Rebel	Guardian
+HI_150.txt	50 लाख से ज्यादा लोगों	1180	1201	Innocent	Victim
+HI_150.txt	एशिया	1262	1266	Innocent	Victim
+HI_323.txt	मैथ्यू सैविल	104	115	Protagonist	Guardian
+HI_323.txt	यूक्रेन	138	144	Protagonist	Underdog
+HI_323.txt	रूस	156	158	Protagonist	Rebel
+HI_323.txt	नाटो	311	314	Antagonist	Foreign Adversary
+HI_323.txt	सैविल	394	398	Protagonist	Guardian
+HI_323.txt	बाइडन	582	586	Protagonist	Virtuous	Guardian
+HI_323.txt	यूरोपीय संघ	1050	1060	Protagonist	Guardian
+HI_323.txt	ज़ेलेंस्की	1335	1344	Protagonist	Guardian	Underdog
+HI_269.txt	पुतिन	159	163	Protagonist	Virtuous
+HI_269.txt	यूक्रेन	434	440	Innocent	Victim
+HI_269.txt	एंटोनियो गुटरेस	531	545	Protagonist	Guardian
+HI_269.txt	व्लादिमीर पुतिन	804	818	Protagonist	Virtuous
+HI_269.txt	मॉस्को	1043	1048	Protagonist	Guardian
+HI_269.txt	पश्चिम	1082	1087	Antagonist	Foreign Adversary
+HI_269.txt	रूस	1150	1152	Protagonist	Underdog
+HI_226.txt	वोलोदिमिर जेलेंस्की	161	179	Protagonist	Rebel
+HI_226.txt	रूस	184	186	Antagonist	Foreign Adversary
+HI_226.txt	अमेरिका	280	286	Antagonist	Foreign Adversary
+HI_226.txt	खारकीव	381	386	Innocent	Victim
+HI_226.txt	रुस्तेम उमरोव	1212	1224	Protagonist	Guardian
+HI_226.txt	बाइडेन	1294	1299	Antagonist	Foreign Adversary
+HI_226.txt	नागरिकों	1916	1923	Innocent	Victim
+HI_319.txt	यूक्रेन	26	32	Protagonist	Guardian	Underdog
+HI_319.txt	ओलेक्ज़ेंडर मेरेज़को	69	88	Protagonist	Guardian
+HI_319.txt	क्राइमिया	103	111	Innocent	Victim
+HI_319.txt	रूस	116	118	Antagonist	Foreign Adversary
+HI_319.txt	ज़ेलेंस्की	619	628	Protagonist	Guardian	Underdog
+HI_319.txt	दमित्रो लिटविन	641	654	Protagonist	Guardian
+HI_319.txt	लांज़ा	659	664	Antagonist	Foreign Adversary
+HI_319.txt	पुतिन	752	756	Antagonist	Instigator	Foreign Adversary
+HI_33.txt	पीएम मोदी	0	8	Protagonist	Guardian
+HI_33.txt	भारतीयों	164	171	Innocent	Exploited
+HI_33.txt	वेस्टर्न मिलिट्री डिस्ट्रिक्ट	397	425	Innocent	Exploited
+HI_33.txt	रूस	1003	1005	Antagonist	Corrupt
+HI_33.txt	बोस्नियन	1761	1768	Innocent	Exploited
+HI_33.txt	सर्बियन	1773	1779	Innocent	Exploited
+HI_33.txt	सीरिया-	1796	1802	Innocent	Exploited
+HI_33.txt	लीबिया	1803	1808	Innocent	Exploited
+HI_33.txt	भारत	2567	2570	Protagonist	Guardian
+HI_33.txt	मोदी	2654	2657	Protagonist	Guardian
+HI_33.txt	रूस	2693	2695	Protagonist	Virtuous
+HI_33.txt	रूस	3219	3221	Antagonist	Deceiver
+HI_33.txt	यूक्रेन	3232	3238	Antagonist	Deceiver
+HI_33.txt	श्रीलंकन युवा	3325	3337	Innocent	Exploited
+HI_188.txt	अमेरिकी	280	286	Antagonist	Foreign Adversary
+HI_188.txt	मोदी	820	823	Protagonist	Rebel
+HI_188.txt	मोदी	979	982	Protagonist	Peacemaker
+HI_188.txt	अमेरिका	1131	1137	Antagonist	Foreign Adversary
+HI_188.txt	अमेरिका	1200	1206	Antagonist	Foreign Adversary
+HI_188.txt	वलोडोमिर जेलेंस्की	1235	1252	Antagonist	Foreign Adversary
+HI_188.txt	अमेरिका	4910	4916	Antagonist	Foreign Adversary
+HI_188.txt	नरेन्द्र मोदी	5649	5661	Protagonist	Virtuous
+HI_29.txt	रूस	0	2	Innocent	Victim
+HI_29.txt	दागेस्तान	47	55	Innocent	Victim
+HI_29.txt	माखचकाला	70	77	Innocent	Victim
+HI_29.txt	डर्बेंट	82	88	Innocent	Victim
+HI_29.txt	ऑर्थोडॉक्स चर्च के पादरी	467	490	Innocent	Victim
+HI_29.txt	सुरक्षा गार्ड	633	645	Innocent	Victim
+HI_29.txt	यूक्रेन	1582	1588	Antagonist	Foreign Adversary
+HI_29.txt	NATO	1593	1596	Antagonist	Foreign Adversary
+HI_29.txt	ISIS-K	2264	2269	Antagonist	Terrorist
+HI_29.txt	रूस	2290	2292	Innocent	Victim
+HI_29.txt	यूक्रेन	2303	2309	Antagonist	Conspirator
+HI_193.txt	विक्रम मिस्री	93	105	Protagonist	Guardian
+HI_193.txt	मोदी	125	128	Protagonist	Virtuous	Guardian
+HI_193.txt	क्वाड नेताओं	214	225	Protagonist	Virtuous
+HI_193.txt	भारत	293	296	Protagonist	Peacemaker
+HI_193.txt	भारत	1155	1158	Protagonist	Virtuous
+HI_193.txt	बाइडेन	1299	1304	Protagonist	Virtuous
+HI_193.txt	भारत	1662	1665	Protagonist	Peacemaker
+HI_193.txt	किशिदा	2194	2199	Protagonist	Virtuous
+HI_366.txt	यूक्रेन	213	219	Antagonist	Instigator
+HI_366.txt	बाइडन	869	873	Antagonist	Foreign Adversary
+HI_102.txt	यूक्रेन	72	78	Innocent	Victim
+HI_102.txt	वलोदिमीर जेलेंस्की	94	111	Protagonist	Guardian
+HI_102.txt	पोलटावा	137	143	Innocent	Victim
+HI_102.txt	रूसी	152	155	Antagonist	Instigator
+HI_102.txt	शैक्षणिक संस्था	485	499	Innocent	Victim
+HI_102.txt	अस्पताल	514	520	Innocent	Victim
+HI_102.txt	पोलटावा	724	730	Innocent	Victim
+HI_102.txt	रूस	751	753	Antagonist	Instigator
+HI_102.txt	यूक्रेन	784	790	Innocent	Victim
+HI_102.txt	यूक्रेनी सेना	988	1000	Protagonist	Rebel	Underdog
+HI_102.txt	यूक्रेनी राष्ट्रपति	1360	1378	Protagonist	Guardian
+HI_238.txt	बिहारी लाल	308	317	Protagonist	Guardian
+HI_238.txt	हिमाचल	895	900	Innocent	Victim
+HI_238.txt	उत्तराखंड	905	913	Innocent	Victim
+HI_238.txt	हरिद्वार	1059	1066	Innocent	Victim
+HI_145.txt	जकार्ता	615	621	Innocent	Victim
+HI_145.txt	इंडोनेशिया की सरकार	775	793	Protagonist	Guardian
+HI_145.txt	लागोस	894	898	Innocent	Victim
+HI_145.txt	ह्यूस्टन	1206	1213	Innocent	Victim
+HI_145.txt	ढाका	1501	1504	Innocent	Victim
+HI_145.txt	वेनिस	1838	1842	Innocent	Victim
+HI_21.txt	नरेन्द्र मोदी	13	25	Protagonist	Guardian
+HI_21.txt	पुतिन	1628	1632	Protagonist	Guardian
+HI_339.txt	ब्रायन लांज़ा	47	59	Protagonist	Peacemaker
+HI_339.txt	ज़ेलेंस्की	426	435	Antagonist	Incompetent
+HI_304.txt	पुतिन	129	133	Protagonist	Rebel	Guardian
+HI_304.txt	यूक्रेन	158	164	Innocent	Victim
+HI_304.txt	रूस	169	171	Antagonist	Tyrant
+HI_304.txt	रूस	270	272	Antagonist	Incompetent
+HI_304.txt	यूक्रेन	288	294	Protagonist	Guardian	Underdog
+HI_304.txt	पुतिन	546	550	Antagonist	Incompetent	Foreign Adversary
+HI_304.txt	सैनिकों	555	561	Antagonist	Tyrant
+HI_304.txt	जेलेंस्की	790	798	Protagonist	Guardian	Underdog
+HI_304.txt	यूक्रेनी सेना	859	871	Protagonist	Guardian	Underdog
+HI_304.txt	कुर्स्क	1174	1180	Innocent	Victim
+HI_57.txt	गैपोनोव	330	336	Antagonist	Conspirator	Deceiver
+HI_57.txt	फाइनेंशियल टाइम्स	832	848	Antagonist	Deceiver
+HI_14.txt	रूस	0	2	Protagonist	Virtuous
+HI_14.txt	बाइडेन	320	325	Protagonist	Guardian
+HI_14.txt	बाइडेन	606	611	Protagonist	Guardian
+HI_14.txt	कमला हैरिस	629	638	Protagonist	Guardian
+HI_14.txt	अलसु कुर्माशेवा	1627	1641	Antagonist	Deceiver
+HI_14.txt	रूसी सेना	1646	1654	Innocent	Victim
+HI_117.txt	विभिन्न क्षेत्रों/	153	170	Innocent	Victim
+HI_117.txt	अंतरराष्ट्रीय सरोकारों	171	192	Innocent	Victim
+HI_117.txt	पश्चिम एशिया	1573	1584	Innocent	Victim
+HI_117.txt	अफ्रीका	1589	1595	Innocent	Victim
+HI_117.txt	नागरिक उड्डयन क्षेत्र	3649	3669	Innocent	Victim
+HI_117.txt	एयरलाइन कंपनियां	3674	3689	Innocent	Victim
+HI_117.txt	अमेरिका	4146	4152	Antagonist	Incompetent
+HI_117.txt	बाइडेन प्रशासन	4232	4245	Antagonist	Incompetent	Foreign Adversary
+HI_117.txt	यूरोपीय देश	4388	4398	Innocent	Victim
+HI_117.txt	रोमानिया	4459	4466	Innocent	Victim
+HI_117.txt	हंगरी	4469	4473	Innocent	Victim
+HI_117.txt	पोलैंड	4478	4483	Innocent	Victim
+HI_117.txt	चीन	4590	4592	Antagonist	Foreign Adversary
+HI_117.txt	यूक्रेन	6304	6310	Innocent	Victim
+HI_117.txt	मास्को	6315	6320	Antagonist	Tyrant
+HI_117.txt	मॉस्को	7168	7173	Protagonist	Guardian
+HI_117.txt	मध्य एशियाई	7343	7353	Innocent	Victim
+HI_117.txt	कजाखस्तान	7716	7724	Innocent	Victim
+HI_117.txt	प्रवासी श्रमिकों	7875	7890	Innocent	Victim
+HI_117.txt	ताजिकिस्तान	8049	8059	Innocent	Victim
+HI_117.txt	किर्गिस्तान	8105	8115	Innocent	Victim
+HI_117.txt	उज़्बेकिस्तान	8185	8197	Innocent	Victim
+HI_117.txt	रूस	8996	8998	Antagonist	Saboteur	Foreign Adversary	Deceiver
+HI_117.txt	यूक्रेन	9006	9012	Innocent	Victim
+HI_117.txt	रूस	10917	10919	Protagonist	Guardian
+HI_117.txt	नाइजीरिया	11488	11496	Innocent	Victim
+HI_117.txt	अंगोला	11499	11504	Innocent	Victim
+HI_117.txt	लीबिया	11507	11512	Innocent	Victim
+HI_117.txt	अल्जीरिया	11515	11523	Innocent	Victim
+HI_117.txt	अफ्रीकी राज्यों	11785	11799	Innocent	Victim
+HI_117.txt	रूस	13862	13864	Antagonist	Foreign Adversary
+HI_117.txt	पाकिस्तान	15435	15443	Innocent	Victim
+HI_117.txt	यूक्रेन	16447	16453	Innocent	Victim
+HI_117.txt	रूस	16458	16460	Antagonist	Terrorist
+HI_117.txt	श्रीलंका	16700	16707	Innocent	Victim
+HI_117.txt	भारत	17938	17941	Protagonist	Guardian
+HI_117.txt	मोदी	18025	18028	Protagonist	Guardian
+HI_117.txt	सरकार	18219	18223	Antagonist	Incompetent
+HI_117.txt	नेपाली	18330	18335	Innocent	Forgotten
+HI_117.txt	भारत	18358	18361	Protagonist	Guardian
+HI_117.txt	अरब	18366	18368	Protagonist	Guardian
+HI_117.txt	रूस	18565	18567	Antagonist	Instigator
+HI_117.txt	यूक्रेन	18639	18645	Innocent	Victim
+HI_117.txt	इस्लामिक स्टेट	20030	20043	Antagonist	Terrorist
+HI_117.txt	मुस्लिम ब्रदरहुड	20544	20559	Antagonist	Terrorist
+HI_117.txt	दझोखर दुदायेव बटालियन	20967	20987	Protagonist	Rebel
+HI_117.txt	शेख मंसूर बटालियन	20992	21008	Protagonist	Rebel
+HI_117.txt	कादिरोव	21074	21080	Antagonist	Traitor
+HI_117.txt	अबू बकर अल-बगदादी	22184	22200	Antagonist	Terrorist
+HI_223.txt	यूक्रेन	249	255	Antagonist	Deceiver
+HI_223.txt	कोरिया	267	272	Antagonist	Deceiver
+HI_223.txt	रूस	410	412	Antagonist	Foreign Adversary
+HI_266.txt	उत्तर कोरिया	153	164	Antagonist	Foreign Adversary
+HI_266.txt	किम जोंग	182	189	Antagonist	Tyrant
+HI_266.txt	रूस	191	193	Antagonist	Foreign Adversary
+HI_266.txt	यूक्रेन	221	227	Protagonist	Underdog
+HI_266.txt	वोलोदिमीर जेलेंस्की	243	261	Protagonist	Guardian
+HI_266.txt	पश्चिमी देशों	417	429	Protagonist	Virtuous
+HI_266.txt	जेलेंस्की	579	587	Protagonist	Guardian
+HI_266.txt	यूक्रेनी खुफिया एजेंसियों	599	623	Protagonist	Guardian
+HI_266.txt	रूस	986	988	Antagonist	Tyrant
+HI_266.txt	यूक्रेन	990	996	Innocent	Victim
+HI_266.txt	कीव	1059	1061	Innocent	Victim
+HI_266.txt	कुर्स्क	1165	1171	Innocent	Victim
+HI_266.txt	यूक्रेनी सेना	1189	1201	Protagonist	Guardian	Underdog
+HI_266.txt	अमेरिका	1510	1516	Protagonist	Guardian
+HI_49.txt	पुतिन	0	4	Protagonist	Virtuous
+HI_49.txt	रूस	100	102	Protagonist	Peacemaker
+HI_49.txt	पश्चिम देशों	157	168	Protagonist	Peacemaker
+HI_49.txt	व्लादिमीर पुतिन	222	236	Protagonist	Guardian
+HI_49.txt	रूस	467	469	Protagonist	Virtuous
+HI_49.txt	व्लादिमीर पुतिन	555	569	Protagonist	Guardian
+HI_49.txt	पुतिन	604	608	Protagonist	Guardian
+HI_49.txt	इवान गेर्शकोविच	1254	1268	Antagonist	Spy
+HI_49.txt	अलसू कुर्माशेवा	1273	1287	Antagonist	Spy
+HI_49.txt	पॉल व्हेलन	1303	1312	Antagonist	Spy
+HI_49.txt	वादिम कसीकोव	1488	1499	Antagonist	Spy
+HI_49.txt	पुतिन	1777	1781	Protagonist	Virtuous
+HI_49.txt	कसीकोव	1808	1813	Antagonist	Terrorist	Spy
+HI_49.txt	रूस	2283	2285	Protagonist	Guardian
+HI_49.txt	नागरिकों	2345	2352	Innocent	Scapegoat
+HI_49.txt	रूस	2507	2509	Antagonist	Conspirator
+HI_49.txt	रूस	3065	3067	Antagonist	Incompetent
+HI_375.txt	रूसी सैनिकों	182	193	Innocent	Victim
+HI_375.txt	रूसी सेना	377	385	Antagonist	Incompetent
+HI_375.txt	यूक्रेनी	591	598	Antagonist	Spy
+HI_375.txt	रूसी सैनिकों	820	831	Innocent	Victim
+HI_375.txt	रूस	891	893	Antagonist	Incompetent
+HI_332.txt	यूक्रेन	112	118	Protagonist	Underdog
+HI_332.txt	पुतिन	277	281	Antagonist	Foreign Adversary	Tyrant
+HI_332.txt	यूक्रेनी सेना	905	917	Protagonist	Guardian	Underdog
+HI_332.txt	रूस	970	972	Antagonist	Tyrant
+HI_332.txt	यूक्रेन	1062	1068	Protagonist	Underdog
+HI_281.txt	यूक्रेन	114	120	Antagonist	Instigator	Foreign Adversary
+HI_281.txt	पश्चिमी मुल्कों	198	212	Antagonist	Foreign Adversary
+HI_281.txt	सदस्य	309	313	Protagonist	Virtuous	Guardian
+HI_281.txt	यूक्रेन	443	449	Antagonist	Instigator
+HI_281.txt	रूसी वायु सेना	590	603	Innocent	Victim
+HI_281.txt	यूक्रेनी कंपनियां	686	702	Antagonist	Foreign Adversary
+HI_281.txt	यूक्रेन	933	939	Protagonist	Underdog
+HI_281.txt	फ्रांसिस्को सेरा-मार्टिन्स	1326	1351	Protagonist	Guardian
+HI_138.txt	विष्णु देव साय	130	143	Protagonist	Guardian
+HI_138.txt	प्रधानमंत्री मोदी	1007	1023	Protagonist	Virtuous	Guardian
+HI_138.txt	मुख्यमंत्री	1145	1155	Protagonist	Virtuous
+HI_61.txt	भारत	0	3	Protagonist	Virtuous
+HI_61.txt	फाइनेंशियल टाइम्स	351	367	Antagonist	Deceiver
+HI_61.txt	भारत	713	716	Antagonist	Conspirator
+HI_61.txt	फाइनेंशियल टाइम्स	761	777	Antagonist	Saboteur
+HI_61.txt	रूस	1150	1152	Antagonist	Corrupt
+HI_61.txt	भारत	1261	1264	Antagonist	Foreign Adversary
+HI_61.txt	अमेरिका	1269	1275	Antagonist	Foreign Adversary
+HI_168.txt	भारत	168	171	Protagonist	Virtuous
+HI_168.txt	यूक्रेन	176	182	Innocent	Victim
+HI_168.txt	टीएस तिरुमूर्ति	308	322	Protagonist	Virtuous
+HI_168.txt	रूस	327	329	Antagonist	Corrupt
+HI_168.txt	बूचा	382	385	Innocent	Victim
+HI_153.txt	सर्गी हैदाई	122	132	Protagonist	Guardian
+HI_153.txt	रूसी सेना	153	161	Antagonist	Instigator
+HI_153.txt	रुबिज़ने	163	170	Innocent	Victim
+HI_153.txt	सेवरोडोनेट्स	175	186	Innocent	Victim
+HI_153.txt	जनरल स्टाफ	577	586	Protagonist	Guardian
+HI_153.txt	हैदाई	715	719	Protagonist	Guardian
+HI_153.txt	सेवेरोडोनेट्स्क	850	864	Innocent	Victim
+HI_153.txt	पोपसना	877	882	Innocent	Victim
+HI_153.txt	लिसिचांस्क	885	894	Innocent	Victim
+HI_153.txt	क्रेमिना	899	906	Innocent	Victim
+HI_196.txt	जेलेंस्की	99	107	Protagonist	Guardian	Underdog
+HI_196.txt	यूक्रेनी राष्ट्रपति	157	175	Protagonist	Peacemaker
+HI_196.txt	व्लादिमीर ज़ेलेंस्की	379	398	Protagonist	Guardian	Underdog
+HI_196.txt	सैनिकों	966	972	Protagonist	Martyr
+HI_196.txt	नागरिकों	977	984	Innocent	Victim
+HI_196.txt	रूस	1109	1111	Antagonist	Foreign Adversary	Tyrant
+HI_196.txt	व्लादिमीर पुतिन	1204	1218	Antagonist	Foreign Adversary	Tyrant
+HI_196.txt	क्रीमिया	1527	1534	Innocent	Victim
+HI_196.txt	भारत	2263	2266	Protagonist	Virtuous
+HI_196.txt	चीन	2319	2321	Antagonist	Foreign Adversary
+HI_196.txt	रूस के सैनिक	2421	2432	Antagonist	Tyrant
+HI_251.txt	कीर स्टार्मर	140	151	Protagonist	Guardian
+HI_251.txt	जो बाइडेन	175	183	Protagonist	Guardian
+HI_251.txt	यूक्रेन	277	283	Antagonist	Instigator
+HI_251.txt	रूस	285	287	Antagonist	Foreign Adversary
+HI_245.txt	यूक्रेन	171	177	Protagonist	Underdog
+HI_245.txt	जेलेंस्की	193	201	Protagonist	Guardian	Underdog
+HI_245.txt	जेलेंस्की	366	374	Innocent	Victim
+HI_245.txt	रूस	488	490	Antagonist	Foreign Adversary
+HI_245.txt	कीअर स्टॉर्मर	643	655	Protagonist	Virtuous	Guardian
+HI_245.txt	मार्क रूते	673	682	Protagonist	Virtuous	Guardian
+HI_245.txt	इमैनुएल मैक्रों	858	872	Protagonist	Virtuous
+HI_245.txt	जेलेंस्की	962	970	Protagonist	Underdog
+HI_174.txt	यूक्रेनी रक्षा खुफिया निदेशालय	184	213	Protagonist	Guardian
+HI_174.txt	उत्तर कोरियाई	254	266	Antagonist	Foreign Adversary
+HI_174.txt	किरिलो बुडानोव	397	410	Protagonist	Guardian
+HI_174.txt	उत्तर कोरियाई सैनिक	488	506	Antagonist	Foreign Adversary
+HI_174.txt	यूक्रेन	616	622	Protagonist	Underdog
+HI_174.txt	रूस	627	629	Antagonist	Tyrant
+HI_174.txt	जेलेंस्की	784	792	Protagonist	Guardian
+HI_174.txt	पुतिन	1365	1369	Antagonist	Tyrant
+HI_174.txt	किम जोंग उन	1424	1434	Antagonist	Foreign Adversary	Tyrant
+HI_174.txt	उत्तर कोरिया	1523	1534	Antagonist	Foreign Adversary
+HI_202.txt	यूक्रेन	161	167	Protagonist	Underdog
+HI_202.txt	कुर्स्क	196	202	Innocent	Victim
+HI_202.txt	रूसी क्षेत्र	232	243	Innocent	Victim
+HI_202.txt	रूस	280	282	Antagonist	Foreign Adversary	Tyrant
+HI_202.txt	प्रवक्ता	534	541	Protagonist	Guardian	Underdog
+HI_202.txt	यूक्रेनी सेना	807	819	Protagonist	Underdog
+HI_202.txt	डोनेट्स्क	831	839	Innocent	Victim
+HI_202.txt	रूसी सेना	898	906	Antagonist	Foreign Adversary
+HI_202.txt	रूसी अधिकारियों	989	1003	Innocent	Victim
+HI_202.txt	नागरिकों	1022	1029	Innocent	Victim
+HI_202.txt	पुतिन	1507	1511	Protagonist	Rebel	Guardian
+HI_202.txt	यूक्रेन	1720	1726	Antagonist	Instigator
+HI_202.txt	जेलेंस्की	1943	1951	Protagonist	Rebel	Guardian	Underdog
+HI_202.txt	पश्चिम देशों	2288	2299	Antagonist	Foreign Adversary
+HI_395.txt	ब्लिंकन	48	54	Protagonist	Guardian
+HI_395.txt	नाटो देशों	94	103	Protagonist	Virtuous	Guardian
+HI_395.txt	यूक्रेन	181	187	Protagonist	Guardian
+HI_395.txt	रूस	331	333	Antagonist	Foreign Adversary	Tyrant
+HI_395.txt	कीव	392	394	Innocent	Victim
+HI_395.txt	रूस	434	436	Protagonist	Rebel
+HI_395.txt	पेंटागन	475	481	Protagonist	Guardian
+HI_395.txt	उत्तर कोरियाई सैनिकों	566	586	Antagonist	Foreign Adversary
+HI_131.txt	भारत	2019	2022	Protagonist	Virtuous
+HI_131.txt	भारत	2668	2671	Protagonist	Virtuous
+HI_131.txt	भारत	2891	2894	Protagonist	Virtuous
+HI_1.txt	नरेन्द्र मोदी	13	25	Protagonist	Peacemaker	Guardian
+HI_1.txt	व्लादिमीर पुतिन	48	62	Protagonist	Guardian
+HI_1.txt	मोदी	466	469	Protagonist	Guardian
+HI_1.txt	भारत	627	630	Protagonist	Peacemaker
+HI_1.txt	रूस	1297	1299	Protagonist	Virtuous
+HI_1.txt	भारत	1681	1684	Protagonist	Virtuous
+HI_1.txt	रूस	1705	1707	Protagonist	Virtuous
+HI_1.txt	राष्ट्रपति पुतिन	1959	1974	Protagonist	Virtuous
+HI_219.txt	यूक्रेन	113	119	Innocent	Victim
+HI_219.txt	ऑस्ट्रेलिया	138	148	Protagonist	Guardian
+HI_219.txt	अमेरिका	293	299	Protagonist	Guardian
+HI_219.txt	अमेरिका	345	351	Protagonist	Guardian
+HI_219.txt	ब्रिटेन	356	362	Protagonist	Guardian
+HI_253.txt	अमेरिका	98	104	Antagonist	Foreign Adversary
+HI_253.txt	ब्रिटेन	109	115	Antagonist	Foreign Adversary
+HI_253.txt	यूक्रेन	117	123	Protagonist	Underdog
+HI_253.txt	रूस	128	130	Protagonist	Rebel
+HI_253.txt	पुतिन	249	253	Protagonist	Rebel
+HI_253.txt	पश्चिमी देश	342	352	Antagonist	Foreign Adversary
+HI_253.txt	व्लादिमीर पुतिन	453	467	Protagonist	Rebel
+HI_253.txt	रूस	632	634	Protagonist	Rebel
+HI_253.txt	उलरिच कुहेन	1360	1370	Protagonist	Virtuous
+HI_210.txt	पृथ्वी	198	203	Innocent	Victim
+HI_210.txt	मानव जीवन	216	224	Innocent	Victim
+HI_210.txt	गंभीर सिंह चौहान	421	436	Protagonist	Virtuous	Guardian
+HI_210.txt	मनुष्य	624	629	Antagonist	Instigator
+HI_273.txt	रूसी सेना	70	78	Protagonist	Rebel
+HI_273.txt	उत्तर कोरिया	80	91	Antagonist	Foreign Adversary
+HI_273.txt	क्रेनी सेना के इंटेलिजेंस सूत्रों	139	171	Protagonist	Guardian
+HI_273.txt	यूक्रेनी सेना	205	217	Protagonist	Underdog
+HI_273.txt	क्रेमलिन	452	459	Protagonist	Guardian
+HI_273.txt	दमित्री पेस्कोव	473	487	Protagonist	Guardian
+HI_273.txt	पेस्कोव	577	583	Protagonist	Guardian
+HI_273.txt	ब्रिटिश खु़फिया एजेंसी	604	625	Antagonist	Incompetent	Deceiver
+HI_273.txt	अमेरिकी ख़ुफिया एजेंसी	633	654	Antagonist	Incompetent	Deceiver
+HI_273.txt	किम जोंग	902	909	Protagonist	Virtuous
+HI_40.txt	रूस	980	982	Protagonist	Peacemaker
+HI_40.txt	इवान	1088	1091	Antagonist	Spy
+HI_40.txt	पॉल व्हेलन	1476	1485	Antagonist	Spy
+HI_40.txt	अलसु	1587	1590	Antagonist	Deceiver
+HI_40.txt	रूसी सेना	1595	1603	Innocent	Victim
+HI_40.txt	वादिम क्रासिकोव	1841	1855	Antagonist	Spy
+HI_40.txt	वादिम	1936	1940	Antagonist	Terrorist
+HI_103.txt	अमेरिका	389	395	Antagonist	Foreign Adversary
+HI_103.txt	यूरोपीय देशों	400	412	Antagonist	Foreign Adversary
+HI_103.txt	रूस	494	496	Protagonist	Rebel
+HI_103.txt	अमेरिका	506	512	Antagonist	Foreign Adversary
+HI_103.txt	पुतिन	529	533	Protagonist	Guardian
+HI_103.txt	अमेरिका	989	995	Protagonist	Guardian
+HI_83.txt	नरेंद्र मोदी	407	418	Protagonist	Peacemaker
+HI_83.txt	प्रधानमंत्री मोदी	482	498	Protagonist	Peacemaker	Virtuous
+HI_83.txt	भारत	1258	1261	Protagonist	Peacemaker
+HI_83.txt	कीव	1743	1745	Innocent	Victim
+HI_83.txt	यूक्रेन	1803	1809	Innocent	Victim
+HI_83.txt	जेलेंस्की	1935	1943	Protagonist	Guardian
+HI_83.txt	अज्ञात सैनिक	2557	2568	Protagonist	Martyr
+HI_83.txt	भारत	7995	7998	Protagonist	Virtuous
+HI_83.txt	भारत	8372	8375	Protagonist	Peacemaker	Guardian
+HI_189.txt	वलोडिमिर ज़ेलेंस्की	147	165	Protagonist	Peacemaker
+HI_189.txt	भारत	1432	1435	Protagonist	Peacemaker	Virtuous
+HI_189.txt	ज़ेलेंस्की	1870	1879	Protagonist	Peacemaker
+HI_189.txt	युक्त राष्ट्र	2721	2733	Protagonist	Guardian
+HI_367.txt	बाइडन	536	540	Antagonist	Foreign Adversary
+HI_230.txt	पुतिन	122	126	Protagonist	Guardian
+HI_230.txt	व्लादिमfर पुतिन	420	434	Protagonist	Guardian
+HI_230.txt	भारत	762	765	Protagonist	Virtuous
+HI_324.txt	अमेरिका	73	79	Protagonist	Virtuous	Guardian
+HI_324.txt	यूक्रेन	112	118	Protagonist	Underdog
+HI_324.txt	दमित्रो कमेनस्चिक	740	756	Innocent	Victim
+HI_324.txt	विक्टर	821	826	Protagonist	Martyr
+HI_324.txt	पिता	911	914	Protagonist	Martyr
+HI_324.txt	कमेनस्चिक	944	952	Innocent	Victim
+HI_324.txt	यूक्रेन	1355	1361	Antagonist	Incompetent
+HI_146.txt	बेनेडिक्ट सोजा	1367	1380	Protagonist	Virtuous
+HI_239.txt	नैनीताल	44	50	Innocent	Victim
+HI_239.txt	लैंसडाउन	659	666	Innocent	Victim
+HI_239.txt	कोटद्वार	858	865	Innocent	Victim
+HI_239.txt	यमकेश्वर	870	877	Innocent	Victim
+HI_239.txt	हिमालय	1036	1041	Innocent	Victim
+HI_239.txt	भगीरथी	1083	1088	Innocent	Victim
+HI_239.txt	अनुपम त्रिवेदी	1128	1141	Protagonist	Virtuous
+HI_180.txt	यूक्रेन	75	81	Protagonist	Underdog
+HI_180.txt	रूस	131	133	Protagonist	Rebel
+HI_180.txt	NATO	1099	1102	Antagonist	Foreign Adversary
+HI_180.txt	ब्रिटेन	1110	1116	Antagonist	Foreign Adversary
+HI_268.txt	यूक्रेन	441	447	Innocent	Victim
+HI_268.txt	रूस	461	463	Antagonist	Foreign Adversary
+HI_268.txt	यूक्रेन	1052	1058	Innocent	Victim
+HI_318.txt	मॉस्को	228	233	Protagonist	Guardian
+HI_318.txt	आंद्रेई सिनिसिन	389	403	Protagonist	Guardian
+HI_318.txt	रूस	408	410	Protagonist	Rebel
+HI_318.txt	व्लादिमीर पुतिन	602	616	Protagonist	Rebel	Guardian
+HI_318.txt	यूक्रेन	671	677	Protagonist	Underdog
+HI_318.txt	चीन	1033	1035	Antagonist	Foreign Adversary
+HI_318.txt	अमेरिका	1040	1046	Antagonist	Foreign Adversary
+HI_318.txt	पुतिन	1557	1561	Protagonist	Rebel	Guardian
+HI_318.txt	पश्चिमी देशों	1566	1578	Antagonist	Foreign Adversary
+HI_77.txt	यूक्रेन	75	81	Innocent	Victim
+HI_77.txt	रूसी सेना	104	112	Antagonist	Tyrant
+HI_77.txt	जेलेंस्की	165	173	Protagonist	Guardian
+HI_77.txt	रूस	184	186	Antagonist	Tyrant
+HI_77.txt	वोलोदिमीर जेलेंस्की	855	873	Protagonist	Guardian
+HI_77.txt	कीव	1455	1457	Innocent	Victim
+HI_77.txt	विताली क्लित्स्को	1467	1483	Protagonist	Guardian
+HI_77.txt	शहर प्रशासन	1617	1627	Protagonist	Guardian
+HI_77.txt	लुत्स्क	1945	1951	Innocent	Victim
+HI_225.txt	वोलोदिमीर जेलेंस्की	180	198	Protagonist	Rebel	Guardian
+HI_225.txt	जेलेंस्की	280	288	Protagonist	Rebel	Guardian
+HI_225.txt	कुर्स्क	401	407	Innocent	Victim
+HI_225.txt	यूक्रेनी सैनिकों	421	436	Protagonist	Rebel
+HI_225.txt	मॉस्को	493	498	Antagonist	Foreign Adversary
+HI_225.txt	जेलेंस्की	541	549	Protagonist	Guardian
+HI_225.txt	मायकोला ओलेशचुक	1457	1471	Protagonist	Rebel	Guardian
+HI_224.txt	मोदी	155	158	Protagonist	Guardian
+HI_224.txt	नरेंद्र मोदी	369	380	Protagonist	Peacemaker	Virtuous	Guardian
+HI_224.txt	रूस	596	598	Protagonist	Virtuous
+HI_224.txt	यूरोप	786	790	Innocent	Victim
+HI_224.txt	भारत	847	850	Innocent	Victim
+HI_224.txt	भारत खासकर	913	922	Protagonist	Peacemaker	Guardian
+HI_224.txt	नरेंद्र मोदी	929	940	Protagonist	Peacemaker	Guardian
+HI_224.txt	व्लादिमीर पुतिन	1010	1024	Protagonist	Rebel
+HI_224.txt	जेलेंस्की	1049	1057	Protagonist	Underdog
+HI_224.txt	अजीत डोभाल	1145	1154	Protagonist	Guardian
+HI_224.txt	एस जयशंकर	1201	1209	Protagonist	Guardian
+HI_267.txt	मोदी	208	211	Protagonist	Virtuous
+HI_267.txt	जेलेंस्की	257	265	Protagonist	Guardian
+HI_267.txt	भारत	429	432	Protagonist	Peacemaker	Virtuous
+HI_267.txt	मोदी	780	783	Protagonist	Peacemaker
+HI_267.txt	यूक्रेन	785	791	Protagonist	Underdog
+HI_267.txt	जेलेंस्की	1123	1131	Protagonist	Underdog
+HI_267.txt	अमेरिका	1235	1241	Protagonist	Guardian
+HI_267.txt	यूक्रेन	1311	1317	Innocent	Victim
+HI_195.txt	नरेन्द्र मोदी	72	84	Protagonist	Virtuous	Guardian
+HI_195.txt	नई दिल्ली	255	263	Protagonist	Peacemaker
+HI_195.txt	मोदी	359	362	Protagonist	Guardian
+HI_195.txt	यूक्रेन	792	798	Innocent	Victim
+HI_195.txt	एस. जयशंकर	879	888	Protagonist	Guardian
+HI_195.txt	भारत	1123	1126	Protagonist	Peacemaker
+HI_195.txt	नई दिल्ली	1164	1172	Protagonist	Guardian
+HI_195.txt	मास्को	1246	1251	Protagonist	Rebel
+HI_195.txt	रूस	1484	1486	Antagonist	Foreign Adversary	Tyrant
+HI_195.txt	यूक्रेन	1567	1573	Antagonist	Foreign Adversary
+HI_195.txt	जेलेंस्की	1728	1736	Protagonist	Underdog
+HI_195.txt	पुतिन	1741	1745	Protagonist	Rebel
+HI_195.txt	जवाहरलाल नेहरू	2433	2446	Protagonist	Peacemaker
+HI_99.txt	रूस	277	279	Protagonist	Rebel
+HI_99.txt	क्रेमलिन	456	463	Protagonist	Guardian
+HI_99.txt	पेस्कोव	741	747	Protagonist	Guardian
+HI_99.txt	यूक्रेन	1523	1529	Innocent	Victim
+HI_99.txt	व्लादिमीर पुतिन	1580	1594	Protagonist	Guardian
+HI_99.txt	अमेरिका	2251	2257	Antagonist	Foreign Adversary
+HI_99.txt	NATO	2262	2265	Antagonist	Foreign Adversary
+HI_99.txt	पुतिन	2445	2449	Antagonist	Deceiver
+HI_56.txt	रूस	482	484	Protagonist	Virtuous
+HI_56.txt	रूस	1129	1131	Protagonist	Virtuous
+HI_56.txt	यूक्रेन	1523	1529	Innocent	Victim
+HI_56.txt	व्लादिमीर पुतिन	1580	1594	Antagonist	Instigator
+HI_56.txt	अमेरिका	2251	2257	Antagonist	Foreign Adversary
+HI_56.txt	NATO	2262	2265	Antagonist	Foreign Adversary
+HI_13.txt	अमेरिका	0	6	Protagonist	Peacemaker
+HI_13.txt	भारत	124	127	Protagonist	Peacemaker
+HI_13.txt	व्लादिमीर पुतिन	284	298	Antagonist	Instigator
+HI_13.txt	भारत	981	984	Protagonist	Peacemaker
+HI_118.txt	रूस	187	189	Antagonist	Tyrant
+HI_118.txt	यूक्रेन	211	217	Innocent	Victim
+HI_118.txt	महिलाएं	263	269	Innocent	Victim
+HI_118.txt	बच्चे	274	278	Innocent	Victim
+HI_118.txt	यूरोप	404	408	Innocent	Victim
+HI_118.txt	यूक्रेन	726	732	Innocent	Victim
+HI_118.txt	रूस	781	783	Antagonist	Instigator
+HI_118.txt	रूसी सैन्य बलों	990	1004	Antagonist	Terrorist
+HI_118.txt	नागरिकों	1086	1093	Innocent	Victim
+HI_118.txt	पोलैंड	1311	1316	Protagonist	Guardian
+HI_118.txt	रोमानिया	1369	1376	Protagonist	Guardian
+HI_118.txt	मोल्दोवा	1379	1386	Protagonist	Guardian
+HI_118.txt	हंगरी	1389	1393	Protagonist	Guardian
+HI_118.txt	स्लोवाकिया	1398	1407	Protagonist	Guardian
+HI_380.txt	फ्रांस	127	132	Protagonist	Virtuous	Guardian
+HI_380.txt	यूक्रेन	955	961	Protagonist	Underdog
+HI_274.txt	पूर्वी यूक्रेन	68	81	Innocent	Victim
+HI_274.txt	रूसी लड़ाकू	178	188	Antagonist	Foreign Adversary	Tyrant
+HI_274.txt	कोस्तियातिन्विका	223	238	Innocent	Victim
+HI_274.txt	रूसी सेना	475	483	Antagonist	Foreign Adversary
+HI_274.txt	यूक्रेनियों	687	697	Innocent	Victim
+HI_274.txt	रूस	795	797	Antagonist	Foreign Adversary	Tyrant
+HI_231.txt	लद्दाख	128	133	Protagonist	Rebel	Virtuous
+HI_231.txt	लद्दाख की जनता	200	213	Innocent	Exploited	Victim
+HI_231.txt	सोनम वांगचुक	314	325	Protagonist	Virtuous	Guardian
+HI_231.txt	केंद्र सरकार	574	585	Protagonist	Virtuous
+HI_231.txt	लद्दाख	661	666	Innocent	Exploited	Victim
+HI_389.txt	यूक्रेन	71	77	Innocent	Victim
+HI_389.txt	पुतिन	100	104	Protagonist	Rebel	Guardian
+HI_389.txt	रूस	186	188	Protagonist	Rebel
+HI_389.txt	पेसकोव	588	593	Protagonist	Guardian
+HI_389.txt	अमेरिका	787	793	Antagonist	Foreign Adversary
+HI_389.txt	यूरोपीय सहयोगियों	803	819	Antagonist	Foreign Adversary
+HI_303.txt	यूक्रेन	87	93	Antagonist	Instigator	Foreign Adversary
+HI_303.txt	हवाई अड्डों	129	139	Innocent	Victim
+HI_303.txt	रूस	161	163	Innocent	Victim
+HI_303.txt	वोरोनिश	168	174	Innocent	Victim
+HI_303.txt	कु‌र्स्क	176	183	Innocent	Victim
+HI_303.txt	सवासलेका	185	192	Innocent	Victim
+HI_303.txt	बोरिसोग्लबस्क	197	209	Innocent	Victim
+HI_303.txt	मास्को	320	325	Protagonist	Rebel
+HI_303.txt	गवर्नर	778	783	Protagonist	Rebel	Guardian
+HI_303.txt	रूसी बलों	823	831	Innocent	Victim
+HI_303.txt	बेलगोरोद	947	954	Innocent	Victim
+HI_303.txt	व्याचेस्लाव ग्लैडकोव	1068	1087	Protagonist	Guardian
+HI_303.txt	नागरिक	1165	1170	Innocent	Victim
+HI_346.txt	यूक्रेन	33	39	Innocent	Victim
+HI_62.txt	रूसी सैन्य	136	145	Antagonist	Tyrant
+HI_62.txt	यूक्रेन	326	332	Innocent	Exploited	Victim
+HI_62.txt	रूसी सेना	1286	1294	Antagonist	Tyrant
+HI_124.txt	यूक्रेन	144	150	Protagonist	Underdog
+HI_124.txt	रूस	222	224	Antagonist	Tyrant
+HI_124.txt	रूस	269	271	Antagonist	Instigator
+HI_124.txt	यूक्रेन की सेना	437	451	Innocent	Victim
+HI_124.txt	एयरफोर्स	456	463	Innocent	Victim
+HI_124.txt	रूसी सेना	546	554	Antagonist	Tyrant
+HI_124.txt	राष्ट्रपति पुतिन	825	840	Antagonist	Tyrant
+HI_124.txt	यूक्रेन की सेना	1150	1164	Protagonist	Underdog
+HI_124.txt	वोलोडिमिर जेलेंस्की	1500	1518	Protagonist	Guardian	Underdog
+HI_124.txt	यूक्रेन	1838	1844	Protagonist	Underdog
+HI_124.txt	रूस	2266	2268	Antagonist	Instigator
+HI_124.txt	जेलेंस्की	2344	2352	Protagonist	Guardian
+HI_124.txt	यूक्रेनियंस	2659	2669	Protagonist	Virtuous
+HI_124.txt	अशरफ गनी	2775	2782	Antagonist	Incompetent
+HI_124.txt	जेलेंस्की	2879	2887	Protagonist	Guardian
+HI_124.txt	पुतिन	2938	2942	Antagonist	Instigator
+HI_124.txt	यूक्रेन की सेना	3604	3618	Protagonist	Virtuous
+HI_124.txt	जर्मनी	4411	4416	Protagonist	Guardian
+HI_124.txt	बेल्जियम	4490	4497	Protagonist	Guardian
+HI_124.txt	चेक	4529	4531	Protagonist	Guardian
+HI_124.txt	फ्रांस	4676	4681	Protagonist	Guardian
+HI_124.txt	नीदरलैंड	4750	4757	Protagonist	Guardian
+HI_124.txt	पोलैंड	4818	4823	Protagonist	Guardian
+HI_124.txt	जेलेंस्की	5729	5737	Protagonist	Guardian
+HI_124.txt	रूस	5946	5948	Antagonist	Instigator
+HI_124.txt	वोलोडिमिर जेलेंस्की	6305	6323	Protagonist	Underdog
+HI_124.txt	रूस	7704	7706	Antagonist	Terrorist
+HI_218.txt	अमेरिका	82	88	Antagonist	Foreign Adversary
+HI_218.txt	चीन	93	95	Antagonist	Foreign Adversary
+HI_218.txt	अमेरिकी	399	405	Antagonist	Foreign Adversary
+HI_252.txt	यूक्रेन की सेना	150	164	Protagonist	Guardian	Underdog
+HI_252.txt	कुर्स्क	176	182	Innocent	Victim
+HI_252.txt	यूक्रेन	233	239	Protagonist	Underdog
+HI_252.txt	संयुक्त राष्ट्र	265	279	Protagonist	Virtuous
+HI_252.txt	ICRC	284	287	Protagonist	Virtuous
+HI_252.txt	रूस	292	294	Antagonist	Foreign Adversary
+HI_252.txt	वोलोदिमीर जेलेंस्की	673	691	Protagonist	Guardian	Underdog
+HI_252.txt	रक्षा मंत्रालय	770	783	Antagonist	Foreign Adversary
+HI_252.txt	एंड्री सिबिहा	939	951	Protagonist	Guardian
+HI_252.txt	यूक्रेनी सेना	1426	1438	Protagonist	Virtuous
+HI_374.txt	जो बाइडन	161	168	Antagonist	Foreign Adversary
+HI_374.txt	पुतिन	1971	1975	Antagonist	Foreign Adversary
+HI_90.txt	रूस	222	224	Protagonist	Rebel
+HI_90.txt	पश्चिमी देश	254	264	Antagonist	Foreign Adversary
+HI_90.txt	व्लादिमीर पुतिन	326	340	Protagonist	Guardian
+HI_90.txt	जो बाइडेन	1337	1345	Antagonist	Foreign Adversary
+HI_90.txt	यूक्रेन	1350	1356	Antagonist	Deceiver
+HI_167.txt	भारत	89	92	Protagonist	Virtuous
+HI_167.txt	भारत	1539	1542	Protagonist	Peacemaker
+HI_167.txt	यूक्रेन	2432	2438	Innocent	Victim
+HI_167.txt	रूस	2485	2487	Antagonist	Instigator
+HI_203.txt	पश्चिम एशिया	574	585	Innocent	Exploited
+HI_203.txt	ISIS	4619	4622	Antagonist	Terrorist
+HI_203.txt	रूस	4900	4902	Protagonist	Guardian
+HI_203.txt	अमेरिका	4905	4911	Protagonist	Guardian
+HI_203.txt	अल-कायदा	7971	7978	Antagonist	Terrorist
+HI_203.txt	इस्लामिक स्टेट	7981	7994	Antagonist	Terrorist
+HI_331.txt	यूक्रेन	78	84	Protagonist	Underdog
+HI_331.txt	विदेश मंत्रालय	89	102	Protagonist	Guardian
+HI_331.txt	यूक्रेन	464	470	Innocent	Victim
+HI_331.txt	यूक्रेनी सेना	525	537	Protagonist	Guardian	Underdog
+HI_331.txt	रूस	684	686	Antagonist	Foreign Adversary
+HI_331.txt	कुर्स्क	691	697	Innocent	Victim
+HI_331.txt	यूक्रेन	1179	1185	Protagonist	Underdog

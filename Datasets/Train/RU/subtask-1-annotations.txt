@@ -1,0 +1,367 @@
+RU-URW-1080.txt	Ермак	155	159	Antagonist	Incompetent
+RU-URW-1080.txt	Трамп	492	496	Protagonist	Peacemaker
+RU-URW-1013.txt	Украины	108	114	Innocent	Victim
+RU-URW-1145.txt	Российские войска	105	121	Protagonist	Guardian
+RU-URW-1145.txt	ВСУ	131	133	Antagonist	Terrorist
+RU-URW-1145.txt	США	1840	1842	Antagonist	Foreign Adversary
+RU-URW-1145.txt	Сергей Шойгу	2508	2519	Protagonist	Guardian
+RU-URW-1145.txt	Владимиру Путину	2591	2606	Protagonist	Guardian
+RU-URW-1048.txt	Следственный комитет России	59	85	Protagonist	Guardian
+RU-URW-1048.txt	Вооруженных сил Украины	131	153	Antagonist	Terrorist
+RU-URW-1001.txt	граждане РФ	162	172	Protagonist	Virtuous
+RU-URW-1044.txt	МЧС России	586	595	Protagonist	Guardian
+RU-URW-1044.txt	ВСУ	1140	1142	Antagonist	Terrorist
+RU-URW-1087.txt	России	555	560	Protagonist	Peacemaker
+RU-URW-1087.txt	Украине	587	593	Antagonist	Terrorist
+RU-URW-1137.txt	«Параграф-88»	610	622	Antagonist	Terrorist
+RU-URW-1137.txt	ФСБ	626	628	Protagonist	Guardian
+RU-URW-1137.txt	украинские спецслужбы	833	853	Antagonist	Terrorist
+RU-URW-1137.txt	Киев	1964	1967	Antagonist	Instigator
+RU-URW-1137.txt	Мария Захарова	2529	2542	Protagonist	Virtuous
+RU-URW-1137.txt	Дарьи Дугиной	2758	2770	Innocent	Victim
+RU-URW-1137.txt	Константина Малофеева	2839	2859	Innocent	Victim
+RU-URW-1176.txt	Владислава Роговенко	370	389	Protagonist	Peacemaker
+RU-URW-1176.txt	Зеленского	399	408	Antagonist	Incompetent
+RU-URW-1176.txt	Юлия Верба	475	484	Protagonist	Guardian
+RU-URW-1176.txt	Мила Бараева	705	716	Protagonist	Peacemaker
+RU-URW-1176.txt	Новости здорового человека	847	872	Antagonist	Deceiver
+RU-URW-1176.txt	НАТО	2409	2412	Antagonist	Foreign Adversary
+RU-URW-1005.txt	Александр Вучич	109	123	Protagonist	Virtuous
+RU-URW-1005.txt	Николай Стариков	427	442	Protagonist	Virtuous
+RU-URW-1005.txt	Кайи Каллас	949	959	Antagonist	Instigator
+RU-URW-1005.txt	Шольц	1130	1134	Antagonist	Saboteur
+RU-URW-1141.txt	Конгрессмены США	53	68	Antagonist	Foreign Adversary
+RU-URW-1141.txt	Нидерланды	1095	1104	Antagonist	Foreign Adversary
+RU-URW-1141.txt	Дания	1213	1217	Antagonist	Foreign Adversary
+RU-URW-1141.txt	Бельгия	1220	1226	Antagonist	Foreign Adversary
+RU-URW-1141.txt	Норвегия	1230	1237	Antagonist	Foreign Adversary
+RU-URW-1141.txt	ВКС	1796	1798	Protagonist	Guardian
+RU-URW-1129.txt	Владимир Зеленский	187	204	Antagonist	Instigator
+RU-URW-1129.txt	Виктор Орбан	351	362	Protagonist	Peacemaker
+RU-URW-1129.txt	Россия	457	462	Antagonist	Instigator
+RU-URW-1079.txt	НАТО	204	207	Antagonist	Foreign Adversary
+RU-URW-1079.txt	Йенс Столтенберг	1064	1079	Antagonist	Conspirator
+RU-URW-1036.txt	Харькове	125	132	Innocent	Victim
+RU-URW-1036.txt	ВС РФ	445	449	Protagonist	Guardian
+RU-URW-1036.txt	спецслужбы Украины	585	602	Antagonist	Terrorist
+RU-URW-1060.txt	Российские военные	85	102	Protagonist	Guardian
+RU-URW-1056.txt	официальный представитель Кремля	277	308	Protagonist	Virtuous
+RU-URW-1056.txt	Трампа	330	335	Antagonist	Incompetent
+RU-URW-1099.txt	Виктор Орбан	87	98	Protagonist	Peacemaker
+RU-URW-1099.txt	Трамп	984	988	Antagonist	Instigator
+RU-URW-1117.txt	Карлсона	546	553	Innocent	Forgotten
+RU-URW-1117.txt	Дональда Трампа	684	698	Protagonist	Peacemaker
+RU-URW-1153.txt	Вооруженных силах Украины	81	105	Antagonist	Foreign Adversary
+RU-URW-1153.txt	Украина	180	186	Antagonist	Foreign Adversary
+RU-URW-1072.txt	России	80	85	Protagonist	Peacemaker
+RU-URW-1072.txt	Китаю	89	93	Protagonist	Peacemaker
+RU-URW-1076.txt	Украинские военные	113	130	Antagonist	Instigator
+RU-URW-1008.txt	ВС РФ	140	144	Protagonist	Guardian
+RU-URW-1008.txt	Часов Яре	269	277	Innocent	Victim
+RU-URW-1008.txt	Волчанске	280	288	Innocent	Victim
+RU-URW-1008.txt	Торецком	295	302	Innocent	Victim
+RU-URW-1008.txt	укронацистов	1190	1201	Antagonist	Terrorist
+RU-URW-1033.txt	ВСУ	61	63	Antagonist	Terrorist
+RU-URW-1033.txt	Горловку	82	89	Innocent	Victim
+RU-URW-1016.txt	Запад	51	55	Antagonist	Foreign Adversary
+RU-URW-1016.txt	Россия	436	441	Protagonist	Guardian
+RU-URW-1016.txt	Европейский союз	694	709	Antagonist	Foreign Adversary
+RU-URW-1041.txt	Владимир Путин	244	257	Protagonist	Guardian
+RU-URW-1041.txt	Андрей Белоусов	330	344	Protagonist	Virtuous
+RU-URW-1041.txt	Вячеслав Володин	363	378	Protagonist	Virtuous
+RU-URW-1041.txt	Владимир Путин	381	394	Protagonist	Guardian
+RU-URW-1041.txt	Александра Лукашенко	424	443	Protagonist	Guardian
+RU-URW-1068.txt	Михаил Ширимейто	133	148	Innocent	Exploited
+RU-URW-1068.txt	Российские медики	368	384	Protagonist	Guardian
+RU-URW-1157.txt	Филиппа Симана	357	370	Antagonist	Foreign Adversary
+RU-URW-1157.txt	Зеленский	842	850	Antagonist	Deceiver
+RU-URW-1025.txt	Командиры ВСУ	73	85	Antagonist	Incompetent
+RU-URW-1025.txt	Ральф Сирен	203	213	Antagonist	Terrorist
+RU-URW-1114.txt	Россия	124	129	Protagonist	Peacemaker
+RU-URW-1114.txt	государств ШОС	160	173	Protagonist	Peacemaker
+RU-URW-1067.txt	России	116	121	Protagonist	Guardian
+RU-URW-1067.txt	Украины	191	197	Antagonist	Terrorist
+RU-URW-1067.txt	Российской Федерации»	461	481	Innocent	Victim
+RU-URW-1149.txt	Аллы Пугачевой	93	106	Antagonist	Spy
+RU-URW-1149.txt	Министерству юстиции	964	983	Protagonist	Guardian
+RU-URW-1172.txt	Орбан	29	33	Protagonist	Peacemaker
+RU-URW-1172.txt	Владимиром Зеленским	535	554	Antagonist	Incompetent
+RU-URW-1172.txt	Путина	1129	1134	Protagonist	Peacemaker
+RU-URW-1172.txt	США	1641	1643	Antagonist	Saboteur
+RU-URW-1106.txt	Российская разведка	84	102	Protagonist	Guardian
+RU-URW-1106.txt	командование французской армии	345	374	Antagonist	Instigator
+RU-URW-1106.txt	Эммануэль Макрон	1345	1360	Antagonist	Instigator
+RU-URW-1095.txt	Орбан	354	358	Protagonist	Guardian
+RU-URW-1095.txt	Зеленского	454	463	Antagonist	Incompetent
+RU-URW-1125.txt	Татьяна	119	125	Innocent	Victim
+RU-URW-1125.txt	украинцы	323	330	Antagonist	Bigot
+RU-URW-1125.txt	усскоязычных и русские магазины	345	375	Innocent	Victim
+RU-URW-1161.txt	НАТО	173	176	Antagonist	Foreign Adversary
+RU-URW-1161.txt	Украине	262	268	Innocent	Exploited
+RU-URW-1161.txt	Вадим Колесниченко	414	431	Protagonist	Virtuous
+RU-URW-1161.txt	России	1292	1297	Innocent	Victim
+RU-URW-1029.txt	Никол Пашинян	100	112	Antagonist	Conspirator	Incompetent
+RU-URW-1029.txt	США	141	143	Antagonist	Conspirator	Foreign Adversary
+RU-URW-1029.txt	Роджером Уикером	1497	1512	Antagonist	Instigator
+RU-URW-1020.txt	Анналена Бербок	96	110	Antagonist	Instigator
+RU-URW-1020.txt	Владимир Путин	125	138	Innocent	Scapegoat
+RU-URW-1063.txt	Совет Федераций	87	101	Protagonist	Virtuous
+RU-URW-1063.txt	Владимира Зеленского	147	166	Antagonist	Incompetent	Deceiver
+RU-URW-1047.txt	ВСУ	10	12	Antagonist	Terrorist
+RU-URW-1047.txt	Подразделения Вооруженных сил Украины	114	150	Antagonist	Terrorist
+RU-URW-1047.txt	военный эксперт, полковник	322	347	Protagonist	Peacemaker
+RU-URW-1136.txt	Украине	151	157	Antagonist	Instigator
+RU-URW-1071.txt	"Киевсовет	87	96	Antagonist	Tyrant
+RU-URW-1071.txt	Сидор Ковпак	235	246	Protagonist	Rebel
+RU-URW-1142.txt	Генсек НАТО	107	117	Antagonist	Instigator
+RU-URW-1142.txt	КНР	126	128	Innocent	Scapegoat
+RU-URW-1142.txt	США	903	905	Antagonist	Conspirator
+RU-URW-1010.txt	Ермак	88	92	Antagonist	Instigator
+RU-URW-1010.txt	Дональда Трампа	383	397	Protagonist	Peacemaker
+RU-URW-1010.txt	Трампа	835	840	Antagonist	Incompetent
+RU-URW-1096.txt	«Сорок сороков»	10	24	Protagonist	Virtuous
+RU-URW-1096.txt	Канье Уэста	164	174	Antagonist	Bigot
+RU-URW-1150.txt	НАТО	188	191	Antagonist	Foreign Adversary
+RU-URW-1150.txt	Украине	815	821	Antagonist	Foreign Adversary
+RU-URW-1111.txt	Раиса Рязанова	103	116	Protagonist	Virtuous
+RU-URW-1111.txt	Андрее Макаревиче	218	234	Antagonist	Traitor
+RU-URW-1159.txt	юнармейцев	157	166	Protagonist	Virtuous
+RU-URW-1159.txt	Владимир Кузьмин	1552	1567	Protagonist	Virtuous
+RU-URW-1159.txt	Богдан Махно	2781	2792	Protagonist	Virtuous
+RU-URW-1116.txt	Путин	100	104	Protagonist	Peacemaker
+RU-URW-1116.txt	Киева	187	191	Innocent	Exploited
+RU-URW-1116.txt	главам стран ШОС	1088	1103	Protagonist	Peacemaker
+RU-URW-1019.txt	Запад	61	65	Antagonist	Instigator	Foreign Adversary
+RU-URW-1019.txt	Украина	324	330	Antagonist	Instigator
+RU-URW-1019.txt	Россия	793	798	Protagonist	Peacemaker
+RU-URW-1086.txt	вооруженные силы Украины	959	982	Antagonist	Terrorist
+RU-URW-1037.txt	Белоруссии	198	207	Protagonist	Guardian
+RU-URW-1037.txt	Украины	290	296	Antagonist	Instigator
+RU-URW-1037.txt	Минск	492	496	Protagonist	Peacemaker
+RU-URW-1037.txt	ЕС	571	572	Innocent	Victim
+RU-URW-1122.txt	СК РФ	142	146	Protagonist	Virtuous
+RU-URW-1165.txt	"Действие и солидарность	154	177	Antagonist	Deceiver
+RU-URW-1165.txt	Россию	195	200	Innocent	Victim
+RU-URW-1165.txt	США	2918	2920	Antagonist	Foreign Adversary
+RU-URW-1148.txt	ФСБ России	237	246	Protagonist	Guardian
+RU-URW-1148.txt	украинские спецслужбы	308	328	Antagonist	Terrorist
+RU-URW-1105.txt	НАТО	131	134	Antagonist	Conspirator	Foreign Adversary
+RU-URW-1105.txt	Украине	251	257	Innocent	Exploited
+RU-URW-1121.txt	НАТО	126	129	Antagonist	Instigator
+RU-URW-1121.txt	Россию	528	533	Innocent	Victim
+RU-URW-1121.txt	Украины	562	568	Innocent	Exploited
+RU-URW-1121.txt	Североатлантическом альянсе	664	690	Antagonist	Foreign Adversary
+RU-URW-1164.txt	Павел Филипчук	376	389	Protagonist	Guardian
+RU-URW-1164.txt	Киев	833	836	Antagonist	Deceiver
+RU-URW-1075.txt	Минска	373	378	Innocent	Victim
+RU-URW-1075.txt	Белоруссии	561	570	Antagonist	Tyrant
+RU-URW-1075.txt	Варшаве	588	594	Innocent	Exploited
+RU-URW-1075.txt	Анджея Почобута	666	680	Innocent	Exploited
+RU-URW-1075.txt	Польша	1050	1055	Antagonist	Foreign Adversary
+RU-URW-1075.txt	Белоруссией	1075	1085	Innocent	Victim
+RU-URW-1026.txt	Роджер Уикер	252	263	Antagonist	Instigator
+RU-URW-1026.txt	России	392	397	Innocent	Victim
+RU-URW-1158.txt	Владимир Путин	75	88	Protagonist	Guardian
+RU-URW-1158.txt	премьеру Индии	1181	1194	Protagonist	Peacemaker
+RU-URW-1092.txt	Вооруженных сил Украины	83	105	Antagonist	Terrorist
+RU-URW-1092.txt	российские военные	613	630	Protagonist	Guardian
+RU-URW-1115.txt	представители органов власти	315	342	Protagonist	Virtuous
+RU-URW-1115.txt	академического сообщества	345	369	Protagonist	Virtuous
+RU-URW-1115.txt	бизнеса	373	379	Protagonist	Virtuous
+RU-URW-1175.txt	Макрона	3422	3428	Antagonist	Incompetent
+RU-URW-1132.txt	Александр Богомаз	98	114	Protagonist	Virtuous
+RU-URW-1058.txt	Игорь Кимаковский	109	125	Protagonist	Guardian
+RU-URW-1058.txt	Донецкой Народной Республики	183	210	Innocent	Victim
+RU-URW-1058.txt	украинских войск	240	255	Antagonist	Instigator
+RU-URW-1058.txt	ВС России	616	624	Protagonist	Guardian
+RU-URW-1064.txt	Владимир Зеленский	258	275	Antagonist	Deceiver
+RU-URW-1015.txt	американцы	348	357	Antagonist	Foreign Adversary
+RU-URW-1015.txt	Зеленского	466	475	Innocent	Exploited
+RU-URW-1021.txt	Западу	81	86	Antagonist	Conspirator	Instigator	Foreign Adversary
+RU-URW-1021.txt	американцы и Запад	295	312	Antagonist	Foreign Adversary
+RU-URW-1021.txt	Украины	338	344	Innocent	Exploited
+RU-URW-1109.txt	Киев	79	82	Antagonist	Terrorist	Traitor
+RU-URW-1109.txt	Киев	433	436	Antagonist	Deceiver
+RU-URW-1126.txt	США	431	433	Antagonist	Foreign Adversary
+RU-URW-1169.txt	Виктор Орбан	143	154	Protagonist	Peacemaker
+RU-URW-1169.txt	Орбана	672	677	Protagonist	Virtuous
+RU-URW-1081.txt	Российские военнослужащие	70	94	Protagonist	Guardian
+RU-URW-1081.txt	Украины	665	671	Antagonist	Terrorist
+RU-URW-1100.txt	Алексей Текслер	315	329	Protagonist	Guardian
+RU-URW-1100.txt	Украины	618	624	Antagonist	Instigator	Terrorist
+RU-URW-1143.txt	Армия России	67	78	Protagonist	Guardian
+RU-URW-1143.txt	Украине	105	111	Antagonist	Terrorist
+RU-URW-1143.txt	фашистов	2151	2158	Antagonist	Instigator
+RU-URW-1038.txt	Запада	215	220	Antagonist	Instigator	Foreign Adversary
+RU-URW-1038.txt	Украине	611	617	Innocent	Exploited
+RU-URW-1038.txt	Зеленского	725	734	Antagonist	Conspirator
+RU-URW-1011.txt	Соединенные Штаты	81	97	Antagonist	Foreign Adversary
+RU-URW-1011.txt	Украине	108	114	Innocent	Exploited
+RU-URW-1011.txt	Белый дом	1351	1359	Antagonist	Incompetent
+RU-URW-1097.txt	КНР	133	135	Protagonist	Peacemaker
+RU-URW-1097.txt	Стубб	367	371	Protagonist	Peacemaker
+RU-URW-1097.txt	президент России	1555	1570	Protagonist	Peacemaker
+RU-URW-1151.txt	ВС РФ	119	123	Protagonist	Virtuous
+RU-URW-1151.txt	НАТО	270	273	Antagonist	Foreign Adversary
+RU-URW-1151.txt	ВСУ	784	786	Antagonist	Terrorist
+RU-URW-1062.txt	Андрей Климов	345	357	Protagonist	Virtuous
+RU-URW-1062.txt	НАТО	376	379	Antagonist	Conspirator	Foreign Adversary
+RU-URW-1119.txt	Россия	255	260	Protagonist	Guardian
+RU-URW-1119.txt	Дания	498	502	Antagonist	Foreign Adversary
+RU-URW-1119.txt	Нидерланды	506	515	Antagonist	Foreign Adversary
+RU-URW-1070.txt	Россией	96	102	Protagonist	Peacemaker
+RU-URW-1070.txt	Киева	135	139	Antagonist	Incompetent	Terrorist
+RU-URW-1070.txt	Запада	143	148	Antagonist	Foreign Adversary
+RU-URW-1104.txt	украинских спецслужб	207	226	Antagonist	Saboteur	Foreign Adversary
+RU-URW-1104.txt	ФСБ	633	635	Protagonist	Guardian
+RU-URW-1042.txt	Украины	110	116	Antagonist	Terrorist
+RU-URW-1050.txt	Нидерланды	107	116	Antagonist	Instigator	Foreign Adversary
+RU-URW-1050.txt	Украине	136	142	Antagonist	Instigator
+RU-URW-1123.txt	Киев	588	591	Antagonist	Instigator
+RU-URW-1123.txt	Россию	950	955	Innocent	Victim
+RU-URW-1155.txt	Турция	153	158	Antagonist	Conspirator
+RU-URW-1155.txt	Украине	210	216	Innocent	Exploited
+RU-URW-1155.txt	США	274	276	Antagonist	Foreign Adversary
+RU-URW-1155.txt	"Азов	412	416	Antagonist	Terrorist
+RU-URW-1155.txt	Дмитрий Песков	580	593	Protagonist	Virtuous
+RU-URW-1163.txt	ДАНС	101	104	Antagonist	Incompetent
+RU-URW-1163.txt	Златомира Девленского	229	249	Innocent	Victim
+RU-URW-1163.txt	адмиралу Ефтимову	2605	2621	Antagonist	Traitor
+RU-URW-1018.txt	Владимиру Зеленскому	107	126	Antagonist	Instigator	Corrupt
+RU-URW-1018.txt	западных стран	587	600	Antagonist	Conspirator	Foreign Adversary
+RU-URW-1018.txt	Виктор Орбан	795	806	Protagonist	Peacemaker
+RU-URW-1035.txt	Игорь Лапин	108	118	Innocent	Victim
+RU-URW-1035.txt	российские войска	171	187	Antagonist	Instigator
+RU-URW-1035.txt	Украина	608	614	Innocent	Victim
+RU-URW-1035.txt	Он	722	723	Protagonist	Peacemaker
+RU-URW-1074.txt	Си Цзиньпин	202	212	Protagonist	Virtuous
+RU-URW-1074.txt	Владимиром Путиным	252	269	Protagonist	Guardian
+RU-URW-1074.txt	Мао Нин	779	785	Protagonist	Virtuous
+RU-URW-1074.txt	НАТО	796	799	Antagonist	Instigator
+RU-URW-1031.txt	Лихачев	90	96	Protagonist	Virtuous
+RU-URW-1031.txt	Киева	248	252	Antagonist	Saboteur	Terrorist
+RU-URW-1027.txt	Посольство России в Эстонии	84	110	Protagonist	Guardian
+RU-URW-1027.txt	красноармейцев	155	168	Innocent	Forgotten
+RU-URW-1027.txt	власти Эстонии	595	608	Antagonist	Bigot
+RU-URW-1027.txt	Аннели Кольк	740	751	Antagonist	Instigator
+RU-URW-1027.txt	наемников Вооруженных сил Украины	1035	1067	Antagonist	Terrorist
+RU-URW-1057.txt	Дмитрия Андреевича Артюхова	943	969	Protagonist	Virtuous
+RU-URW-1082.txt	Эвакуированные из-под Часова Яра мирные жители	936	981	Innocent	Victim
+RU-URW-1082.txt	операторы дронов-камикадзе ВСУ	999	1028	Antagonist	Terrorist
+RU-URW-1082.txt	Ивану Попову	1251	1262	Antagonist	Corrupt
+RU-URW-1022.txt	Украина	196	202	Innocent	Exploited
+RU-URW-1022.txt	Запада	467	472	Antagonist	Foreign Adversary
+RU-URW-1078.txt	Владимира Зеленского	135	154	Antagonist	Incompetent
+RU-URW-1078.txt	США	1131	1133	Antagonist	Conspirator
+RU-URW-1078.txt	Украину	1143	1149	Innocent	Exploited
+RU-URW-1065.txt	Россия	105	110	Innocent	Victim
+RU-URW-1065.txt	Байдену	389	395	Antagonist	Foreign Adversary
+RU-URW-1065.txt	Украина	785	791	Innocent	Exploited	Victim
+RU-URW-1138.txt	США	113	115	Antagonist	Instigator	Foreign Adversary
+RU-URW-1138.txt	НАТО	119	122	Antagonist	Instigator	Foreign Adversary
+RU-URW-1138.txt	России	200	205	Innocent	Victim
+RU-URW-1138.txt	Йенса Столтенберга	351	368	Antagonist	Foreign Adversary
+RU-URW-1138.txt	Джо Байден	1086	1095	Antagonist	Foreign Adversary
+RU-URW-1138.txt	Пола Йонсона	2271	2282	Antagonist	Foreign Adversary
+RU-URW-1108.txt	Петра Великого	222	235	Protagonist	Virtuous
+RU-URW-1108.txt	Швеции	514	519	Antagonist	Instigator
+RU-URW-1108.txt	Карл XII	543	550	Antagonist	Foreign Adversary
+RU-URW-1108.txt	Мазепу	572	577	Innocent	Exploited
+RU-URW-1108.txt	Зеленского	949	958	Antagonist	Deceiver	Traitor
+RU-URW-1112.txt	ВСУ	317	319	Antagonist	Instigator	Terrorist
+RU-URW-1112.txt	России	1222	1227	Innocent	Victim
+RU-URW-1131.txt	Лариса Толстыкина	369	385	Protagonist	Virtuous
+RU-URW-1046.txt	Украина	43	49	Antagonist	Incompetent
+RU-URW-1195.txt	ВСУ	134	136	Antagonist	Terrorist
+RU-URW-1195.txt	ДНР	177	179	Innocent	Victim
+RU-URW-1195.txt	Белгородской	182	193	Innocent	Victim
+RU-URW-1195.txt	Курской	197	203	Innocent	Victim
+RU-URW-1045.txt	Украинские власти	153	169	Antagonist	Incompetent
+RU-URW-1045.txt	Украины	1733	1739	Antagonist	Terrorist
+RU-URW-1045.txt	Украину	1871	1877	Innocent	Victim
+RU-URW-1039.txt	ВСУ	201	203	Antagonist	Instigator
+RU-URW-1039.txt	Министерство обороны РФ	251	273	Protagonist	Guardian
+RU-URW-1088.txt	Йенс Столтенберг	248	263	Antagonist	Instigator
+RU-URW-1088.txt	В. Орбан	914	921	Protagonist	Peacemaker
+RU-URW-1128.txt	Владимир Путин	73	86	Protagonist	Peacemaker
+RU-URW-1128.txt	Украине	344	350	Innocent	Victim
+RU-URW-1128.txt	США	386	388	Antagonist	Instigator
+RU-URW-1128.txt	ШОС	455	457	Protagonist	Peacemaker
+RU-URW-1103.txt	Киев	99	102	Antagonist	Incompetent
+RU-URW-1103.txt	Запад	113	117	Antagonist	Foreign Adversary
+RU-URW-1103.txt	Зеленский	219	227	Antagonist	Incompetent
+RU-URW-1049.txt	США	185	187	Antagonist	Instigator	Foreign Adversary
+RU-URW-1049.txt	ВСУ	199	201	Antagonist	Terrorist
+RU-URW-1049.txt	Россию	240	245	Innocent	Victim
+RU-URW-1140.txt	Алексей Кочетков	270	285	Protagonist	Virtuous
+RU-URW-1140.txt	НАТО	381	384	Antagonist	Conspirator
+RU-URW-1140.txt	Дональда Трампа	483	497	Antagonist	Conspirator
+RU-URW-1140.txt	США	1030	1032	Antagonist	Foreign Adversary
+RU-URW-1140.txt	Зеленского	2654	2663	Antagonist	Deceiver
+RU-URW-1030.txt	Александр Богомаз	98	114	Innocent	Victim
+RU-URW-1030.txt	Брянск-прикрытие	655	670	Protagonist	Guardian
+RU-URW-1030.txt	ФСБ России	690	699	Protagonist	Guardian
+RU-URW-1030.txt	Росгвардию	702	711	Protagonist	Guardian
+RU-URW-1030.txt	МВД	714	716	Protagonist	Guardian
+RU-URW-1030.txt	МЧС	720	722	Protagonist	Guardian
+RU-URW-1006.txt	российские системы ПВО	88	109	Protagonist	Guardian
+RU-URW-1006.txt	киевского режима	273	288	Antagonist	Terrorist
+RU-URW-1134.txt	Никола Пашиняна	157	171	Antagonist	Traitor
+RU-URW-1134.txt	Армен Бадалян	304	316	Protagonist	Virtuous
+RU-URW-1134.txt	демократы-глобалисты	697	716	Antagonist	Conspirator
+RU-URW-1012.txt	Игорь Чуркин	124	135	Innocent	Victim
+RU-URW-1012.txt	Кристиан Рубилар	346	361	Protagonist	Virtuous
+RU-URW-1012.txt	Украина	386	392	Antagonist	Incompetent
+RU-URW-1024.txt	Украины	112	118	Antagonist	Terrorist
+RU-URW-1055.txt	администрация Байдена	125	145	Antagonist	Foreign Adversary
+RU-URW-1055.txt	РФ	195	196	Innocent	Victim
+RU-URW-1055.txt	Столтенберг	339	349	Antagonist	Foreign Adversary
+RU-URW-1098.txt	Михаил Галузин	106	119	Protagonist	Virtuous
+RU-URW-1098.txt	Зеленского	250	259	Antagonist	Incompetent
+RU-URW-1173.txt	Джо Байден	208	217	Antagonist	Incompetent
+RU-URW-1130.txt	украинская воинская часть	171	195	Antagonist	Instigator
+RU-URW-1017.txt	Россия	91	96	Innocent	Victim
+RU-URW-1017.txt	Украины	507	513	Antagonist	Instigator
+RU-URW-1017.txt	Европейского союза	531	548	Antagonist	Instigator
+RU-URW-1040.txt	Павел Запорожец	131	145	Antagonist	Terrorist
+RU-URW-1040.txt	Главным управлением разведки Министерства обороны Украины	725	781	Antagonist	Conspirator
+RU-URW-1066.txt	ВСУ	168	170	Antagonist	Terrorist
+RU-URW-1066.txt	Белгородской области	323	342	Innocent	Victim
+RU-URW-1107.txt	Ростиславу Журавлёву	108	127	Protagonist	Martyr
+RU-URW-1107.txt	Даниил Пионтковский	671	689	Innocent	Victim
+RU-URW-1107.txt	Максим Магро	725	736	Innocent	Victim
+RU-URW-1083.txt	Беженцы, эвакуированные Вооруженными силами России из окрестностей Часова Яра	71	147	Innocent	Victim
+RU-URW-1083.txt	ВСУ	637	639	Antagonist	Terrorist
+RU-URW-1083.txt	российские военные	871	888	Protagonist	Guardian
+RU-URW-1124.txt	Дмитрий Песков	61	74	Protagonist	Virtuous
+RU-URW-1124.txt	Германия	114	121	Antagonist	Foreign Adversary
+RU-URW-1124.txt	США	124	126	Antagonist	Foreign Adversary
+RU-URW-1124.txt	Франция	129	135	Antagonist	Foreign Adversary
+RU-URW-1124.txt	Великобритания	139	152	Antagonist	Foreign Adversary
+RU-URW-1162.txt	Германия	101	108	Antagonist	Foreign Adversary
+RU-URW-1162.txt	Польша	111	116	Antagonist	Foreign Adversary
+RU-URW-1162.txt	Италия	119	124	Antagonist	Foreign Adversary
+RU-URW-1162.txt	Франция	128	134	Antagonist	Foreign Adversary
+RU-URW-1162.txt	ВСУ	316	318	Antagonist	Terrorist
+RU-URW-1162.txt	НАТО	749	752	Antagonist	Foreign Adversary
+RU-URW-1162.txt	ВСУ	820	822	Antagonist	Foreign Adversary
+RU-URW-1162.txt	Киеву	873	877	Antagonist	Terrorist
+RU-URW-1162.txt	ВСУ	958	960	Antagonist	Terrorist
+RU-URW-1162.txt	ЛНР	988	990	Innocent	Victim
+RU-URW-1162.txt	Российская армия	1460	1475	Protagonist	Guardian
+RU-URW-1034.txt	огнеборцев	241	250	Protagonist	Guardian
+RU-URW-1034.txt	ВСУ	474	476	Antagonist	Foreign Adversary
+RU-URW-1094.txt	главы дальневосточных регионов	770	799	Protagonist	Virtuous
+RU-URW-1094.txt	Юрий Трутнев	1184	1195	Protagonist	Virtuous
+RU-URW-1028.txt	Таисия Повалий	117	130	Innocent	Victim
+RU-URW-1028.txt	киевских властей	166	181	Antagonist	Tyrant
+RU-URW-1051.txt	гражданка	132	140	Innocent	Victim
+RU-URW-1051.txt	ВСУ	669	671	Antagonist	Terrorist
+RU-URW-1156.txt	Дмитрий Медведев	137	152	Protagonist	Virtuous
+RU-URW-1156.txt	Владимира Зеленского	218	237	Antagonist	Instigator
+RU-URW-1156.txt	Запада	315	320	Antagonist	Foreign Adversary
+RU-URW-1156.txt	Россией	559	565	Protagonist	Peacemaker
+RU-URW-1156.txt	Москва	1005	1010	Protagonist	Guardian
+RU-URW-1156.txt	НАТО	1298	1301	Antagonist	Foreign Adversary
+RU-URW-1156.txt	Киевом	1948	1953	Antagonist	Terrorist
+RU-URW-1113.txt	Дмитрия Гордона	133	147	Antagonist	Instigator

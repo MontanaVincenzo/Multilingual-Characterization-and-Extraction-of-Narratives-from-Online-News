@@ -1,0 +1,627 @@
+BG_670.txt	Запад	152	156	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_670.txt	САЩ	530	532	Antagonist	Instigator
+BG_670.txt	НАТО	535	538	Antagonist	Instigator
+BG_670.txt	Украйна	578	584	Antagonist	Foreign Adversary
+BG_670.txt	украински войници	633	649	Innocent	Victim
+A7_URW_BG_4793.txt	НАТО	333	336	Antagonist	Tyrant
+A7_URW_BG_4793.txt	Съединените американски щати	847	874	Antagonist	Tyrant
+A9_BG_5190.txt	Киев	447	450	Antagonist	Terrorist
+A9_BG_3379.txt	Запада	108	113	Antagonist	Instigator	Foreign Adversary
+A9_BG_3379.txt	Лондон	625	630	Antagonist	Tyrant
+A9_BG_3379.txt	Русия	656	660	Innocent	Victim
+A7_URW_BG_3566.txt	Руската федерация	1807	1823	Innocent	Exploited
+A7_URW_BG_3566.txt	Съединените американски щати	1865	1892	Antagonist	Tyrant
+A7_URW_BG_3566.txt	Европа	2546	2551	Antagonist	Foreign Adversary
+BG_855.txt	Руската федерация	1453	1469	Protagonist	Virtuous	Guardian
+BG_855.txt	ЕС	1631	1632	Antagonist	Deceiver
+BG_751.txt	Путин	345	349	Protagonist	Virtuous
+BG_751.txt	Зеленски	509	516	Antagonist	Incompetent
+BG_751.txt	Украйна	1594	1600	Innocent	Exploited
+BG_751.txt	Путин	1797	1801	Protagonist	Peacemaker
+BG_751.txt	Зеленски	1940	1947	Antagonist	Corrupt
+BG_751.txt	Западът	1951	1957	Antagonist	Conspirator	Foreign Adversary
+BG_839.txt	Кремъл	62	67	Antagonist	Tyrant
+BG_839.txt	Путин	123	127	Antagonist	Tyrant
+BG_839.txt	Украйна	199	205	Innocent	Victim
+BG_839.txt	Европа	517	522	Protagonist	Guardian
+BG_839.txt	България	1091	1098	Protagonist	Virtuous
+BG_839.txt	Володимир Зеленски	1138	1155	Protagonist	Peacemaker
+BG_839.txt	Китай	1332	1336	Antagonist	Foreign Adversary
+BG_839.txt	Румен Радев	2235	2245	Antagonist	Incompetent
+A9_BG_4768.txt	Киев	352	355	Innocent	Exploited
+A9_BG_3395.txt	Русия	133	137	Innocent	Victim
+A9_BG_3298.txt	САЩ	110	112	Antagonist	Incompetent
+BG_573.txt	Енергодар	260	268	Innocent	Victim
+BG_573.txt	Зеленски	707	714	Antagonist	Tyrant
+BG_573.txt	Руската Федерация	2149	2165	Innocent	Victim
+A9_BG_5143.txt	Киев	608	611	Protagonist	Underdog
+BG_4819.txt	В. Зеленски	152	162	Protagonist	Peacemaker
+BG_4819.txt	Украйна	662	668	Protagonist	Peacemaker
+BG_4819.txt	Русия	718	722	Antagonist	Tyrant
+BG_4819.txt	Путин	726	730	Antagonist	Tyrant
+A9_BG_4737.txt	Зеленски	163	170	Antagonist	Incompetent
+A9_BG_4737.txt	Владимир Путин	542	555	Protagonist	Peacemaker
+BG_704.txt	Югославия	253	261	Innocent	Victim
+BG_704.txt	Запада	575	580	Antagonist	Instigator
+BG_704.txt	М.Саакашвили	841	852	Antagonist	Foreign Adversary	Terrorist
+BG_704.txt	Цхинвал	904	910	Innocent	Victim
+BG_704.txt	Президента на Руската Федерация В.В.Путин	1003	1043	Protagonist	Peacemaker
+BG_704.txt	Русия	1149	1153	Protagonist	Peacemaker
+A7_URW_BG_3808.txt	Дания	713	717	Antagonist	Foreign Adversary
+A7_URW_BG_3808.txt	САЩ	2627	2629	Antagonist	Foreign Adversary
+BG_541.txt	НАТО	127	130	Antagonist	Incompetent	Foreign Adversary
+BG_541.txt	Русия	248	252	Protagonist	Rebel
+BG_541.txt	Украйна	733	739	Innocent	Victim
+A7_URW_BG_2710.txt	Европейският съюз	111	127	Antagonist	Traitor
+A7_URW_BG_2710.txt	Европейският съюз	872	888	Antagonist	Foreign Adversary
+A7_URW_BG_2710.txt	САЩ	2456	2458	Antagonist	Foreign Adversary
+A7_URW_BG_6975.txt	Владимир Путин	607	620	Protagonist	Guardian
+A7_URW_BG_6975.txt	Вашингтон	1832	1840	Antagonist	Saboteur
+BG_894.txt	Джон Стосел	465	475	Protagonist	Rebel
+BG_894.txt	САЩ	3611	3613	Innocent	Victim
+BG_894.txt	Европа	3617	3622	Innocent	Victim
+BG_894.txt	Германия	3625	3632	Innocent	Victim
+A9_BG_2973.txt	Кишинев	963	969	Antagonist	Incompetent
+A9_BG_2973.txt	ЕС	1141	1142	Antagonist	Foreign Adversary
+BG_3284.txt	Германия	61	68	Antagonist	Foreign Adversary
+BG_3753.txt	САЩ	924	926	Antagonist	Conspirator	Foreign Adversary
+BG_3753.txt	Русия	1125	1129	Protagonist	Guardian
+BG_1249.txt	Дейвид Атънбъро	713	727	Protagonist	Virtuous
+A7_URW_BG_2951.txt	Западът	491	497	Antagonist	Instigator
+A7_URW_BG_2951.txt	Русия	628	632	Innocent	Victim
+A7_URW_BG_2951.txt	Украйна	1428	1434	Antagonist	Incompetent
+BG_430.txt	САЩ	125	127	Antagonist	Conspirator
+BG_430.txt	Тръмп	619	623	Innocent	Victim
+BG_430.txt	САЩ	814	816	Antagonist	Corrupt
+BG_430.txt	Русия	896	900	Innocent	Scapegoat
+BG_430.txt	американците	1348	1359	Innocent	Exploited
+A9_BG_4116.txt	Европа	657	662	Protagonist	Martyr
+A7_URW_BG_5683.txt	Франция	252	258	Protagonist	Guardian
+A7_URW_BG_5683.txt	Джо Байдън	1449	1458	Protagonist	Guardian
+A9_BG_3204.txt	Олаф Шолц	227	235	Antagonist	Incompetent
+A6_CC_BG_11388.txt	Citigroup Inc	2524	2536	Antagonist	Saboteur
+A6_CC_BG_11388.txt	Bank of America Corp	2541	2560	Antagonist	Saboteur
+BG_5942.txt	САЩ	783	785	Antagonist	Foreign Adversary
+A6_CC_BG_10525.txt	Италия	89	94	Protagonist	Guardian
+A7_URW_BG_7035.txt	Запад	414	418	Antagonist	Conspirator
+A7_URW_BG_7035.txt	НАТО	821	824	Antagonist	Instigator
+A7_URW_BG_7035.txt	Европа	1061	1066	Antagonist	Corrupt
+A7_URW_BG_7035.txt	Орбан	2782	2786	Protagonist	Rebel
+A7_URW_BG_7035.txt	Фицо	2802	2805	Protagonist	Rebel
+A7_URW_BG_6121.txt	Брюксел	197	203	Antagonist	Conspirator
+A7_URW_BG_6121.txt	Вашингтон	206	214	Antagonist	Conspirator
+A7_URW_BG_6121.txt	Джордж Сорос	218	229	Antagonist	Conspirator
+A7_URW_BG_6121.txt	Европа	363	368	Antagonist	Tyrant
+A7_URW_BG_6121.txt	Унгария	2270	2276	Innocent	Victim
+A6_CC_BG_8520.txt	Васил Терзиев	211	223	Antagonist	Incompetent
+A6_CC_BG_8520.txt	Терзиев	1297	1303	Antagonist	Incompetent
+BG_548.txt	Кремъл	538	543	Antagonist	Deceiver
+BG_548.txt	Румен Радев	1105	1115	Antagonist	Incompetent
+BG_548.txt	България	1214	1221	Innocent	Victim
+BG_548.txt	Кремъл	1281	1286	Antagonist	Conspirator	Foreign Adversary
+BG_548.txt	Путин	4048	4052	Antagonist	Tyrant
+BG_548.txt	САЩ	4174	4176	Protagonist	Virtuous
+BG_548.txt	Украйна	4220	4226	Innocent	Victim
+BG_637.txt	НАТО	155	158	Antagonist	Incompetent	Corrupt
+BG_637.txt	Байдън	738	743	Antagonist	Instigator	Foreign Adversary
+BG_637.txt	Вашингтон	930	938	Antagonist	Instigator
+BG_637.txt	Макрон	1113	1118	Antagonist	Incompetent
+BG_637.txt	Урсула	1121	1126	Antagonist	Incompetent
+BG_637.txt	Шолц	1129	1132	Antagonist	Incompetent
+BG_637.txt	Украйна	1524	1530	Innocent	Victim
+BG_3351.txt	Зеленски	166	173	Antagonist	Foreign Adversary
+BG_3351.txt	Русия	452	456	Protagonist	Rebel
+BG_3351.txt	Зеленски	489	496	Antagonist	Incompetent
+BG_3351.txt	Путин	615	619	Protagonist	Peacemaker
+BG_4732.txt	Украйна	80	86	Antagonist	Incompetent
+BG_4732.txt	Обединеното кралство	555	574	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_4732.txt	САЩ	578	580	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_4732.txt	Владимир Зеленски	620	636	Antagonist	Incompetent	Corrupt
+A7_URW_BG_5077.txt	Европейският съюз	483	499	Antagonist	Conspirator
+A7_URW_BG_5077.txt	НАТО	503	506	Antagonist	Conspirator
+A7_URW_BG_5077.txt	Доналд Тръмп	2058	2069	Protagonist	Peacemaker
+A7_URW_BG_5077.txt	Джо Байдън	2196	2205	Antagonist	Incompetent
+A7_URW_BG_5448.txt	Зеленски	400	407	Antagonist	Incompetent
+A7_URW_BG_5448.txt	Путин	2924	2928	Antagonist	Deceiver
+A7_URW_BG_3616.txt	Украйна	180	186	Antagonist	Deceiver
+A6_CC_BG_10565.txt	YouTube	72	78	Antagonist	Corrupt
+BG_1345.txt	Ню Джърси	107	115	Innocent	Victim
+BG_1345.txt	Байдън	174	179	Antagonist	Incompetent
+BG_1345.txt	Лонг Бийч	2252	2260	Innocent	Victim
+A9_BG_3734.txt	Русия	651	655	Antagonist	Incompetent
+A7_URW_BG_4230.txt	Западът	1017	1023	Antagonist	Incompetent
+A7_URW_BG_4230.txt	Байдън	1210	1215	Antagonist	Incompetent
+A9_BG_4374.txt	Байдън	752	757	Antagonist	Foreign Adversary
+BG_4188.txt	Зеленски	229	236	Antagonist	Incompetent	Corrupt
+BG_509.txt	Запада	683	688	Antagonist	Foreign Adversary
+BG_509.txt	САЩ	1600	1602	Antagonist	Conspirator
+BG_526.txt	Севастопол	157	166	Innocent	Victim
+BG_526.txt	НАТО	203	206	Antagonist	Terrorist
+BG_526.txt	Вашингтон	2410	2418	Antagonist	Foreign Adversary
+BG_526.txt	Русия	3509	3513	Innocent	Victim
+A9_BG_5053.txt	Русия	924	928	Antagonist	Tyrant
+A9_BG_4905.txt	Украйна	136	142	Antagonist	Tyrant
+A9_BG_4389.txt	Путин	136	140	Protagonist	Peacemaker
+A9_BG_4389.txt	Владимир Зеленски	913	929	Innocent	Victim
+BG_5918.txt	Украйна	430	436	Antagonist	Incompetent
+A9_BG_2972.txt	Украйна	397	403	Antagonist	Terrorist
+A9_BG_2972.txt	САЩ	585	587	Antagonist	Foreign Adversary
+A6_CC_BG_9522.txt	малките островни държави	1561	1584	Innocent	Victim
+A6_CC_BG_9522.txt	Австралия	2470	2478	Antagonist	Saboteur
+A7_URW_BG_5078.txt	Владимир Путин	55	68	Antagonist	Tyrant
+BG_8060.txt	САЩ	271	273	Antagonist	Conspirator	Foreign Adversary
+BG_8060.txt	Украйна	288	294	Antagonist	Corrupt
+BG_8455.txt	Брюксел	114	120	Antagonist	Instigator	Foreign Adversary
+BG_8455.txt	Украйна	358	364	Antagonist	Corrupt
+A9_BG_4971.txt	Русия	106	110	Antagonist	Tyrant
+A9_BG_4971.txt	Украйна	456	462	Antagonist	Corrupt
+A9_BG_4971.txt	Полша	668	672	Innocent	Victim
+BG_7379.txt	Украйна	739	745	Antagonist	Incompetent
+A7_URW_BG_4663.txt	Борис Джонсън	470	482	Antagonist	Incompetent
+A7_URW_BG_2596.txt	Европа	142	147	Antagonist	Instigator
+A7_URW_BG_2596.txt	Русия	187	191	Innocent	Victim
+BG_504.txt	НАТО	1956	1959	Antagonist	Conspirator
+BG_504.txt	САЩ	1972	1974	Antagonist	Conspirator
+A9_BG_4839.txt	Украйна	95	101	Innocent	Exploited	Victim
+A9_BG_3563.txt	Путин	102	106	Protagonist	Peacemaker
+BG_423.txt	Украйна	665	671	Antagonist	Instigator
+BG_423.txt	Източна Украйна	701	715	Antagonist	Instigator
+BG_423.txt	САЩ	866	868	Antagonist	Foreign Adversary
+BG_423.txt	руското население	1311	1327	Innocent	Victim
+BG_423.txt	Украйна	2132	2138	Antagonist	Incompetent
+BG_423.txt	Зеленски	2730	2737	Antagonist	Incompetent
+A7_URW_BG_2783.txt	Американците	294	305	Antagonist	Instigator
+A7_URW_BG_2783.txt	Западът	1093	1099	Antagonist	Instigator
+A7_URW_BG_2783.txt	Санду	3073	3077	Antagonist	Corrupt
+A7_URW_BG_3564.txt	Западът	107	113	Antagonist	Instigator
+A7_URW_BG_3564.txt	Владимир Путин	319	332	Protagonist	Guardian
+A9_BG_3385.txt	Украйна	84	90	Innocent	Exploited
+A9_BG_3385.txt	Запада	216	221	Antagonist	Tyrant
+BG_494.txt	Дагестан	683	690	Innocent	Victim
+BG_494.txt	Украйна	1008	1014	Antagonist	Terrorist
+BG_494.txt	Русия	1318	1322	Innocent	Victim
+BG_3669.txt	Еманюел Макрон	297	310	Antagonist	Incompetent	Instigator
+BG_3669.txt	Европа	607	612	Innocent	Victim
+BG_4648.txt	Москва	99	104	Protagonist	Peacemaker	Virtuous
+A9_BG_3586.txt	Украйна	286	292	Innocent	Exploited
+A9_BG_3586.txt	Blackrock	754	762	Antagonist	Foreign Adversary
+BG_869.txt	Украйна	117	123	Innocent	Victim	Forgotten
+BG_869.txt	Байдън	189	194	Antagonist	Incompetent
+BG_869.txt	Русия	232	236	Antagonist	Terrorist	Tyrant
+BG_869.txt	Владимир Путин	495	508	Antagonist	Terrorist	Tyrant
+BG_869.txt	Володимир Зеленски	706	723	Protagonist	Underdog
+BG_869.txt	Китай	1367	1371	Antagonist	Foreign Adversary
+A6_CC_BG_8841.txt	WWF България	111	122	Protagonist	Guardian
+A7_URW_BG_5994.txt	Кремъл	966	971	Antagonist	Terrorist
+A9_BG_5225.txt	Владимир Путин	111	124	Antagonist	Tyrant
+A9_BG_5225.txt	Молдова	1294	1300	Innocent	Victim
+A9_BG_5225.txt	Литва	1350	1354	Innocent	Victim
+A9_BG_3543.txt	Украйна	564	570	Antagonist	Tyrant
+A9_BG_3543.txt	България	719	726	Antagonist	Corrupt
+A9_BG_3543.txt	САЩ	745	747	Antagonist	Foreign Adversary
+A9_BG_4185.txt	Запада	203	208	Antagonist	Foreign Adversary
+A9_BG_4622.txt	Шолц	1646	1649	Antagonist	Traitor
+BG_888.txt	JP Morgan	565	573	Antagonist	Traitor
+A9_BG_3779.txt	Макрон	1099	1104	Antagonist	Saboteur
+A9_BG_3779.txt	Шолц	1108	1111	Antagonist	Saboteur
+A9_BG_3672.txt	Запад	138	142	Antagonist	Conspirator	Instigator
+A9_BG_3672.txt	Русия	248	252	Innocent	Victim
+BG_616.txt	Севастопол	109	118	Innocent	Victim
+BG_616.txt	Въоръжените сили на Украйна (ВСУ	213	244	Antagonist	Terrorist
+BG_616.txt	Пентагона	557	565	Antagonist	Foreign Adversary
+BG_616.txt	Съединените щати	994	1009	Antagonist	Conspirator	Foreign Adversary
+BG_616.txt	Крим	1582	1585	Innocent	Victim
+A9_BG_3390.txt	Западът	55	61	Antagonist	Instigator
+A9_BG_3390.txt	Русия	376	380	Innocent	Victim
+A9_BG_3390.txt	Вашингтон	420	428	Antagonist	Conspirator
+A9_BG_3390.txt	Лондон	432	437	Antagonist	Conspirator
+A9_BG_3390.txt	ЕС	1527	1528	Antagonist	Conspirator
+A9_BG_3390.txt	НАТО	1532	1535	Antagonist	Conspirator
+BG_439.txt	Зеленски	1739	1746	Antagonist	Corrupt
+BG_439.txt	САЩ	2277	2279	Antagonist	Conspirator
+A9_BG_4718.txt	Котин	496	500	Antagonist	Corrupt
+A9_BG_4718.txt	Галущенко	531	539	Antagonist	Corrupt
+BG_7367.txt	Володимир Зеленски	432	449	Antagonist	Incompetent
+BG_7367.txt	Западът	565	571	Antagonist	Incompetent
+BG_7367.txt	Украйна	739	745	Antagonist	Incompetent
+A7_URW_BG_3370.txt	САЩ	2100	2102	Antagonist	Incompetent
+A9_BG_5903.txt	Америка	116	122	Antagonist	Foreign Adversary
+A9_BG_6875.txt	Европейския съюз	109	124	Antagonist	Traitor
+A9_BG_6875.txt	Европа	230	235	Protagonist	Martyr
+BG_559.txt	Съединените щати	152	167	Antagonist	Foreign Adversary
+BG_559.txt	Вашингтон	324	332	Innocent	Victim
+BG_559.txt	Украйна	1388	1394	Innocent	Victim
+BG_559.txt	Сирия	1400	1404	Innocent	Victim
+A9_BG_4844.txt	ВСУ	307	309	Antagonist	Terrorist
+A9_BG_4844.txt	Крим	686	689	Innocent	Victim
+BG_1163.txt	Брюксел	589	595	Antagonist	Incompetent
+BG_1163.txt	ЕС	1052	1053	Antagonist	Incompetent
+A7_URW_BG_2962.txt	САЩ	638	640	Antagonist	Conspirator
+A7_URW_BG_2962.txt	Европа	690	695	Innocent	Victim
+A7_URW_BG_2962.txt	САЩ	2052	2054	Antagonist	Instigator
+A7_URW_BG_4359.txt	Зеленски	2217	2224	Antagonist	Incompetent
+BG_3368.txt	Украйна	61	67	Innocent	Victim
+BG_3368.txt	Владимир Путин	831	844	Protagonist	Peacemaker
+BG_939.txt	Урсула фон дер Лай/н/ен	1052	1074	Antagonist	Deceiver
+A6_CC_BG_11938.txt	Ландрут	475	481	Protagonist	Virtuous
+A6_CC_BG_11938.txt	ЕС	2568	2569	Protagonist	Guardian
+BG_1767.txt	Вашингтон	1940	1948	Antagonist	Deceiver	Corrupt
+BG_1767.txt	Брюксел	1952	1958	Antagonist	Deceiver	Corrupt
+A8_CC_BG_9754.txt	Хелен Валгрен	1387	1399	Antagonist	Instigator
+A9_BG_2963.txt	Западът	299	305	Antagonist	Incompetent
+A9_BG_2963.txt	Киев	309	312	Antagonist	Incompetent
+A9_BG_5402.txt	Киев	429	432	Protagonist	Rebel
+A7_URW_BG_5265.txt	Зеленски	1460	1467	Antagonist	Traitor
+A9_BG_7720.txt	Зеленски	454	461	Antagonist	Corrupt
+BG_538.txt	Севастопол	807	816	Innocent	Victim
+BG_538.txt	САЩ	1041	1043	Antagonist	Foreign Adversary
+BG_538.txt	Русия	1292	1296	Innocent	Victim
+A7_URW_BG_3499.txt	Еманюел Макрон	173	186	Antagonist	Deceiver
+A7_URW_BG_3499.txt	НАТО	469	472	Antagonist	Foreign Adversary
+A9_BG_4216.txt	НАТО	977	980	Antagonist	Conspirator
+A9_BG_4216.txt	Великобритания	994	1007	Antagonist	Foreign Adversary
+A9_BG_4216.txt	Франция	1010	1016	Antagonist	Foreign Adversary
+A9_BG_4216.txt	Германия	1020	1027	Antagonist	Foreign Adversary
+A9_BG_3290.txt	Шолц	258	261	Antagonist	Incompetent	Deceiver
+A9_BG_3290.txt	САЩ	598	600	Antagonist	Conspirator	Foreign Adversary
+A9_BG_3290.txt	Зеленски	1080	1087	Antagonist	Corrupt
+BG_895.txt	Брюксел	1258	1264	Antagonist	Tyrant
+BG_666.txt	Русия	78	82	Protagonist	Rebel
+BG_666.txt	Украйна	116	122	Antagonist	Instigator
+A9_BG_4851.txt	САЩ	276	278	Antagonist	Incompetent
+A9_BG_4851.txt	Запада	282	287	Antagonist	Incompetent
+A9_BG_4851.txt	Нюланд	850	855	Antagonist	Incompetent
+A9_BG_4851.txt	Греъм	859	863	Antagonist	Incompetent
+BG_8453.txt	Украйна	406	412	Antagonist	Incompetent
+BG_551.txt	Русия	1019	1023	Innocent	Victim
+BG_551.txt	САЩ	1334	1336	Antagonist	Foreign Adversary	Terrorist
+BG_551.txt	Западът	3125	3131	Antagonist	Instigator	Foreign Adversary
+A7_URW_BG_3062.txt	ЕС	230	231	Antagonist	Tyrant
+A7_URW_BG_3062.txt	Русия	239	243	Innocent	Victim
+A7_URW_BG_3062.txt	Урсула фон дер Лайен	300	319	Antagonist	Tyrant
+BG_624.txt	Украинските въоръжени сили (ВСУ	79	109	Antagonist	Terrorist
+BG_624.txt	Русия	281	285	Innocent	Victim
+BG_624.txt	Руската федерация	723	739	Innocent	Victim
+BG_4713.txt	Западът	78	84	Antagonist	Foreign Adversary
+A9_BG_3363.txt	Запада	217	222	Antagonist	Tyrant
+BG_630.txt	Илон Мъск	145	153	Protagonist	Virtuous
+BG_630.txt	Русия	3274	3278	Antagonist	Incompetent
+A9_BG_7690.txt	Европа	665	670	Innocent	Victim
+A7_URW_BG_5868.txt	Владимир Путин	128	141	Antagonist	Deceiver
+A7_URW_BG_5868.txt	Русия	2644	2648	Antagonist	Incompetent
+A9_BG_8028.txt	Вашингтон	362	370	Antagonist	Instigator
+A7_URW_BG_5925.txt	Джорджа Мелони	489	502	Antagonist	Conspirator
+A7_URW_BG_5925.txt	Урсула фон дер Лайен	1615	1634	Antagonist	Incompetent
+A7_URW_BG_5925.txt	Мелони	2399	2404	Antagonist	Deceiver
+BG_1164.txt	ЕС	1020	1021	Antagonist	Incompetent
+BG_1164.txt	европейците	2507	2517	Innocent	Victim
+BG_1164.txt	европейски елити	2986	3001	Antagonist	Instigator	Tyrant
+BG_4613.txt	Владимир Путин	96	109	Protagonist	Peacemaker
+BG_4613.txt	Запада	252	257	Antagonist	Foreign Adversary
+BG_4884.txt	Украйна	263	269	Antagonist	Incompetent
+BG_4884.txt	Тони Блинкен	1053	1064	Antagonist	Conspirator	Foreign Adversary
+BG_4884.txt	Байдън	1087	1092	Antagonist	Conspirator	Foreign Adversary
+A9_BG_4016.txt	Лондон	163	168	Antagonist	Incompetent
+A9_BG_4016.txt	НАТО	598	601	Antagonist	Instigator
+A7_URW_BG_5759.txt	Украинските разузнавателни служби	73	105	Antagonist	Foreign Adversary
+A7_URW_BG_5759.txt	НАТО	168	171	Antagonist	Tyrant
+A7_URW_BG_5759.txt	Дагестан	216	223	Innocent	Victim
+A9_BG_4830.txt	украинските ултранацисти	359	382	Antagonist	Tyrant
+A9_BG_4830.txt	САЩ	926	928	Antagonist	Conspirator
+A8_CC_BG_8654.txt	Европейския съюз (ЕС	427	446	Antagonist	Incompetent
+A9_BG_5871.txt	Москва	327	332	Antagonist	Terrorist
+A7_URW_BG_2882.txt	Матео Салвини	232	244	Protagonist	Virtuous
+A7_URW_BG_2882.txt	Европейския съюз	719	734	Antagonist	Incompetent
+A7_URW_BG_2882.txt	НАТО	738	741	Antagonist	Incompetent
+A7_URW_BG_2882.txt	Йенс Столтенберг	1369	1384	Antagonist	Tyrant
+A9_BG_3182.txt	Молдова	92	98	Innocent	Exploited
+A9_BG_3182.txt	НАТО	1085	1088	Antagonist	Conspirator
+A9_BG_3182.txt	Запада	1361	1366	Antagonist	Foreign Adversary
+A9_BG_4571.txt	Украйна	126	132	Antagonist	Tyrant
+A9_BG_4571.txt	САЩ	475	477	Antagonist	Conspirator
+A9_BG_4571.txt	НАТО	481	484	Antagonist	Conspirator
+A9_BG_4571.txt	Западът	670	676	Antagonist	Deceiver
+BG_561.txt	ЕС	213	214	Antagonist	Corrupt
+BG_561.txt	Унгария	717	723	Protagonist	Virtuous
+BG_1044.txt	ГЕРБ	1205	1208	Antagonist	Incompetent
+BG_1044.txt	ЕС	1927	1928	Antagonist	Incompetent
+BG_480.txt	Владимир Зеленски	228	244	Antagonist	Incompetent	Traitor
+BG_480.txt	Ермак	899	903	Antagonist	Incompetent
+BG_480.txt	украинския народ	1244	1259	Innocent	Victim
+A9_BG_6229.txt	Украйна	1214	1220	Innocent	Exploited
+BG_5470.txt	Путин	82	86	Antagonist	Tyrant
+A9_BG_4605.txt	Владимир Зеленски	160	176	Antagonist	Tyrant
+A9_BG_4605.txt	Запад	546	550	Antagonist	Conspirator
+A7_URW_BG_3240.txt	САЩ	120	122	Antagonist	Foreign Adversary
+A9_BG_3142.txt	Украйна	148	154	Antagonist	Corrupt
+A9_BG_3142.txt	Сабанадзе	1181	1189	Antagonist	Traitor
+A9_BG_3142.txt	Чхиквадзе	1193	1201	Antagonist	Traitor
+BG_576.txt	Съпругата на Владимир Зеленски	73	102	Antagonist	Incompetent
+BG_576.txt	Елена	248	252	Antagonist	Bigot
+BG_576.txt	Украйна	657	663	Antagonist	Bigot
+BG_576.txt	украинските власти	1082	1099	Antagonist	Tyrant
+BG_6045.txt	Русия	155	159	Antagonist	Incompetent
+A9_BG_4885.txt	Джо Байдън	110	119	Antagonist	Deceiver
+BG_456.txt	Русия	223	227	Antagonist	Instigator
+BG_456.txt	КНДР	231	234	Antagonist	Foreign Adversary
+BG_456.txt	Байдън	1454	1459	Antagonist	Incompetent
+BG_473.txt	Владимир Путин	236	249	Antagonist	Conspirator
+BG_473.txt	Владимир Зеленски	327	343	Innocent	Exploited
+BG_473.txt	Запад	383	387	Antagonist	Tyrant
+A9_BG_4272.txt	Западът	431	437	Antagonist	Incompetent
+A9_BG_4272.txt	Съединените американски щати	802	829	Antagonist	Incompetent
+BG_723.txt	Зеленски	84	91	Protagonist	Rebel
+BG_723.txt	Русия	132	136	Antagonist	Foreign Adversary	Tyrant
+BG_723.txt	КНДР	140	143	Antagonist	Foreign Adversary	Tyrant
+BG_723.txt	Владимир Путин	676	689	Antagonist	Conspirator	Tyrant
+BG_723.txt	Ким Чен Ун	717	726	Antagonist	Conspirator	Tyrant
+BG_723.txt	ООН	1032	1034	Antagonist	Incompetent
+BG_4228.txt	Виетнам	192	198	Protagonist	Virtuous
+A9_BG_5596.txt	Европа	924	929	Antagonist	Incompetent
+BG_3079.txt	НАТО	133	136	Antagonist	Conspirator	Foreign Adversary
+BG_3079.txt	Русия	154	158	Protagonist	Rebel
+BG_3079.txt	ЕС	479	480	Antagonist	Foreign Adversary	Corrupt
+BG_529.txt	Севастопол	305	314	Innocent	Victim
+BG_529.txt	Русия	368	372	Innocent	Victim
+BG_529.txt	Украйна	744	750	Antagonist	Terrorist
+BG_529.txt	Вашингтон	1327	1335	Antagonist	Conspirator	Foreign Adversary
+A8_CC_BG_8534.txt	Русия	2283	2287	Protagonist	Virtuous
+BG_521.txt	Крим	168	171	Innocent	Victim
+BG_521.txt	Киев	3545	3548	Antagonist	Corrupt
+BG_696.txt	Вашингтон	189	197	Antagonist	Instigator
+BG_696.txt	Лондон	200	205	Antagonist	Instigator
+BG_696.txt	Брюксел	209	215	Antagonist	Instigator
+BG_696.txt	Русия	812	816	Innocent	Victim
+BG_696.txt	НАТО	995	998	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_696.txt	Украйна	1351	1357	Antagonist	Instigator	Terrorist
+A9_BG_3440.txt	Русия	1123	1127	Antagonist	Incompetent
+A9_BG_3440.txt	Украйна	1143	1149	Protagonist	Martyr
+BG_866.txt	Русия	56	60	Antagonist	Tyrant
+BG_866.txt	Украйна	136	142	Innocent	Victim
+BG_866.txt	Соната Култър	293	305	Protagonist	Rebel
+BG_866.txt	Африка	1445	1450	Innocent	Victim
+BG_866.txt	НАТО	1582	1585	Protagonist	Peacemaker
+BG_546.txt	Русия	350	354	Antagonist	Instigator
+BG_546.txt	Украйна	489	495	Antagonist	Incompetent
+BG_546.txt	САЩ	967	969	Antagonist	Foreign Adversary
+BG_457.txt	Владимир Путин	82	95	Antagonist	Tyrant
+BG_457.txt	Вашингтон	314	322	Innocent	Victim
+BG_457.txt	Украйна	595	601	Innocent	Victim
+BG_457.txt	Северна Корея»	899	912	Antagonist	Foreign Adversary
+BG_457.txt	Путин	1154	1158	Antagonist	Tyrant
+BG_3629.txt	Зеленски	622	629	Antagonist	Incompetent
+A7_URW_BG_2969.txt	НАТО	673	676	Antagonist	Instigator
+BG_701.txt	Западът	78	84	Antagonist	Instigator	Foreign Adversary
+BG_701.txt	Европейският съюз	746	762	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_701.txt	Украйна	990	996	Antagonist	Corrupt
+BG_481.txt	Украйна	486	492	Antagonist	Incompetent
+BG_481.txt	Русия	1747	1751	Innocent	Victim
+BG_481.txt	Западът	2470	2476	Antagonist	Foreign Adversary
+A9_BG_5226.txt	Владимир Путин	93	106	Antagonist	Tyrant
+A9_BG_5226.txt	Молдова	1522	1528	Innocent	Victim
+BG_5914.txt	Русия	452	456	Antagonist	Incompetent
+A9_BG_3599.txt	Словакия	439	446	Protagonist	Rebel
+A9_BG_3599.txt	Армения	450	456	Protagonist	Rebel
+BG_463.txt	КНДР	384	387	Innocent	Victim
+BG_463.txt	Съединените щати	431	446	Antagonist	Instigator
+A9_BG_5984.txt	Русия	405	409	Antagonist	Tyrant
+A9_BG_5984.txt	Украйна	1143	1149	Protagonist	Martyr
+BG_560.txt	Владимир Путин	97	110	Antagonist	Instigator
+BG_560.txt	Запада	160	165	Innocent	Victim
+BG_560.txt	Съединените щати	393	408	Antagonist	Foreign Adversary
+BG_560.txt	Киев	1057	1060	Antagonist	Corrupt
+BG_5406.txt	Владимир Путин	116	129	Antagonist	Tyrant
+BG_5406.txt	Володимир Зеленски	280	297	Protagonist	Rebel
+A9_BG_4658.txt	Русия	565	569	Antagonist	Tyrant
+BG_971.txt	Бил Гейтс	106	114	Antagonist	Instigator
+A7_URW_BG_4451.txt	Украйна	2995	3001	Antagonist	Incompetent
+A9_BG_3818.txt	Киев	649	652	Antagonist	Terrorist
+A9_BG_3818.txt	Москва	1537	1542	Protagonist	Peacemaker
+BG_1390.txt	BP	1121	1122	Protagonist	Rebel
+BG_1390.txt	Equinor	1126	1132	Protagonist	Rebel
+A9_BG_3762.txt	Запад	357	361	Antagonist	Conspirator
+A9_BG_5817.txt	Брюксел	224	230	Antagonist	Traitor
+A9_BG_3109.txt	Виктория Нуланд	469	483	Antagonist	Instigator	Foreign Adversary
+A9_BG_3109.txt	Джо Байдън	583	592	Antagonist	Instigator	Foreign Adversary
+BG_585.txt	киевския режим	315	328	Antagonist	Instigator
+BG_585.txt	Темрюк	992	997	Innocent	Victim
+BG_585.txt	Северски	1000	1007	Innocent	Victim
+BG_585.txt	Ейск	1011	1014	Innocent	Victim
+BG_585.txt	Краснодар	1062	1070	Innocent	Victim
+BG_1098.txt	Shell	340	344	Antagonist	Corrupt
+A7_URW_BG_5178.txt	Владимир Путин	199	212	Antagonist	Tyrant
+A7_URW_BG_5178.txt	Украйна	926	932	Innocent	Victim
+A7_URW_BG_5178.txt	Сирия	1201	1205	Innocent	Victim
+A7_URW_BG_5178.txt	Сахел	1226	1230	Innocent	Victim
+A9_BG_7303.txt	ЕС	268	269	Antagonist	Corrupt
+A9_BG_7303.txt	Клинтън	491	497	Antagonist	Incompetent
+A9_BG_7303.txt	Буш	500	502	Antagonist	Incompetent
+A9_BG_7303.txt	Обама	505	509	Antagonist	Incompetent
+A9_BG_7303.txt	Тръмп	512	516	Antagonist	Incompetent
+A9_BG_7303.txt	Байдън	519	524	Antagonist	Incompetent
+A7_URW_BG_4629.txt	САЩ	1393	1395	Antagonist	Instigator
+A7_URW_BG_4629.txt	НАТО	1399	1402	Antagonist	Instigator
+BG_553.txt	Русия	115	119	Protagonist	Peacemaker
+BG_553.txt	Западът	1151	1157	Antagonist	Instigator
+BG_553.txt	Украйна	1247	1253	Innocent	Victim
+A9_BG_5548.txt	Украйна	584	590	Protagonist	Martyr
+A7_URW_BG_2658.txt	Байдън	85	90	Antagonist	Foreign Adversary
+BG_1826.txt	Людмил Кърджилов	494	509	Protagonist	Rebel
+A9_BG_8450.txt	Украйна	209	215	Antagonist	Terrorist
+A7_URW_BG_2786.txt	Олаф Шолц	115	123	Antagonist	Tyrant
+A8_CC_BG_9298.txt	Антониу Гутериш	267	281	Protagonist	Guardian
+A9_BG_3652.txt	ЕС	749	750	Antagonist	Foreign Adversary
+A9_BG_3652.txt	НАТО	754	757	Antagonist	Foreign Adversary
+A9_BG_3652.txt	Брюксел	993	999	Antagonist	Conspirator
+A9_BG_3652.txt	Вашингтон	1003	1011	Antagonist	Conspirator
+BG_1352.txt	Кузман Илиев	518	529	Protagonist	Rebel
+BG_5360.txt	ъединените щати и техните европейски съюзници	337	381	Antagonist	Instigator
+A9_BG_3431.txt	Киев	295	298	Antagonist	Terrorist
+A9_BG_3431.txt	Вашингтон	459	467	Antagonist	Conspirator
+A9_BG_3431.txt	Лондон	471	476	Antagonist	Conspirator
+A9_BG_3431.txt	Владимир Зеленски	708	724	Antagonist	Terrorist
+A9_BG_3431.txt	Русия	776	780	Innocent	Victim
+BG_555.txt	Вашингтон	100	108	Antagonist	Traitor
+BG_555.txt	Марк Рюте	526	534	Antagonist	Bigot
+BG_555.txt	Украйна	652	658	Antagonist	Corrupt
+BG_628.txt	Владимир Путин	56	69	Protagonist	Underdog
+BG_628.txt	Русия	110	114	Innocent	Forgotten
+BG_628.txt	Северна Корея	965	977	Innocent	Victim
+BG_628.txt	Сергей Шойгу	1228	1239	Antagonist	Incompetent
+BG_628.txt	Валери Герасимов	1251	1266	Antagonist	Incompetent
+A7_URW_BG_6694.txt	Володимир Зеленски	258	275	Antagonist	Corrupt
+A7_URW_BG_6694.txt	Борис Джонсън	1483	1495	Antagonist	Saboteur
+A7_URW_BG_6694.txt	Запада	3098	3103	Antagonist	Instigator
+A7_URW_BG_3919.txt	Байдън	973	978	Antagonist	Incompetent
+A9_BG_4898.txt	Владимир Путин	180	193	Antagonist	Tyrant
+BG_3867.txt	Украйна	140	146	Antagonist	Incompetent
+BG_3867.txt	Володимир Зеленски	601	618	Antagonist	Incompetent
+BG_3867.txt	Руската федерация	832	848	Innocent	Victim
+BG_3867.txt	западни държави	865	879	Antagonist	Foreign Adversary	Tyrant
+BG_8385.txt	НАТО	182	185	Antagonist	Corrupt
+BG_8385.txt	НАТО	917	920	Antagonist	Deceiver
+A7_URW_BG_3572.txt	Будапеща	220	227	Protagonist	Peacemaker
+A9_BG_4197.txt	Владимир Зеленски	889	905	Antagonist	Traitor
+A9_BG_4197.txt	НАТО	1068	1071	Antagonist	Incompetent
+A9_BG_3273.txt	Америка	396	402	Antagonist	Foreign Adversary
+A9_BG_4840.txt	САЩ	53	55	Antagonist	Instigator
+BG_508.txt	Украйна	145	151	Antagonist	Bigot	Tyrant
+BG_508.txt	Запада	209	214	Antagonist	Foreign Adversary
+BG_508.txt	САЩ	1482	1484	Antagonist	Conspirator	Foreign Adversary
+BG_508.txt	Великобритания	1488	1501	Antagonist	Conspirator	Foreign Adversary
+BG_508.txt	Русия	1618	1622	Innocent	Victim
+BG_679.txt	САЩ	224	226	Antagonist	Instigator
+BG_679.txt	Русия	234	238	Innocent	Victim
+BG_679.txt	Украйна	790	796	Antagonist	Terrorist
+BG_679.txt	Севастопол	1102	1111	Innocent	Victim
+BG_679.txt	Република Крим	1619	1632	Innocent	Victim
+BG_497.txt	Съединените щати	129	144	Antagonist	Instigator
+BG_497.txt	Севастопол	206	215	Innocent	Victim
+BG_497.txt	Въоръжените сили на Украйна (ВСУ	941	972	Antagonist	Foreign Adversary
+BG_3909.txt	Западните страни	172	187	Antagonist	Instigator	Tyrant
+BG_3909.txt	Русия	206	210	Innocent	Victim
+BG_3909.txt	Украйна	233	239	Innocent	Victim
+BG_3909.txt	Западните лидери	495	510	Antagonist	Incompetent
+BG_3909.txt	Западът	707	713	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_3909.txt	Русия	730	734	Innocent	Victim
+BG_4845.txt	Въоръжените сили на Украйна	430	456	Antagonist	Incompetent
+A9_BG_5965.txt	Украйна	126	132	Innocent	Exploited
+A9_BG_5965.txt	Зеленски	1140	1147	Antagonist	Traitor
+BG_435.txt	Владимир Зеленски	156	172	Innocent	Exploited
+BG_435.txt	Вашингтон	316	324	Antagonist	Tyrant
+BG_1089.txt	България	1629	1636	Antagonist	Incompetent
+A9_BG_6815.txt	Владимир Путин	102	115	Antagonist	Tyrant
+A9_BG_6815.txt	Молдова	1257	1263	Innocent	Victim
+A9_BG_6815.txt	Литва	1313	1317	Innocent	Victim
+A9_BG_4189.txt	Съединените щати	99	114	Antagonist	Instigator
+A9_BG_4189.txt	Великобритания	118	131	Antagonist	Instigator
+A9_BG_4189.txt	Киев	152	155	Antagonist	Terrorist
+A9_BG_4189.txt	Вашингтон	534	542	Antagonist	Saboteur
+A9_BG_4189.txt	Лондон	546	551	Antagonist	Saboteur
+BG_676.txt	Путин	92	96	Protagonist	Peacemaker
+BG_676.txt	Украйна	537	543	Innocent	Victim
+BG_676.txt	САЩ	616	618	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_676.txt	Зеленски	721	728	Innocent	Exploited
+BG_676.txt	Москва	1063	1068	Protagonist	Peacemaker
+BG_676.txt	украинският народ	1496	1512	Innocent	Victim
+BG_620.txt	Съединените щати	189	204	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_620.txt	Русия	253	257	Innocent	Victim
+BG_620.txt	Западът	376	382	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_620.txt	Севастопол	516	525	Innocent	Victim
+BG_620.txt	Вашингтон	874	882	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_663.txt	САЩ	2569	2571	Antagonist	Conspirator
+BG_663.txt	Украйна	3524	3530	Antagonist	Incompetent
+BG_454.txt	Киев	114	117	Antagonist	Corrupt
+BG_582.txt	Путин	94	98	Antagonist	Instigator
+BG_582.txt	Северна Корея	220	232	Antagonist	Foreign Adversary
+BG_582.txt	Щатите	327	332	Innocent	Victim
+A6_CC_BG_12082.txt	Европейският съюз	91	107	Antagonist	Incompetent
+A9_BG_4483.txt	Киев	641	644	Antagonist	Deceiver
+A9_BG_4483.txt	САЩ	1505	1507	Antagonist	Instigator
+A9_BG_4483.txt	Великобритания	1511	1524	Antagonist	Instigator
+A7_URW_BG_3618.txt	Зеленски	2271	2278	Antagonist	Tyrant
+A7_URW_BG_3618.txt	Европа	2722	2727	Innocent	Victim
+BG_678.txt	САЩ	63	65	Antagonist	Tyrant
+BG_678.txt	Западът	69	75	Antagonist	Tyrant
+BG_678.txt	Русия	97	101	Innocent	Victim
+BG_678.txt	Украйна	453	459	Innocent	Victim
+BG_678.txt	САЩ	967	969	Antagonist	Terrorist
+BG_678.txt	Владимир Путин	1305	1318	Protagonist	Guardian
+A9_BG_4978.txt	Руската федерация	432	448	Innocent	Victim
+A9_BG_4978.txt	САЩ	1097	1099	Antagonist	Foreign Adversary
+A7_URW_BG_8093.txt	Европа	199	204	Protagonist	Peacemaker
+A7_URW_BG_8093.txt	Америка	535	541	Antagonist	Instigator
+BG_629.txt	НАТО	122	125	Antagonist	Foreign Adversary	Deceiver	Traitor
+BG_629.txt	САЩ	453	455	Antagonist	Foreign Adversary
+BG_629.txt	Доналд Тръмп	624	635	Antagonist	Instigator	Foreign Adversary
+BG_629.txt	НАТО	656	659	Antagonist	Incompetent
+BG_629.txt	Украйна	845	851	Innocent	Exploited
+BG_629.txt	САЩ	1369	1371	Antagonist	Deceiver	Traitor
+BG_629.txt	Югославия	1811	1819	Innocent	Victim
+BG_629.txt	Турция	1888	1893	Innocent	Forgotten
+BG_629.txt	Афганистан	2372	2381	Antagonist	Terrorist
+BG_629.txt	Аржентина	2421	2429	Antagonist	Terrorist
+BG_629.txt	Великобритания	2449	2462	Innocent	Forgotten
+A7_URW_BG_5634.txt	Киев	277	280	Protagonist	Underdog
+A7_URW_BG_5634.txt	Москва	323	328	Antagonist	Tyrant
+A9_BG_5155.txt	Съединените щати	855	870	Antagonist	Foreign Adversary
+BG_612.txt	Севастопол	342	351	Innocent	Victim
+BG_612.txt	ВСУ	798	800	Antagonist	Terrorist
+BG_612.txt	Райдър	935	940	Antagonist	Conspirator
+BG_612.txt	САЩ	952	954	Antagonist	Foreign Adversary	Terrorist
+BG_612.txt	Русия	1500	1504	Innocent	Victim
+A9_BG_2566.txt	Литва	340	344	Antagonist	Conspirator
+A9_BG_2566.txt	Латвия	347	352	Antagonist	Conspirator
+A9_BG_2566.txt	Естония	356	362	Antagonist	Conspirator
+BG_6019.txt	Володимир Зеленски	263	280	Antagonist	Corrupt
+BG_6019.txt	Борис Джонсън	724	736	Antagonist	Instigator	Foreign Adversary
+A9_BG_3704.txt	Съединените щати	871	886	Antagonist	Foreign Adversary
+BG_4366.txt	Вашингтон	141	149	Antagonist	Instigator
+BG_4366.txt	украинските въоръжени сили	433	458	Antagonist	Incompetent
+BG_4366.txt	Съединените щати	802	817	Antagonist	Foreign Adversary
+BG_4366.txt	Европа	821	826	Antagonist	Foreign Adversary
+A9_BG_437.txt	Зеленски	419	426	Antagonist	Incompetent
+A9_BG_4577.txt	Гестапо Зеленски	274	289	Antagonist	Tyrant
+BG_684.txt	Саакашвили	675	684	Antagonist	Instigator	Terrorist
+BG_684.txt	Южна Осетия	700	710	Innocent	Victim
+BG_684.txt	Русия	806	810	Innocent	Scapegoat
+BG_684.txt	Украйна	1271	1277	Antagonist	Instigator
+BG_684.txt	Турция	1490	1495	Antagonist	Foreign Adversary
+A9_BG_5082.txt	САЩ	114	116	Antagonist	Conspirator
+A9_BG_5082.txt	Володимир Зеленски	248	265	Innocent	Scapegoat
+BG_513.txt	Байдън	179	184	Antagonist	Conspirator
+A9_BG_4576.txt	Украйна	506	512	Protagonist	Martyr
+A9_BG_4576.txt	Полша	605	609	Antagonist	Tyrant
+A9_BG_2931.txt	Дейвид Куртен	285	297	Protagonist	Peacemaker
+A9_BG_2931.txt	Запада	974	979	Antagonist	Incompetent
+A7_URW_BG_4906.txt	патриарх Даниил	135	149	Innocent	Victim
+BG_4624.txt	Русия	452	456	Protagonist	Virtuous
+BG_4624.txt	Украйна	481	487	Antagonist	Incompetent
+BG_4624.txt	Зеленски	611	618	Antagonist	Instigator
+A7_URW_BG_5720.txt	Зеленски	1449	1456	Antagonist	Deceiver
+A6_CC_BG_10345.txt	Английският комитет по изменение на климата (CCC	79	126	Antagonist	Incompetent
+A6_CC_BG_10345.txt	Крис Старк	434	443	Antagonist	Deceiver
+BG_3364.txt	Владимир Путин	267	280	Protagonist	Peacemaker
+BG_3364.txt	Украйна	502	508	Innocent	Victim
+BG_699.txt	САЩ	190	192	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_699.txt	НАТО	244	247	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_699.txt	Украйна	259	265	Antagonist	Foreign Adversary
+BG_699.txt	Русия	287	291	Innocent	Victim
+BG_699.txt	Германия	975	982	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_699.txt	Великобритания	985	998	Antagonist	Conspirator	Instigator	Foreign Adversary
+BG_699.txt	Франция	1002	1008	Antagonist	Conspirator	Instigator	Foreign Adversary
+A7_URW_BG_5735.txt	Русия	80	84	Protagonist	Peacemaker
+A7_URW_BG_5735.txt	Владимир Путин	204	217	Protagonist	Peacemaker
+BG_613.txt	Кремъл	3091	3096	Antagonist	Tyrant
+BG_3671.txt	Роберт Фицо	196	206	Protagonist	Martyr
+BG_3671.txt	Украйна	683	689	Innocent	Victim
+BG_3671.txt	големите западни демокрации	788	814	Antagonist	Instigator
+BG_799.txt	САЩ	531	533	Antagonist	Foreign Adversary
+BG_799.txt	Севастопол	553	562	Innocent	Victim
+BG_3759.txt	САЩ	283	285	Antagonist	Conspirator	Foreign Adversary
+A7_URW_BG_5857.txt	НАТО	164	167	Protagonist	Guardian
+A9_BG_4606.txt	Киев	385	388	Antagonist	Incompetent
+A9_BG_4606.txt	Владимир Путин	701	714	Protagonist	Peacemaker
+A7_URW_BG_6700.txt	Съединените щати	106	121	Antagonist	Saboteur
+A7_URW_BG_6700.txt	Европейския съюз	125	140	Antagonist	Saboteur
+A9_BG_3675.txt	Макрон	939	944	Antagonist	Incompetent

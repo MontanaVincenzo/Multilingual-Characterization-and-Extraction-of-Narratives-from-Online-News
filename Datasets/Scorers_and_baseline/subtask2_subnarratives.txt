@@ -1,0 +1,91 @@
+CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+CC: Amplifying Climate Fears: Doomsday scenarios for humans
+CC: Amplifying Climate Fears: Earth will be uninhabitable soon
+CC: Amplifying Climate Fears: Other
+CC: Amplifying Climate Fears: Whatever we do it is already too late
+CC: Climate change is beneficial: CO2 is beneficial
+CC: Controversy about green technologies: Other
+CC: Controversy about green technologies: Renewable energy is costly
+CC: Controversy about green technologies: Renewable energy is dangerous
+CC: Controversy about green technologies: Renewable energy is unreliable
+CC: Criticism of climate movement: Ad hominem attacks on key activists
+CC: Criticism of climate movement: Climate movement is alarmist
+CC: Criticism of climate movement: Climate movement is corrupt
+CC: Criticism of climate movement: Other
+CC: Criticism of climate policies: Climate policies are ineffective
+CC: Criticism of climate policies: Climate policies are only for profit
+CC: Criticism of climate policies: Climate policies have negative impact on the economy
+CC: Criticism of climate policies: Other
+CC: Criticism of institutions and authorities: Criticism of international entities
+CC: Criticism of institutions and authorities: Criticism of national governments
+CC: Criticism of institutions and authorities: Criticism of political organizations and figures
+CC: Criticism of institutions and authorities: Criticism of the EU
+CC: Criticism of institutions and authorities: Other
+CC: Downplaying climate change: CO2 concentrations are too small to have an impact
+CC: Downplaying climate change: Climate cycles are natural
+CC: Downplaying climate change: Human activities do not impact climate change
+CC: Downplaying climate change: Humans and nature will adapt to the changes
+CC: Downplaying climate change: Ice is not melting
+CC: Downplaying climate change: Other
+CC: Downplaying climate change: Temperature increase does not have significant impact
+CC: Downplaying climate change: Weather suggests the trend is global cooling
+CC: Green policies are geopolitical instruments: Green activities are a form of neo-colonialism
+CC: Green policies are geopolitical instruments: Other
+CC: Hidden plots by secret schemes of powerful groups: Blaming global elites
+CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives
+CC: Hidden plots by secret schemes of powerful groups: Other
+CC: Questioning the measurements and science: Data shows no temperature increase
+CC: Questioning the measurements and science: Greenhouse effect/carbon dioxide do not drive climate change
+CC: Questioning the measurements and science: Methodologies/metrics used are unreliable/faulty
+CC: Questioning the measurements and science: Other
+CC: Questioning the measurements and science: Scientific community is unreliable
+Other
+URW: Amplifying war-related fears: By continuing the war we risk WWIII
+URW: Amplifying war-related fears: NATO should/will directly intervene
+URW: Amplifying war-related fears: Other
+URW: Amplifying war-related fears: Russia will also attack other countries
+URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+URW: Blaming the war on others rather than the invader: Other
+URW: Blaming the war on others rather than the invader: The West are the aggressors
+URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+URW: Discrediting Ukraine: Discrediting Ukrainian military
+URW: Discrediting Ukraine: Discrediting Ukrainian nation and society
+URW: Discrediting Ukraine: Other
+URW: Discrediting Ukraine: Rewriting Ukraine’s history
+URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+URW: Discrediting Ukraine: Ukraine is a hub for criminal activities
+URW: Discrediting Ukraine: Ukraine is a puppet of the West
+URW: Discrediting Ukraine: Ukraine is associated with nazism
+URW: Discrediting the West, Diplomacy: Diplomacy does/will not work
+URW: Discrediting the West, Diplomacy: Other
+URW: Discrediting the West, Diplomacy: The EU is divided
+URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests
+URW: Discrediting the West, Diplomacy: The West is overreacting
+URW: Discrediting the West, Diplomacy: The West is weak
+URW: Discrediting the West, Diplomacy: West is tired of Ukraine
+URW: Distrust towards Media: Other
+URW: Distrust towards Media: Ukrainian media cannot be trusted
+URW: Distrust towards Media: Western media is an instrument of propaganda
+URW: Hidden plots by secret schemes of powerful groups: Other
+URW: Negative Consequences for the West: Other
+URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+URW: Negative Consequences for the West: The conflict will increase the Ukrainian refugee flows to Europe
+URW: Overpraising the West: NATO will destroy Russia
+URW: Overpraising the West: Other
+URW: Overpraising the West: The West belongs in the right side of history
+URW: Overpraising the West: The West has the strongest international support
+URW: Praise of Russia: Other
+URW: Praise of Russia: Praise of Russian President Vladimir Putin
+URW: Praise of Russia: Praise of Russian military might
+URW: Praise of Russia: Russia has international support from a number of countries and people
+URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+URW: Praise of Russia: Russian invasion has strong national support
+URW: Russia is the Victim: Other
+URW: Russia is the Victim: Russia actions in Ukraine are only self-defence
+URW: Russia is the Victim: The West is russophobic
+URW: Russia is the Victim: UA is anti-RU extremists
+URW: Speculating war outcomes: Other
+URW: Speculating war outcomes: Russian army is collapsing
+URW: Speculating war outcomes: Russian army will lose all the occupied territories
+URW: Speculating war outcomes: Ukrainian army is collapsing

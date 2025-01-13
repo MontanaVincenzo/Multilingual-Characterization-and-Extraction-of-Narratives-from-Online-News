@@ -1,0 +1,75 @@
+Warning US hospitals are ‘most vulnerable to cyber attack that will be more devastating than 9/11’ in wake of Covid 
+
+ Warning US hospitals are ‘most vulnerable to cyber attack that will be more devastating than 9/11’ in wake of Covid
+
+AMERICAN hospitals are most vulnerable to a cyberattack that would be more devastating than the September 11 terror attacks, an expert fears.
+
+Professor Scheherazade Rehman, director of the European Union Research Center (EURC), warned that the healthcare sector has been "exacerbated" by the Covid-19 pandemic.
+
+Rehman said financial institutions have upgraded their cyber defenses over the past decade - unlike healthcare.
+
+She told The Sun: "We don't have anything that the banks are doing in healthcare settings from hospitals to healthcare delivery centers.
+
+"If your card has been hacked, the bank can lock it down and switch the number.
+
+“But you cannot change your blood type, you can’t change if you’ve had cancer, you can’t change your date of birth or your DNA. Healthcare information once hacked is not reversible.
+
+“Simply changing someone’s birthday is enough to disrupt the entire US online health system and fixing it would be very, very difficult.”
+
+The expert said that a potential cyberattack on institutions would be “more crippling” than a terrorist attack.
+
+She added: “9/11 was a shock event. It was traumatic as we had never seen anything like it before.
+
+Most read in Tech
+
+“But, the real disruption to people, companies, and systems of governance is going to be a cyberattack.”
+
+In June 2017, the Health Care Industry Cybersecurity Task Force warned in a report that healthcare cybersecurity is in a “critical condition”.
+
+The dossier stated: “Healthcare cybersecurity is a key public health concern that needs immediate and aggressive attention.”
+
+Researchers at the computer hardware company IBM say that healthcare firms on average take around 236 days to detect a data breach, and 93 days to mitigate the damage.
+
+This compares to the average of 207 days to identify and 73 days to contain a cyberattack.
+
+'EASY TARGETS'
+
+And, US hospitals have around 10-15 networked medical devices per bed on average, meaning officials are working to secure machinery that’s easy to breach, according to Wired.
+
+Analysts at the Brookings Institute believe “the fate of healthcare security” depends on whether investments in cybersecurity are made.
+
+They said: “Just as a responsible healthcare professional seeks to identify and treat patients’ underlying chronic conditions before they cause a serious medical emergency, so too must responsible healthcare organizations address vulnerabilities in their digital infrastructure to prevent cyberattacks."
+
+Fears of a potential cyberattack on US institutions are rising amid the crisis in Ukraine.
+
+Department of Homeland Security officials warned that the US is on “heightened alert” for a potential cyberattack from Moscow.
+
+Rehman believes an attack on the US is "highly likely" should the crisis in Eastern Europe escalate.
+
+Pentagon officials warned Friday that a Russian invasion of Ukraine would result in a "horrific" aftermath.
+
+Moscow has amassed around 100,000 troops at the Ukrainian border - something which Mark Milley, chairman of the Joint Chiefs of Staff, said he hadn't seen in the past four decades.
+
+Rehman said: “A US response would probably set off what we believe will be the world’s first large-scale cyberwar.
+
+US IN 'WARFARE STATE'
+
+“The Russians have been doing cyber-espionage and pre-positioning operations – meaning they’re setting up vulnerabilities in our infrastructure which means when they’re ready, they can release. It might not necessarily be tomorrow.”
+
+R.P. Eddy, CEO of the cybersecurity firm Ergo, warned that the US is already in a “warfare state” with Moscow, Fox News reports.
+
+He told governors: “What’s Russia’s next move? [It’s] very likely is to increase cyberattacks. It’s an easy move for them.
+
+READ MORE SUN STORIES
+
+“We are already in a warfare state right now and we need to be aware of that.”
+
+Jen Easterly, Director of the Cybersecurity and Infrastructure Agency (CISA), warned said officials are taking any "rippling effects" of a potential Russian invasion “very seriously”.
+
+We pay for your stories!
+
+Do you have a story for The US Sun team?
+
+Email us at exclusive@the-sun.com or call 212 416 4552.
+
+Like us on Facebook at www.facebook.com/TheSunUS and follow us from our main Twitter account at @TheSunUS

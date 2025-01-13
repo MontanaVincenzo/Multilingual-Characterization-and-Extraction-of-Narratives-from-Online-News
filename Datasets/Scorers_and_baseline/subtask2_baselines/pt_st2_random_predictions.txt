@@ -1,0 +1,35 @@
+PT_203.txt	CC: Climate change is beneficial	CC: Controversy about green technologies: Renewable energy is costly
+PT_208.txt	URW: Discrediting Ukraine	CC: Criticism of institutions and authorities: Criticism of national governments;CC: Criticism of climate policies: Climate policies are ineffective
+PT_216.txt	CC: Criticism of institutions and authorities	URW: Discrediting Ukraine: Ukraine is a hub for criminal activities
+PT_233.txt	URW: Blaming the war on others rather than the invader	URW: Amplifying war-related fears: NATO should/will directly intervene;CC: Downplaying climate change: Humans and nature will adapt to the changes
+PT_241.txt	CC: Controversy about green technologies	URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Overpraising the West: The West has the strongest international support
+PT_259.txt	CC: Criticism of climate policies	URW: Blaming the war on others rather than the invader: Ukraine is the aggressor
+PT_220.txt	CC: Criticism of institutions and authorities	URW: Discrediting the West, Diplomacy: West is tired of Ukraine;URW: Hidden plots by secret schemes of powerful groups: Other
+PT_254.txt	URW: Negative Consequences for the West	URW: Discrediting the West, Diplomacy: The EU is divided;CC: Criticism of climate policies: Climate policies are ineffective
+PT_211.txt	URW: Russia is the Victim	CC: Criticism of climate policies: Climate policies are only for profit;URW: Discrediting the West, Diplomacy: Diplomacy does/will not work
+PT_237.txt	CC: Green policies are geopolitical instruments	CC: Hidden plots by secret schemes of powerful groups: Blaming global elites
+PT_250.txt	URW: Negative Consequences for the West	URW: Blaming the war on others rather than the invader: The West are the aggressors;URW: Distrust towards Media: Western media is an instrument of propaganda
+PT_224.txt	CC: Downplaying climate change	URW: Overpraising the West: The West belongs in the right side of history;CC: Controversy about green technologies: Renewable energy is costly
+PT_228.txt	URW: Praise of Russia	URW: Amplifying war-related fears: By continuing the war we risk WWIII
+PT_253.txt	URW: Russia is the Victim	URW: Blaming the war on others rather than the invader: Other;URW: Praise of Russia: Other
+PT_209.txt	URW: Hidden plots by secret schemes of powerful groups	URW: Discrediting the West, Diplomacy: The West is overreacting;CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives
+PT_202.txt	CC: Green policies are geopolitical instruments	CC: Criticism of climate policies: Climate policies are only for profit
+PT_232.txt	URW: Praise of Russia	CC: Amplifying Climate Fears: Doomsday scenarios for humans
+PT_245.txt	URW: Amplifying war-related fears	URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+PT_206.txt	URW: Discrediting the West, Diplomacy	URW: Speculating war outcomes: Other;CC: Controversy about green technologies: Renewable energy is costly
+PT_201.txt	URW: Amplifying war-related fears	CC: Criticism of climate movement: Ad hominem attacks on key activists
+PT_249.txt	URW: Amplifying war-related fears	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies;URW: Negative Consequences for the West: Other
+PT_210.txt	URW: Discrediting Ukraine	URW: Amplifying war-related fears: There is a real possibility that nuclear weapons will be employed
+PT_205.txt	URW: Praise of Russia	CC: Downplaying climate change: Other
+PT_230.txt	CC: Green policies are geopolitical instruments	CC: Controversy about green technologies: Other
+PT_244.txt	CC: Criticism of institutions and authorities	CC: Criticism of climate movement: Other;URW: Blaming the war on others rather than the invader: Other
+PT_213.txt	URW: Amplifying war-related fears	CC: Criticism of climate movement: Other
+PT_226.txt	URW: Praise of Russia	CC: Green policies are geopolitical instruments: Other;URW: Overpraising the West: Other
+PT_239.txt	URW: Overpraising the West	URW: Amplifying war-related fears: NATO should/will directly intervene;CC: Downplaying climate change: Weather suggests the trend is global cooling
+PT_221.txt	CC: Downplaying climate change	URW: Distrust towards Media: Western media is an instrument of propaganda;URW: Blaming the war on others rather than the invader: Other
+PT_234.txt	CC: Hidden plots by secret schemes of powerful groups	CC: Criticism of climate movement: Ad hominem attacks on key activists;URW: Praise of Russia: Russia has international support from a number of countries and people
+PT_207.txt	URW: Overpraising the West	CC: Controversy about green technologies: Renewable energy is costly;CC: Hidden plots by secret schemes of powerful groups: Other
+PT_217.txt	CC: Downplaying climate change	URW: Discrediting Ukraine: Ukraine is a hub for criminal activities
+PT_204.txt	URW: Russia is the Victim	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests
+PT_229.txt	CC: Hidden plots by secret schemes of powerful groups	URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire
+PT_225.txt	CC: Amplifying Climate Fears	CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives

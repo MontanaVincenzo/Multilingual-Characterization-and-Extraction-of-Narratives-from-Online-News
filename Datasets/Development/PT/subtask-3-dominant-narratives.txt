@@ -1,0 +1,25 @@
+PT_208.txt	CC: Amplifying Climate Fears	none
+PT_216.txt	CC: Criticism of climate policies	none
+PT_233.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_259.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+PT_220.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_254.txt	URW: Discrediting the West, Diplomacy	none
+PT_211.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_250.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+PT_224.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of national governments
+PT_228.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_253.txt	URW: Russia is the Victim	none
+PT_232.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_206.txt	CC: Amplifying Climate Fears	none
+PT_249.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+PT_205.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_230.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_244.txt	URW: Russia is the Victim	URW: Russia is the Victim: The West is russophobic
+PT_213.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of international entities
+PT_226.txt	CC: Amplifying Climate Fears	none
+PT_221.txt	CC: Criticism of climate policies	none
+PT_234.txt	CC: Amplifying Climate Fears	none
+PT_207.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of the EU
+PT_217.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_229.txt	CC: Amplifying Climate Fears	CC: Amplifying Climate Fears: Amplifying existing fears of global warming
+PT_225.txt	CC: Criticism of institutions and authorities	CC: Criticism of institutions and authorities: Criticism of political organizations and figures

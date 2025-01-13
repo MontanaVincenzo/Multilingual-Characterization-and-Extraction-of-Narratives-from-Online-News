@@ -1,0 +1,35 @@
+A9_BG_3970.txt	CC: Amplifying Climate Fears	CC: Downplaying climate change: Climate cycles are natural
+A9_BG_4076.txt	URW: Distrust towards Media	URW: Praise of Russia: Russia has international support from a number of countries and people
+BG_1378.txt	CC: Green policies are geopolitical instruments	URW: Negative Consequences for the West: Sanctions imposed by Western countries will backfire;URW: Discrediting Ukraine: Ukraine is associated with nazism
+A9_BG_8427.txt	URW: Overpraising the West	URW: Negative Consequences for the West: Other
+A9_BG_3819.txt	URW: Amplifying war-related fears	URW: Discrediting the West, Diplomacy: The West is overreacting
+A9_BG_2592.txt	URW: Hidden plots by secret schemes of powerful groups	CC: Criticism of climate movement: Climate movement is alarmist
+BG_245.txt	CC: Controversy about green technologies	CC: Criticism of climate policies: Climate policies are ineffective
+BG_909.txt	Other	CC: Criticism of climate policies: Climate policies are ineffective;CC: Downplaying climate change: Temperature increase does not have significant impact
+BG_1178.txt	URW: Speculating war outcomes	URW: Discrediting Ukraine: Situation in Ukraine is hopeless
+A9_BG_2961.txt	URW: Discrediting the West, Diplomacy	CC: Criticism of climate policies: Other
+A9_BG_2828.txt	URW: Blaming the war on others rather than the invader	CC: Questioning the measurements and science: Other
+BG_1169.txt	CC: Climate change is beneficial	CC: Questioning the measurements and science: Data shows no temperature increase
+A9_BG_2820.txt	CC: Hidden plots by secret schemes of powerful groups	URW: Discrediting the West, Diplomacy: Other;CC: Downplaying climate change: Human activities do not impact climate change
+BG_73.txt	URW: Speculating war outcomes	CC: Controversy about green technologies: Other;CC: Criticism of climate policies: Climate policies have negative impact on the economy
+A9_BG_4093.txt	URW: Distrust towards Media	URW: Amplifying war-related fears: Russia will also attack other countries;CC: Controversy about green technologies: Renewable energy is unreliable
+BG_125.txt	URW: Distrust towards Media	CC: Criticism of institutions and authorities: Criticism of international entities
+A9_BG_3964.txt	CC: Green policies are geopolitical instruments	URW: Blaming the war on others rather than the invader: The West are the aggressors
+A9_BG_3921.txt	CC: Climate change is beneficial	URW: Speculating war outcomes: Other;URW: Discrediting the West, Diplomacy: West is tired of Ukraine
+BG_63.txt	CC: Controversy about green technologies	CC: Criticism of climate movement: Other
+A9_BG_2663.txt	Other	URW: Russia is the Victim: UA is anti-RU extremists
+BG_1146.txt	CC: Green policies are geopolitical instruments	CC: Downplaying climate change: CO2 concentrations are too small to have an impact;CC: Downplaying climate change: CO2 concentrations are too small to have an impact
+BG_877.txt	URW: Overpraising the West	CC: Controversy about green technologies: Renewable energy is dangerous;CC: Amplifying Climate Fears: Other
+A9_BG_2756.txt	CC: Controversy about green technologies	URW: Praise of Russia: Russia is a guarantor of peace and prosperity;CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives
+BG_979.txt	URW: Russia is the Victim	CC: Downplaying climate change: Humans and nature will adapt to the changes
+BG_277.txt	CC: Downplaying climate change	URW: Speculating war outcomes: Ukrainian army is collapsing
+BG_1856.txt	CC: Amplifying Climate Fears	CC: Downplaying climate change: Humans and nature will adapt to the changes;URW: Speculating war outcomes: Ukrainian army is collapsing
+BG_950.txt	CC: Climate change is beneficial	CC: Hidden plots by secret schemes of powerful groups: Climate agenda has hidden motives
+BG_1455.txt	URW: Blaming the war on others rather than the invader	URW: Discrediting Ukraine: Ukraine is a hub for criminal activities;CC: Questioning the measurements and science: Greenhouse effect/carbon dioxide do not drive climate change
+BG_1091.txt	CC: Green policies are geopolitical instruments	CC: Controversy about green technologies: Renewable energy is costly;CC: Criticism of institutions and authorities: Criticism of political organizations and figures
+A9_BG_4110.txt	CC: Green policies are geopolitical instruments	URW: Discrediting Ukraine: Discrediting Ukrainian military;CC: Climate change is beneficial: CO2 is beneficial
+A9_BG_4026.txt	URW: Speculating war outcomes	URW: Discrediting Ukraine: Ukraine is a hub for criminal activities;URW: Discrediting the West, Diplomacy: Diplomacy does/will not work
+A9_BG_2707.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is associated with nazism
+A9_BG_2569.txt	URW: Speculating war outcomes	CC: Criticism of institutions and authorities: Criticism of national governments
+A9_BG_4039.txt	CC: Climate change is beneficial	CC: Amplifying Climate Fears: Other
+BG_212.txt	CC: Questioning the measurements and science	Other

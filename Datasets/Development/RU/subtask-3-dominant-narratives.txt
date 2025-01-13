@@ -1,0 +1,28 @@
+RU-URW-1135.txt	URW: Discrediting the West, Diplomacy	none
+RU-URW-1093.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian military
+RU-URW-1118.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1101.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is associated with nazism
+RU-URW-1032.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: West is tired of Ukraine
+RU-URW-1004.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+RU-URW-1127.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+RU-URW-1069.txt	URW: Praise of Russia	URW: Praise of Russia: Russia is a guarantor of peace and prosperity
+RU-URW-1023.txt	URW: Discrediting Ukraine	none
+RU-URW-1053.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West is overreacting
+RU-URW-1061.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian military
+RU-URW-1102.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is a hub for criminal activities
+RU-URW-1120.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is a puppet of the West
+RU-URW-1014.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+RU-URW-1146.txt	URW: Discrediting the West, Diplomacy	none
+RU-URW-1171.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is a hub for criminal activities
+RU-URW-1184.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+RU-URW-1073.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Ukraine is a puppet of the West
+RU-URW-1043.txt	URW: Praise of Russia	none
+RU-URW-1168.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian military
+RU-URW-1110.txt	URW: Discrediting the West, Diplomacy	URW: Discrediting the West, Diplomacy: The West does not care about Ukraine, only about its interests
+RU-URW-1166.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+RU-URW-1077.txt	URW: Praise of Russia	URW: Praise of Russia: Russia has international support from a number of countries and people
+RU-URW-1170.txt	URW: Discrediting Ukraine	URW: Discrediting Ukraine: Discrediting Ukrainian government and officials and policies
+RU-URW-1085.txt	URW: Praise of Russia	URW: Praise of Russia: Praise of Russian military might
+RU-URW-1174.txt	URW: Speculating war outcomes	URW: Speculating war outcomes: Ukrainian army is collapsing
+RU-URW-1152.txt	URW: Amplifying war-related fears	URW: Amplifying war-related fears: NATO should/will directly intervene
+RU-URW-1139.txt	URW: Hidden plots by secret schemes of powerful groups	none

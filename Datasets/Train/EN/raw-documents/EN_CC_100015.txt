@@ -1,0 +1,29 @@
+China to explore frontier science, tech, using AI 
+
+ Photo taken on April 19, 2021 shows a quantum science experimental satellite model exhibited during the 1st Summit of Jinan National Artificial Intelligence Innovation and Application (JNAIIA) Pilot Zone & the Exposition of Artificial Intelligence Innovation and Application on Yellow River Basin in Jinan, east China's Shandong Province. (Xinhua/Guo Xulei)
+
+BEIJING, Aug. 12 (Xinhua) -- China strives to make frontier breakthroughs in science and technology via the advancing computing power of artificial intelligence (AI) that has seen explosive growth in the country.
+
+Scientists and AI developers applauded the revolution of AI-driven scientific research at the two-day AI for Science Summit in Beijing, which started on Thursday.
+
+"AI development benefited from science," said Tang Chao, a professor from the Academy for Advanced Interdisciplinary Studies (AAIS) at Peking University, at the meeting. "Now, we're looking forward to embracing a stage where AI facilitates scientific progress."
+
+AI for Science (AI4Science) can form an interdisciplinary platform and help scientists to solve complicated problems to improve research efficiency and quality, said E Weinan, president of the AI for Science Institute in Beijing.
+
+AI4Science demands four pillars of infrastructure -- algorithm models and software, effective measures to represent experimental data, database and knowledge repository, and integrated computing platform, said E.
+
+The Ministry of Science and Technology and the National Natural Science Foundation of China jointly kickstarted a project to promote the use of AI in frontier sci-tech research in March.
+
+The project will deploy AI models and algorithms in gene research and biology breeding breakthroughs.
+
+Also, interdisciplinary research and development teams will be brought together to promote the establishment of an innovation consortium and build international academic exchange platforms to offer solutions to human scientific challenges, including cancer treatment and the climate crisis.
+
+E said AI4Science might bring revolutionary changes in new materials, energy, aviation, and pharmaceuticals.
+
+Using AI and one of the world's fastest supercomputers, Chinese scientists have already started to engineer otherwise unknown chemicals to be clinically used in the future.
+
+With the Tianhe-2 supercomputer in south China's Guangdong Province, scientists and computer experts with Beijing-based AI startup Galixir developed a practical deep-learning toolkit to predict the biosynthetic pathways for natural products, the primary source of clinical drug discovery.
+
+Empowered by AI-based algorithms, the computer also offers clinicians tools to discern types of gastric cancer and discover signs of nasopharynx cancer among high-risk populations.
+
+The new application scenarios are also a source of opportunities for the AI industry. "Scientists can bring giant advancement to AI when they're solving problems," said Wang Jian, director of Zhejiang Lab. ■

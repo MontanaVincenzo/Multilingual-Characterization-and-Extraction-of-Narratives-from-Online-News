@@ -1,0 +1,1251 @@
+PT_161.txt	Portugal	377	384	Innocent	Victim
+PT_161.txt	França	1072	1077	Innocent	Victim
+PT_161.txt	IPMA	2158	2161	Protagonist	Guardian
+PT_13.txt	Ucrânia	184	190	Innocent	Victim
+PT_21.txt	Emmanuel Macron	172	186	Antagonist	Instigator
+PT_21.txt	NATO	548	551	Protagonist	Peacemaker
+PT_21.txt	Olaf Scholz	967	977	Protagonist	Peacemaker
+PT_21.txt	Dmitry Peskov	2024	2036	Protagonist	Guardian
+PT_21.txt	NATO	2193	2196	Antagonist	Foreign Adversary
+PT_99.txt	Dmitry Medvedev	105	119	Protagonist	Guardian
+PT_99.txt	Ucrânia	144	150	Antagonist	Foreign Adversary
+PT_99.txt	NATO	154	157	Antagonist	Foreign Adversary
+PT_99.txt	Organização do Tratado do Atlântico Norte	312	352	Protagonist	Guardian
+PT_99.txt	Ucrânia	417	423	Innocent	Victim
+PT_99.txt	Medvedev	588	595	Protagonist	Guardian
+PT_168.txt	Climáximo	281	289	Protagonist	Rebel
+PT_168.txt	Navigator	349	357	Antagonist	Corrupt
+PT_168.txt	Alice Gato	965	974	Protagonist	Rebel
+PT_168.txt	Estado	1149	1154	Antagonist	Corrupt
+PT_168.txt	Governos	1578	1585	Antagonist	Corrupt
+PT_168.txt	Navigator	1609	1617	Antagonist	Corrupt
+PT_84.txt	Volodymyr Zelensky	113	130	Protagonist	Peacemaker
+PT_84.txt	Rússia	372	377	Antagonist	Foreign Adversary
+PT_362.txt	Zelensky	807	814	Antagonist	Foreign Adversary
+PT_362.txt	Zelensky	1087	1094	Antagonist	Tyrant
+PT_362.txt	Ucrânia	1133	1139	Innocent	Victim
+PT_362.txt	Kiev	1526	1529	Antagonist	Foreign Adversary
+PT_362.txt	Exército russo	1872	1885	Protagonist	Virtuous	Guardian
+PT_URW_410.txt	Ucrânia	122	128	Antagonist	Instigator	Foreign Adversary
+PT_URW_410.txt	NATO	194	197	Antagonist	Conspirator
+PT_URW_410.txt	Kiev	586	589	Antagonist	Conspirator
+PT_URW_410.txt	Ocidente	1922	1929	Antagonist	Foreign Adversary
+PT_URW_410.txt	Kiev	1999	2002	Antagonist	Terrorist
+PT_URW_410.txt	Kiev	2367	2370	Antagonist	Conspirator
+PT_315.txt	Brasil	1342	1347	Innocent	Victim
+PT_315.txt	Rio Grande do Sul	1358	1374	Innocent	Victim
+PT_265.txt	Moscovo	150	156	Innocent	Victim
+PT_137.txt	Donald Trump	568	579	Antagonist	Incompetent
+PT_137.txt	Trump	1003	1007	Antagonist	Bigot
+PT_137.txt	Trump	1670	1674	Innocent	Victim
+PT_05.txt	Kremlin	1215	1221	Protagonist	Guardian
+PT_05.txt	Ocidente	1294	1301	Antagonist	Foreign Adversary
+PT_05.txt	Ucrânia	1305	1311	Antagonist	Foreign Adversary
+PT_05.txt	Organização do Tratado do Atlântico Norte (NATO	1475	1521	Antagonist	Foreign Adversary
+PT_05.txt	EUA	1763	1765	Antagonist	Foreign Adversary
+PT_331.txt	Lula	2277	2280	Protagonist	Guardian
+PT_331.txt	Amazónia	2395	2402	Innocent	Exploited
+PT_184.txt	Rio Grande do Sul	167	183	Innocent	Victim
+PT_184.txt	Rio Grande do Sul	502	518	Innocent	Victim
+PT_378.txt	Kiev	371	374	Antagonist	Terrorist
+PT_378.txt	Ucrânia	424	430	Antagonist	Terrorist
+PT_378.txt	Alemanha	1059	1066	Antagonist	Bigot
+PT_378.txt	Itália	1069	1074	Antagonist	Bigot
+PT_378.txt	Portugal	1078	1085	Antagonist	Bigot
+PT_378.txt	Terceira Via Alemã	1187	1204	Antagonist	Bigot
+PT_378.txt	Partido Nacional Democrático da Alemanha	1210	1249	Antagonist	Bigot
+PT_378.txt	Falange Espanhola	1254	1270	Antagonist	Bigot
+PT_378.txt	Força Nova Italiana	1338	1356	Antagonist	Bigot
+PT_378.txt	Casa Pound	1362	1371	Antagonist	Bigot
+PT_378.txt	Irmandade Ariana Portuguesa	1376	1402	Antagonist	Bigot
+PT_378.txt	Portugal Hammerskins	1407	1426	Antagonist	Bigot
+PT_378.txt	Frente Nacional	1431	1445	Antagonist	Bigot
+PT_378.txt	Resistência Nacional	1450	1469	Antagonist	Bigot
+PT_378.txt	Nova Ordem Social	1474	1490	Antagonist	Bigot
+PT_300.txt	Ucrânia	374	380	Antagonist	Foreign Adversary
+PT_300.txt	Ministério da Defesa	496	515	Protagonist	Guardian
+PT_300.txt	Kiev	1167	1170	Antagonist	Conspirator	Foreign Adversary
+PT_300.txt	Kiev	1778	1781	Antagonist	Terrorist
+PT_297.txt	Rússia	3051	3056	Protagonist	Guardian
+PT_369.txt	Vladimir Rogov	272	285	Protagonist	Guardian
+PT_369.txt	Kiev	1585	1588	Antagonist	Bigot	Terrorist	Tyrant
+PT_369.txt	Rússia	1775	1780	Innocent	Victim
+PT_369.txt	Ucrânia	1810	1816	Antagonist	Bigot	Terrorist	Tyrant
+PT_386.txt	Ucrânia	242	248	Antagonist	Incompetent
+PT_386.txt	Europa	368	373	Antagonist	Incompetent
+PT_386.txt	Zelensky	1036	1043	Antagonist	Incompetent	Instigator
+PT_28.txt	Ucrânia	172	178	Antagonist	Corrupt
+PT_28.txt	Ocidente	429	436	Antagonist	Corrupt
+PT_28.txt	Kiev	503	506	Antagonist	Corrupt
+PT_28.txt	Rússia	517	522	Innocent	Victim
+PT_28.txt	Vladimir Zelensky	722	738	Antagonist	Corrupt
+PT_28.txt	República Popular de Donetsk	1103	1130	Innocent	Victim
+PT_28.txt	Washington	1783	1792	Antagonist	Corrupt
+PT_28.txt	Rússia	2243	2248	Innocent	Scapegoat
+PT_28.txt	Ocidente	2406	2413	Antagonist	Deceiver
+PT_28.txt	Estados Unidos	2618	2631	Antagonist	Corrupt
+PT_113.txt	Vladimir Putin	106	119	Protagonist	Guardian
+PT_113.txt	Washington	168	177	Antagonist	Instigator
+PT_113.txt	Rússia	229	234	Protagonist	Guardian
+PT_113.txt	Ocidente	296	303	Antagonist	Foreign Adversary
+PT_113.txt	Estados Unidos	759	772	Antagonist	Instigator	Foreign Adversary
+PT_113.txt	Ocidente	1281	1288	Antagonist	Tyrant
+PT_113.txt	Moscovo	1429	1435	Innocent	Victim
+PT_113.txt	Ucrânia	1441	1447	Protagonist	Virtuous
+PT_113.txt	Ocidente	1453	1460	Protagonist	Virtuous
+PT_113.txt	Putin	1472	1476	Antagonist	Tyrant
+PT_113.txt	Rússia	1562	1567	Antagonist	Tyrant
+PT_113.txt	Ucrânia	1610	1616	Innocent	Victim
+PT_113.txt	Crimeia	1631	1637	Innocent	Victim
+PT_113.txt	Rússia	1692	1697	Protagonist	Guardian
+PT_121.txt	Federação da Rússia	403	421	Innocent	Victim
+PT_121.txt	Ucrânia	1082	1088	Antagonist	Foreign Adversary
+PT_288.txt	Syrsky	737	742	Protagonist	Guardian
+PT_288.txt	Rússia	816	821	Antagonist	Foreign Adversary
+PT_37.txt	Rússia	103	108	Protagonist	Guardian
+PT_37.txt	NATO	139	142	Antagonist	Foreign Adversary
+PT_37.txt	NATO	428	431	Antagonist	Instigator
+PT_37.txt	Putin	1231	1235	Innocent	Victim
+PT_37.txt	Putin	1768	1772	Protagonist	Guardian
+PT_37.txt	Ucrânia	1812	1818	Antagonist	Foreign Adversary
+PT_37.txt	NATO	1846	1849	Antagonist	Foreign Adversary
+PT_37.txt	Moscovo	2167	2173	Protagonist	Peacemaker
+PT_199.txt	Fleischmann	1538	1548	Protagonist	Guardian
+PT_130.txt	Ucrânia	274	280	Antagonist	Instigator
+PT_130.txt	Hungria	387	393	Innocent	Victim
+PT_130.txt	Eslováquia	399	408	Innocent	Victim
+PT_130.txt	Comissão Europeia	441	457	Protagonist	Peacemaker
+PT_130.txt	Ucrânia	476	482	Antagonist	Foreign Adversary
+PT_130.txt	Kiev	490	493	Antagonist	Instigator
+PT_130.txt	Viktor Orbán	1464	1475	Protagonist	Peacemaker
+PT_130.txt	Robert Fico	1505	1515	Protagonist	Peacemaker
+PT_354.txt	NATO	284	287	Antagonist	Conspirator	Foreign Adversary
+PT_354.txt	União Europeia	294	307	Antagonist	Conspirator	Foreign Adversary
+PT_354.txt	Rússia	323	328	Innocent	Victim
+PT_354.txt	Forças Armadas	422	435	Antagonist	Foreign Adversary
+PT_354.txt	Rússia	1212	1217	Protagonist	Guardian
+PT_354.txt	Donetsk	1356	1362	Innocent	Victim
+PT_354.txt	Lugansk	1366	1372	Innocent	Victim
+PT_354.txt	Vladimir Putin	1465	1478	Protagonist	Guardian
+PT_354.txt	Kiev	1586	1589	Antagonist	Tyrant
+PT_92.txt	Serguei Riabkov	158	172	Protagonist	Guardian
+PT_92.txt	Estados Unidos da América	261	285	Antagonist	Foreign Adversary
+PT_75.txt	Kiev	827	830	Innocent	Victim
+PT_75.txt	Moscovo	1011	1017	Antagonist	Foreign Adversary
+PT_371.txt	Europa	106	111	Antagonist	Bigot
+PT_371.txt	Rússia	115	120	Innocent	Victim
+PT_371.txt	EUA	199	201	Antagonist	Foreign Adversary
+PT_371.txt	Ocidente	357	364	Antagonist	Tyrant
+PT_371.txt	União Europeia	765	778	Antagonist	Tyrant
+PT_45.txt	Zelensky	721	728	Antagonist	Corrupt
+PT_45.txt	Ocidente	1858	1865	Antagonist	Foreign Adversary
+PT_45.txt	Ucrânia	3123	3129	Innocent	Victim
+PT_192.txt	Amazonas	1342	1349	Innocent	Victim
+PT_192.txt	Manaus	1553	1558	Innocent	Victim
+PT_403.txt	Terra	951	955	Innocent	Victim
+PT_403.txt	Amazónia	2063	2070	Innocent	Victim
+PT_403.txt	Sociedade Zoológica de Londres (Instituto de Zoologia	2610	2662	Protagonist	Guardian
+PT_128.txt	Maria Zakharova	128	142	Protagonist	Virtuous
+PT_128.txt	Volodymyr Zelensky	195	212	Antagonist	Deceiver
+PT_128.txt	Ucrânia	518	524	Innocent	Victim	Forgotten
+PT_128.txt	Zelensky	697	704	Antagonist	Saboteur	Incompetent
+PT_128.txt	Zelensky	960	967	Antagonist	Terrorist	Tyrant
+PT_128.txt	Zelensky	1057	1064	Antagonist	Deceiver
+PT_128.txt	Kyiv	1387	1390	Antagonist	Saboteur
+PT_273.txt	Rússia	456	461	Innocent	Victim
+PT_273.txt	Ucrânia	853	859	Antagonist	Incompetent
+PT_290.txt	Rio Grande do Sul	167	183	Innocent	Victim
+PT_145.txt	Chios	362	366	Innocent	Victim
+PT_145.txt	Kos	370	372	Innocent	Victim
+PT_145.txt	Grécia	738	743	Innocent	Victim
+PT_22.txt	Estados Unidos	720	733	Antagonist	Saboteur
+PT_22.txt	Joe Biden	824	832	Antagonist	Saboteur
+PT_22.txt	Rússia	895	900	Innocent	Victim
+PT_22.txt	Ucrânia	930	936	Antagonist	Foreign Adversary
+PT_22.txt	Dan Lazare	1323	1332	Protagonist	Virtuous
+PT_22.txt	Dinamarca	1404	1412	Antagonist	Deceiver
+PT_22.txt	EUA	2969	2971	Antagonist	Traitor
+PT_136.txt	Estados Unidos	487	500	Innocent	Victim
+PT_136.txt	Europa	503	508	Innocent	Victim
+PT_136.txt	Rússia	512	517	Innocent	Victim
+PT_152.txt	Climáximo	145	153	Antagonist	Instigator
+PT_152.txt	Noah Zino	983	991	Protagonist	Virtuous
+PT_06.txt	Estados Unidos	107	120	Antagonist	Deceiver
+PT_06.txt	Serviço de Informações Externas russo	237	273	Protagonist	Guardian
+PT_06.txt	Joe Biden	566	574	Antagonist	Deceiver
+PT_06.txt	Washington	718	727	Antagonist	Deceiver
+PT_06.txt	Vladimir Zelensky	779	795	Antagonist	Foreign Adversary
+PT_06.txt	O Departamento de Estado dos EUA	841	872	Antagonist	Deceiver
+PT_06.txt	Daesh	1185	1189	Innocent	Scapegoat
+PT_06.txt	Moscovo	1297	1303	Innocent	Victim
+PT_06.txt	Kiev	1424	1427	Antagonist	Terrorist
+PT_06.txt	Rússia	1480	1485	Innocent	Victim
+PT_06.txt	Kirill Budanov	1649	1662	Antagonist	Terrorist
+PT_06.txt	Vasily Malyuk	1708	1720	Antagonist	Terrorist
+PT_06.txt	Ministério dos Negócios Estrangeiros russo	1804	1845	Protagonist	Guardian
+PT_06.txt	Daria Dugina	2104	2115	Innocent	Victim
+PT_06.txt	Vladlen Tatarsky	2119	2134	Innocent	Victim
+PT_06.txt	Ucrânia	2226	2232	Antagonist	Terrorist
+PT_170.txt	Nordeste	1645	1652	Innocent	Victim
+PT_12.txt	Ocidente	298	305	Antagonist	Conspirator	Instigator
+PT_12.txt	Zelensky	1307	1314	Antagonist	Incompetent
+PT_12.txt	Aleksandr Syrsky	1374	1389	Antagonist	Incompetent
+PT_12.txt	Washington	2062	2071	Antagonist	Conspirator
+PT_12.txt	Serviço de Segurança da Ucrânia	2207	2237	Antagonist	Conspirator
+PT_12.txt	Azov	2297	2300	Antagonist	Conspirator	Terrorist
+PT_12.txt	Aidar	2304	2308	Antagonist	Conspirator	Terrorist
+PT_12.txt	Kiev	2684	2687	Antagonist	Foreign Adversary
+PT_12.txt	Londres	2738	2744	Antagonist	Foreign Adversary
+PT_12.txt	Washington	2748	2757	Antagonist	Foreign Adversary
+PT_12.txt	EUA	2994	2996	Antagonist	Foreign Adversary
+PT_258.txt	Rússia	134	139	Innocent	Victim
+PT_258.txt	Ucrânia	324	330	Antagonist	Instigator
+PT_258.txt	Estados Unidos	364	377	Antagonist	Foreign Adversary
+PT_258.txt	Reino Unido	593	603	Antagonist	Foreign Adversary
+PT_258.txt	Moscovo	1338	1344	Protagonist	Rebel
+PT_258.txt	Putin	1480	1484	Protagonist	Guardian
+PT_258.txt	NATO	2431	2434	Antagonist	Foreign Adversary
+PT_363.txt	Moscovo	795	801	Protagonist	Guardian
+PT_363.txt	Rússia	1259	1264	Protagonist	Guardian
+PT_363.txt	Kiev	1529	1532	Antagonist	Conspirator
+PT_363.txt	NATO	1982	1985	Antagonist	Foreign Adversary
+PT_363.txt	Rússia	2050	2055	Innocent	Victim
+PT_98.txt	Vyacheslav Gladkov	242	259	Protagonist	Guardian
+PT_98.txt	Belgorod	987	994	Innocent	Victim
+PT_98.txt	Ucrânia	1194	1200	Innocent	Victim
+PT_98.txt	Vladimir Putin	1416	1429	Protagonist	Guardian
+PT_332.txt	Alan Rick	1192	1200	Protagonist	Guardian
+PT_332.txt	Hamilton Mourão	2021	2035	Protagonist	Guardian
+PT_185.txt	Rio Grande do Sul	98	114	Innocent	Victim
+PT_83.txt	Zelensky	493	500	Antagonist	Incompetent
+PT_167.txt	António Guterres	1751	1766	Protagonist	Virtuous
+PT_264.txt	Rússia	982	987	Innocent	Victim
+PT_264.txt	Federação Russa	1099	1113	Innocent	Victim
+PT_264.txt	Ucrânia	1185	1191	Antagonist	Foreign Adversary
+PT_289.txt	Rússia	91	96	Protagonist	Guardian
+PT_289.txt	Rosatom	744	750	Protagonist	Guardian
+PT_289.txt	Moscovo	1119	1125	Protagonist	Guardian
+PT_289.txt	Kiev	1724	1727	Antagonist	Instigator	Foreign Adversary
+PT_289.txt	Maria Zajarova	1820	1833	Protagonist	Guardian
+PT_27.txt	União Europeia	134	147	Antagonist	Instigator
+PT_27.txt	Ocidente	596	603	Antagonist	Foreign Adversary
+PT_27.txt	Ocidente	652	659	Antagonist	Instigator
+PT_27.txt	Rússia	1394	1399	Innocent	Victim
+PT_27.txt	Moscovo	1615	1621	Protagonist	Peacemaker
+PT_27.txt	Rússia	1671	1676	Protagonist	Peacemaker
+PT_27.txt	Ocidente	1682	1689	Antagonist	Foreign Adversary
+PT_27.txt	EUA	1916	1918	Antagonist	Deceiver
+PT_27.txt	Ucrânia	2073	2079	Antagonist	Foreign Adversary
+PT_27.txt	Zelensky	2289	2296	Antagonist	Saboteur
+PT_27.txt	Putin	2370	2374	Protagonist	Peacemaker
+PT_280.txt	Kiev	163	166	Antagonist	Instigator
+PT_280.txt	Kiev	1232	1235	Antagonist	Conspirator
+PT_280.txt	Ucrânia	1509	1515	Antagonist	Instigator
+PT_131.txt	Volodymyr Zelensky	114	131	Antagonist	Foreign Adversary
+PT_131.txt	Dmitry Peskov	264	276	Protagonist	Peacemaker
+PT_131.txt	Rússia	1133	1138	Protagonist	Peacemaker
+PT_385.txt	Stoltenberg	541	551	Antagonist	Deceiver
+PT_385.txt	NATO	1628	1631	Antagonist	Deceiver
+PT_296.txt	Zelensky	126	133	Protagonist	Peacemaker
+PT_296.txt	Kiev	1067	1070	Antagonist	Instigator	Foreign Adversary
+PT_279.txt	NATO	242	245	Antagonist	Conspirator
+PT_279.txt	Kiev	362	365	Antagonist	Incompetent
+PT_279.txt	Washington	446	455	Antagonist	Conspirator
+PT_279.txt	Kiev	652	655	Antagonist	Instigator
+PT_279.txt	EUA	1596	1598	Antagonist	Conspirator
+PT_368.txt	Viktor Orbán	1280	1291	Protagonist	Peacemaker
+PT_120.txt	Dmitri Peskov	355	367	Protagonist	Guardian
+PT_120.txt	Moscovo	417	423	Protagonist	Guardian
+PT_120.txt	NATO	542	545	Antagonist	Foreign Adversary
+PT_120.txt	Bulgária	620	627	Antagonist	Foreign Adversary
+PT_120.txt	Roménia	633	639	Antagonist	Foreign Adversary
+PT_120.txt	Rússia	714	719	Innocent	Victim
+PT_120.txt	Rússia	922	927	Protagonist	Guardian
+PT_120.txt	Mikhail Sheremet	1744	1759	Protagonist	Virtuous
+PT_120.txt	Zelensky	1781	1788	Antagonist	Instigator
+PT_120.txt	Rússia	1827	1832	Innocent	Victim
+PT_120.txt	Kiev	1933	1936	Antagonist	Instigator
+PT_120.txt	Ocidente	2195	2202	Antagonist	Corrupt
+PT_120.txt	NATO	2219	2222	Antagonist	Corrupt
+PT_76.txt	Rússia	51	56	Antagonist	Foreign Adversary
+PT_76.txt	Volodymyr Zelenskyy	394	412	Protagonist	Virtuous
+PT_76.txt	Kharkiv	1109	1115	Innocent	Victim
+PT_76.txt	Dmitry Peskov	1325	1337	Protagonist	Guardian
+PT_257.txt	Rosatom	816	822	Protagonist	Guardian
+PT_257.txt	Moscovo	925	931	Protagonist	Guardian
+PT_257.txt	Kiev	1530	1533	Antagonist	Instigator	Foreign Adversary
+PT_257.txt	Maria Zajarova	1626	1639	Protagonist	Guardian
+PT_257.txt	Rússia	1645	1650	Protagonist	Guardian
+PT_257.txt	Kiev	1746	1749	Antagonist	Instigator
+PT_93.txt	Dmitri Peskov	355	367	Protagonist	Guardian
+PT_93.txt	Moscovo	417	423	Protagonist	Guardian
+PT_93.txt	NATO	542	545	Antagonist	Foreign Adversary
+PT_93.txt	Zelensky	1781	1788	Antagonist	Instigator
+PT_274.txt	Belgorod	298	305	Innocent	Victim
+PT_38.txt	Macron	3060	3065	Antagonist	Corrupt
+PT_129.txt	Rússia	60	65	Protagonist	Peacemaker
+PT_129.txt	Moscovo	456	462	Protagonist	Peacemaker
+PT_129.txt	Ucrânia	974	980	Antagonist	Saboteur
+PT_129.txt	Vladimir Putin	1057	1070	Protagonist	Peacemaker
+PT_129.txt	Organização do Tratado do Atlântico Norte	1302	1342	Antagonist	Foreign Adversary
+PT_129.txt	Rússia	1470	1475	Innocent	Victim
+PT_129.txt	Donetsk	1927	1933	Innocent	Victim
+PT_129.txt	Lugansk	1937	1943	Innocent	Victim
+PT_291.txt	Alexei Smirnov	234	247	Protagonist	Guardian
+PT_291.txt	Ucrânia	297	303	Antagonist	Instigator
+PT_146.txt	Fiji	898	901	Innocent	Victim
+PT_146.txt	Seychelles	1171	1180	Innocent	Victim
+PT_146.txt	Ilhas Salomão	1183	1195	Innocent	Victim
+PT_146.txt	Palau	1199	1203	Innocent	Victim
+PT_146.txt	Londres	1369	1375	Innocent	Victim
+PT_146.txt	Dubai	1378	1382	Innocent	Victim
+PT_146.txt	Tóquio	1385	1390	Innocent	Victim
+PT_146.txt	Rio de Janeiro	1394	1407	Innocent	Victim
+PT_146.txt	Maldivas	1722	1729	Innocent	Victim
+PT_353.txt	Rússia	1665	1670	Protagonist	Guardian
+PT_353.txt	Donetsk	1809	1815	Innocent	Victim
+PT_353.txt	Lugansk	1819	1825	Innocent	Victim
+PT_353.txt	Vladimir Putin	1919	1932	Protagonist	Guardian
+PT_353.txt	Kiev	2040	2043	Antagonist	Tyrant
+PT_353.txt	Rússia	2081	2086	Protagonist	Peacemaker
+PT_242.txt	Rússia	1300	1305	Innocent	Victim
+PT_242.txt	COI	1315	1317	Antagonist	Bigot
+PT_242.txt	COI	2064	2066	Antagonist	Saboteur
+PT_379.txt	Comissão de Investigação	182	205	Protagonist	Guardian
+PT_379.txt	A. Khmara	310	318	Antagonist	Terrorist
+PT_379.txt	E. Ermolenko	530	541	Antagonist	Terrorist
+PT_379.txt	D. Pavlovsky	600	611	Antagonist	Terrorist
+PT_379.txt	E. Petrov	615	623	Antagonist	Terrorist
+PT_379.txt	S. K. Mikael	837	848	Antagonist	Terrorist
+PT_379.txt	Azov	1004	1007	Antagonist	Terrorist
+PT_379.txt	D. K. F. Patrick	1238	1253	Antagonist	Terrorist
+PT_379.txt	R. Burduli	1257	1266	Antagonist	Terrorist
+PT_379.txt	G. Kinoiani	1344	1354	Antagonist	Terrorist
+PT_379.txt	Forças Armadas Ucranianas	1609	1633	Antagonist	Corrupt
+PT_370.txt	EUA	1543	1545	Antagonist	Corrupt
+PT_44.txt	Musk	592	595	Protagonist	Peacemaker
+PT_44.txt	Moscovo	851	857	Protagonist	Peacemaker
+PT_44.txt	Kiev	925	928	Antagonist	Foreign Adversary
+PT_44.txt	Ocidente	995	1002	Antagonist	Conspirator
+PT_44.txt	Vladimir Putin	1578	1591	Protagonist	Guardian
+PT_44.txt	Kiev	1719	1722	Antagonist	Tyrant
+PT_44.txt	Ucrânia	1846	1852	Antagonist	Tyrant
+PT_119.txt	Serguei Riabkov	158	172	Protagonist	Guardian
+PT_119.txt	Estados Unidos da América	261	285	Antagonist	Instigator
+PT_119.txt	NATO	516	519	Antagonist	Foreign Adversary
+PT_119.txt	Rússia	860	865	Innocent	Victim
+PT_119.txt	Alemanha	1329	1336	Antagonist	Foreign Adversary
+PT_313.txt	Paquistão	1929	1937	Innocent	Victim
+PT_313.txt	Golfo Pérsico	2051	2063	Innocent	Victim
+PT_313.txt	Brasil	2183	2188	Innocent	Victim
+PT_313.txt	China	2236	2240	Innocent	Victim
+PT_313.txt	Arkansas	2345	2352	Innocent	Victim
+PT_313.txt	Missouri	2359	2366	Innocent	Victim
+PT_127.txt	Mykhailo Podolyak	111	127	Protagonist	Virtuous
+PT_127.txt	Kyiv	318	321	Protagonist	Virtuous
+PT_127.txt	Volodymyr Zelensky	356	373	Protagonist	Virtuous	Guardian
+PT_127.txt	Comissão Europeia	466	482	Protagonist	Peacemaker
+PT_127.txt	Zoltan Kovacs	709	721	Protagonist	Guardian
+PT_127.txt	Ucrânia	750	756	Antagonist	Instigator
+PT_127.txt	Hungria	905	911	Innocent	Victim
+PT_127.txt	Eslováquia	917	926	Innocent	Victim
+PT_127.txt	Ucrânia	1058	1064	Antagonist	Tyrant
+PT_127.txt	Viktor Orbán	1604	1615	Protagonist	Peacemaker
+PT_127.txt	Robert Fico	1645	1655	Protagonist	Peacemaker
+PT_URW_420.txt	Moscovo	2174	2180	Protagonist	Peacemaker
+PT_URW_420.txt	Pyongyang	2184	2192	Protagonist	Peacemaker
+PT_399.txt	Governo	480	486	Antagonist	Corrupt
+PT_135.txt	Estados Unidos	802	815	Innocent	Victim
+PT_135.txt	Europa Ocidental	821	836	Innocent	Victim
+PT_135.txt	Rússia	883	888	Innocent	Victim
+PT_356.txt	Rússia	1838	1843	Protagonist	Guardian
+PT_356.txt	Vladimir Putin	2092	2105	Protagonist	Guardian
+PT_356.txt	Rússia	2256	2261	Protagonist	Peacemaker
+PT_15.txt	Ministério dos Negócios Estrangeiros	118	153	Protagonist	Virtuous
+PT_15.txt	Ocidente	203	210	Antagonist	Deceiver
+PT_15.txt	Daesh	1368	1372	Antagonist	Terrorist
+PT_15.txt	Kiev	1541	1544	Antagonist	Terrorist
+PT_15.txt	Ucrânia	2266	2272	Antagonist	Foreign Adversary
+PT_178.txt	Extinction Rebellion	466	485	Protagonist	Rebel
+PT_178.txt	Luigi Brugnaro	1200	1213	Protagonist	Guardian
+PT_178.txt	Giorgia Meloni	1784	1797	Protagonist	Guardian
+PT_283.txt	Kiev	77	80	Antagonist	Instigator	Foreign Adversary
+PT_283.txt	Kremlin	146	152	Protagonist	Guardian
+PT_283.txt	Rússia	277	282	Protagonist	Guardian
+PT_283.txt	Rosatom	1286	1292	Protagonist	Guardian
+PT_283.txt	Moscovo	1399	1405	Protagonist	Guardian
+PT_283.txt	Kremlin	2041	2047	Antagonist	Deceiver
+PT_283.txt	Kiev	2132	2135	Innocent	Scapegoat
+PT_283.txt	Putin	2173	2177	Antagonist	Saboteur
+PT_283.txt	Rússia	2238	2243	Antagonist	Foreign Adversary
+PT_275.txt	Valeri Gerasimov	1184	1199	Protagonist	Guardian
+PT_07.txt	A Organização do Tratado do Atlântico Norte	83	125	Antagonist	Instigator	Foreign Adversary
+PT_07.txt	Rússia	997	1002	Innocent	Victim
+PT_07.txt	Estados Unidos	1188	1201	Antagonist	Conspirator	Foreign Adversary
+PT_07.txt	Kiev	1497	1500	Antagonist	Foreign Adversary
+PT_07.txt	EUA	1522	1524	Antagonist	Instigator
+PT_07.txt	NATO	1531	1534	Antagonist	Instigator
+PT_07.txt	NATO	1736	1739	Antagonist	Saboteur	Conspirator
+PT_07.txt	Estados Unidos	2839	2852	Antagonist	Foreign Adversary
+PT_07.txt	Reino Unido	2858	2868	Antagonist	Foreign Adversary
+PT_07.txt	Ocidente	2887	2894	Antagonist	Foreign Adversary
+PT_07.txt	Bruxelas	3106	3113	Antagonist	Conspirator	Foreign Adversary
+PT_155.txt	Índia	309	313	Innocent	Victim
+PT_112.txt	Vladimir Putin	185	198	Protagonist	Guardian
+PT_112.txt	Estados Unidos	264	277	Antagonist	Instigator
+PT_112.txt	Serguei Riabkov	392	406	Protagonist	Guardian
+PT_112.txt	NATO	512	515	Antagonist	Foreign Adversary
+PT_112.txt	Kremlin	2088	2094	Protagonist	Guardian
+PT_112.txt	União Europeia	2128	2141	Antagonist	Foreign Adversary
+PT_112.txt	Rússia	2281	2286	Innocent	Victim
+PT_112.txt	Orbán	3937	3941	Antagonist	Traitor
+PT_376.txt	Moscovo	1890	1896	Innocent	Victim
+PT_198.txt	Al Gore	202	208	Protagonist	Virtuous
+PT_107.txt	Moscovo	245	251	Antagonist	Saboteur
+PT_107.txt	França	489	494	Innocent	Victim
+PT_107.txt	FSB	727	729	Antagonist	Conspirator
+PT_107.txt	Ucrânia	2281	2287	Innocent	Victim
+PT_107.txt	Rússia	2662	2667	Protagonist	Virtuous
+PT_107.txt	Rússia	2943	2948	Antagonist	Conspirator
+PT_247.txt	Donald Trump	249	260	Protagonist	Peacemaker
+PT_247.txt	Michel	2144	2149	Protagonist	Guardian
+PT_247.txt	Rússia	2310	2315	Antagonist	Foreign Adversary
+PT_247.txt	Ucrânia	2334	2340	Innocent	Victim
+PT_247.txt	Ursula von der Leyen	2779	2798	Protagonist	Virtuous
+PT_CC_428.txt	Pessoas pelo Clima	1409	1426	Protagonist	Guardian
+PT_70.txt	Rússia	75	80	Protagonist	Peacemaker
+PT_70.txt	Dmitry Peskov	296	308	Protagonist	Peacemaker
+PT_70.txt	Rússia	1067	1072	Protagonist	Peacemaker
+PT_70.txt	Ucrânia	1354	1360	Protagonist	Peacemaker
+PT_70.txt	Rússia	1432	1437	Antagonist	Foreign Adversary
+PT_70.txt	Dmytro Kuleba	1806	1818	Protagonist	Peacemaker
+PT_360.txt	Donetsk	293	299	Innocent	Victim
+PT_360.txt	Lugansk	303	309	Innocent	Victim
+PT_360.txt	Kiev	365	368	Antagonist	Terrorist
+PT_360.txt	Terceira Via	914	925	Antagonist	Bigot
+PT_360.txt	Partido Nacional Democrático da Alemanha	930	969	Antagonist	Bigot
+PT_360.txt	Falange	1011	1017	Antagonist	Bigot
+PT_360.txt	CasaPound	1050	1058	Antagonist	Bigot
+PT_360.txt	Força Nova	1092	1101	Antagonist	Bigot
+PT_360.txt	Irmandade Ariana	1137	1152	Antagonist	Bigot
+PT_360.txt	Portugal Hammerskins	1156	1175	Antagonist	Bigot
+PT_360.txt	Academi	1332	1338	Antagonist	Conspirator
+PT_360.txt	Cubic	1368	1372	Antagonist	Conspirator
+PT_360.txt	Dakhorse Benefits	1375	1391	Antagonist	Conspirator
+PT_360.txt	Dean Corporation	1394	1409	Antagonist	Conspirator
+PT_360.txt	Forward Observations Group	1412	1437	Antagonist	Conspirator
+PT_360.txt	Hyperion Services	1440	1456	Antagonist	Conspirator
+PT_360.txt	Sons of Liberty International	1460	1488	Antagonist	Conspirator
+PT_360.txt	ASBS Othago	1504	1514	Antagonist	Conspirator
+PT_360.txt	Academia Europeia de Segurança	1520	1549	Antagonist	Conspirator
+PT_360.txt	Donetsk	1857	1863	Innocent	Victim
+PT_360.txt	Lugansk	1867	1873	Innocent	Victim
+PT_360.txt	Rússia	1958	1963	Protagonist	Guardian
+PT_43.txt	Ucrânia	137	143	Antagonist	Foreign Adversary
+PT_43.txt	Zelensky	947	954	Antagonist	Saboteur
+PT_43.txt	Rússia	2436	2441	Protagonist	Rebel
+PT_140.txt	Mediterrâneo	368	379	Innocent	Victim
+PT_140.txt	Rússia	382	387	Innocent	Victim
+PT_140.txt	Canadá	391	396	Innocent	Victim
+PT_140.txt	Japão	2573	2577	Innocent	Victim
+PT_140.txt	Estados Unidos	2885	2898	Innocent	Victim
+PT_140.txt	Ártico	3001	3006	Innocent	Victim
+PT_183.txt	Última Geração	113	126	Antagonist	Instigator
+PT_183.txt	Anja Windl	1068	1077	Protagonist	Rebel
+PT_183.txt	Afra Porsche	1281	1292	Protagonist	Rebel
+PT_86.txt	Organização Mundial de Saúde	328	355	Protagonist	Guardian
+PT_77.txt	Presidente Zelensky	1430	1448	Antagonist	Instigator
+PT_77.txt	António Tânger	1609	1622	Antagonist	Incompetent
+PT_34.txt	Chuck Schumer	499	511	Protagonist	Guardian
+PT_34.txt	Zelensky	644	651	Innocent	Victim
+PT_34.txt	Ucrânia	657	663	Innocent	Victim
+PT_34.txt	Rússia	2055	2060	Protagonist	Peacemaker
+PT_34.txt	Sergei Lavrov	2267	2279	Protagonist	Guardian
+PT_104.txt	Rússia	70	75	Innocent	Forgotten
+PT_104.txt	Viktor Orban	298	309	Protagonist	Virtuous
+PT_147.txt	Agnès Callamard	1645	1659	Protagonist	Virtuous
+PT_147.txt	Amnistia Internacional	1682	1703	Protagonist	Virtuous
+PT_333.txt	Instituto do Ambiente e da Segurança Humana da Universidade das Nações Unidas	585	661	Protagonist	Guardian
+PT_329.txt	Maui	437	440	Innocent	Victim
+PT_329.txt	São Paulo	821	829	Innocent	Victim
+PT_329.txt	Vila Sahy	860	868	Innocent	Victim
+PT_329.txt	Rio Grande do Sul	903	919	Innocent	Victim
+PT_329.txt	Maceió	1065	1070	Innocent	Victim
+PT_329.txt	Islândia	1527	1534	Innocent	Victim
+PT_329.txt	Derna	1702	1706	Innocent	Victim
+PT_329.txt	Turquia	1774	1780	Innocent	Victim
+PT_329.txt	Síria	1787	1791	Innocent	Victim
+PT_329.txt	Marrocos	1937	1944	Innocent	Victim
+PT_62.txt	Manuel Pires da Rocha	1872	1892	Protagonist	Virtuous
+PT_62.txt	Manuel Pires da Rocha	2321	2341	Innocent	Scapegoat
+PT_62.txt	Câmara de Setúbal	2752	2768	Antagonist	Instigator
+PT_341.txt	Ocidente	889	896	Antagonist	Incompetent
+PT_384.txt	NATO	222	225	Antagonist	Foreign Adversary
+PT_384.txt	Ocidente	305	312	Antagonist	Foreign Adversary
+PT_384.txt	Kiev	324	327	Antagonist	Foreign Adversary
+PT_384.txt	NATO	1525	1528	Antagonist	Foreign Adversary
+PT_132.txt	Tuapse	150	155	Innocent	Victim
+PT_132.txt	Krasnodar	214	222	Innocent	Victim
+PT_132.txt	Kyiv	670	673	Antagonist	Instigator	Terrorist
+PT_132.txt	Rússia	1731	1736	Protagonist	Guardian
+PT_132.txt	Kyiv	1832	1835	Protagonist	Guardian
+PT_132.txt	Ucrânia	1939	1945	Innocent	Victim
+PT_175.txt	Lufthansa	861	869	Innocent	Victim
+PT_299.txt	Ucrânia	135	141	Antagonist	Foreign Adversary
+PT_299.txt	Kiev	362	365	Antagonist	Terrorist
+PT_299.txt	Maria Zakharova	919	933	Protagonist	Guardian
+PT_299.txt	Ucrânia	1735	1741	Antagonist	Instigator
+PT_256.txt	Kremlin	332	338	Protagonist	Guardian
+PT_256.txt	Volodymyr Zelensky	420	437	Antagonist	Foreign Adversary
+PT_256.txt	Rússia	609	614	Protagonist	Rebel
+PT_260.txt	Volodymyr Zelensky	217	234	Antagonist	Saboteur
+PT_260.txt	Zelensky	1351	1358	Antagonist	Incompetent
+PT_276.txt	Rússia	76	81	Protagonist	Guardian
+PT_276.txt	Forças Armadas	642	655	Protagonist	Guardian
+PT_276.txt	Legião Liberdade da Rússia	1458	1483	Antagonist	Terrorist
+PT_276.txt	Corpo de Voluntários Russos	1494	1520	Antagonist	Terrorist
+PT_14.txt	Vladimir Putin	121	134	Protagonist	Guardian
+PT_14.txt	Rússia	151	156	Protagonist	Guardian
+PT_14.txt	EUA	446	448	Antagonist	Foreign Adversary
+PT_14.txt	EUA	912	914	Antagonist	Foreign Adversary
+PT_14.txt	Organização do Tratado do Atlântico Norte	937	977	Antagonist	Foreign Adversary
+PT_14.txt	Kiev	998	1001	Antagonist	Foreign Adversary
+PT_169.txt	Javier Milei	388	399	Antagonist	Instigator
+PT_169.txt	Javier Milei	1559	1570	Protagonist	Virtuous
+PT_126.txt	Evgeny Serebriakov	289	306	Antagonist	Conspirator	Terrorist
+PT_126.txt	Iliá	938	941	Antagonist	Conspirator	Terrorist
+PT_CC_412.txt	Deserto do Saara	1698	1713	Innocent	Victim
+PT_CC_412.txt	Costa do Golfo	1720	1733	Innocent	Victim
+PT_177.txt	Mayara	1310	1315	Protagonist	Guardian
+PT_20.txt	Vladimir Putin	1563	1576	Protagonist	Guardian
+PT_20.txt	Kiev	1634	1637	Antagonist	Foreign Adversary
+PT_20.txt	NATO	1714	1717	Antagonist	Foreign Adversary
+PT_20.txt	Moscovo	1734	1740	Protagonist	Guardian
+PT_20.txt	Estados Unidos	1966	1979	Antagonist	Foreign Adversary
+PT_134.txt	Ásia	1224	1227	Innocent	Victim
+PT_134.txt	Europa	1437	1442	Innocent	Victim
+PT_134.txt	América do Sul	1461	1474	Innocent	Victim
+PT_134.txt	África	1492	1497	Innocent	Victim
+PT_63.txt	Volodymyr Zelensky	363	380	Protagonist	Guardian
+PT_CC_404.txt	Amazónia	2731	2738	Innocent	Victim
+PT_355.txt	Rheinmetall	129	139	Antagonist	Foreign Adversary
+PT_355.txt	Rússia	1151	1156	Protagonist	Guardian
+PT_355.txt	Vladimir Putin	1283	1296	Protagonist	Guardian
+PT_355.txt	Kiev	1354	1357	Antagonist	Tyrant
+PT_355.txt	NATO	1436	1439	Antagonist	Foreign Adversary
+PT_355.txt	EUA	1675	1677	Antagonist	Foreign Adversary
+PT_29.txt	Ucrânia	742	748	Antagonist	Incompetent
+PT_29.txt	Vladimir Putin	1419	1432	Protagonist	Guardian
+PT_29.txt	Kiev	1539	1542	Antagonist	Tyrant
+PT_29.txt	NATO	1570	1573	Antagonist	Foreign Adversary
+PT_29.txt	Moscovo	1598	1604	Protagonist	Guardian
+PT_29.txt	Estados Unidos	1911	1924	Antagonist	Foreign Adversary
+PT_282.txt	Kiev	329	332	Antagonist	Instigator	Foreign Adversary
+PT_282.txt	Ministério da Defesa russo	1095	1120	Protagonist	Guardian
+PT_248.txt	Volodimir Zelensky	356	373	Protagonist	Guardian
+PT_248.txt	Ucrânia	412	418	Protagonist	Underdog
+PT_248.txt	Kharkiv	944	950	Innocent	Victim
+PT_248.txt	Pokrovsk	1354	1361	Innocent	Victim
+PT_248.txt	Toretsk	1364	1370	Innocent	Victim
+PT_248.txt	Chasiv Yar	1374	1383	Innocent	Victim
+PT_248.txt	Kramatorsk	1412	1421	Innocent	Victim
+PT_248.txt	Sloviansk	1425	1433	Innocent	Victim
+PT_361.txt	Kiev	367	370	Antagonist	Incompetent
+PT_111.txt	Frédérique	1232	1241	Innocent	Victim
+PT_111.txt	Robert-Jan	1264	1273	Innocent	Victim
+PT_111.txt	Rússia	1573	1578	Antagonist	Terrorist
+PT_111.txt	Penny Wong	1795	1804	Protagonist	Virtuous
+PT_111.txt	Moscovo	1976	1982	Antagonist	Instigator
+PT_111.txt	Crimeia	2019	2025	Innocent	Victim
+PT_111.txt	Igor Guirkin	2092	2103	Antagonist	Terrorist
+PT_111.txt	Sergei Dubinski	2107	2121	Antagonist	Terrorist
+PT_111.txt	Leonid Kharchenko	2137	2153	Antagonist	Terrorist
+PT_111.txt	Vladimir Putin	2722	2735	Antagonist	Terrorist
+PT_154.txt	Moçambique	979	988	Innocent	Victim
+PT_197.txt	Lula	659	662	Protagonist	Guardian
+PT_197.txt	Amazónia	2075	2082	Innocent	Victim
+PT_35.txt	Rússia	1536	1541	Protagonist	Guardian
+PT_35.txt	NATO	1587	1590	Antagonist	Foreign Adversary
+PT_35.txt	Sergei Lavrov	1685	1697	Protagonist	Guardian
+PT_35.txt	Vladimir Putin	1918	1931	Protagonist	Guardian
+PT_35.txt	Kiev	2019	2022	Antagonist	Tyrant
+PT_298.txt	Estados Unidos	100	113	Protagonist	Peacemaker
+PT_298.txt	Sergei Ryabkov	319	332	Protagonist	Guardian
+PT_298.txt	serviços de Inteligência	540	563	Antagonist	Conspirator	Terrorist
+PT_298.txt	Ucrânia	568	574	Antagonist	Conspirator
+PT_298.txt	Putin	1123	1127	Innocent	Victim
+PT_298.txt	Belousov	1131	1138	Innocent	Victim
+PT_298.txt	Washington	1362	1371	Antagonist	Conspirator
+PT_CC_426.txt	Greta Thunberg	414	427	Antagonist	Incompetent	Deceiver
+PT_CC_426.txt	Greta	1603	1607	Antagonist	Incompetent
+PT_36.txt	Moscovo	162	168	Protagonist	Peacemaker
+PT_36.txt	Pequim	172	177	Protagonist	Peacemaker
+PT_36.txt	China	468	472	Protagonist	Peacemaker
+PT_36.txt	Rússia	478	483	Protagonist	Peacemaker
+PT_36.txt	EUA	759	761	Antagonist	Instigator
+PT_36.txt	União Europeia	767	780	Antagonist	Instigator
+PT_36.txt	Organização do Tratado do Atlântico Norte	2181	2221	Antagonist	Foreign Adversary
+PT_36.txt	EUA	2317	2319	Antagonist	Instigator
+PT_105.txt	União Europeia	86	99	Protagonist	Virtuous
+PT_105.txt	Ucrânia	181	187	Innocent	Victim
+PT_105.txt	Rússia	574	579	Antagonist	Foreign Adversary
+PT_105.txt	Rússia	1216	1221	Protagonist	Virtuous
+PT_105.txt	União Europeia	1367	1380	Antagonist	Instigator
+PT_105.txt	Dmitri Peskov	1392	1404	Protagonist	Virtuous
+PT_328.txt	Brasil	622	627	Innocent	Victim
+PT_328.txt	Argentina	632	640	Innocent	Victim
+PT_328.txt	Colômbia	645	652	Innocent	Victim
+PT_328.txt	Equador	658	664	Innocent	Victim
+PT_328.txt	Luca Bergamaschi	1645	1660	Protagonist	Virtuous
+PT_42.txt	Kuleba	2079	2084	Antagonist	Deceiver
+PT_377.txt	Ocidente	1006	1013	Antagonist	Incompetent
+PT_377.txt	Rússia	2434	2439	Innocent	Forgotten
+PT_85.txt	Vyacheslav Gladkov	242	259	Protagonist	Guardian
+PT_85.txt	Vladimir Putin	1416	1429	Protagonist	Guardian
+PT_85.txt	Kiev	1595	1598	Antagonist	Instigator
+PT_182.txt	Ahmed al Jaber	1291	1304	Antagonist	Saboteur
+PT_182.txt	Harjeet Singh	1446	1458	Protagonist	Guardian
+PT_227.txt	Ucrânia	165	171	Antagonist	Foreign Adversary
+PT_227.txt	Kiev	459	462	Antagonist	Foreign Adversary
+PT_227.txt	Ocidente	632	639	Antagonist	Instigator
+PT_227.txt	Ministério da Defesa	1344	1363	Protagonist	Guardian
+PT_227.txt	Kiev	1456	1459	Antagonist	Instigator
+PT_261.txt	Ucrânia	103	109	Antagonist	Foreign Adversary
+PT_261.txt	Ocidente	165	172	Antagonist	Foreign Adversary
+PT_261.txt	Estados Unidos	459	472	Antagonist	Conspirator
+PT_08.txt	Estados Unidos	109	122	Antagonist	Corrupt
+PT_08.txt	Europa	128	133	Antagonist	Corrupt
+PT_08.txt	Ucrânia	146	152	Antagonist	Foreign Adversary
+PT_08.txt	França	485	490	Antagonist	Corrupt
+PT_08.txt	EUA	1245	1247	Antagonist	Deceiver
+PT_08.txt	Ucrânia	1804	1810	Innocent	Exploited
+PT_08.txt	Ocidente	2527	2534	Antagonist	Instigator
+PT_133.txt	Zelensky	117	124	Antagonist	Saboteur	Instigator
+PT_133.txt	Kyiv	224	227	Antagonist	Incompetent
+PT_133.txt	Andrei Nastasin	322	336	Protagonist	Virtuous
+PT_133.txt	Kiev	548	551	Antagonist	Corrupt	Tyrant
+PT_133.txt	Ocidente	602	609	Antagonist	Conspirator
+PT_133.txt	Rússia	725	730	Protagonist	Underdog
+PT_133.txt	Hungria	1080	1086	Protagonist	Rebel
+PT_133.txt	Eslováquia	1090	1099	Protagonist	Rebel
+PT_133.txt	Kiev	1274	1277	Antagonist	Instigator
+PT_133.txt	Péter Szijjártó	1470	1484	Protagonist	Virtuous
+PT_133.txt	Comissão Europeia	1511	1527	Antagonist	Conspirator	Tyrant
+PT_133.txt	União Europeia	1776	1789	Antagonist	Traitor
+PT_133.txt	Budapeste	1836	1844	Innocent	Forgotten
+PT_133.txt	Bratislava	1848	1857	Innocent	Forgotten
+PT_133.txt	Estados-membros da UE	1983	2003	Innocent	Forgotten
+PT_133.txt	Bruxelas	2009	2016	Antagonist	Saboteur
+PT_133.txt	Comissão Europeia	2085	2101	Antagonist	Incompetent	Traitor
+PT_133.txt	Bruxelas	2195	2202	Antagonist	Conspirator
+PT_349.txt	Ocidente	189	196	Antagonist	Deceiver
+PT_349.txt	Estados Unidos da América	647	671	Antagonist	Deceiver
+PT_349.txt	Europa	2643	2648	Antagonist	Deceiver
+PT_255.txt	Vladimir Putin	1016	1029	Protagonist	Guardian
+PT_255.txt	Volodimir Zelenski	1066	1083	Antagonist	Bigot
+PT_212.txt	Canoas	102	107	Innocent	Victim
+PT_212.txt	Exército	537	544	Protagonist	Guardian
+PT_212.txt	Polícia Civil	547	559	Protagonist	Guardian
+PT_212.txt	Brigada Militar	562	576	Protagonist	Guardian
+PT_212.txt	Guarda Municipal	580	595	Protagonist	Guardian
+PT_340.txt	Ucrânia	163	169	Antagonist	Foreign Adversary
+PT_340.txt	Kiev	358	361	Antagonist	Conspirator
+PT_383.txt	NATO	95	98	Antagonist	Conspirator
+PT_383.txt	NATO	315	318	Antagonist	Foreign Adversary
+PT_383.txt	Rússia	400	405	Innocent	Victim
+PT_196.txt	Engajamundo	421	431	Protagonist	Rebel
+PT_196.txt	Greenpeace Brasil	452	468	Protagonist	Rebel
+PT_196.txt	Marcelo Laterman	968	983	Protagonist	Guardian
+PT_196.txt	Amazónia	1206	1213	Innocent	Exploited	Victim
+PT_196.txt	Lula	1557	1560	Antagonist	Incompetent
+PT_196.txt	Jaciara Borari	2258	2271	Protagonist	Rebel	Virtuous
+PT_285.txt	Ucrânia	511	517	Innocent	Victim
+PT_285.txt	Rússia	685	690	Antagonist	Foreign Adversary
+PT_285.txt	Moscovo	1724	1730	Protagonist	Guardian
+PT_293.txt	Putin	617	621	Antagonist	Foreign Adversary
+PT_293.txt	Casa Branca	1092	1102	Protagonist	Guardian
+PT_293.txt	Kiev	1169	1172	Protagonist	Rebel
+PT_293.txt	Rússia	1205	1210	Antagonist	Foreign Adversary
+PT_293.txt	Kiev	1555	1558	Antagonist	Foreign Adversary
+PT_293.txt	Ocidente	1862	1869	Antagonist	Conspirator	Foreign Adversary
+PT_293.txt	Rússia	2219	2224	Protagonist	Guardian
+PT_293.txt	Ministério da Defesa	2742	2761	Protagonist	Guardian
+PT_293.txt	Kiev	2874	2877	Antagonist	Instigator
+PT_56.txt	Climáximo	110	118	Antagonist	Instigator
+PT_56.txt	Climáximo	1120	1128	Protagonist	Virtuous
+PT_382.txt	NATO	118	121	Antagonist	Foreign Adversary
+PT_382.txt	Rússia	297	302	Innocent	Victim
+PT_382.txt	EUA	1531	1533	Antagonist	Instigator
+PT_64.txt	Kyiv	310	313	Protagonist	Virtuous
+PT_64.txt	Procuradoria-Geral da Ucrânia	1487	1515	Protagonist	Guardian
+PT_64.txt	Ucrânia	1638	1644	Innocent	Victim
+PT_64.txt	Zaporijia	1813	1821	Innocent	Victim
+PT_64.txt	Rússia	2387	2392	Protagonist	Rebel
+PT_352..txt	Toretsk	125	131	Innocent	Victim
+PT_352..txt	República Popular de Donetsk	224	251	Innocent	Victim
+PT_352..txt	Exército ucraniano	1407	1424	Antagonist	Foreign Adversary
+PT_303.txt	ONU	1718	1720	Innocent	Victim
+PT_303.txt	António Guterres	2039	2054	Protagonist	Guardian
+PT_72.txt	Rússia	181	186	Protagonist	Peacemaker
+PT_72.txt	EUA	218	220	Protagonist	Peacemaker
+PT_72.txt	Vladimir Putin	1385	1398	Protagonist	Guardian
+PT_41.txt	Moscovo	1996	2002	Antagonist	Foreign Adversary
+PT_41.txt	Turquia	2532	2538	Antagonist	Saboteur
+PT_41.txt	Suécia	2552	2557	Innocent	Victim
+PT_400.txt	Europa	610	615	Innocent	Victim
+PT_389.txt	Chile	1908	1912	Innocent	Victim
+PT_389.txt	África	2019	2024	Innocent	Victim
+PT_389.txt	Ásia	2192	2195	Innocent	Victim
+PT_389.txt	Myanmar	2243	2249	Innocent	Victim
+PT_389.txt	Índia	2309	2313	Innocent	Victim
+PT_125.txt	Moscovo	1141	1147	Protagonist	Rebel
+PT_125.txt	Rússia	1203	1208	Protagonist	Guardian
+PT_358.txt	Moscovo	102	108	Protagonist	Guardian
+PT_358.txt	Rússia	569	574	Protagonist	Guardian
+PT_358.txt	Kiev	841	844	Antagonist	Conspirator
+PT_358.txt	NATO	1298	1301	Antagonist	Instigator	Foreign Adversary
+PT_358.txt	Rússia	1410	1415	Innocent	Victim
+PT_358.txt	Kiev	1761	1764	Antagonist	Terrorist
+PT_17.txt	Londres	1262	1268	Antagonist	Instigator
+PT_17.txt	Boris Johnson	1447	1459	Antagonist	Incompetent
+PT_17.txt	Moscovo	1671	1677	Protagonist	Guardian
+PT_17.txt	Rússia	1860	1865	Innocent	Victim
+PT_17.txt	Ocidente	2009	2016	Antagonist	Deceiver
+PT_374.txt	Putin	392	396	Protagonist	Rebel
+PT_374.txt	Rússia	748	753	Protagonist	Underdog
+PT_374.txt	NATO	831	834	Antagonist	Foreign Adversary
+PT_374.txt	Rússia	1157	1162	Protagonist	Peacemaker
+PT_110.txt	Igor Girkin	1115	1125	Antagonist	Terrorist
+PT_110.txt	Serguei Dubinski	1129	1144	Antagonist	Terrorist
+PT_110.txt	Leonid Khartchenko	1170	1187	Antagonist	Terrorist
+PT_110.txt	Rússia	1457	1462	Antagonist	Terrorist
+PT_110.txt	Vladimir Putin	1540	1553	Antagonist	Terrorist
+PT_110.txt	Ucrânia	1935	1941	Innocent	Scapegoat
+PT_141.txt	Brasil	807	812	Innocent	Victim
+PT_141.txt	China	875	879	Innocent	Victim
+PT_141.txt	Golfo Pérsico	884	896	Innocent	Victim
+PT_141.txt	Mar Vermelho	902	913	Innocent	Victim
+PT_141.txt	EUA	919	921	Innocent	Victim
+PT_141.txt	Arkansas	1010	1017	Innocent	Victim
+PT_141.txt	Missouri	1022	1029	Innocent	Victim
+PT_141.txt	Iowa	1035	1038	Innocent	Victim
+PT_CC_415.txt	Donald Trump	1930	1941	Antagonist	Deceiver
+PT_48.txt	Forças Armadas da Ucrânia	428	452	Antagonist	Foreign Adversary
+PT_149.txt	Duarte Cordeiro	649	663	Innocent	Victim
+PT_149.txt	Duarte Cordeiro	812	826	Protagonist	Virtuous
+PT_149.txt	Greve Climática Estudantil	1666	1691	Antagonist	Instigator	Terrorist
+PT_149.txt	Duarte Cordeiro	2532	2546	Innocent	Victim
+PT_326.txt	Bengala Ocidental	1247	1263	Innocent	Victim
+PT_326.txt	Mizoram	1267	1273	Innocent	Victim
+PT_350.txt	Rússia	1933	1938	Protagonist	Underdog
+PT_164.txt	Paul Watson	93	103	Protagonist	Martyr
+PT_164.txt	Islândia	816	823	Antagonist	Foreign Adversary
+PT_164.txt	Noruega	828	834	Antagonist	Foreign Adversary
+PT_164.txt	Japão	840	844	Antagonist	Foreign Adversary
+PT_164.txt	Japão	849	853	Antagonist	Deceiver	Corrupt
+PT_164.txt	Tóquio	1123	1128	Antagonist	Instigator
+PT_164.txt	Hugo Clément	1459	1470	Protagonist	Guardian
+PT_164.txt	Emmanuel Macron	1538	1552	Protagonist	Guardian
+PT_173.txt	Marina Silva	912	923	Protagonist	Guardian
+PT_262.txt	Forças Armadas ucranianas	110	134	Antagonist	Terrorist
+PT_262.txt	Vladimir Pipko	330	343	Antagonist	Terrorist
+PT_262.txt	Emil Ishkulov	347	359	Antagonist	Terrorist
+PT_311.txt	Samoa	1458	1462	Innocent	Victim
+PT_311.txt	Fiji	1466	1469	Innocent	Victim
+PT_02.txt	EUA	152	154	Antagonist	Foreign Adversary	Deceiver
+PT_02.txt	Washington	216	225	Antagonist	Foreign Adversary
+PT_02.txt	Ucrânia	252	258	Antagonist	Foreign Adversary
+PT_02.txt	EUA	736	738	Antagonist	Conspirator
+PT_02.txt	Washington	1013	1022	Antagonist	Deceiver
+PT_109.txt	Estados Unidos	711	724	Antagonist	Instigator
+PT_109.txt	Ocidente	730	737	Antagonist	Instigator
+PT_109.txt	Putin	1331	1335	Protagonist	Virtuous
+PT_URW_414.txt	Ucrânia	155	161	Antagonist	Foreign Adversary
+PT_URW_414.txt	Ocidente	186	193	Antagonist	Foreign Adversary
+PT_URW_414.txt	Ucrânia	625	631	Antagonist	Instigator
+PT_URW_414.txt	NATO	1228	1231	Antagonist	Foreign Adversary
+PT_URW_414.txt	Ocidente	1355	1362	Antagonist	Instigator
+PT_URW_414.txt	Ucrânia	1507	1513	Antagonist	Incompetent
+PT_URW_414.txt	Putin	1659	1663	Protagonist	Peacemaker
+PT_URW_414.txt	Kiev	2233	2236	Antagonist	Foreign Adversary
+PT_88.txt	Rússia	1559	1564	Innocent	Victim
+PT_88.txt	Moscovo	1760	1766	Antagonist	Foreign Adversary
+PT_32.txt	Rússia	259	264	Antagonist	Foreign Adversary
+PT_32.txt	Vladimir Putin	1427	1440	Protagonist	Guardian
+PT_32.txt	Rússia	1634	1639	Protagonist	Guardian
+PT_32.txt	Donetsk	1733	1739	Innocent	Victim
+PT_32.txt	Lugansk	1749	1755	Innocent	Victim
+PT_32.txt	Kiev	1859	1862	Antagonist	Tyrant
+PT_32.txt	Organização do Tratado do Atlântico Norte	1946	1986	Antagonist	Foreign Adversary
+PT_32.txt	Moscovo	2018	2024	Protagonist	Guardian
+PT_32.txt	Ucrânia	2112	2118	Antagonist	Foreign Adversary
+PT_32.txt	Ocidente	2372	2379	Antagonist	Foreign Adversary
+PT_CC_406.txt	Greta	544	548	Protagonist	Virtuous
+PT_CC_406.txt	Greta Thunberg	1304	1317	Protagonist	Guardian
+PT_CC_406.txt	Howey Ou	1495	1502	Protagonist	Virtuous
+PT_09.txt	Ocidente	140	147	Antagonist	Foreign Adversary
+PT_09.txt	Rússia	158	163	Innocent	Victim
+PT_09.txt	NATO	306	309	Antagonist	Foreign Adversary
+PT_09.txt	Kiev	611	614	Antagonist	Foreign Adversary
+PT_102.txt	Irina Farion	239	250	Innocent	Victim
+PT_102.txt	Vyacheslav Zinchenko	644	663	Antagonist	Terrorist
+PT_269.txt	Kiev	280	283	Antagonist	Instigator
+PT_269.txt	Putin	1303	1307	Protagonist	Guardian
+PT_CC_423.txt	Trump	1692	1696	Antagonist	Incompetent
+PT_188.txt	Pantanal	71	78	Innocent	Victim
+PT_188.txt	Brasil	533	538	Innocent	Victim
+PT_188.txt	Cerrado	562	568	Innocent	Victim
+PT_188.txt	Amazónia	870	877	Innocent	Victim
+PT_318.txt	Pantanal	130	137	Innocent	Victim
+PT_318.txt	Amazónia	835	842	Innocent	Victim
+PT_318.txt	Austrália	845	853	Innocent	Victim
+PT_318.txt	Canadá	856	861	Innocent	Victim
+PT_318.txt	Chile	864	868	Innocent	Victim
+PT_318.txt	Portugal	871	878	Innocent	Victim
+PT_318.txt	Indonésia	881	889	Innocent	Victim
+PT_318.txt	Sibéria	892	898	Innocent	Victim
+PT_318.txt	EUA	912	914	Innocent	Victim
+PT_318.txt	Canadá	1433	1438	Innocent	Victim
+PT_318.txt	Noruega	1444	1450	Innocent	Victim
+PT_318.txt	Suécia	1457	1462	Innocent	Victim
+PT_65.txt	Rússia	1064	1069	Protagonist	Guardian
+PT_65.txt	Ucrânia	1081	1087	Antagonist	Foreign Adversary
+PT_284.txt	Greenpeace	932	941	Protagonist	Guardian
+PT_284.txt	Patrick Pouyanné	989	1004	Antagonist	Corrupt
+PT_284.txt	TotalEnergies	2268	2280	Antagonist	Corrupt
+PT_284.txt	Edina Ifticene	2408	2421	Protagonist	Guardian
+PT_179.txt	Fikru Regasa	545	556	Protagonist	Guardian
+PT_49.txt	Stoltenberg	807	817	Antagonist	Instigator
+PT_118.txt	Brasil	1066	1071	Innocent	Victim
+PT_118.txt	Rio Grande do Sul	1087	1103	Innocent	Victim
+PT_118.txt	Pantanal	1123	1130	Innocent	Victim
+PT_118.txt	Amazónia	1137	1144	Innocent	Victim
+PT_118.txt	Grécia	1291	1296	Innocent	Victim
+PT_118.txt	Atenas	1459	1464	Innocent	Victim
+PT_118.txt	Espanha	1718	1724	Innocent	Victim
+PT_118.txt	Sevilha	1835	1841	Innocent	Victim
+PT_118.txt	Córdoba	1845	1851	Innocent	Victim
+PT_118.txt	França	1973	1978	Innocent	Victim
+PT_118.txt	Itália	1982	1987	Innocent	Victim
+PT_118.txt	Berlim	2050	2055	Innocent	Victim
+PT_118.txt	Paris	2059	2063	Innocent	Victim
+PT_292.txt	Ucrânia	317	323	Antagonist	Foreign Adversary
+PT_292.txt	Kiev	461	464	Antagonist	Corrupt	Terrorist
+PT_292.txt	Ocidente	799	806	Antagonist	Conspirator	Foreign Adversary
+PT_292.txt	Volodymyr Zelensky	1158	1175	Antagonist	Terrorist
+PT_292.txt	Vladimir Putin	1613	1626	Protagonist	Guardian
+PT_292.txt	Kiev	1871	1874	Antagonist	Instigator
+PT_292.txt	Ucrânia	2149	2155	Antagonist	Saboteur	Terrorist
+PT_195.txt	Espírito Santo	102	115	Innocent	Victim
+PT_55.txt	Amnistia Internacional	1890	1911	Protagonist	Guardian
+PT_55.txt	Tom Southerden	2164	2177	Protagonist	Virtuous
+PT_16.txt	Robert Kalinak	114	127	Protagonist	Virtuous
+PT_16.txt	Emmanuel Macron	538	552	Antagonist	Foreign Adversary
+PT_16.txt	Rússia	1454	1459	Protagonist	Peacemaker
+PT_16.txt	Ucrânia	1582	1588	Antagonist	Foreign Adversary
+PT_CC_429.txt	Perry	344	348	Antagonist	Deceiver
+PT_CC_429.txt	Rick Perry	2045	2054	Antagonist	Incompetent
+PT_CC_429.txt	Shaylyn Hynes	2560	2572	Protagonist	Peacemaker
+PT_375.txt	Rússia	845	850	Protagonist	Guardian
+PT_375.txt	Rússia	1205	1210	Protagonist	Underdog
+PT_375.txt	Ocidente	1355	1362	Antagonist	Incompetent
+PT_375.txt	Ocidente	1575	1582	Antagonist	Foreign Adversary
+PT_71.txt	Rússia	59	64	Protagonist	Guardian
+PT_71.txt	Ocidente	136	143	Antagonist	Foreign Adversary
+PT_71.txt	Kiev	310	313	Antagonist	Foreign Adversary
+PT_71.txt	Dmitri Peskov	373	385	Protagonist	Guardian
+PT_71.txt	Volodymyr Zelensky	1017	1034	Protagonist	Guardian
+PT_71.txt	Rússia	1178	1183	Antagonist	Foreign Adversary
+PT_278.txt	Rússia	85	90	Innocent	Victim
+PT_278.txt	Ucrânia	101	107	Antagonist	Instigator
+PT_391.txt	Guiné-Bissau	293	304	Innocent	Victim
+PT_124.txt	Kuleba	296	301	Protagonist	Virtuous
+PT_124.txt	Rússia	377	382	Antagonist	Foreign Adversary	Deceiver
+PT_124.txt	Kiev	500	503	Protagonist	Virtuous
+PT_124.txt	Rússia	540	545	Antagonist	Deceiver
+PT_124.txt	Ucrânia	1712	1718	Protagonist	Peacemaker
+PT_124.txt	Rússia	1760	1765	Antagonist	Foreign Adversary
+PT_124.txt	Rússia	2148	2153	Protagonist	Peacemaker
+PT_124.txt	Volodymyr Zelensky	2231	2248	Antagonist	Foreign Adversary	Tyrant
+PT_40.txt	Forças Armadas da Ucrânia	170	194	Antagonist	Foreign Adversary
+PT_40.txt	NATO	1185	1188	Antagonist	Foreign Adversary
+PT_357.txt	EUA	131	133	Antagonist	Incompetent
+PT_357.txt	Ocidente	208	215	Antagonist	Incompetent
+PT_357.txt	Israel	402	407	Antagonist	Tyrant
+PT_357.txt	Kiev	781	784	Antagonist	Incompetent	Foreign Adversary
+PT_357.txt	Moscovo	847	853	Protagonist	Guardian
+PT_357.txt	Ucrânia	1391	1397	Antagonist	Tyrant
+PT_357.txt	EUA	1913	1915	Antagonist	Conspirator
+PT_357.txt	Ucrânia	1977	1983	Antagonist	Bigot
+PT_246.txt	Volodimir Zelensky	163	180	Protagonist	Guardian
+PT_246.txt	Kiev	1175	1178	Protagonist	Underdog
+PT_246.txt	NATO	1738	1741	Protagonist	Guardian
+PT_246.txt	Kiev	2548	2551	Antagonist	Incompetent
+PT_246.txt	Ucrânia	2995	3001	Antagonist	Foreign Adversary
+PT_174.txt	Amazónia	63	70	Innocent	Victim
+PT_174.txt	Floresta Amazónica	237	254	Innocent	Victim
+PT_174.txt	Pantanal	264	271	Innocent	Victim
+PT_174.txt	Greenpeace Brasil	496	512	Protagonist	Guardian
+PT_174.txt	Nando Reis	824	833	Antagonist	Deceiver	Traitor
+PT_174.txt	Carolina Marçal	1279	1293	Antagonist	Deceiver	Traitor
+PT_174.txt	Bolsonaro	1346	1354	Antagonist	Saboteur
+PT_174.txt	Ianomâmis	1909	1917	Innocent	Victim
+PT_174.txt	Lula	2019	2022	Antagonist	Corrupt
+PT_174.txt	Marina Silva	2150	2161	Antagonist	Deceiver
+PT_174.txt	Pantanal	2692	2699	Innocent	Victim
+PT_174.txt	Amazónia	2706	2713	Innocent	Victim
+PT_263.txt	Ucrânia	134	140	Antagonist	Terrorist
+PT_263.txt	Wagner	264	269	Innocent	Victim
+PT_263.txt	Zelensky	426	433	Antagonist	Terrorist
+PT_263.txt	Kiev	1197	1200	Antagonist	Conspirator
+PT_263.txt	Ucrânia	1413	1419	Antagonist	Terrorist
+PT_263.txt	Kiev	1475	1478	Antagonist	Terrorist
+PT_263.txt	Ocidente	2270	2277	Antagonist	Foreign Adversary
+PT_157.txt	Estados Unidos	411	424	Innocent	Victim
+PT_157.txt	Europa	569	574	Innocent	Victim
+PT_157.txt	Reino Unido	621	631	Innocent	Victim
+PT_319.txt	Rio Grande do Sul	121	137	Innocent	Victim
+PT_319.txt	Pantanal	322	329	Innocent	Victim
+PT_342.txt	Ucrânia	427	433	Antagonist	Incompetent
+PT_342.txt	Zelensky	962	969	Antagonist	Instigator	Traitor	Tyrant
+PT_342.txt	Rússia	1740	1745	Innocent	Victim
+PT_342.txt	Kiev	2380	2383	Antagonist	Bigot
+PT_342.txt	Ocidente	2419	2426	Antagonist	Instigator
+PT_236.txt	Volodymyr Zelensky	109	126	Protagonist	Peacemaker
+PT_50.txt	Ucrânia	139	145	Antagonist	Incompetent
+PT_50.txt	Ucrânia	1315	1321	Innocent	Exploited
+PT_50.txt	Kiev	1763	1766	Innocent	Exploited
+PT_50.txt	Washington	1807	1816	Antagonist	Tyrant
+PT_33.txt	EUA	400	402	Antagonist	Corrupt
+PT_33.txt	Forças Armadas da Ucrânia	911	935	Antagonist	Foreign Adversary
+PT_33.txt	Ucrânia	1387	1393	Antagonist	Corrupt
+PT_33.txt	Kiev	1824	1827	Antagonist	Corrupt
+PT_33.txt	Forças Armadas da Ucrânia	2012	2036	Antagonist	Terrorist
+PT_108.txt	Kremlin	124	130	Protagonist	Peacemaker
+PT_108.txt	Volodymyr Zelenskiy	263	281	Antagonist	Tyrant
+PT_108.txt	Dmytro Kuleba	419	431	Protagonist	Guardian
+PT_108.txt	Ucrânia	595	601	Innocent	Victim
+PT_108.txt	Zelenskiy	967	975	Protagonist	Virtuous
+PT_108.txt	Ocidente	981	988	Protagonist	Virtuous
+PT_108.txt	Dmitry Peskov	1345	1357	Protagonist	Virtuous
+PT_108.txt	Moscovo	1616	1622	Protagonist	Virtuous
+PT_108.txt	Zelenskiy	1633	1641	Innocent	Exploited
+PT_108.txt	Estados Unidos	1664	1677	Antagonist	Foreign Adversary	Tyrant
+PT_108.txt	Putin	2560	2564	Protagonist	Peacemaker
+PT_108.txt	Kiev	2716	2719	Antagonist	Instigator
+PT_108.txt	Ocidente	2725	2732	Antagonist	Instigator
+PT_180.txt	Lula	731	734	Protagonist	Guardian
+PT_180.txt	Amazónia	854	861	Innocent	Victim
+PT_180.txt	ONU	2840	2842	Antagonist	Corrupt
+PT_231.txt	Monte Parnitha	301	314	Innocent	Victim
+PT_231.txt	Tenerife	456	463	Innocent	Victim
+PT_231.txt	Maui	577	580	Innocent	Victim
+PT_189.txt	Raoni Metuktire	254	268	Protagonist	Virtuous	Guardian
+PT_189.txt	Amazónia	1349	1356	Innocent	Victim
+PT_189.txt	Brasil	1797	1802	Innocent	Victim
+PT_189.txt	Lula	2099	2102	Antagonist	Incompetent
+PT_103.txt	Lavrov	695	700	Protagonist	Guardian
+PT_103.txt	Wang	1006	1009	Protagonist	Guardian
+PT_336.txt	Afeganistão	853	863	Innocent	Victim
+PT_336.txt	an Mohammad Din Mohammad	1494	1517	Innocent	Victim
+PT_01.txt	Palestina	62	70	Innocent	Victim
+PT_01.txt	Estado sionista	86	100	Antagonist	Tyrant
+PT_01.txt	Estado de Israel sionista	1891	1915	Antagonist	Foreign Adversary
+PT_268.txt	Ucrânia	307	313	Antagonist	Incompetent
+PT_87.txt	Dmitry Medvedev	105	119	Protagonist	Guardian
+PT_87.txt	NATO	154	157	Antagonist	Foreign Adversary
+PT_87.txt	Rússia	983	988	Innocent	Victim
+PT_267.txt	Rússia	1783	1788	Protagonist	Virtuous
+PT_82.txt	Mário Machado	273	285	Antagonist	Terrorist
+PT_372.txt	Exército da Ucrânia	94	112	Antagonist	Incompetent
+PT_372.txt	Rússia	167	172	Protagonist	Virtuous
+PT_372.txt	EUA	183	185	Antagonist	Traitor
+PT_372.txt	Ocidente	191	198	Antagonist	Traitor
+PT_372.txt	Zelensky	2087	2094	Antagonist	Incompetent
+PT_372.txt	Kiev	2371	2374	Antagonist	Incompetent
+PT_372.txt	EUA	2535	2537	Antagonist	Instigator	Foreign Adversary
+PT_372.txt	Rússia	2558	2563	Innocent	Victim
+PT_194.txt	Brasil	112	117	Protagonist	Guardian
+PT_194.txt	Congresso	1588	1596	Antagonist	Corrupt
+PT_194.txt	Emirados Árabes Unidos	2185	2206	Antagonist	Foreign Adversary
+PT_100.txt	Brasil	179	184	Innocent	Victim
+PT_100.txt	Ásia	327	330	Innocent	Victim
+PT_100.txt	Médio Oriente	337	349	Innocent	Victim
+PT_100.txt	Golfo Pérsico	1738	1750	Innocent	Victim
+PT_100.txt	Mar Vermelho	1757	1768	Innocent	Victim
+PT_364.txt	Moscovo	70	76	Protagonist	Peacemaker
+PT_364.txt	Kiev	811	814	Antagonist	Saboteur
+PT_CC_421.txt	Merkel	668	673	Antagonist	Incompetent
+PT_143.txt	Climáximo	283	291	Protagonist	Virtuous
+PT_143.txt	António Assunção	1715	1730	Protagonist	Virtuous
+PT_143.txt	Climáximo	1746	1754	Protagonist	Virtuous
+PT_11.txt	Rússia	299	304	Protagonist	Guardian
+PT_11.txt	Pentágono	862	870	Antagonist	Deceiver
+PT_252.txt	Donald Trump	160	171	Protagonist	Peacemaker
+PT_252.txt	Thomas Matthew Crooks	896	916	Antagonist	Terrorist
+PT_252.txt	Ucrânia	1180	1186	Innocent	Victim
+PT_252.txt	Rússia	1208	1213	Antagonist	Foreign Adversary
+PT_252.txt	Estados Unidos	2050	2063	Protagonist	Virtuous
+PT_03.txt	Kiev	472	475	Antagonist	Foreign Adversary	Corrupt
+PT_03.txt	Polónia	1842	1848	Antagonist	Foreign Adversary
+PT_03.txt	EUA	1910	1912	Antagonist	Foreign Adversary
+PT_392.txt	Lula	727	730	Protagonist	Guardian
+PT_392.txt	Lula	1384	1387	Protagonist	Virtuous
+PT_54.txt	Rússia	372	377	Protagonist	Virtuous	Guardian
+PT_54.txt	Ocidente	459	466	Antagonist	Tyrant
+PT_54.txt	Rússia	815	820	Innocent	Victim
+PT_54.txt	Ocidente	1315	1322	Antagonist	Deceiver
+PT_54.txt	Daria	3246	3250	Innocent	Victim
+PT_54.txt	Kiev	3363	3366	Antagonist	Terrorist
+PT_URW_419.txt	Rússia	88	93	Protagonist	Peacemaker
+PT_URW_419.txt	Vladimir Putin	307	320	Protagonist	Peacemaker
+PT_97.txt	António Guterres	1654	1669	Protagonist	Guardian
+PT_380.txt	Azov	254	257	Antagonist	Terrorist
+PT_380.txt	Rússia	801	806	Antagonist	Tyrant
+PT_380.txt	Forças Armadas ucranianas	1152	1176	Antagonist	Terrorist
+PT_380.txt	Batalhão Azov	1282	1294	Antagonist	Bigot	Terrorist
+PT_380.txt	Exército russo	1513	1526	Protagonist	Guardian
+PT_23.txt	Ocidente	1136	1143	Innocent	Scapegoat
+PT_23.txt	Ucrânia	1639	1645	Antagonist	Foreign Adversary
+PT_23.txt	Organização do Tratado do Atlântico Norte	1731	1771	Antagonist	Instigator
+PT_66.txt	Ucrânia	1927	1933	Antagonist	Foreign Adversary
+PT_66.txt	Kiev	2362	2365	Antagonist	Terrorist
+PT_123.txt	Zelensky	348	355	Antagonist	Tyrant
+PT_123.txt	Rússia	1043	1048	Protagonist	Peacemaker
+PT_123.txt	Vladimir Putin	1356	1369	Protagonist	Virtuous
+PT_123.txt	Zelensky	1392	1399	Antagonist	Foreign Adversary	Tyrant
+PT_123.txt	Rússia	1562	1567	Protagonist	Guardian
+PT_123.txt	Kiev	2607	2610	Antagonist	Instigator
+PT_123.txt	Moscovo	2717	2723	Protagonist	Underdog
+PT_301.txt	Francisco	142	150	Protagonist	Guardian
+PT_301.txt	Ucrânia	1441	1447	Antagonist	Tyrant
+PT_301.txt	Moscovo	1685	1691	Antagonist	Tyrant
+PT_344.txt	Ursula von der Leyen	96	115	Protagonist	Guardian
+PT_344.txt	Mark Rutte	119	128	Protagonist	Guardian
+PT_344.txt	Kursk	1871	1875	Innocent	Victim
+PT_344.txt	Coreia do Norte	2315	2329	Innocent	Scapegoat
+PT_271.txt	Joe Biden	292	300	Antagonist	Incompetent
+PT_271.txt	Biden	1422	1426	Antagonist	Instigator
+PT_166.txt	José Manuel Fernandes	708	728	Protagonist	Virtuous
+PT_395.txt	Luis Montenegro	1180	1194	Antagonist	Corrupt
+PT_395.txt	Montenegro	1619	1628	Antagonist	Incompetent
+PT_51.txt	Europa	111	116	Innocent	Victim
+PT_51.txt	Ilan Kelman	367	377	Protagonist	Guardian
+PT_51.txt	Macedónia do Norte	1084	1101	Innocent	Victim
+PT_51.txt	Albânia	1104	1110	Innocent	Victim
+PT_51.txt	Bulgária	1114	1121	Innocent	Victim
+PT_51.txt	Hannah Cloke	1139	1150	Protagonist	Guardian
+PT_51.txt	Itália	2420	2425	Innocent	Victim
+PT_139.txt	Granada Romero Ruiz	86	104	Innocent	Victim
+PT_139.txt	Centros de Controlo e Prevenção de Doenças	2741	2782	Protagonist	Guardian
+PT_316.txt	Marina Silva	58	69	Protagonist	Guardian
+PT_316.txt	Rio Grande do Sul	317	333	Innocent	Victim
+PT_316.txt	Amazónia	398	405	Innocent	Victim
+PT_316.txt	Pantanal	412	419	Innocent	Victim
+PT_316.txt	Caatinga	578	585	Innocent	Victim
+PT_367.txt	Kiev	248	251	Antagonist	Incompetent
+PT_337.txt	Lula	121	124	Protagonist	Guardian
+PT_337.txt	Brasil	1332	1337	Protagonist	Virtuous
+PT_337.txt	Marina	1999	2004	Protagonist	Guardian
+PT_337.txt	Amazónia	2133	2140	Innocent	Victim
+PT_243.txt	Kiev	230	233	Protagonist	Peacemaker
+PT_243.txt	Rússia	268	273	Antagonist	Foreign Adversary
+PT_243.txt	Moscovo	279	285	Antagonist	Foreign Adversary
+PT_243.txt	Kiev	714	717	Protagonist	Peacemaker
+PT_243.txt	Ucrânia	1219	1225	Innocent	Victim
+PT_243.txt	China	1231	1235	Protagonist	Rebel
+PT_243.txt	Rússia	1538	1543	Innocent	Victim
+PT_243.txt	China	2160	2164	Protagonist	Virtuous
+PT_200.txt	Glaciar Perito Moreno	46	66	Innocent	Victim
+PT_200.txt	Jefferson Gonzalez	2331	2348	Protagonist	Guardian
+PT_69.txt	Volodymyr Zelensky	1680	1697	Protagonist	Virtuous
+PT_69.txt	Rússia	2034	2039	Antagonist	Foreign Adversary
+PT_39.txt	Ocidente	321	328	Antagonist	Deceiver
+PT_39.txt	Zelensky	362	369	Innocent	Exploited
+PT_39.txt	Ocidente	734	741	Antagonist	Corrupt
+PT_39.txt	Ucrânia	1462	1468	Innocent	Exploited
+PT_26.txt	Suécia	739	744	Antagonist	Foreign Adversary
+PT_26.txt	Rússia	1051	1056	Protagonist	Guardian
+PT_26.txt	NATO	1128	1131	Antagonist	Instigator
+PT_26.txt	Moscovo	1554	1560	Protagonist	Guardian
+PT_26.txt	NATO	1967	1970	Antagonist	Foreign Adversary
+PT_26.txt	Ocidente	2012	2019	Antagonist	Foreign Adversary
+PT_26.txt	Vladimir Putin	2083	2096	Protagonist	Peacemaker
+PT_286.txt	Kiev	512	515	Antagonist	Instigator
+PT_115.txt	Comissão Europeia	106	122	Protagonist	Virtuous
+PT_115.txt	Ursula von der Leyen	125	144	Protagonist	Virtuous
+PT_115.txt	União Europeia	161	174	Protagonist	Virtuous
+PT_115.txt	Ucrânia	251	257	Innocent	Victim
+PT_115.txt	G7	322	323	Protagonist	Virtuous
+PT_115.txt	Kremlin	709	715	Antagonist	Foreign Adversary
+PT_115.txt	Dmitry Peskov	1312	1324	Protagonist	Virtuous
+PT_115.txt	Rússia	1419	1424	Protagonist	Guardian
+PT_115.txt	Comissão Europeia	1489	1505	Antagonist	Corrupt
+PT_115.txt	Vladimir Putin	1709	1722	Protagonist	Virtuous
+PT_158.txt	Carlos Cortes	331	343	Protagonist	Virtuous
+PT_187.txt	Thais Yutori	1253	1264	Protagonist	Guardian
+PT_187.txt	Rio Grande do Sul	1546	1562	Innocent	Victim
+PT_101.txt	Guterres	77	84	Protagonist	Virtuous
+PT_373.txt	Zelensky	199	206	Antagonist	Tyrant
+PT_373.txt	Konstantinov	283	294	Protagonist	Guardian
+PT_373.txt	Zelensky	2092	2099	Antagonist	Incompetent
+PT_373.txt	EUA	2306	2308	Antagonist	Instigator	Foreign Adversary
+PT_365.txt	NATO	180	183	Antagonist	Saboteur
+PT_365.txt	EUA	190	192	Antagonist	Saboteur
+PT_CC_422.txt	Greta Thunberg	138	151	Antagonist	Incompetent
+PT_CC_422.txt	Greta Thunberg	1522	1535	Antagonist	Instigator
+PT_73.txt	Kiev	722	725	Innocent	Victim
+PT_73.txt	Moscovo	906	912	Antagonist	Foreign Adversary
+PT_30.txt	William Jones	311	323	Protagonist	Virtuous
+PT_30.txt	Ucrânia	1693	1699	Innocent	Exploited
+PT_30.txt	NATO	2007	2010	Antagonist	Foreign Adversary
+PT_30.txt	Rússia	2021	2026	Innocent	Victim
+PT_30.txt	Estados Unidos	2232	2245	Antagonist	Corrupt
+PT_30.txt	Washington	3101	3110	Antagonist	Corrupt
+PT_30.txt	Kiev	3114	3117	Antagonist	Corrupt
+PT_81.txt	Mário Machado	439	451	Antagonist	Terrorist
+PT_81.txt	Guarda Nacional Ucraniana	688	712	Antagonist	Terrorist
+PT_81.txt	Zelensky	1087	1094	Antagonist	Conspirator
+PT_81.txt	NATO	2593	2596	Antagonist	Deceiver
+PT_81.txt	UE	2604	2605	Antagonist	Deceiver
+PT_81.txt	ONU	2613	2615	Antagonist	Deceiver
+PT_223.txt	Legião da Boa Vontade	1690	1710	Protagonist	Virtuous	Guardian
+PT_266.txt	Vladimir Putin	230	243	Protagonist	Virtuous
+PT_266.txt	Washington	600	609	Antagonist	Bigot
+PT_266.txt	NATO	616	619	Antagonist	Bigot
+PT_266.txt	Portugal	622	629	Antagonist	Bigot
+PT_266.txt	UE	650	651	Antagonist	Bigot
+PT_266.txt	Kursk	942	946	Innocent	Victim
+PT_266.txt	Ucrânia	963	969	Antagonist	Saboteur
+PT_266.txt	Lisboa	1211	1216	Antagonist	Instigator
+PT_359.txt	Kiev	428	431	Antagonist	Incompetent
+PT_24.txt	Macron	1013	1018	Antagonist	Incompetent
+PT_138.txt	Brasil	187	192	Innocent	Victim
+PT_67.txt	Rússia	119	124	Innocent	Victim
+PT_67.txt	Ocidente	446	453	Antagonist	Foreign Adversary
+PT_67.txt	Estados Unidos	471	484	Antagonist	Foreign Adversary
+PT_67.txt	Rússia	1308	1313	Protagonist	Virtuous
+PT_67.txt	Ucrânia	1444	1450	Antagonist	Foreign Adversary
+PT_67.txt	Rússia	1507	1512	Protagonist	Peacemaker
+PT_67.txt	Vladimir Putin	1887	1900	Protagonist	Peacemaker
+PT_67.txt	Estados Unidos da América	2024	2048	Antagonist	Foreign Adversary
+PT_302.txt	Ucrânia	181	187	Antagonist	Instigator	Foreign Adversary
+PT_302.txt	Kursk	1467	1471	Innocent	Victim
+PT_345.txt	Zelensky	963	970	Antagonist	Instigator
+PT_345.txt	NATO	999	1002	Antagonist	Conspirator
+PT_345.txt	EUA	1222	1224	Antagonist	Saboteur
+PT_345.txt	Kiev	1527	1530	Antagonist	Deceiver
+PT_345.txt	Moscovo	1801	1807	Innocent	Victim
+PT_388.txt	António Costa	1164	1176	Antagonist	Incompetent
+PT_388.txt	Governo	1839	1845	Antagonist	Incompetent
+PT_393.txt	Valência	2074	2081	Innocent	Victim
+PT_47.txt	Ucrânia	857	863	Innocent	Forgotten
+PT_04.txt	Kiev	106	109	Antagonist	Deceiver
+PT_04.txt	Daesh	335	339	Antagonist	Terrorist
+PT_04.txt	Caesar Tokhosashvili	412	431	Antagonist	Terrorist
+PT_04.txt	Ucrânia	737	743	Antagonist	Deceiver
+PT_04.txt	Kiev	1401	1404	Antagonist	Incompetent
+PT_04.txt	SBU	2408	2410	Antagonist	Deceiver
+PT_53.txt	Ivar Giaever	937	948	Protagonist	Guardian
+PT_53.txt	John F. Clauser	952	966	Protagonist	Guardian
+PT_10.txt	Gitanas Nauseda	121	135	Protagonist	Guardian
+PT_10.txt	Ucrânia	181	187	Innocent	Victim
+PT_10.txt	Kiev	284	287	Innocent	Victim
+PT_10.txt	Emmanuel Macron	434	448	Protagonist	Guardian
+PT_10.txt	Vladimir Putin	1316	1329	Antagonist	Foreign Adversary
+PT_10.txt	Kiev	2018	2021	Antagonist	Foreign Adversary
+PT_10.txt	Presidente Vladimir Putin	2120	2144	Protagonist	Guardian
+PT_10.txt	Ocidente	2159	2166	Antagonist	Foreign Adversary
+PT_96.txt	Peskov	845	850	Protagonist	Guardian
+PT_96.txt	Rússia	1043	1048	Protagonist	Peacemaker
+PT_96.txt	Vladimir Putin	1356	1369	Protagonist	Virtuous
+PT_96.txt	Zelensky	1392	1399	Antagonist	Incompetent
+PT_96.txt	Rússia	1562	1567	Protagonist	Guardian
+PT_339.txt	Baghlan	789	795	Innocent	Victim
+PT_339.txt	Afeganistão	1278	1288	Innocent	Victim
+PT_18.txt	Ministério dos Negócios Estrangeiros	96	131	Protagonist	Guardian
+PT_18.txt	Organização do Tratado do Atlântico Norte (NATO	136	182	Antagonist	Instigator
+PT_18.txt	Estados Unidos	190	203	Antagonist	Instigator
+PT_18.txt	Vladimir Zelensky	763	779	Antagonist	Foreign Adversary
+PT_18.txt	Ocidente	842	849	Antagonist	Instigator
+PT_18.txt	Moscovo	1089	1095	Protagonist	Guardian
+PT_18.txt	EUA	1146	1148	Antagonist	Foreign Adversary
+PT_18.txt	Rússia	1295	1300	Protagonist	Peacemaker
+PT_18.txt	Kiev	1360	1363	Antagonist	Foreign Adversary
+PT_18.txt	Rússia	1946	1951	Protagonist	Guardian
+PT_18.txt	Putin	2052	2056	Protagonist	Guardian
+PT_251.txt	Ucrânia	134	140	Protagonist	Peacemaker
+PT_251.txt	Rússia	211	216	Protagonist	Peacemaker
+PT_251.txt	Dmytro Kuleba	367	379	Protagonist	Peacemaker
+PT_251.txt	Dmitry Peskov	776	788	Protagonist	Peacemaker
+PT_251.txt	Putin	1659	1663	Protagonist	Peacemaker
+PT_251.txt	China	2140	2144	Antagonist	Deceiver
+PT_95.txt	Lavrov	372	377	Protagonist	Peacemaker
+PT_95.txt	Biden	1632	1636	Antagonist	Incompetent
+PT_52.txt	Biden	2992	2996	Antagonist	Incompetent
+PT_19.txt	Ekaterina Altabayeva	498	517	Protagonist	Guardian
+PT_19.txt	Ucrânia	618	624	Antagonist	Deceiver
+PT_19.txt	Kiev	692	695	Antagonist	Foreign Adversary
+PT_19.txt	Rússia	731	736	Innocent	Scapegoat
+PT_19.txt	Donetsk	808	814	Antagonist	Terrorist
+PT_19.txt	Lugansk	818	824	Antagonist	Terrorist
+PT_19.txt	Ucrânia	930	936	Antagonist	Foreign Adversary
+PT_19.txt	Azov	1358	1361	Antagonist	Terrorist
+PT_19.txt	Ucrânia	1704	1710	Antagonist	Deceiver
+PT_19.txt	Rússia	2506	2511	Protagonist	Virtuous
+PT_122.txt	Napoleão Bonaparte	338	355	Antagonist	Tyrant
+PT_122.txt	Adolf Hitler	359	370	Antagonist	Tyrant
+PT_122.txt	Trump	1796	1800	Antagonist	Bigot
+PT_351.txt	Marina Silva	123	134	Protagonist	Guardian
+PT_351.txt	Marina Silva	942	953	Protagonist	Guardian
+PT_394.txt	Valência	2221	2228	Innocent	Victim
+PT_68.txt	Dmitri Peskov	688	700	Protagonist	Peacemaker
+PT_68.txt	Moscovo	1049	1055	Protagonist	Virtuous
+PT_193.txt	Greta Thunberg	808	821	Protagonist	Rebel
+PT_193.txt	Alok Sharma	1235	1245	Protagonist	Virtuous
+PT_193.txt	Txai Suruí	1443	1452	Protagonist	Rebel	Virtuous
+PT_193.txt	Ari Uru-Eu-Wau-Wau	1694	1711	Protagonist	Martyr
+PT_89.txt	UE	1481	1482	Antagonist	Saboteur
+PT_89.txt	Rússia	1498	1503	Innocent	Victim
+PT_89.txt	Hungria	1566	1572	Protagonist	Peacemaker
+PT_287.txt	Ministério da Defesa russo	155	180	Protagonist	Guardian
+PT_287.txt	Kiev	723	726	Antagonist	Instigator	Corrupt
+PT_150.txt	Grécia	268	273	Innocent	Victim
+PT_150.txt	Sifnos	472	477	Innocent	Victim
+PT_150.txt	Cíclades	484	491	Innocent	Victim
+PT_150.txt	Leros	494	498	Innocent	Victim
+PT_150.txt	Dodecaneso	514	523	Innocent	Victim
+PT_150.txt	Sami	526	529	Innocent	Victim
+PT_150.txt	Cefalônia	535	543	Innocent	Victim
+PT_150.txt	Creta	561	565	Innocent	Victim
+PT_150.txt	Naxos	777	781	Innocent	Victim
+PT_150.txt	Feloni	2344	2349	Protagonist	Guardian
+PT_116.txt	Amorim	1102	1107	Protagonist	Peacemaker
+PT_116.txt	Brasil	1280	1285	Protagonist	Peacemaker
+PT_116.txt	China	1294	1298	Protagonist	Peacemaker
+PT_116.txt	Ucrânia	1813	1819	Antagonist	Instigator
+PT_25.txt	Rússia	2742	2747	Protagonist	Peacemaker
+PT_25.txt	EUA	2985	2987	Antagonist	Instigator
+PT_80.txt	Mário Machado	141	153	Antagonist	Terrorist
+PT_159.txt	Portugal	206	213	Innocent	Victim
+PT_159.txt	Estados Unidos	341	354	Innocent	Victim
+PT_159.txt	Canadá	360	365	Innocent	Victim
+PT_159.txt	China	371	375	Innocent	Victim
+PT_317.txt	Rondónia	79	86	Innocent	Victim
+PT_317.txt	Amazónia	969	976	Innocent	Victim
+PT_317.txt	Rondónia	1029	1036	Innocent	Victim
+PT_317.txt	Rio Madeira	2194	2204	Innocent	Victim
+PT_366.txt	Vladimir Zelensky	114	130	Antagonist	Incompetent
+PT_366.txt	NATO	183	186	Antagonist	Foreign Adversary
+PT_366.txt	Rússia	218	223	Innocent	Victim
+PT_366.txt	Zelensky	730	737	Antagonist	Instigator
+PT_366.txt	Kiev	1364	1367	Antagonist	Terrorist
+PT_366.txt	Kiev	1864	1867	Antagonist	Tyrant
+PT_366.txt	Moscovo	2061	2067	Innocent	Victim
+PT_74.txt	Pokrovsk	1139	1146	Innocent	Victim
+PT_31.txt	Ucrânia	313	319	Antagonist	Foreign Adversary
+PT_31.txt	EUA	327	329	Antagonist	Foreign Adversary
+PT_31.txt	Moscovo	1999	2005	Protagonist	Guardian
+PT_238.txt	Ucrânia	1985	1991	Antagonist	Foreign Adversary
+PT_238.txt	Israel	1994	1999	Antagonist	Foreign Adversary
+PT_238.txt	Estados Unidos	2006	2019	Antagonist	Foreign Adversary
