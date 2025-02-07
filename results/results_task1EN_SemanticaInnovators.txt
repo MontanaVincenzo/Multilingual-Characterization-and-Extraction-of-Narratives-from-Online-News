@@ -1,0 +1,235 @@
+CC_TEST_00000.txt	Hank Paulson	2402	2413	Protagonist	Virtuous
+CC_TEST_00000.txt	Tom Steyer	2358	2367	Protagonist	Virtuous
+CC_TEST_00000.txt	Michael Bloomberg	1918	1934	Protagonist	Virtuous
+CC_TEST_00000.txt	RCP8.5	1071	1076	Innocent	Forgotten	Exploited	Victim	Scapegoat
+CC_TEST_00000.txt	Guardian	308	315	Protagonist	Virtuous
+CC_TEST_00000.txt	BBC	296	298	Protagonist	Virtuous
+CC_TEST_00005.txt	CNN	86	88	Innocent	Forgotten
+CC_TEST_00017.txt	WWA	3526	3528	Innocent	Forgotten
+CC_TEST_00017.txt	BBC	126	128	Innocent	Forgotten	Scapegoat
+CC_TEST_00017.txt	CNN	118	120	Innocent	Forgotten
+CC_TEST_00023.txt	China	5204	5208	Innocent	Forgotten
+CC_TEST_00023.txt	Germany	4779	4785	Innocent	Scapegoat
+CC_TEST_00023.txt	Germany	1193	1199	Innocent	Scapegoat
+CC_TEST_00025.txt	the AP	2275	2280	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+CC_TEST_00025.txt	James Murdoch	1397	1409	Innocent	Forgotten	Exploited	Victim	Scapegoat
+CC_TEST_00025.txt	Quadrivium	1370	1379	Innocent	Forgotten	Exploited	Victim	Scapegoat
+CC_TEST_00025.txt	Associated Press	205	220	Innocent	Forgotten	Exploited	Victim	Scapegoat
+CC_TEST_00032.txt	Wall Street Journal	63	81	Innocent	Forgotten
+CC_TEST_00033.txt	Donald Trump	2423	2434	Protagonist	Guardian	Virtuous
+CC_TEST_00033.txt	The World Bank	1313	1326	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+CC_TEST_00033.txt	The World Economic Forum (WEF	377	405	Protagonist	Virtuous
+CC_TEST_00035.txt	Craig Mackinlay	2221	2235	Innocent	Forgotten	Exploited	Victim	Scapegoat
+CC_TEST_00035.txt	Climate Change Committee (CCC	141	169	Innocent	Forgotten	Exploited
+CC_TEST_00036.txt	BlackRock	2948	2956	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary
+CC_TEST_00036.txt	Mark Zuckerberg	2923	2937	Innocent	Forgotten
+CC_TEST_00036.txt	Jeff Bezos	2911	2920	Protagonist	Guardian
+CC_TEST_00036.txt	Bill Gates	2899	2908	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Incompetent	Terrorist	Deceiver
+CC_TEST_00036.txt	Bill Gates	111	120	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary
+CC_TEST_00039.txt	Yale Carbon Containment (CC) Lab	2146	2177	Innocent	Forgotten
+CC_TEST_00039.txt	Bill Gates	487	496	Innocent	Forgotten
+CC_TEST_00046.txt	Kalmus	1014	1019	Protagonist	Guardian	Peacemaker	Rebel
+CC_TEST_00047.txt	Biden	1906	1910	Protagonist	Guardian
+CC_TEST_00047.txt	G-20 Summit	657	667	Innocent	Forgotten
+CC_TEST_00049.txt	J Paul Getty’s granddaughter	2231	2258	Innocent	Forgotten
+CC_TEST_00049.txt	Just Stop Oil	2067	2079	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Virtuous
+CC_TEST_00049.txt	King Charles	860	871	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+CC_TEST_00049.txt	Just Stop Oil	483	495	Protagonist	Guardian	Martyr	Peacemaker	Rebel
+CC_TEST_00050.txt	FBI	3948	3950	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+CC_TEST_00050.txt	DOJ	3943	3945	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+CC_TEST_00050.txt	GOP	3848	3850	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary
+CC_TEST_00050.txt	Gates	3575	3579	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+CC_TEST_00050.txt	Bill Gates	420	429	Innocent	Forgotten	Exploited	Victim	Scapegoat
+CC_TEST_00053.txt	John Kerry	6016	6025	Innocent	Forgotten
+CC_TEST_00053.txt	Alexandria Ocasio-Cortez	1561	1584	Innocent	Forgotten
+CC_TEST_00059.txt	Nature Communications	437	457	Innocent	Forgotten
+CC_TEST_00063.txt	Climate Action	787	800	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+CC_TEST_00070.txt	Liao	1303	1306	Protagonist	Guardian	Rebel
+CC_TEST_00080.txt	President Joe Biden	395	413	Protagonist	Guardian	Peacemaker	Rebel
+CC_TEST_00089.txt	China	263	267	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+CC_TEST_00091.txt	the UN	2476	2481	Antagonist	Instigator	Tyrant
+CC_TEST_00097.txt	Southern California Gas Company	104	134	Innocent	Forgotten	Exploited	Victim
+CC_TEST_00099.txt	EU	1126	1127	Innocent	Forgotten	Exploited	Victim	Scapegoat
+CC_TEST_00099.txt	WEF	1118	1120	Innocent	Forgotten	Exploited	Victim	Scapegoat
+CC_TEST_00099.txt	The UN	1110	1115	Innocent	Forgotten	Exploited	Victim	Scapegoat
+EN_CC_200164.txt	WEF	520	522	Protagonist	Guardian	Rebel
+EN_CC_200164.txt	World Economic Forum (WEF	81	105	Protagonist	Guardian
+EN_UA_300042.txt	Russians	2074	2081	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+EN_UA_300042.txt	Victoria Nuland	112	126	Innocent	Forgotten
+EN_UA_DEV_25.txt	Moscow	6830	6835	Innocent	Scapegoat
+EN_UA_DEV_25.txt	Ukraine	6088	6094	Innocent	Scapegoat
+EN_UA_DEV_25.txt	Stepan Bandera	5537	5550	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+EN_UA_DEV_25.txt	Kiev	3818	3821	Innocent	Scapegoat
+EN_UA_DEV_25.txt	Svoboda	3560	3566	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+EN_UA_DEV_25.txt	Pravyy sektor	3542	3554	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+EN_UA_DEV_25.txt	C14	3487	3489	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+EN_UA_DEV_25.txt	Azov Battalion	3471	3484	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+EN_UA_DEV_25.txt	Arsen Avakov	2713	2724	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+EN_UA_DEV_25.txt	Ethnic Russians	1899	1913	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+EN_UA_DEV_25.txt	Ukraine	261	267	Innocent	Scapegoat
+EN_UA_DEV_27.txt	NATO	5919	5922	Protagonist	Rebel
+EN_UA_DEV_27.txt	United States	5897	5909	Antagonist	Instigator	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+EN_UA_DEV_27.txt	Rafael Grossi	4263	4275	Innocent	Forgotten
+EN_UA_DEV_27.txt	the International Atomic Energy Agency	4133	4170	Protagonist	Guardian
+EN_UA_DEV_27.txt	Kiev	2126	2129	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+EN_UA_DEV_27.txt	Vladimir Zelensky	568	584	Antagonist	Instigator	Foreign Adversary	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+EN_UA_DEV_27.txt	Kiev	78	81	Innocent	Forgotten
+RU_TEST_00002.txt	The U.S	2564	2570	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00002.txt	the Pentagon	2288	2299	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00002.txt	Putin	1354	1358	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00002.txt	Ukraine	781	787	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00007.txt	Ukrainians	2609	2618	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00007.txt	Maria Lvova Belova	1396	1413	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00007.txt	Vitaliy Vertash	1038	1052	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00007.txt	Vladimir Putin	741	754	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00007.txt	Moscow	546	551	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00007.txt	RUSSIA	122	127	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00008.txt	OLAF	8276	8279	Protagonist	Guardian
+RU_TEST_00008.txt	Karel Pinxten	7593	7605	Protagonist	Guardian
+RU_TEST_00008.txt	the EU	7166	7171	Protagonist	Guardian
+RU_TEST_00008.txt	Johannes Hahn	6665	6677	Protagonist	Guardian
+RU_TEST_00008.txt	Europe	6418	6423	Innocent	Forgotten
+RU_TEST_00008.txt	Josep Borrell Fontelles	4776	4798	Innocent	Forgotten
+RU_TEST_00008.txt	Margrethe Vestager	3793	3810	Protagonist	Guardian	Rebel
+RU_TEST_00008.txt	Valdis Dombrovskis	3181	3198	Innocent	Forgotten
+RU_TEST_00008.txt	EC	2051	2052	Protagonist	Guardian
+RU_TEST_00008.txt	Frans Timmermans	2010	2025	Protagonist	Guardian
+RU_TEST_00008.txt	Action for Democracy (AD	1499	1522	Protagonist	Guardian
+RU_TEST_00008.txt	Anne Applebaum	1322	1335	Innocent	Forgotten
+RU_TEST_00008.txt	Radoslaw Sikorski	1249	1265	Innocent	Forgotten
+RU_TEST_00008.txt	David Miliband	1164	1177	Innocent	Forgotten
+RU_TEST_00008.txt	Alexander Soros	903	917	Innocent	Forgotten
+RU_TEST_00008.txt	Ursula von der Leyen	788	807	Protagonist	Guardian
+RU_TEST_00008.txt	European Commission’s president	666	696	Innocent	Forgotten
+RU_TEST_00008.txt	George Soros	615	626	Protagonist	Guardian
+RU_TEST_00008.txt	Brussels	49	56	Innocent	Forgotten
+RU_TEST_00009.txt	NATO	3047	3050	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary
+RU_TEST_00009.txt	Washington	3030	3039	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary
+RU_TEST_00009.txt	Moscow	2995	3000	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00009.txt	Americans	1260	1268	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary
+RU_TEST_00009.txt	Giovanni Gentile	1177	1192	Protagonist	Guardian	Rebel	Virtuous
+RU_TEST_00009.txt	Washington	920	929	Protagonist	Guardian	Peacemaker
+RU_TEST_00009.txt	NATO	914	917	Protagonist	Guardian	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00009.txt	Alekandr Dugin	816	829	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00009.txt	Daria Dugin	699	709	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00009.txt	Kiev	428	431	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary
+RU_TEST_00009.txt	Kiev	289	292	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary
+RU_TEST_00009.txt	Ksenia Sobchak	176	189	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00009.txt	Margarita Simonyan	82	99	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00011.txt	Kremlin	4305	4311	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00011.txt	Ukraine	335	341	Innocent	Forgotten
+RU_TEST_00012.txt	Sweden	4981	4986	Protagonist	Guardian	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00012.txt	Finland	4969	4975	Antagonist	Instigator	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00012.txt	EU Commission	4188	4200	Antagonist	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00012.txt	von der Leyen	4166	4178	Innocent	Forgotten	Exploited	Victim
+RU_TEST_00012.txt	the US	3287	3292	Protagonist	Rebel	Underdog	Virtuous
+RU_TEST_00012.txt	Europe	3094	3099	Innocent	Forgotten	Victim	Scapegoat
+RU_TEST_00012.txt	Russia	2060	2065	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00012.txt	NATO	1786	1789	Protagonist	Rebel	Underdog	Virtuous
+RU_TEST_00012.txt	British and German media	792	815	Innocent	Forgotten
+RU_TEST_00012.txt	European politicians	428	447	Protagonist	Guardian	Rebel	Underdog	Virtuous
+RU_TEST_00012.txt	NATO	207	210	Protagonist	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00013.txt	America	1095	1101	Innocent	Forgotten
+RU_TEST_00013.txt	Kyiv	1011	1014	Innocent	Forgotten
+RU_TEST_00013.txt	the West	618	625	Innocent	Forgotten
+RU_TEST_00013.txt	New Zealand	254	264	Innocent	Forgotten
+RU_TEST_00013.txt	Australia	240	248	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00013.txt	Japan	233	237	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00013.txt	South Korea	220	230	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00014.txt	The United States	6426	6442	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00014.txt	the EU	6304	6309	Antagonist	Terrorist
+RU_TEST_00014.txt	NATO	6295	6298	Antagonist	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00014.txt	West	6165	6168	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver
+RU_TEST_00014.txt	China	5816	5820	Innocent	Forgotten
+RU_TEST_00014.txt	Kiev	4744	4747	Innocent	Forgotten
+RU_TEST_00014.txt	the US	4614	4619	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00014.txt	Russia	4271	4276	Protagonist	Virtuous
+RU_TEST_00014.txt	Kiev	4027	4030	Protagonist	Guardian
+RU_TEST_00015.txt	Ukraine	1077	1083	Protagonist	Guardian	Virtuous
+RU_TEST_00015.txt	Russia	165	170	Innocent	Forgotten	Exploited
+RU_TEST_00016.txt	NATO	1848	1851	Protagonist	Guardian	Rebel
+RU_TEST_00016.txt	the US	1837	1842	Protagonist	Guardian	Rebel
+RU_TEST_00016.txt	Aaron Kaufman	901	913	Protagonist	Guardian
+RU_TEST_00016.txt	Sean Penn	97	105	Protagonist	Guardian
+RU_TEST_00021.txt	NATO	180	183	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00021.txt	the West	167	174	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00026.txt	Ukraine	2375	2381	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00026.txt	Financial Times	2278	2292	Innocent	Forgotten	Scapegoat
+RU_TEST_00026.txt	Russia	235	240	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00028.txt	Putin	2483	2487	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00028.txt	Hamas	1505	1509	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00028.txt	Republicans	1471	1481	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Incompetent	Terrorist
+RU_TEST_00028.txt	Washington	588	597	Protagonist	Guardian
+RU_TEST_00030.txt	the EU	2292	2297	Protagonist	Guardian	Martyr	Peacemaker	Rebel
+RU_TEST_00037.txt	The European Commission	2614	2636	Innocent	Forgotten
+RU_TEST_00037.txt	Putin	1137	1141	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00037.txt	Russia	1127	1132	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00037.txt	Brussels	812	819	Innocent	Forgotten
+RU_TEST_00037.txt	The European Union	62	79	Innocent	Forgotten	Exploited	Victim
+RU_TEST_00042.txt	Zelensky	1637	1644	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00044.txt	Russia	2261	2266	Innocent	Forgotten
+RU_TEST_00044.txt	Russian	834	840	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Deceiver
+RU_TEST_00044.txt	Azov Regiment	411	423	Innocent	Forgotten	Scapegoat
+RU_TEST_00044.txt	Ukrainians	241	250	Innocent	Forgotten
+RU_TEST_00045.txt	the Houthis	2843	2853	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00045.txt	Hezbollah	2828	2836	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00045.txt	Hamas	2821	2825	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00045.txt	North Korea	2591	2601	Innocent	Forgotten	Victim	Scapegoat
+RU_TEST_00045.txt	Iran	2582	2585	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00045.txt	Russia	137	142	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00045.txt	China	127	131	Protagonist	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00051.txt	Putin	1449	1453	Innocent	Forgotten
+RU_TEST_00051.txt	Putin	807	811	Innocent	Forgotten	Exploited	Scapegoat
+RU_TEST_00051.txt	FSB	300	302	Innocent	Forgotten
+RU_TEST_00051.txt	Russia's	89	96	Innocent	Forgotten
+RU_TEST_00055.txt	George Bush	4931	4941	Protagonist	Guardian
+RU_TEST_00055.txt	Russia	3716	3721	Innocent	Forgotten
+RU_TEST_00055.txt	Joe Biden	1300	1308	Protagonist	Guardian
+RU_TEST_00055.txt	Vladimir Putin	391	404	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Virtuous
+RU_TEST_00055.txt	Ukraine	193	199	Innocent	Forgotten
+RU_TEST_00057.txt	Ukraine	7123	7129	Innocent	Forgotten
+RU_TEST_00057.txt	Russia	5718	5723	Innocent	Scapegoat
+RU_TEST_00057.txt	the West	5686	5693	Antagonist	Foreign Adversary
+RU_TEST_00057.txt	US-	3245	3247	Antagonist	Instigator
+RU_TEST_00057.txt	the West	1876	1883	Antagonist	Foreign Adversary
+RU_TEST_00061.txt	the collective West	2238	2256	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00061.txt	Britain	1811	1817	Innocent	Forgotten	Exploited
+RU_TEST_00061.txt	the United States	1789	1805	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00061.txt	the United States	1677	1693	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00061.txt	Russia	704	709	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00067.txt	Putin	2601	2605	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00067.txt	Pavel Pchelnikov	142	157	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00068.txt	US	1394	1395	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00068.txt	Israeli administration	1072	1093	Innocent	Forgotten
+RU_TEST_00068.txt	Israeli government	927	944	Innocent	Forgotten
+RU_TEST_00073.txt	West's	1186	1191	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00073.txt	Ukraine	1168	1174	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00073.txt	Vladimir Putin	396	409	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00073.txt	Russian Federation	331	348	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00074.txt	ICC	2246	2248	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary
+RU_TEST_00074.txt	US	2229	2230	Innocent	Forgotten
+RU_TEST_00076.txt	U.S.-	2801	2805	Protagonist	Guardian	Martyr	Peacemaker	Rebel
+RU_TEST_00076.txt	Zelensky	26	33	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Virtuous
+RU_TEST_00081.txt	the United States	421	437	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00081.txt	Ukraine	408	414	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00081.txt	Russia	360	365	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00082.txt	Russia	1687	1692	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00084.txt	Ukraine	872	878	Innocent	Forgotten	Exploited	Victim
+RU_TEST_00084.txt	Russia	297	302	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Virtuous
+RU_TEST_00084.txt	Emmanuel Macron	273	287	Innocent	Forgotten	Scapegoat
+RU_TEST_00085.txt	Poland	2314	2319	Antagonist	Foreign Adversary
+RU_TEST_00085.txt	Hunter Biden	735	746	Antagonist	Foreign Adversary
+RU_TEST_00085.txt	Zelensky	238	245	Innocent	Forgotten
+RU_TEST_00086.txt	Russia	1576	1581	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00086.txt	NATO	1270	1273	Protagonist	Guardian	Peacemaker	Rebel	Virtuous
+RU_TEST_00086.txt	Russia	213	218	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00092.txt	Europe	2834	2839	Innocent	Forgotten	Exploited	Victim
+RU_TEST_00092.txt	Russia	835	840	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00095.txt	Putin	1895	1899	Protagonist	Guardian	Martyr	Peacemaker	Rebel	Underdog	Virtuous
+RU_TEST_00095.txt	Yevgeny Satanovsky	207	224	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00095.txt	Vladimir Putin	118	131	Innocent	Forgotten	Exploited	Scapegoat
+RU_TEST_00096.txt	Pushilin	2083	2090	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist	Deceiver	Bigot
+RU_TEST_00096.txt	the Kremlin	514	524	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00096.txt	Russia	429	434	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00096.txt	Ukraine	348	354	Innocent	Forgotten	Exploited	Victim	Scapegoat
+RU_TEST_00098.txt	the United States	421	437	Antagonist	Instigator	Conspirator	Tyrant	Foreign Adversary	Traitor	Spy	Saboteur	Corrupt	Incompetent	Terrorist
