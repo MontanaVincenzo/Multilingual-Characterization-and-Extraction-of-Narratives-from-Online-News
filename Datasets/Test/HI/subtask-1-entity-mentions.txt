@@ -1,0 +1,316 @@
+HI_URW_TEST_492.txt	नरेंद्र मोदी	154	165
+HI_URW_TEST_492.txt	भारतीय छात्रों	215	228
+HI_URW_TEST_492.txt	जेपी नड्डा	287	296
+HI_URW_TEST_492.txt	अमित शाह	441	448
+HI_URW_TEST_492.txt	मोदी	473	476
+HI_URW_TEST_492.txt	भारत	670	673
+HI_URW_TEST_492.txt	व्लादिमीर पुतिन	1214	1228
+HI_URW_TEST_492.txt	वोलोडिमिर ज़ेलेंस्की	1255	1274
+HI_URW_TEST_492.txt	भारतीय बच्चों	1312	1324
+HI_URW_TEST_484.txt	नास्त्रेदमस	94	104
+HI_CC_TEST_416.txt	यूरोपीय संघ	187	197
+HI_CC_TEST_416.txt	चीन	302	304
+HI_CC_TEST_416.txt	भारत	545	548
+HI_CC_TEST_416.txt	चीन	553	555
+HI_CC_TEST_416.txt	यूनाइटेड किंगडम	743	757
+HI_CC_TEST_416.txt	अमेरिका	776	782
+HI_CC_TEST_416.txt	यूरोपीय संघ	860	870
+HI_CC_TEST_416.txt	निर्मला सीतारमण	1088	1102
+HI_CC_TEST_416.txt	सेंटर फॉर साइंस एंड एनवायरनमेंट (सीएसई	1311	1348
+HI_CC_TEST_416.txt	भारत	1370	1373
+HI_CC_TEST_416.txt	यूरोपीय संघ	1378	1388
+HI_URW_TEST_522.txt	चीन	101	103
+HI_URW_TEST_522.txt	गेंग शुआंग	128	137
+HI_URW_TEST_522.txt	यूक्रेन	155	161
+HI_URW_TEST_522.txt	अमेरिका	228	234
+HI_URW_TEST_530.txt	यूक्रेन	90	96
+HI_URW_TEST_530.txt	जीयूआर	117	122
+HI_URW_TEST_530.txt	रूसी जनरल	165	173
+HI_URW_TEST_530.txt	कमांडर	201	206
+HI_URW_TEST_530.txt	एसबीयू	430	435
+HI_URW_TEST_530.txt	ईवान स्तूपक	454	464
+HI_URW_TEST_530.txt	स्तूपक	892	897
+HI_URW_TEST_504.txt	रूस	611	613
+HI_URW_TEST_476.txt	बाइडेन	204	209
+HI_URW_TEST_476.txt	ट्रंप	284	288
+HI_URW_TEST_476.txt	डोनाल्ड ट्रंप	381	393
+HI_URW_TEST_486.txt	रूस	88	90
+HI_URW_TEST_486.txt	यूक्रेन	95	101
+HI_URW_TEST_486.txt	अमेरिका	118	124
+HI_URW_TEST_486.txt	कीव	220	222
+HI_URW_TEST_486.txt	लॉयड ऑस्टिन	366	376
+HI_URW_TEST_486.txt	डोनाल्ड ट्रंप	545	557
+HI_URW_TEST_486.txt	बाइडेन प्रशासन	593	606
+HI_URW_TEST_486.txt	ऑस्टिन	1308	1313
+HI_URW_TEST_486.txt	ट्रंप	1407	1411
+HI_URW_TEST_499.txt	मावका	930	934
+HI_CC_TEST_414.txt	सैंटियागो नेटवर्कय	1375	1392
+HI_URW_TEST_456.txt	इजराइल	305	310
+HI_URW_TEST_456.txt	लेबनान	315	320
+HI_URW_TEST_456.txt	भारत	3409	3412
+HI_URW_TEST_490.txt	रूस	154	156
+HI_URW_TEST_490.txt	यूक्रेन	180	186
+HI_URW_TEST_490.txt	भारत	235	238
+HI_URW_TEST_490.txt	नरेन्द्र मोदी	256	268
+HI_URW_TEST_490.txt	जेलेंस्की	316	324
+HI_URW_TEST_490.txt	मोदी	543	546
+HI_URW_TEST_490.txt	पुतिन	1152	1156
+HI_URW_TEST_519.txt	पुतिन	104	108
+HI_URW_TEST_519.txt	इगोर किरिलोव	189	200
+HI_URW_TEST_519.txt	यूक्रेन	327	333
+HI_URW_TEST_519.txt	यूक्रेन की सुरक्षा सेवा	345	367
+HI_URW_TEST_519.txt	इगोर	1254	1257
+HI_URW_TEST_524.txt	मिखाइल शेट्स्की	80	94
+HI_URW_TEST_524.txt	पुतिन	106	110
+HI_URW_TEST_524.txt	मिखाइल	208	213
+HI_URW_TEST_524.txt	शेट्स्की	671	678
+HI_URW_TEST_524.txt	नेवज़ोरोव	1006	1014
+HI_URW_TEST_524.txt	कीव इंडिपेंडेंट	1106	1120
+HI_URW_TEST_506.txt	कन्हैया	465	471
+HI_URW_TEST_506.txt	जय यादव	1270	1276
+HI_URW_TEST_471.txt	उत्तर कोरियाई सेना	946	963
+HI_URW_TEST_518.txt	यूक्रेन	353	359
+HI_URW_TEST_518.txt	रूस	436	438
+HI_URW_TEST_518.txt	उत्तर कोरियाई सैनिकों	484	504
+HI_URW_TEST_518.txt	उत्तर कोरिया	779	790
+HI_URW_TEST_518.txt	उत्तर कोरिया	1131	1142
+HI_URW_TEST_480.txt	रूस	110	112
+HI_URW_TEST_480.txt	यूक्रेन	136	142
+HI_URW_TEST_480.txt	दक्षिणी रूस	164	174
+HI_URW_TEST_480.txt	बच्चे	465	469
+HI_URW_TEST_480.txt	बेलगोरोद	604	611
+HI_URW_TEST_480.txt	व्याचेस्लाव ग्लैदकोव	623	642
+HI_URW_TEST_480.txt	ग्लैदकोव	740	747
+HI_URW_TEST_480.txt	ओर्योल	1130	1135
+HI_URW_TEST_480.txt	एंड्री क्लिचकोव	1147	1161
+HI_URW_TEST_508.txt	उत्तर कोरियाई सैनिक	298	316
+HI_URW_TEST_525.txt	रूस	536	538
+HI_URW_TEST_525.txt	व्लादिमीर पुतिन	554	568
+HI_URW_TEST_525.txt	पायलट	586	590
+HI_URW_TEST_525.txt	यूक्रेन	728	734
+HI_URW_TEST_525.txt	अमेरिका	739	745
+HI_URW_TEST_535.txt	रूस	82	84
+HI_URW_TEST_535.txt	यूक्रेन	89	95
+HI_URW_TEST_535.txt	जेलेंस्की	169	177
+HI_URW_TEST_535.txt	व्लादिमीर पुतिन	244	258
+HI_URW_TEST_535.txt	व्यक्ति	468	474
+HI_URW_TEST_535.txt	पुतिन	672	676
+HI_URW_TEST_535.txt	खारकीव	958	963
+HI_URW_TEST_535.txt	सर्गेई	1088	1093
+HI_CC_TEST_421.txt	विकसित देशों	105	116
+HI_CC_TEST_421.txt	भारत	234	237
+HI_CC_TEST_421.txt	अमेरिका	318	324
+HI_URW_TEST_463.txt	रूस	79	81
+HI_CC_TEST_404.txt	भारत	107	110
+HI_CC_TEST_404.txt	राष्ट्र जलवायु परिवर्तन अधिकारी	640	670
+HI_CC_TEST_404.txt	संयुक्त राष्ट्र	1292	1306
+HI_URW_TEST_489.txt	अमेरिका	132	138
+HI_URW_TEST_489.txt	अडानी समूह	144	153
+HI_URW_TEST_489.txt	संजय कौशिक	207	216
+HI_URW_TEST_489.txt	कौशिक	895	899
+HI_URW_TEST_489.txt	रूस	1212	1214
+HI_CC_TEST_410.txt	भारत	1568	1571
+HI_URW_TEST_495.txt	यूक्रेनी सेना	460	472
+HI_URW_TEST_495.txt	चेचन्या	477	483
+HI_URW_TEST_495.txt	बूढ़े व्यक्ति	510	521
+HI_URW_TEST_495.txt	चेचन्या की सेना	634	648
+HI_URW_TEST_495.txt	रूसी सेना	651	659
+HI_URW_TEST_495.txt	मेक्सिम ज़ैपसोकनी	1057	1072
+HI_URW_TEST_529.txt	सूत्रों	105	111
+HI_URW_TEST_529.txt	रूसी सेना	168	176
+HI_URW_TEST_529.txt	यूक्रेन	278	284
+HI_URW_TEST_529.txt	रूस	374	376
+HI_URW_TEST_529.txt	एसबीयू	588	593
+HI_URW_TEST_529.txt	ईवान स्तूपक	613	623
+HI_URW_TEST_529.txt	इगोर किरिलोव	673	684
+HI_URW_TEST_529.txt	किरिलोव	868	874
+HI_URW_TEST_529.txt	स्तूपक	1116	1121
+HI_URW_TEST_531.txt	रूस	90	92
+HI_URW_TEST_531.txt	डोनाल्ड ट्रंप	97	109
+HI_URW_TEST_531.txt	अमेरिका	167	173
+HI_URW_TEST_531.txt	यूक्रेन	225	231
+HI_URW_TEST_531.txt	यूक्रेन	287	293
+HI_URW_TEST_531.txt	ट्रंप	339	343
+HI_URW_TEST_501.txt	उत्तर कोरिया	151	162
+HI_URW_TEST_503.txt	जो बाइडन	126	133
+HI_URW_TEST_516.txt	कजान	186	189
+HI_URW_TEST_516.txt	रूसी रक्षा मंत्रालय	604	622
+HI_URW_TEST_516.txt	यूक्रेन	1179	1185
+HI_URW_TEST_514.txt	यूक्रेन	288	294
+HI_URW_TEST_533.txt	रूस	68	70
+HI_URW_TEST_533.txt	यूक्रेन	437	443
+HI_URW_TEST_533.txt	रूस	907	909
+HI_URW_TEST_533.txt	यूक्रेनी फौज	1133	1144
+HI_URW_TEST_527.txt	यूक्रेन	86	92
+HI_URW_TEST_527.txt	रूस	101	103
+HI_URW_TEST_482.txt	रूस	128	130
+HI_URW_TEST_482.txt	यूक्रेन	135	141
+HI_URW_TEST_482.txt	रूसी सेना	211	219
+HI_URW_TEST_482.txt	हर्मन हेलूशेंको	482	496
+HI_URW_TEST_482.txt	पोक्रोवस्क	938	947
+HI_URW_TEST_520.txt	रूस	72	74
+HI_URW_TEST_520.txt	यूक्रेन	91	97
+HI_URW_TEST_520.txt	वोलोदिमीर जेलेंस्की	197	215
+HI_URW_TEST_520.txt	यूक्रेन	425	431
+HI_URW_TEST_520.txt	पश्चिमी देशों	541	553
+HI_URW_TEST_520.txt	व्लादिमीर पुतिन	811	825
+HI_URW_TEST_520.txt	रूसी सेना	1072	1080
+HI_CC_TEST_419.txt	भारत	48	51
+HI_CC_TEST_419.txt	विकसित देशों	596	607
+HI_CC_TEST_419.txt	भारत	646	649
+HI_URW_TEST_478.txt	रूस	96	98
+HI_URW_TEST_478.txt	यूक्रेन	103	109
+HI_URW_TEST_478.txt	चेचन्या	212	218
+HI_URW_TEST_478.txt	वोलोदिमीर जेलेंस्की	415	433
+HI_URW_TEST_478.txt	व्लादिमीर पुतिन	483	497
+HI_URW_TEST_478.txt	कीव	672	674
+HI_URW_TEST_478.txt	ग्रोज्नी	813	820
+HI_CC_TEST_406.txt	भारत	73	76
+HI_CC_TEST_417.txt	भारत	101	104
+HI_CC_TEST_417.txt	नरेंद्र मोदी	261	272
+HI_CC_TEST_417.txt	मोदी	320	323
+HI_CC_TEST_417.txt	यूके	1100	1103
+HI_URW_TEST_459.txt	बाइडेन	906	911
+HI_URW_TEST_459.txt	रूस	958	960
+HI_URW_TEST_521.txt	ट्रंप	74	78
+HI_URW_TEST_521.txt	डोनाल्ड ट्रंप	152	164
+HI_URW_TEST_521.txt	यूक्रेन	237	243
+HI_URW_TEST_521.txt	अमेरिका	248	254
+HI_URW_TEST_521.txt	रूस	306	308
+HI_URW_TEST_521.txt	दिमित्री पेसकोव	397	411
+HI_URW_TEST_521.txt	पेस्कोव	478	484
+HI_URW_TEST_521.txt	हर्मन हेलुशेंको	663	677
+HI_URW_TEST_521.txt	हेलुशेंको	759	767
+HI_URW_TEST_505.txt	यूक्रेन	393	399
+HI_URW_TEST_475.txt	इगोर	1048	1051
+HI_URW_TEST_485.txt	नास्त्रेदमस	103	113
+HI_URW_TEST_493.txt	भारतीय दूतावास	109	122
+HI_URW_TEST_493.txt	भारतीय नागरिकों	148	162
+HI_URW_TEST_493.txt	नितिन ए गोखले	345	357
+HI_URW_TEST_493.txt	नितिन गोखले	502	512
+HI_URW_TEST_493.txt	भारत सरकार	639	648
+HI_URW_TEST_493.txt	मोदी	951	954
+HI_URW_TEST_473.txt	इगोर	477	480
+HI_URW_TEST_507.txt	रूस	547	549
+HI_URW_TEST_507.txt	अमेरिका	554	560
+HI_URW_TEST_523.txt	अमेरिका	119	125
+HI_URW_TEST_523.txt	रूस	200	202
+HI_URW_TEST_523.txt	पुतिन	247	251
+HI_URW_TEST_523.txt	यूक्रेन	376	382
+HI_URW_TEST_523.txt	मिखाइल शेट्स्की	964	978
+HI_URW_TEST_491.txt	नरेंद्र मोदी	153	164
+HI_URW_TEST_491.txt	मोदी	312	315
+HI_URW_TEST_491.txt	भारत	327	330
+HI_URW_TEST_491.txt	रूस	571	573
+HI_URW_TEST_491.txt	मोदी	907	910
+HI_URW_TEST_491.txt	पुतिन	946	950
+HI_CC_TEST_415.txt	भारत	1023	1026
+HI_CC_TEST_415.txt	नरेंद्र मोदी	1044	1055
+HI_URW_TEST_511.txt	यूक्रेन	804	810
+HI_URW_TEST_511.txt	अमेरिकी अधिकारी	815	829
+HI_URW_TEST_487.txt	सर्गेई लावरोव	162	174
+HI_URW_TEST_487.txt	अमेरिका	268	274
+HI_URW_TEST_487.txt	पश्चिमी देशों	1233	1245
+HI_URW_TEST_526.txt	बोरिस येल्तसिन	264	277
+HI_URW_TEST_526.txt	व्लादिमीर पुतिन	826	840
+HI_URW_TEST_526.txt	क्रेमलिन	1046	1053
+HI_URW_TEST_526.txt	येल्तसिन	1093	1100
+HI_URW_TEST_526.txt	पुतिन	1105	1109
+HI_URW_TEST_509.txt	उत्तर कोरियाई सेना	138	155
+HI_URW_TEST_509.txt	उत्तर कोरियाई सैनिक	1046	1064
+HI_URW_TEST_534.txt	नाटो	89	92
+HI_URW_TEST_534.txt	जेन्स स्टोलटेनबर्ग	112	129
+HI_URW_TEST_534.txt	यूक्रेन	163	169
+HI_URW_TEST_534.txt	पश्चिमी देशों	188	200
+HI_URW_TEST_534.txt	यूरोप	229	233
+HI_URW_TEST_534.txt	स्टोलटेनबर्ग	293	304
+HI_URW_TEST_534.txt	कीव	353	355
+HI_URW_TEST_534.txt	जर्मनी	492	497
+HI_URW_TEST_534.txt	मास्को	654	659
+HI_URW_TEST_534.txt	यूरोपीय संघ	733	743
+HI_URW_TEST_534.txt	अमेरिका	746	752
+HI_URW_TEST_534.txt	दिमित्री पेसकोव	984	998
+HI_URW_TEST_534.txt	रूस	1154	1156
+HI_URW_TEST_534.txt	सर्गेई लावरोव	1261	1273
+HI_URW_TEST_488.txt	लावरोव	116	121
+HI_URW_TEST_488.txt	रूस	141	143
+HI_URW_TEST_488.txt	यूक्रेन	152	158
+HI_URW_TEST_488.txt	पश्चिमी देशों	243	255
+HI_CC_TEST_420.txt	भारतीय प्रतिनिधि	119	134
+HI_CC_TEST_420.txt	विकासशील देश	144	155
+HI_CC_TEST_420.txt	विकसित देशों	364	375
+HI_CC_TEST_420.txt	कार्बन सीमा समायोजन तंत्र (सीबीएएम	380	413
+HI_CC_TEST_420.txt	इवांस नेजेवा	924	935
+HI_CC_TEST_420.txt	रेचल क्लीटस	1448	1458
+HI_CC_TEST_420.txt	अरुणाभ घोष	1641	1650
+HI_URW_TEST_462.txt	इगोर किरिलोव	447	458
+HI_URW_TEST_462.txt	रूस	2563	2565
+HI_URW_TEST_498.txt	रूस	127	129
+HI_CC_TEST_413.txt	ट्रंप	72	76
+HI_CC_TEST_413.txt	अमेरिका	158	164
+HI_CC_TEST_413.txt	डॉनल्ड ट्रंप	191	202
+HI_CC_TEST_413.txt	अमेरिका	427	433
+HI_CC_TEST_413.txt	प्रतिनिधियों	516	527
+HI_CC_TEST_413.txt	भारत	728	731
+HI_URW_TEST_517.txt	वोलोदिमिर जेलेंस्की	131	149
+HI_URW_TEST_517.txt	रूसी सैनिक	197	206
+HI_URW_TEST_517.txt	उत्तर कोरियाई सैनिक	243	261
+HI_URW_TEST_517.txt	रूस	322	324
+HI_URW_TEST_517.txt	जेलेंस्की	876	884
+HI_URW_TEST_517.txt	रूसी सेना	974	982
+HI_URW_TEST_517.txt	मास्को	1013	1018
+HI_URW_TEST_472.txt	पेंटागन	628	634
+HI_URW_TEST_532.txt	यूक्रेन	239	245
+HI_URW_TEST_532.txt	यूक्रेन	516	522
+HI_URW_TEST_532.txt	रूस	575	577
+HI_URW_TEST_532.txt	बाइडेन	808	813
+HI_URW_TEST_532.txt	अमेरिका	886	892
+HI_URW_TEST_532.txt	बाइडेन	1136	1141
+HI_URW_TEST_494.txt	यूक्रेन	71	77
+HI_URW_TEST_494.txt	रूस	82	84
+HI_URW_TEST_494.txt	धीरज चौधरी	275	284
+HI_URW_TEST_481.txt	यूक्रेन	29	35
+HI_URW_TEST_481.txt	रूस	48	50
+HI_URW_TEST_481.txt	यूक्रेन	172	178
+HI_URW_TEST_481.txt	रक्षा मंत्रालय	493	506
+HI_URW_TEST_481.txt	रूसी सेना	521	529
+HI_URW_TEST_481.txt	यूक्रेन	534	540
+HI_URW_TEST_464.txt	रूस	538	540
+HI_URW_TEST_464.txt	यूक्रेन	563	569
+HI_CC_TEST_407.txt	भारत	1429	1432
+HI_URW_TEST_477.txt	ट्रंप	82	86
+HI_URW_TEST_477.txt	बाइडेन	91	96
+HI_URW_TEST_477.txt	बाइडेन प्रशासन	472	485
+HI_URW_TEST_477.txt	जॉन किर्बी	874	883
+HI_URW_TEST_479.txt	यूक्रेन	89	95
+HI_URW_TEST_479.txt	रूस	151	153
+HI_URW_TEST_479.txt	यूक्रेन	189	195
+HI_URW_TEST_479.txt	बच्चे	242	246
+HI_URW_TEST_479.txt	ओर्योल	385	390
+HI_URW_TEST_479.txt	जेलेंस्की	751	759
+HI_URW_TEST_479.txt	यूक्रेन	865	871
+HI_CC_TEST_418.txt	भारत	71	74
+HI_CC_TEST_418.txt	विकसित देशों	244	255
+HI_CC_TEST_411.txt	भारत	96	99
+HI_CC_TEST_411.txt	विकसित देशों	827	838
+HI_CC_TEST_411.txt	विकासशील देशों (एलएमडीसी	1029	1052
+HI_CC_TEST_411.txt	अरब समूह	1056	1063
+HI_CC_TEST_411.txt	अफ्रीकी वार्ताकार समूह (एजीएन	1068	1096
+HI_URW_TEST_483.txt	रूस	84	86
+HI_URW_TEST_483.txt	यूक्रेन	95	101
+HI_URW_TEST_483.txt	रूसी सेना	127	135
+HI_URW_TEST_483.txt	पोक्रोवस्क	688	697
+HI_URW_TEST_470.txt	यूक्रेन	639	645
+HI_URW_TEST_470.txt	इगोर किरिलोव	1051	1062
+HI_URW_TEST_528.txt	हानेउल	71	76
+HI_URW_TEST_528.txt	उत्तर कोरिया	78	89
+HI_URW_TEST_528.txt	दक्षिण कोरिया	545	557
+HI_URW_TEST_528.txt	यूक्रेन	1181	1187
+HI_URW_TEST_528.txt	सैनिकों	1238	1244
+HI_URW_TEST_528.txt	कुर्स्क	1280	1286
+HI_URW_TEST_528.txt	रूस	1328	1330
+HI_URW_TEST_515.txt	यूक्रेन	1038	1044
+HI_URW_TEST_515.txt	रूस	1049	1051
+HI_URW_TEST_502.txt	उत्तर कोरियाई सैनिक	648	666
+HI_URW_TEST_502.txt	रूसी	737	740
+HI_URW_TEST_502.txt	उत्तर कोरियाई सैनिकों	1343	1363
