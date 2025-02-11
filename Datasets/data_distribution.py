@@ -52,7 +52,7 @@ def plot_main_role_distribution(main_role_counts):
     plt.show()
 
 if __name__ == "__main__":
-    file_path = "./Datasets/Train/EN/subtask-1-annotations.txt" 
+    file_path = "./Train/EN/subtask-1-annotations.txt" 
     main_role_counts, refined_role_counts = parse_file(file_path)
     display_distributions(main_role_counts, refined_role_counts)
     plot_main_role_distribution(main_role_counts)
