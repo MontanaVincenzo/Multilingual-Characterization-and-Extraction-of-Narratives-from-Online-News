@@ -18,8 +18,6 @@ def parse_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         reader = csv.reader(file, delimiter='\t')
         for row in reader:
-            if len(row) < 5:
-                continue  # Skip malformed lines
             
             file_id, entity, start_offset, end_offset, main_role, *refined_roles = row
             main_role = main_role.lower()
