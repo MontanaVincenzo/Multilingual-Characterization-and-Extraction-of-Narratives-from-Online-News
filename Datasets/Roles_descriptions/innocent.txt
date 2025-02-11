@@ -1,0 +1,7 @@
+Description of refined role Forgotten: Marginalized or overlooked groups who are often ignored by society and do not receive the attention or support they need. This includes refugees, who face systemic neglect and exclusion.
+
+Description of refined role Exploited: Individuals or groups used for others’ gain, often without their consent and with significant detriment to their well-being. They are often victims of labor exploitation, trafficking, or economic manipulation.
+
+Description of refined role Victim: People cast as victims due to circumstances beyond their control, specifically in two categories: (1) victims of physical harm, including natural disasters, acts of war, terrorism, mugging, physical assault, ... etc., and (2) victims of economic harm, such as sanctions, blockades, and boycotts. Their experiences evoke sympathy and calls for justice, focusing on either physical or economic suffering.
+
+Description of refined role Scapegoat: Entities blamed unjustly for problems or failures, often to divert attention from the real causes or culprits. They are made to bear the brunt of criticism and punishment without just cause.
