@@ -1,4 +1,4 @@
-# Multilingual-Characterization-and-Extraction-of-Narratives-from-Online-News
+# Multilingual Characterization and Extraction of Narratives from Online News via LLMs
 
 The internet has opened vast possibilities to easily create direct communication channels between information producers and consumers, potentially leaving the latter exposed to deceptive content and attempts at manipulation. Huge audiences can be affected online, and major crisis events are continuously subjected to the spread of harmful disinformation and propaganda.
 
